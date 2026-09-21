@@ -1,0 +1,421 @@
+indicator_orig,indicator_harmonized,indic_id,var_indic,ILK
+Antarctic ice cores,antarctic ice cores,IPCC_1_13_4,2,NA
+ direct CO2 air measurements,direct co2 air measurements,IPCC_1_13_4,2,NA
+ Global Precipitation Climatology Centre (GPCC) V8,global precipitation climatology centre (gpcc) v8,IPCC_1_13_4,2,NA
+ glacier mass loss,glacier mass loss,IPCC_1_13_4,2,NA
+ global surface air temperature (GMST),global mean surface temperature (gmst),IPCC_1_13_4,2,NA
+ sea level change,sea level change,IPCC_1_13_4,2,NA
+ ocean heat content,ocean heat content,IPCC_1_13_4,2,NA
+atmospheric CO2 concentrations,atmospheric co2 concentrations,IPCC_1_16_6,2,NA
+ global mean surface temperature (GMST),global mean surface temperature (gmst),IPCC_1_16_6,2,NA
+ global mean sea level (GMSL),global mean sea level (gmsl),IPCC_1_16_6,2,NA
+pH of ocean surface water,ph of ocean surface water,IPCC_1_32_16,1,NA
+global energy budget,global energy budget,IPCC_1_38_17,2,NA
+simulated Global mean surface air temperature (GSAT),simulated global mean surface air temperature (gsat),IPCC_1_45_19,1,NA
+ simulated Global mean surface air temperature (GSAT) anomalies,simulated global mean surface air temperature (gsat) anomalies,IPCC_1_45_19,1,NA
+  estimate of GSAT (ERA-5),estimate of gsat (era-5),IPCC_1_45_19,1,NA
+ observation-based estimate of global mean surface air temperature (GMST),global mean surface temperature (gmst),IPCC_1_45_19,1,NA
+ mean GSAT,mean gsat,IPCC_1_45_19,1,NA
+global mean surface temperature (GMST),global mean surface temperature (gmst),IPCC_1_47_20,1,NA
+annual GSAT change,annual gsat change,IPCC_1_50_21,1,NA
+ annual ice volume,annual ice volume,IPCC_1_50_21,1,NA
+ September sea ice extent,september sea ice extent,IPCC_1_50_21,1,NA
+global temperature,global temperature,IPCC_1_58_23,2,NA
+ cumulative GHG emissions,cumulative ghg emissions,IPCC_1_58_23,2,NA
+economic damages due to river floods,economic damages due to river floods,IPCC_1_62_25,1,NA
+  occurrence of heat-related human mortality,occurrence of heat-related human mortality,IPCC_1_62_25,1,NA
+ economic inequality,economic inequality,IPCC_1_62_25,1,NA
+Essential Climate Variables (ECVs),essential climate variables (ecvs),IPCC_1_64_26,1,NA
+ Essential Ocean Variables (EOVs),essential ocean variables (eovs),IPCC_1_64_26,1,NA
+leaf area INDEX,leaf area index (lai),IPCC_1_66_27,2,NA
+ fraction of absorbed photosynthetically active radiation (FAPAR),fraction of absorbed photosynthetically active radiation (fapar),IPCC_1_66_27,2,NA
+ fire disturbances/burned areas,fire disturbances/burned areas,IPCC_1_66_27,2,NA
+Time series of Normalized Difference Vegetation INDEX (NDVI),time series of normalized difference vegetation index (ndvi),IPCC_1_67_28,2,NA
+Northern Hemisphere temperature over the last millennium,northern hemisphere temperature over the last millennium,IPCC_1_67_29,1,NA
+ocean heat content,ocean heat content,IPCC_1_70_30,2,NA
+ thermosteric sea level,thermosteric sea level,IPCC_1_70_30,2,NA
+ salinity,salinity,IPCC_1_70_30,2,NA
+ sea ice extent,sea ice extent,IPCC_1_70_30,2,NA
+ AMOC,amoc,IPCC_1_70_30,2,NA
+Atmospheric concentrations,atmospheric co2 concentrations,IPCC_1_92_33,1,NA
+ global temperatures,global temperatures,IPCC_1_92_33,1,NA
+Global mean surface temperature (GMST),global mean surface temperature (gmst),IPCC_2_8_35,2,NA
+Boron-Isotope,boron-isotope,IPCC_2_14_37,1,NA
+Isotope-composition of molecular oxygen trapped in polar firn and ice,isotope-composition of molecular oxygen trapped in polar firn and ice,IPCC_2_21_41,1,NA
+Free tropospheric ozone,free tropospheric ozone,IPCC_2_21_42,1,NA
+Aerosol abundance,aerosol abundance,IPCC_2_24_45,1,NA
+Pollen presence,pollen presence,IPCC_2_24_46,1,NA
+Surface and upper air temperatures,surface and upper air temperatures,IPCC_2_26_47,2,NA
+ Surface humidity,surface humidity,IPCC_2_26_47,2,NA
+ precipitable water vapour,precipitable water vapour,IPCC_2_26_47,2,NA
+ precipitation,precipitation,IPCC_2_26_47,2,NA
+ Precipitation-Evaporation,precipitation-evaporation,IPCC_2_26_47,2,NA
+ runoff,runoff,IPCC_2_26_47,2,NA
+ Sea level pressure and winds,sea level pressure and winds,IPCC_2_26_47,2,NA
+ Hadley/Walker circulation,hadley/walker circulation,IPCC_2_26_47,2,NA
+ global monsoons,global monsoons,IPCC_2_26_47,2,NA
+ strom tracks and jets,strom tracks and jets,IPCC_2_26_47,2,NA
+ sudden stratospheric warmings,sudden stratospheric warmings,IPCC_2_26_47,2,NA
+ Sea ice extent/area,sea ice extent,IPCC_2_26_47,2,NA
+ seasonality and thickness,seasonality and thickness,IPCC_2_26_47,2,NA
+ Terrestrial snow cover,terrestrial snow cover,IPCC_2_26_47,2,NA
+ Glacier mass and extent,glacier mass and extent,IPCC_2_26_47,2,NA
+ Terrestrial permafrost temperature and active layer thickness,terrestrial permafrost temperature and active layer thickness,IPCC_2_26_47,2,NA
+ Temperature/ocean heat content,ocean heat content,IPCC_2_26_47,2,NA
+ Salinity,salinity,IPCC_2_26_47,2,NA
+ Sea level,sea level,IPCC_2_26_47,2,NA
+ Circulation,circulation,IPCC_2_26_47,2,NA
+ pH and desoxygenation,ph and desoxygenation,IPCC_2_26_47,2,NA
+ Seasonal cycle of CO2,seasonal cycle of co2,IPCC_2_26_47,2,NA
+ Distribution of marine biota,distribution of marine biota,IPCC_2_26_47,2,NA
+ primary production of marine biota,primary production of marine biota,IPCC_2_26_47,2,NA
+ phenology of marine biota,phenology of marine biota,IPCC_2_26_47,2,NA
+ distribution of terrestrial biota,distribution of terrestrial biota,IPCC_2_26_47,2,NA
+ global greening/browning,global greening/browning,IPCC_2_26_47,2,NA
+ growing season of terrestrial biota,growing season of terrestrial biota,IPCC_2_26_47,2,NA
+Temperature,temperature,IPCC_2_28_57,2,NA
+ benthich isotopes,benthich isotopes,IPCC_2_28_57,2,NA
+Marine sediment cores,marine sediment cores,IPCC_2_29_60,1,NA
+Paleo-temperature records,paleo-temperature records,IPCC_2_29_62,1,NA
+Zonally averaged mean annual temperature reconstructions,zonally averaged mean annual temperature reconstructions,IPCC_2_31_64,1,NA
+subsurface borehole temperature profiles,subsurface borehole temperature profiles,IPCC_2_31_65,1,NA
+ changes in land versus sea surface temperature,changes in land versus sea surface temperature,IPCC_2_31_65,1,NA
+Radio occultation,radio occultation,IPCC_2_42_69,1,NA
+Global vegetation cover,global vegetation cover,IPCC_2_43_71,1,NA
+ atmospheric dust deposition,atmospheric dust deposition,IPCC_2_43_71,1,NA
+Changes in observed cloud cover,changes in observed cloud cover,IPCC_2_51_79,1,NA
+ satellite observations of precipitation,satellite observations of precipitation,IPCC_2_51_79,1,NA
+ upper tropospheric humidity,upper tropospheric humidity,IPCC_2_51_79,1,NA
+SH monsoons,sh monsoons,IPCC_2_51_80,1,NA
+air Moisture,air moisture,IPCC_2_52_82,1,NA
+Loss of older ice,loss of older ice,IPCC_2_56_85,1,NA
+Mean Arctic Sea Ice Area,mean arctic sea ice area,IPCC_2_57_88,1,NA
+Marine Sediments,marine sediments,IPCC_2_57_89,1,NA
+Whaling records,whaling records,IPCC_2_58_90,1,NA
+ old ship logbooks,old ship logbooks,IPCC_2_58_90,1,NA
+ ice core records,ice core records,IPCC_2_58_90,1,NA
+Early Nimbus satellite visible and infrared imagery,early nimbus satellite visible and infrared imagery,IPCC_2_58_91,1,NA
+Glacier areal and mass changes/loss rate,glacier areal and mass changes/loss rate,IPCC_2_60_95,1,NA
+Greenland Ice Sheet fluctuations,greenland ice sheet fluctuations,IPCC_2_60_96,1,NA
+Marine sediments,marine sediments,IPCC_2_61_98,1,NA
+marine sediments below the ice sheet,marine sediments below the ice sheet,IPCC_2_61_99,1,NA
+Pollen Presence,pollen presence,IPCC_2_62_100,1,NA
+ Speleothem records,speleothem records,IPCC_2_62_100,1,NA
+ permafrost-vegetation relationships,permafrost-vegetation relationships,IPCC_2_62_100,1,NA
+Permafrost temperature,permafrost temperature,IPCC_2_62_101,1,NA
+ground subsidence,ground subsidence,IPCC_2_63_102,1,NA
+ thermokarst,thermokarst,IPCC_2_63_102,1,NA
+ slope instability,slope instability,IPCC_2_63_102,1,NA
+Ocean Heat Content,ocean heat content,IPCC_2_63_104,1,NA
+Ice cores,ice cores,IPCC_2_63_105,1,NA
+ Sediment cores,sediment cores,IPCC_2_63_105,1,NA
+reef growth,reef growth,IPCC_2_67_109,1,NA
+Atlantic Meridional Overturning Circulation (AMOC),atlantic meridional overturning circulation (amoc),IPCC_2_69_110,1,NA
+Sediment cores,sediment cores,IPCC_2_70_112,1,NA
+Seasonal variations in atmospheric CO2 concentration,seasonal variations in atmospheric co2 concentrations,IPCC_2_74_116,2,NA
+Expansion of oligotrophic subtropical gyres of the Atlantic and Pacific Oceans,expansion of oligotrophic subtropical gyres of the atlantic and pacific oceans,IPCC_2_74_117,1,NA
+Phytoplankton abundance,phytoplankton abundance,IPCC_2_74_118,2,NA
+Clorophyll concentration,clorophyll concentration,IPCC_2_75_119,1,NA
+ Phytoplankton community structure,phytoplankton community structure,IPCC_2_75_119,1,NA
+Distribution of species,distribution of species,IPCC_2_75_120,1,NA
+El niño-southern oscillation (ENSO) index,el niño-southern oscillation (enso) index,IPCC_2_76_122,2,NA
+ Changes in phytoplankton phenology,changes in phytoplankton phenology,IPCC_2_76_122,2,NA
+Ocean-colour,ocean-colour,IPCC_2_76_123,1,NA
+Normalized Difference Vegetation INDEX (NDVI),normalized difference vegetation index (ndvi),IPCC_2_78_126,2,NA
+Northernmost location of the treeline,northernmost location of the treeline,IPCC_2_78_127,2,NA
+Fraction of Absorbed Photosynthetically Active Radiation (FAPAR),fraction of absorbed photosynthetically active radiation (fapar),IPCC_2_79_128,2,NA
+ Leaf Area Index,leaf area index (lai),IPCC_2_79_128,2,NA
+Atmospheric CO2 concentrations,atmospheric co2 concentrations,IPCC_2_81_132,2,NA
+ Ocenan pH,ocenan ph,IPCC_2_81_132,2,NA
+North Atlantic Oscillation NAO Index,north atlantic oscillation (nao) index,IPCC_2_84_139,2,NA
+ Northern Annular Mode NAM Index,northern annular mode (nam) index,IPCC_2_84_139,2,NA
+Southern Annular Mode (SAM) Index,southern annular mode (sam) index,IPCC_2_85_141,2,NA
+Sea Surface Temperature (SST Index),sea surface temperature (sst),IPCC_2_86_146,2,NA
+ Oceanic Niño INDEX (ONI),oceanic niño index (oni),IPCC_2_86_146,2,NA
+ Southern Oscillation Index (SOI),southern oscillation index (soi),IPCC_2_86_146,2,NA
+ Marine sediment cores,marine sediment cores,IPCC_2_89_153,2,NA
+Pacific Decadal Oscillation (PDO) Index,pacific decadal oscillation (pdo),IPCC_2_89_154,2,NA
+ Inter-decadal Pacific Oscillation (IPO) Index,inter-decadal pacific oscillation (ipo) index,IPCC_2_89_154,2,NA
+Atlantic Multi-decadal Variability (AMV) Index,atlantic multi-decadal variability (amv) index,IPCC_2_90_158,2,NA
+ Precipitation,precipitation,IPCC_3_8_164,1,NA
+Volcanic activity,volcanic activity,IPCC_3_17_173,1,NA
+ GHG changes,ghg changes,IPCC_3_17_173,1,NA
+ aerosol changes,aerosol changes,IPCC_3_17_173,1,NA
+Sea Surface Temperature (SST),sea surface temperature (sst),IPCC_3_22_174,1,NA
+Tree rings,tree rings,IPCC_3_27_176,1,NA
+Hadley circulation cell,hadley circulation cell,IPCC_3_37_179,2,NA
+Sea Ice Thermodynamic,sea ice thermodynamic,IPCC_3_45_183,1,NA
+Ocean Temperature,ocean temperature,IPCC_3_51_187,2,NA
+ Ocean Heat Content,ocean heat content,IPCC_3_51_187,2,NA
+atmospheric CO2 concentration,atmospheric co2 concentrations,IPCC_3_64_190,2,NA
+ atmosphere-land CO2 fluxes,atmosphere-land co2 fluxes,IPCC_3_64_190,2,NA
+ leaf area INDEX,leaf area index (lai),IPCC_3_64_190,2,NA
+ Land-Use and Management,land-use and management,IPCC_3_64_190,2,NA
+ Wildfires,wildfires,IPCC_3_64_190,2,NA
+Leaf Area Index,leaf area index (lai),IPCC_3_65_191,2,NA
+North Atlantic Oscillation NAO,north atlantic oscillation (nao) index,IPCC_3_67_194,2,NA
+ Northern Annular Mode NAM,northern annular mode (nam) index,IPCC_3_67_194,2,NA
+Indian Ocean Dipole Index (IOD),indian ocean dipole index (iod),IPCC_3_78_202,2,NA
+Indian ocean Basin (IOB) Index,indian ocean basin (iob) index,IPCC_3_78_203,2,NA
+ Pacific Decadal Variability (PDV),pacific decadal variability (pdv),IPCC_3_78_203,2,NA
+Pacific Decadal Oscillation (PDO),pacific decadal oscillation (pdo),IPCC_3_80_205,2,NA
+ Indian Ocean Dipole (IPO),indian ocean dipole (ipo),IPCC_3_80_205,2,NA
+Pacific Decadal Variability (PDV),pacific decadal variability (pdv),IPCC_3_80_206,2,NA
+Pacific Decadal Variability (PDV) Index,pacific decadal variability (pdv),IPCC_3_81_208,2,NA
+ Atlantic Multi-decadal Variability (AMV),atlantic multi-decadal variability (amv) index,IPCC_3_83_210,2,NA
+Sea Surface Temperature (SST) Index,sea surface temperature (sst),IPCC_3_84_211,2,NA
+Ocean Salinity,ocean salinity,IPCC_3_84_212,1,NA
+global surface air temperature (GSAT),global surface air temperature (gsat),IPCC_4_7_219,2,NA
+ global land precipitation,global land precipitation,IPCC_4_7_219,2,NA
+ Arctic sea ice area (SIA),arctic sea ice area,IPCC_4_7_219,2,NA
+ the Atlantic Meridional Overturning Circulation (AMOC),atlantic meridional overturning circulation (amoc),IPCC_4_8_220,2,NA
+ global mean ocean surface pH,global mean ocean surface ph,IPCC_4_8_220,2,NA
+ carbon uptake by land and ocean,carbon uptake by land and ocean,IPCC_4_8_220,2,NA
+ Northern and Southern Annular Modes (NAM and SAM),northern and southern annular modes (nam and sam),IPCC_4_8_220,2,NA
+ El Niño–Southern Oscillation (ENSO),el niño-southern oscillation (enso) index,IPCC_4_8_220,2,NA
+Precipitation Index,precipitation index,IPCC_4_8_221,2,NA
+ Circulation Index,circulation index,IPCC_4_8_221,2,NA
+ Atlantic Meridional Overturning Circulation (AMOC),atlantic meridional overturning circulation (amoc),IPCC_4_18_229,2,NA
+ ocean pH,ocean ph,IPCC_4_18_229,2,NA
+Northern Annular Mode NAM,northern annular mode (nam) index,IPCC_4_26_231,2,NA
+ Sea Surface Temperature (SST),sea surface temperature (sst),IPCC_4_26_231,2,NA
+"el niño-southern oscillation (enso) index
+",el niño-southern oscillation (enso) index,IPCC_4_27_234,2,NA
+land monsoon precipitation INDEX,land monsoon precipitation index,IPCC_4_34_236,2,NA
+ Northern Hemisphere summer monsoon circulation INDEX,northern hemisphere summer monsoon circulation index,IPCC_4_34_236,2,NA
+Northern Annular Mode NAM Index,northern annular mode (nam) index,IPCC_4_35_237,2,NA
+El Niño–Southern Oscillation (ENSO) Bjerknes Index,el niño-southern oscillation (enso) index bjerknes index,IPCC_4_37_241,2,NA
+changes in mean precipitation,changes in mean precipitation,IPCC_4_49_249,1,NA
+ contrast of mean precipitation between dry and wet regions and between dry and wet seasons,contrast of mean precipitation between dry and wet regions and between dry and wet seasons,IPCC_4_49_249,1,NA
+Global Land Monsoon Precipitation INDEX,land monsoon precipitation index,IPCC_4_51_250,2,NA
+Annular Mode Index,annular mode index,IPCC_4_51_251,2,NA
+Land-Use CO2 Emissions,land-use co2 emissions,IPCC_4_79_266,2,NA
+ fossil CO2 Emissions,fossil co2 emissions,IPCC_4_79_266,2,NA
+ Non-CO2 fossil fuel emissions,non-co2 fossil-fuel emissions,IPCC_4_79_266,2,NA
+ Land-use related non-CO2 emissions,land-use related non-co2 emissions,IPCC_4_79_266,2,NA
+ CO2 Concentration,co2 concentration,IPCC_4_79_266,2,NA
+Ice Core Measurements,ice core measurements,IPCC_5_14_270,1,NA
+Sink rate,sink rate,IPCC_5_19_272,1,NA
+El Niño–Southern Oscillation (ENSO) Index,el niño-southern oscillation (enso) index,IPCC_5_36_278,2,NA
+15N/14N isotope ratio,15n/14n isotope ratio,IPCC_5_36_279,1,NA
+ position of 15N atom in atmospheric N2O,position of 15n atom in atmospheric n2o,IPCC_5_36_279,1,NA
+Atmospheric inversions,atmospheric inversions,IPCC_5_40_281,1,NA
+Interannual variability of primary production (PP),interannual variability of primary production (pp),IPCC_5_57_287,1,NA
+Global carbon budget,global carbon budget,IPCC_5_70_289,1,NA
+Global dust deposition,global dust deposition,IPCC_6_16_296,1,NA
+global annual mean tropospheric ozone burden,global annual mean tropospheric ozone burden,IPCC_6_22_300,1,NA
+Tropospheric NO2 abundance,tropospheric no2 abundance,IPCC_6_23_302,1,NA
+Satellite Formaldehyde (HCHO) observations,satellite formaldehyde (hcho) observations,IPCC_6_26_304,1,NA
+Sulphate in precipitation,sulphate in precipitation,IPCC_6_30_309,1,NA
+Surface warming,surface warming,IPCC_6_56_315,2,NA
+Sectoral emissions density,sectoral emissions density,IPCC_6_63_319,2,NA
+population-weighted PM2.5 concentrations,population-weighted pm2.5 concentrations,IPCC_6_73_321,2,NA
+ population-weighted ozone concentrations,population-weighted ozone concentrations,IPCC_6_73_321,2,NA
+transient climate response TCR,transient climate response tcr,IPCC_7_9_323,1,NA
+ equilibrium climate sensitivity ECS,equilibrium climate sensitivity ecs,IPCC_7_9_323,1,NA
+Surface turbulent fluxes,surface turbulent fluxes,IPCC_7_17_328,1,NA
+Aerosol Index,aerosol index,IPCC_7_29_329,2,NA
+GHS effective radiative forcing,ghs effective radiative forcing,IPCC_7_44_330,2,NA
+ transient climate response TCR,transient climate response tcr,IPCC_7_44_330,2,NA
+Antarctic Ice Sheet loss,antarctic ice sheet loss,IPCC_7_55_334,1,NA
+Net climate feedback,net climate feedback,IPCC_7_56_335,1,NA
+ Planck temperature response,planck temperature response,IPCC_7_56_335,1,NA
+Sea Surface Temperature SST,sea surface temperature (sst),IPCC_7_67_343,1,NA
+Global Energy Budget,global energy budget,IPCC_7_77_351,1,NA
+global surface temperature,global mean surface temperature (gmst),IPCC_7_82_356,2,NA
+ TOA energy budget,toa energy budget,IPCC_7_82_356,2,NA
+profile of effective radiative forcing (ERF),profile of effective radiative forcing (erf),IPCC_7_90_359,1,NA
+ emission of particular compounds,emission of particular compounds,IPCC_7_90_359,1,NA
+radiative forcing,radiative forcing,IPCC_7_91_360,1,NA
+ absolute global forcing potential (AGFP),absolute global forcing potential (agfp),IPCC_7_91_360,1,NA
+ global surface temperature,global mean surface temperature (gmst),IPCC_7_91_360,1,NA
+ absolute global temperature change potential (AGTP),absolute global temperature change potential (agtp),IPCC_7_91_360,1,NA
+changes in precipitation frequency and intensity,changes in precipitation frequency and intensity,IPCC_8_27_367,1,NA
+Precipitation,precipitation,IPCC_8_28_370,1,NA
+Snowfall,snowfall,IPCC_8_28_371,1,NA
+Leaf Area Index LAI,leaf area index (lai),IPCC_8_30_372,2,NA
+Tree ring reconstructions,tree rings,IPCC_8_33_374,1,NA
+Soil Moisture,soil moisture,IPCC_8_33_375,1,NA
+South Pacific Convergence Zone (SPCZ),south pacific convergence zone (spcz),IPCC_8_39_378,1,NA
+ Inter-tropical Convergence Zone (ITCZ) narrowing,inter-tropical convergence zone (itcz) narrowing,IPCC_8_39_378,1,NA
+Rainfall,rainfall,IPCC_8_42_382,1,NA
+poleward shifts in the South Atlantic Convergence Zone (SACZ),poleward shifts in the south atlantic convergence zone (sacz),IPCC_8_45_390,1,NA
+land rainfall over MC,land rainfall over mc,IPCC_8_46_393,1,NA
+ marine cloudiness over MC,marine cloudiness over mc,IPCC_8_46_393,1,NA
+ surface moisture flux convergence,surface moisture flux convergence,IPCC_8_46_393,1,NA
+Blocking Index,blocking index,IPCC_8_47_395,2,NA
+Water Vapour Residence Time,water vapour residence time,IPCC_8_53_397,1,NA
+Plant Water Use Efficiency (WUE),plant water use efficiency (wue),IPCC_8_65_401,2,NA
+ Leaf area Index,leaf area index (lai),IPCC_8_65_401,2,NA
+Palmer Drought Severity INDEX,palmer drought severity index (pdsi),IPCC_8_66_403,2,NA
+Sea Surface Temperature,sea surface temperature (sst),IPCC_8_71_406,1,NA
+Rainfall variability,rainfall variability,IPCC_8_77_414,1,NA
+Tropical precipitation,tropical precipitation,IPCC_8_83_420,1,NA
+atmospheric internal variability,atmospheric internal variability,IPCC_8_88_422,1,NA
+ Sea surface temperature (SST),sea surface temperature (sst),IPCC_8_88_422,1,NA
+volcanic eruptions,volcanic eruptions,IPCC_8_90_424,1,NA
+ global surface air temperature (GSAT),global surface air temperature (gsat),IPCC_9_11_426,2,NA
+Sea surface temperature (SST),sea surface temperature (sst),IPCC_9_27_430,1,NA
+Ocean heat content OHC,ocean heat content ohc,IPCC_9_37_432,1,NA
+aRCTIC SEA ICE AREA,arctic sea ice area,IPCC_9_37_433,2,NA
+Summer North Atlantic Oscilation Index,north atlantic oscillation (nao) index,IPCC_9_47_438,2,NA
+ Greenland Blocking Index,greenland blocking index,IPCC_9_47_438,2,NA
+Bedrock topography,bedrock topography,IPCC_9_48_440,1,NA
+Grounding line retreat,grounding line retreat,IPCC_9_55_443,1,NA
+Retreat of Ice Sheet,retreat of ice sheet,IPCC_9_59_445,1,NA
+Glaciar mass loss,glacier mass loss,IPCC_9_65_447,1,NA
+Lake sediments,lake sediments,IPCC_9_66_448,1,NA
+Speleotherm records,speleotherm records,IPCC_9_71_451,1,NA
+Leaf area Index,leaf area index (lai),IPCC_9_76_452,2,NA
+Tide gauge,tide gauge,IPCC_9_85_462,1,NA
+global mean sea level (GMSL),global mean sea level (gmsl),IPCC_9_96_465,1,NA
+Power dissipation INDEX,power dissipation index,IPCC_9_104_471,2,NA
+Spatiotemporal variability of meteorological parameters,spatiotemporal variability of meteorological parameters,IPCC_10_24_481,1,NA
+Soil moisture,soil moisture,IPCC_10_31_483,1,NA
+ leaf area index,leaf area index (lai),IPCC_10_31_483,1,NA
+ surface albedo,surface albedo,IPCC_10_31_483,1,NA
+Sedimentary records,sedimentary records,IPCC_10_56_492,1,NA
+Atlantic Multi-decadal Variability AMV,atlantic multi-decadal variability (amv) index,IPCC_10_58_493,2,NA
+ temperature,temperature,IPCC_10_77_504,1,NA
+Extreme temperatures,extreme temperatures,IPCC_11_24_511,2,NA
+Daily precipitation,daily precipitation,IPCC_11_25_512,2,NA
+ Daily temperature,daily temperature,IPCC_11_25_512,2,NA
+Daily temperature,daily temperature,IPCC_11_37_520,2,NA
+ mean air temperature,mean air temperature,IPCC_11_39_524,2,NA
+" Changes in the number of warm nights, warm days, cold nights, and cold days","changes in the number of warm nights, warm days, cold nights, and cold days",IPCC_11_40_526,2,NA
+ Warm spell duration index (WSDI),warm spell duration index (wsdi),IPCC_11_40_526,2,NA
+Combined extreme index (CEI),combined extreme index (cei),IPCC_11_40_527,2,NA
+Minimum temperature,minimum temperature,IPCC_11_44_532,1,NA
+reduction in post-volcanic eruption extreme precipitation,reduction in post-volcanic eruption extreme precipitation,IPCC_11_50_537,2,NA
+ Simple Daily Intensity INDEX (SDII),simple daily intensity index (sdii),IPCC_11_50_537,2,NA
+Highest five day precipitation amount (Rx5day),highest five day precipitation amount (rx5day),IPCC_11_52_540,2,NA
+ Highest one day precipitation amount (rx1day),highest one day precipitation amount (rx1day),IPCC_11_52_540,2,NA
+ days of heavy precipitation,days of heavy precipitation,IPCC_11_53_541,2,NA
+  annual precipitation from daily precipitation > 95th percentile (r95p),annual precipitation from daily precipitation > 95th percentile (r95p),IPCC_11_53_541,2,NA
+Standardized Precipitation Index (SPI),standardized precipitation index (spi),IPCC_11_58_543,2,NA
+ Consecutive dry days (CDD),consecutive dry days (cdd),IPCC_11_58_543,2,NA
+ Precipitation deciles and percentiles,precipitation deciles and percentiles,IPCC_11_58_543,2,NA
+ Potential evaporation anomalies,potential evaporation anomalies,IPCC_11_58_543,2,NA
+ Evaporative Demand Drought Index (EDDI),evaporative demand drought index (eddi),IPCC_11_58_543,2,NA
+ Soil moisture anomalies (SMA),soil moisture anomalies,IPCC_11_58_543,2,NA
+ Standardized Soil Moisture Index (SSMI),standardized soil moisture index (ssmi),IPCC_11_58_543,2,NA
+ Standardized Runoff Index (SRI),standardized runoff index (sri),IPCC_11_58_543,2,NA
+ Standardized Streamflow Index (SSI),standardized streamflow index (ssi),IPCC_11_58_543,2,NA
+ threshold level methods,threshold level methods,IPCC_11_58_543,2,NA
+ Standardized Groundwater Index (SGI),standardized groundwater index (sgi),IPCC_11_58_543,2,NA
+ Standardized Precipitation Evapotranspiration Index (SPEI),standardized precipitation evapotranspiration index (spei),IPCC_11_58_543,2,NA
+ Palmer Drought Severity Index (PDSI),palmer drought severity index (pdsi),IPCC_11_58_543,2,NA
+ precipitation deficits,precipitation deficits,IPCC_11_58_544,2,NA
+ excess of atmospheric evaporative demand (AED),excess of atmospheric evaporative demand (aed),IPCC_11_58_544,2,NA
+ soil moisture deficits,soil moisture deficits,IPCC_11_58_544,2,NA
+ hydrological deficits,hydrological deficits,IPCC_11_58_544,2,NA
+ atmospheric evaporative demand (AED),atmospheric evaporative demand (aed),IPCC_11_60_547,1,NA
+Palmer Drought Severity INDEX (PDSI),palmer drought severity index (pdsi),IPCC_11_60_549,2,NA
+ Standardized Precipitation Evapotranspiration INDEX (SPEI),standardized precipitation evapotranspiration index (spei),IPCC_11_60_549,2,NA
+standardized precipitation index,standardized precipitation index (spi),IPCC_11_60_550,1,NA
+ number of consecutive dry days (CDD),number of consecutive dry days (cdd),IPCC_11_60_550,1,NA
+ total soil moisture,total soil moisture,IPCC_11_60_550,1,NA
+ soil moisture-based drought events,soil moisture-based drought events,IPCC_11_60_550,1,NA
+ surface soil moisture,surface soil moisture,IPCC_11_60_550,1,NA
+ water-balance estimates,water-balance estimates,IPCC_11_60_550,1,NA
+ changes in low flows,changes in low flows,IPCC_11_60_550,1,NA
+ changes in mean streamflow,changes in mean streamflow,IPCC_11_60_550,1,NA
+pan evaporation measurements,pan evaporation measurements,IPCC_11_61_551,1,NA
+ Penman-Monteith AED (atmospheric evaporative demand),penman-monteith aed (atmospheric evaporative demand),IPCC_11_61_551,1,NA
+Genesis Potential INDEX,genesis potential index,IPCC_11_78_568,2,NA
+increase in global TC maximum surface wind speeds,increase in global tc maximum surface wind speeds,IPCC_11_79_569,2,NA
+ power dissipation INDEX,power dissipation index,IPCC_11_79_569,2,NA
+ Accumulated Cyclone Energy (ACE),accumulated cyclone energy (ace),IPCC_11_79_569,2,NA
+ Consecutive Dry Days (CDD),consecutive dry days (cdd),IPCC_11_93_579,2,NA
+standardized runoff index,standardized runoff index (sri),IPCC_11_94_580,2,NA
+Heat Index (HI),heat index (hi),IPCC_12_7_581,2,NA
+daily maximum tempreature above 35°C,daily maximum tempreature above 35°c,IPCC_12_11_589,2,NA
+Climate velocity,climate velocity,IPCC_12_14_593,1,NA
+accumulated seasonal heat,accumulated seasonal heat,IPCC_12_14_594,2,NA
+Extreme canopy temperatures,extreme canopy temperatures,IPCC_12_15_596,2,NA
+ 2 m air temperatures,2 m air temperatures,IPCC_12_15_596,2,NA
+ heat stress (humidity and temperature),heat stress (humidity and temperature),IPCC_12_15_596,2,NA
+10-day  cumulative precipitation,10-day cumulative precipitation,IPCC_12_17_597,2,NA
+precipitation intensity-duration thresholds,precipitation intensity-duration thresholds,IPCC_12_17_598,2,NA
+ thresholds related to antecedent wet periods,thresholds related to antecedent wet periods,IPCC_12_17_598,2,NA
+ thresholds related to antecedent extreme rainfall intensities,thresholds related to antecedent extreme rainfall intensities,IPCC_12_17_598,2,NA
+Changes in soil moisture,changes in soil moisture,IPCC_12_17_599,2,NA
+ Changes in surface water,changes in surface water,IPCC_12_17_599,2,NA
+ Water table depth,water table depth,IPCC_12_17_599,2,NA
+ rooting depth,rooting depth,IPCC_12_17_599,2,NA
+ changes in precipitation,changes in precipitation,IPCC_12_17_599,2,NA
+ Changes in evapotranspiration demand,changes in evapotranspiration demand,IPCC_12_17_599,2,NA
+ Changes in groundwater,changes in groundwater,IPCC_12_17_599,2,NA
+Water flow volume,water flow volume,IPCC_12_17_600,2,NA
+ water intermittency thresholds,water intermittency thresholds,IPCC_12_17_600,2,NA
+consecutive dry days (CDD),consecutive dry days (cdd),IPCC_12_17_601,2,NA
+ Soil moisture,soil moisture,IPCC_12_17_601,2,NA
+ standardized precipitation index,standardized precipitation index (spi),IPCC_12_17_601,2,NA
+ standardized runoff index,standardized runoff index (sri),IPCC_12_17_601,2,NA
+ standardized precipitation evapotranspiration index,standardized precipitation evapotranspiration index (spei),IPCC_12_17_601,2,NA
+ Low-flows days,low-flows days,IPCC_12_17_601,2,NA
+ Extreme low runoff,extreme low runoff,IPCC_12_17_601,2,NA
+Lightning frequency,lightning frequency,IPCC_12_18_602,1,NA
+ Fuel aridity,fuel aridity,IPCC_12_18_602,1,NA
+ Snow cover,snow cover,IPCC_12_18_602,1,NA
+ local wind circulations,local wind circulations,IPCC_12_18_602,1,NA
+snow water equivalent at key seasonal dates,snow water equivalent at key seasonal dates,IPCC_12_19_604,2,NA
+ the fraction of precipitation falling as snow,fraction of precipitation falling as snow,IPCC_12_19_604,2,NA
+ the first and last days of snow cover,first and last days of snow cover,IPCC_12_19_604,2,NA
+ cold season temperatures,cold season temperatures,IPCC_12_19_604,2,NA
+threshold when the local land elevation falls below the local mean higher high water (MHHW),threshold when the local land elevation falls below the local mean higher high water (mhhw),IPCC_12_20_605,2,NA
+ threshold when flooding occurs about once every two weeks,threshold when flooding occurs about once every two weeks,IPCC_12_20_605,2,NA
+ rate of RSLR (relative sea level rise),rate of rslr (relative sea level rise),IPCC_12_20_605,2,NA
+magnitude of shoreline retreat by a pre-determined planning horizon such as 50 or 100 years into the future,magnitude of shoreline retreat by a pre-determined planning horizon such as 50 or 100 years into the future,IPCC_12_20_606,2,NA
+ beach erosion volume due to the 100-year recurrence storm wave height,beach erosion volume due to the 100-year recurrence storm wave height,IPCC_12_20_606,2,NA
+ full exceedance probability distribution of coastal erosion volume,full exceedance probability distribution of coastal erosion volume,IPCC_12_20_606,2,NA
+ cumulative storm energy and storm power index,cumulative storm energy and storm power index,IPCC_12_20_606,2,NA
+climatic impact-driver (cid) magnitude,climatic impact-driver (cid) magnitude,IPCC_12_22_609,2,NA
+climatic impact-driver (cid) frequency,climatic impact-driver (cid) frequency,IPCC_12_22_609,2,NA
+ climatic impact-driver (cid) duration,climatic impact-driver (cid) duration,IPCC_12_22_609,2,NA
+ climatic impact-driver (cid) timing,climatic impact-driver (cid) timing,IPCC_12_22_609,2,NA
+ climatic impact-driver (cid) spatial extent,climatic impact-driver (cid) spatial extent,IPCC_12_22_609,2,NA
+Change in # days Tx>35°C,change in # days tx>35°c,IPCC_12_24_613,2,NA
+ Change in # days HI>41°C,change in # days hi>41°c,IPCC_12_24_613,2,NA
+ Change in # droughts,change in # droughts,IPCC_12_24_613,2,NA
+ Change in # soil moisture,change in # soil moisture,IPCC_12_24_613,2,NA
+ change in mean wind,change in mean wind,IPCC_12_24_613,2,NA
+ change in extreme total water level,change in extreme total water level,IPCC_12_24_613,2,NA
+Areas below calcium carbonate saturation thresholds,areas below calcium carbonate saturation thresholds,IPCC_12_24_615,1,NA
+Heat Index HI>41°C,heat index (hi),IPCC_12_27_618,2,NA
+Drought Index (DI),drought index (di),IPCC_12_43_640,2,NA
+Drought Frequency (DF),drought frequency (df),IPCC_12_43_641,2,NA
+Forest Fire Danger INDEX (FFDI),forest fire danger index (ffdi),IPCC_12_43_642,2,NA
+C-Haines Index,c-haines index,IPCC_12_43_643,2,NA
+ Forest fire danger Index (FFDI),forest fire danger index (ffdi),IPCC_12_43_643,2,NA
+combined sea level due to storm surge and tide,combined sea level due to storm surge and tide,IPCC_12_45_645,2,NA
+growing degree days,growing degree days,IPCC_12_46_648,2,NA
+ cooling degree days,cooling degree days,IPCC_12_46_648,2,NA
+Wet bulb globe temperature (WBGT) Index,wet bulb globe temperature (wbgt) index,IPCC_12_49_649,2,NA
+ maximum temperatures,maximum temperatures,IPCC_12_49_649,2,NA
+ Heat Index (hi),heat index (hi),IPCC_12_49_649,2,NA
+cooling degree day INDEX,cooling degree day index,IPCC_12_54_662,2,NA
+Heat stress index,heat stress index,IPCC_12_54_663,2,NA
+ wet bulb globe temperature (WBGT) index,wet bulb globe temperature (wbgt) index,IPCC_12_54_663,2,NA
+Heating degree day Index,heating degree day index,IPCC_12_56_664,2,NA
+Standardized Precipitation INDEX,standardized precipitation index (spi),IPCC_12_57_665,2,NA
+ consecutive dry days (cdd),consecutive dry days (cdd),IPCC_12_57_665,2,NA
+Drought Severity INDEX,drought severity index,IPCC_12_57_666,2,NA
+ Standardized Precipitation Index,standardized precipitation index (spi),IPCC_12_57_666,2,NA
+shoreline change (indicator of coastal erosion),shoreline change (indicator of coastal erosion),IPCC_12_60_671,1,NA
+ humidity,humidity,IPCC_12_62_673,1,NA
+Monthly Drought Code fire INDEX,monthly drought code fire index,IPCC_12_66_682,2,NA
+ fire Weather INDEX (FWI),fire weather index (fwi),IPCC_12_66_682,2,NA
+ maximum fire weather INDEX,maximum fire weather index,IPCC_12_66_682,2,NA
+convective available potential energy and wind shear,convective available potential energy and wind shear,IPCC_12_66_684,1,NA
+Degree heating weeks,degree heating weeks,IPCC_12_70_691,1,NA
+ Degree heating months,degree heating months,IPCC_12_70_691,1,NA
+Wet bulb globe temperature (WBGT) index,wet bulb globe temperature (wbgt) index,IPCC_12_71_692,2,NA
+ maximum daytime heat index,maximum daytime heat index,IPCC_12_71_692,2,NA
+Regional deficit index,regional deficit index,IPCC_12_72_695,2,NA
+Tide gauges,tide gauge,IPCC_12_73_700,1,NA
+Fire weather index (fwi),fire weather index (fwi),IPCC_12_79_710,2,NA
+fire risk,fire risk,IPCC_12_85_722,2,NA
+Heat Index (hi),heat index (hi),IPCC_12_85_724,2,NA
+Standardized Precipitation Evapotranspiration Index SPEI,standardized precipitation evapotranspiration index (spei),IPCC_12_85_726,2,NA
+Wet bulb temperature,wet bulb temperature,IPCC_12_88_731,1,NA

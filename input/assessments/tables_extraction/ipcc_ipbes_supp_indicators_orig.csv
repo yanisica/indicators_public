@@ -1,0 +1,426 @@
+indicator_orig,indic_id,indicator_harmonized
+GDP,IPBES_GA2.1_sup_1,gross domestic product
+Globalization index,IPBES_GA2.1_sup_2,globalization index
+Poverty gap,IPBES_GA2.1_sup_3,poverty gap
+Food Security Index,IPBES_GA2.1_sup_4,food security index
+Depth of the food deficit (kcal/capit a/day) (3- year average),IPBES_GA2.1_sup_5,food deficit (kcal/capit a/day) (3- year average)
+Access to improved sanitation facilities,IPBES_GA2.1_sup_6,access to improved sanitation facilities
+Domestic Material Consumption,IPBES_GA2.1_sup_7,domestic material consumption
+per capita calorie intake,IPBES_GA2.1_sup_8,per capita calorie intake
+Prevalence of obesity in the adult population (18 years and older),IPBES_GA2.1_sup_9,prevalence of obesity in the adult population (18 years and older)
+Energy use (kg of oil equivalent per capita),IPBES_GA2.1_sup_10,energy use (kg of oil equivalent per capita)
+Mobile cellular subscriptions,IPBES_GA2.1_sup_11,mobile cellular subscriptions
+Fossil fuel energy consumption (% of total),IPBES_GA2.1_sup_12,fossil-fuel energy consumption (percentage of total)
+Renewable electricity consumption (% of total electricity output),IPBES_GA2.1_sup_13,renewable electricity consumption (percentage of total electricity output)
+Electric power consumption (kWh per capita),IPBES_GA2.1_sup_14,electric power consumption (kwh per capita)
+Access to electricity,IPBES_GA2.1_sup_15,access to electricity
+Alternative and nuclear energy (% of total energy use),IPBES_GA2.1_sup_16,alternative and nuclear energy (percentage of total energy use)
+Protein intake per country per person,IPBES_GA2.1_sup_17,protein intake per country per person
+"Energy supply derived from cereals, roots and tubers",IPBES_GA2.1_sup_18,"energy supply derived from cereals, roots and tubers"
+People per ouletlet McDonals,IPBES_GA2.1_sup_19,people per outlet mcdonals
+Population growth (annual %),IPBES_GA2.1_sup_20,population growth (annual percentage)
+Population density,IPBES_GA2.1_sup_21,population density
+Child mortality rate,IPBES_GA2.1_sup_22,child mortality rate
+Urban Population,IPBES_GA2.1_sup_23,urban population
+International migrant stock,IPBES_GA2.1_sup_24,international migrant stock
+Refugee population,IPBES_GA2.1_sup_25,refugee population
+Migration Net,IPBES_GA2.1_sup_26,migration net
+Population in the largest city,IPBES_GA2.1_sup_27,population in the largest city
+Population in megacities,IPBES_GA2.1_sup_28,population in megacities
+GDP per capita,IPBES_GA2.1_sup_29,gross domestic product
+Agricultural land,IPBES_GA2.1_sup_30,agricultural land
+livestock indigenous animals,IPBES_GA2.1_sup_31,livestock indigenous animals
+livestock density of cattle,IPBES_GA2.1_sup_32,livestock density of cattle
+livestock density of animals (chickens),IPBES_GA2.1_sup_33,livestock density of animals (chickens)
+agricultural organic area,IPBES_GA2.1_sup_34,area of agricultural land under organic production
+"International tourism, number of departures",IPBES_GA2.1_sup_35,"international tourism, number of departures"
+"International tourism, number of arrivals",IPBES_GA2.1_sup_36,"international tourism, number of arrivals"
+Container port traffic (TEU: 20 foot equivalent units),IPBES_GA2.1_sup_37,container port traffic (teu: 20 foot equivalent units)
+Air passengers,IPBES_GA2.1_sup_38,air passengers
+Air departures,IPBES_GA2.1_sup_39,air departures
+Deaths from air pollution,IPBES_GA2.1_sup_40,deaths from air pollution
+GHG emissions (in tonnes CO2 eq and tonnes per capita),IPBES_GA2.1_sup_41,ghg emissions
+Pesticides used per unit area,IPBES_GA2.1_sup_42,pesticide use
+Fertilizers used per unit area,IPBES_GA2.1_sup_43,fertilizers used
+Air pollution,IPBES_GA2.1_sup_44,air pollution
+Nitrogenen deposition trends,IPBES_GA2.1_sup_45,nitrogenen deposition trends
+GHG emissions change,IPBES_GA2.1_sup_46,ghg emissions
+Extraction ores,IPBES_GA2.1_sup_47,extraction ores
+Extraction all of biomass,IPBES_GA2.1_sup_48,extraction all of biomass
+Extraction of ind. & const. minerals,IPBES_GA2.1_sup_49,extraction of industrial and constrution minerals
+Extraction biomass food,IPBES_GA2.1_sup_50,extraction biomass food
+Extraction Biomass Forstry,IPBES_GA2.1_sup_51,extraction biomass forestry
+Extraction biomass feed,IPBES_GA2.1_sup_52,extraction biomass feed
+Extraction biomass animals,IPBES_GA2.1_sup_53,extraction biomass animals
+Extraction other biomass,IPBES_GA2.1_sup_54,extraction other biomass
+Extraction fossil fuel,IPBES_GA2.1_sup_55,extraction fossil-fuel
+Water withdrawal,IPBES_GA2.1_sup_56,water withdrawal
+Renewable internal freshwater resource,IPBES_GA2.1_sup_57,renewable internal freshwater resource
+Agricultural water withdrawal,IPBES_GA2.1_sup_58,agricultural water withdrawal
+Ramsar Sites,IPBES_GA2.1_sup_59,ramsar sites
+Certified Forest Area,IPBES_GA2.1_sup_60,certified forest area
+United Nations Framework Convention on Climate Change,IPBES_GA2.1_sup_61,united nations framework convention on climate change
+Convention of fishing and conservation of the living resources of the high seas,IPBES_GA2.1_sup_62,convention of fishing and conservation of the living resources of the high seas
+Montreal Protocol,IPBES_GA2.1_sup_63,montreal protocol
+Convention on Biological Diversity,IPBES_GA2.1_sup_64,convention on biological diversity
+Convention on the Conservation of Antarctic Marine Living Resources,IPBES_GA2.1_sup_65,convention on the conservation of antarctic marine living resources
+"Credit to Agriculture, Forestry and Fishing",IPBES_GA2.1_sup_66,"credit to agriculture, forestry and fishing"
+Political stability and absence of violence/terrorism,IPBES_GA2.1_sup_67,political stability and absence of violence/terrorism
+Aboveground biomass,IPBES_GA2.2_sup_1,above-ground biomass
+BHI (overall habitat integrity),IPBES_GA2.2_sup_2,biodiversity habitat index
+BHI (overall habitat integrity) - Hotspots,IPBES_GA2.2_sup_3,biodiversity habitat index
+Coastal carbon-rich habitat,IPBES_GA2.2_sup_4,coastal carbon-rich habitat
+Coastal protection habitats,IPBES_GA2.2_sup_5,coastal protection habitats
+Extent of forests,IPBES_GA2.2_sup_6,extent of forests
+Extent of intact forest landscapes,IPBES_GA2.2_sup_7,extent of intact forest landscapes
+Extent of marine wilderness,IPBES_GA2.2_sup_8,extent of marine wilderness
+Extent of terrestrial wilderness,IPBES_GA2.2_sup_9,extent of terrestrial wilderness
+Fraction of ocean not fished per year,IPBES_GA2.2_sup_10,fraction of ocean not fished per year
+Land not cultivated or urban (global),IPBES_GA2.2_sup_11,land not cultivated or urban
+Land not cultivated or urban (Hotspots),IPBES_GA2.2_sup_12,land not cultivated or urban (hotspots)
+Land not cultivated or urban (Indigenous Lands),IPBES_GA2.2_sup_13,land not cultivated or urban (indigenous lands)
+Leaf Area Index,IPBES_GA2.2_sup_14,leaf area index (lai)
+Mangrove forest area,IPBES_GA2.2_sup_15,mangrove forest area
+Natural habitat extent,IPBES_GA2.2_sup_16,extent of suitable habitat
+Percentage live coral cover,IPBES_GA2.2_sup_17,live coral cover
+Permanent surface water extent,IPBES_GA2.2_sup_18,permanent surface water extent
+Remaining primary vegetation,IPBES_GA2.2_sup_19,remaining primary vegetation
+Remaining primary vegetation (Hotspots),IPBES_GA2.2_sup_20,remaining primary vegetation (hotspots)
+Remaining primary vegetation (Indigenous Lands),IPBES_GA2.2_sup_21,remaining primary vegetation (indigenous lands)
+Seagrass meadow area,IPBES_GA2.2_sup_22,seagrass meadow area
+Soil organic carbon (correlative model),IPBES_GA2.2_sup_23,soil organic carbon
+Soil organic carbon (mechanistic models),IPBES_GA2.2_sup_24,soil organic carbon
+Tree cover,IPBES_GA2.2_sup_25,tree cover
+Vegetation biomass (mechanistic models),IPBES_GA2.2_sup_26,vegetation biomass
+Wetland Extent Trends Index,IPBES_GA2.2_sup_27,wetland extent trends index
+Biological pump efficiency,IPBES_GA2.2_sup_28,biological pump efficiency
+Biomass turnover rate,IPBES_GA2.2_sup_29,biomass turnover rate
+Evapotranspiration (model ensemble),IPBES_GA2.2_sup_30,evapotranspiration
+Marine NPP (remote sensing),IPBES_GA2.2_sup_31,marine net primary production
+NPP remaining in ecosystems,IPBES_GA2.2_sup_32,net primary production
+Oceanic carbon sequestration,IPBES_GA2.2_sup_33,oceanic carbon sequestration
+Terrestrial C sequestration (model ensemble),IPBES_GA2.2_sup_34,terrestrial c sequestration
+Terrestrial NPP (model ensemble),IPBES_GA2.2_sup_35,terrestrial net primary production
+Terrestrial NPP (remote-sensing),IPBES_GA2.2_sup_36,terrestrial net primary production
+Biodiversity Intactness Index (Hotspots),IPBES_GA2.2_sup_37,biodiversity intactness index (hotspots)
+Biodiversity Intactness Index (Indigenous Lands),IPBES_GA2.2_sup_38,biodiversity intactness index (indigenous lands)
+Biodiversity Intactness Index (overall),IPBES_GA2.2_sup_39,biodiversity intactness index
+Local species richness (BioTime),IPBES_GA2.2_sup_40,local species richness (biotime)
+Local species richness (PREDICTS),IPBES_GA2.2_sup_41,local species richness (predicts)
+Mean Species Abundance index,IPBES_GA2.2_sup_42,mean species abundance (msa)
+Mean Species Abundance index (Hotspots),IPBES_GA2.2_sup_43,mean species abundance (msa) (hotspots)
+Mean Species Abundance index (Indigenous Lands),IPBES_GA2.2_sup_44,mean species abundance (msa) (indigenous lands)
+Tropical forest BII (hotspots),IPBES_GA2.2_sup_45,"biodiversity intactness index (tropical forest, hotspots)"
+Tropical forest BII (Indigenous Lands),IPBES_GA2.2_sup_46,"biodiversity intactness index (tropical forest, indigenous lands)"
+Tropical forest BII (overall),IPBES_GA2.2_sup_47,biodiversity intactness index (tropical forest)
+Bird species per grid cell (cSAR),IPBES_GA2.2_sup_48,bird species per grid cell
+Cumulative introduced invasive aliens,IPBES_GA2.2_sup_49,cumulative introduced invasive aliens
+Cumulative number of alien species,IPBES_GA2.2_sup_50,cumulative introduced invasive aliens
+Forest-specialist bird species per grid cell (cSAR),IPBES_GA2.2_sup_51,forest-specialist bird species per grid cell
+Functional intactness (Madingley),IPBES_GA2.2_sup_52,functional intactness (madingley)
+Species richness per grid cell (AIM),IPBES_GA2.2_sup_53,species richness per grid cell
+BHI (species persisting) - Hotspots,IPBES_GA2.2_sup_54,"biodiversity habitat index (species persisting, hotspots)"
+Biodiversity Habitat Index (species persisting),IPBES_GA2.2_sup_55,biodiversity habitat index (species persisting)
+Global bird richness (cSAR),IPBES_GA2.2_sup_56,global bird richness (csar)
+Global forest-specialist bird richness (cSAR),IPBES_GA2.2_sup_57,global forest-specialist bird richness (csar)
+Global mammal & bird species remaining,IPBES_GA2.2_sup_58,global mammal and bird species remaining
+Red List Index (overall),IPBES_GA2.2_sup_59,red list index
+RLI (forest specialists),IPBES_GA2.2_sup_60,red list index (forest specialists)
+RLI (internationally traded birds),IPBES_GA2.2_sup_61,red list index (internationally traded birds)
+RLI (pollinators),IPBES_GA2.2_sup_62,red list index (pollinators)
+RLI (species used in food & medicine),IPBES_GA2.2_sup_63,red list index (for utilized species)
+RLI (wild relatives),IPBES_GA2.2_sup_64,red list index (wild relatives of farmed and domesticated species)
+Extent of suitable habitat (mammals),IPBES_GA2.2_sup_65,extent of suitable habitat (mammals)
+Mammalian range size,IPBES_GA2.2_sup_66,mammalian range size
+Megafaunal range size,IPBES_GA2.2_sup_67,megafaunal range size
+Species Habitat Index,IPBES_GA2.2_sup_68,species habitat index
+Fish stocks biologically sustainable,IPBES_GA2.2_sup_69,proportion of fish stocks within biologically sustainable levels
+Living Planet Index (freshwater),IPBES_GA2.2_sup_70,living planet index (freshwater)
+Living Planet Index (marine),IPBES_GA2.2_sup_71,living planet index (marine)
+Living Planet Index (overall),IPBES_GA2.2_sup_72,living planet index
+Living Planet Index (terrestrial),IPBES_GA2.2_sup_73,living planet index (terrestrial)
+Predatory fish biomass,IPBES_GA2.2_sup_74,predatory fish biomass
+Prey fish biomass,IPBES_GA2.2_sup_75,prey fish biomass
+Wild Bird Index (habitat specialists),IPBES_GA2.2_sup_76,wild bird index (habitat specialists)
+Wild mammal biomass,IPBES_GA2.2_sup_77,wild mammal biomass
+Functional richness (Madingley),IPBES_GA2.2_sup_78,functional richness (madingley)
+Mammalian body mass,IPBES_GA2.2_sup_79,mammalian body mass
+Marine Trophic Index,IPBES_GA2.2_sup_80,marine trophic index (mti)
+Biodiversity Barometer (% of respondents that have heard of biodiversity),IPBES_GA3_sup_1,biodiversity barometer (percentage of respondents that have heard of biodiversity)
+Biodiversity Barometer (% of respondents giving correct definition of biodiversity),IPBES_GA3_sup_2,biodiversity barometer (percentage of respondents giving correct definition of biodiversity)
+Funding towards environmental education ($),IPBES_GA3_sup_3,funding towards environmental education
+Online interest in biodiversity (proportion of google searches),IPBES_GA3_sup_4,online interest in biodiversity (proportion of google searches)
+Funding towards Environmental Impact Assessment ($),IPBES_GA3_sup_5,funding towards environmental impact assessment
+Number of research studies involving economic valuation,IPBES_GA3_sup_6,number of research studies involving economic valuation
+World Trade Organisation green box agricultural subsidies ($),IPBES_GA3_sup_7,world trade organisation greenbox agricultural subsidies
+Funding towards institutional capacity building in fisheries ($),IPBES_GA3_sup_8,funding towards institutional capacity building in fisheries
+Percentage of countries that are Category 1 CITES Parties†,IPBES_GA3_sup_9,percentage of countries that are category 1 cites parties
+Ecological Footprint (number of earths needed to support human society)†,IPBES_GA3_sup_10,ecological footprint
+Red List Index (impacts of utilisation),IPBES_GA3_sup_11,red list index (for utilized species)
+Red List Index (internationally traded species),IPBES_GA3_sup_12,red list index (internationally traded species)
+Human appropriation of net primary productivity (Pg C),IPBES_GA3_sup_13,human appropriation of net primary productivity
+Human appropriation of fresh water (water footprint) (thousand km3)†,IPBES_GA3_sup_14,human appropriation of fresh water
+Wetland Extent Trends Index,IPBES_GA3_sup_15,wetland extent trends index
+Area of tree cover loss (ha)†,IPBES_GA3_sup_16,tree cover
+Percentage natural habitat extent,IPBES_GA3_sup_17,extent of suitable habitat
+Wild Bird Index (habitat specialists),IPBES_GA3_sup_18,wild bird index (habitat specialists)
+Red List index (forest specialists),IPBES_GA3_sup_19,red list index (forest specialists)
+Proportion of fish stocks in safe biological limits†,IPBES_GA3_sup_20,proportion of fish stocks within biologically sustainable levels
+Marine Stewardship Council certified fisheries (tonnes)†,IPBES_GA3_sup_21,marine stewardship council certified fisheries
+Marine trophic index†,IPBES_GA3_sup_22,marine trophic index (mti)
+Red List Index (impacts of fisheries),IPBES_GA3_sup_23,red list index (impacts of fisheries)
+Global effort in bottom-trawling (kW sea-days),IPBES_GA3_sup_24,global effort in bottom-trawling
+Nitrogen use balance (kg/km2)†,IPBES_GA3_sup_25,nitrogen use balance
+Wild Bird Index (farmland birds),IPBES_GA3_sup_26,wild bird index (farmland birds)
+Area of agricultural land under organic production (million ha),IPBES_GA3_sup_27,area of agricultural land under organic production
+Area of agricultural land under conservation agriculture (thousand ha),IPBES_GA3_sup_28,area of agricultural land under conservation
+Area of forest under sustainable management: total FSC and PEFC forest management certification (million ha)†,IPBES_GA3_sup_29,area of forest under sustainable management
+Red List Index (impacts of pollution),IPBES_GA3_sup_30,red list index (impacts of pollution)
+Pesticide use (tonnes)†,IPBES_GA3_sup_31,pesticide use
+Nitrogen surplus (Tg N),IPBES_GA3_sup_32,nitrogen surplus (tg n)
+Number of invasive alien species introductions,IPBES_GA3_sup_33,number of invasive alien species introduction events
+Red List Index (impacts of invasive alien species),IPBES_GA3_sup_34,red list index (impacts of invasive alien species)
+Percentage of countries with invasive alien species legislation,IPBES_GA3_sup_35,percentage of countries with invasive alien species legislation
+Percentage live coral cover,IPBES_GA3_sup_36,live coral cover
+Glacial mass balance (mm water equivalent),IPBES_GA3_sup_37,glacier mass balance
+Mean polar sea ice extent (million km2),IPBES_GA3_sup_38,mean polar sea ice extent
+Climatic Impact Index for birds,IPBES_GA3_sup_39,climatic impact index for birds
+Area of mangrove forest cover (km2),IPBES_GA3_sup_40,mangrove forest area
+Percentage of marine and coastal areas covered by protected areas†,IPBES_GA3_sup_41,protected area coverage of marine and coastal areas
+Percentage of terrestrial areas covered by protected areas†,IPBES_GA3_sup_42,percentage of terrestrial ecoregions covered by protected areas
+Percentage of Key Biodiversity Areas covered by protected areas†,IPBES_GA3_sup_43,protected area coverage of key biodiversity areas
+Percentage of terrestrial ecoregions covered by protected areas,IPBES_GA3_sup_44,percentage of terrestrial ecoregions covered by protected areas
+Percentage of marine ecoregions covered by protected areas,IPBES_GA3_sup_45,percentage of marine ecoregions covered by protected areas
+"Protected area coverage of bird, mammal and amphibian distributions",IPBES_GA3_sup_46,"protected area coverage of bird, mammal and amphibian distributions"
+Number of protected area management effectiveness assessments†,IPBES_GA3_sup_47,number of protected area management effectiveness (pame) assessments
+Funding towards nature reserves ($),IPBES_GA3_sup_48,funding towards nature reserves
+Living Planet Index,IPBES_GA3_sup_49,living planet index
+Red List Index†,IPBES_GA3_sup_50,red list index
+Funding towards species protection ($),IPBES_GA3_sup_51,funding towards species protection
+Number of plant genetic resources for food and agriculture secured in conservation facilities,IPBES_GA3_sup_52,number of plant and animal genetic resources secured in medium or long-term conservation facilities
+Percentage of terrestrial domesticated animal breeds at risk†,IPBES_GA3_sup_53,percentage of terrestrial domesticated animal breeds at risk
+Red List Index (wild relatives of farmed and domesticated species),IPBES_GA3_sup_54,red list index (wild relatives of farmed and domesticated species)
+Percentage change in local species richness,IPBES_GA3_sup_55,percentage change in local species richness
+Red List Index (species used for food and medicine),IPBES_GA3_sup_56,red list index (for utilized species)
+Red List Index (pollinator species),IPBES_GA3_sup_57,red list index (pollinators)
+Percentage of global rural population with access to improved water resources,IPBES_GA3_sup_58,percentage of global rural population with access to improved water resources
+Percentage of countries that have ratified the Nagoya Protocol,IPBES_GA3_sup_59,percentage of countries that have ratified the nagoya protocol
+Percentage of countries with revised NBSAPs†,IPBES_GA3_sup_60,percentage of countries with revised nbsaps
+Species Status Information Index†,IPBES_GA3_sup_61,species status index
+Number of biodiversity papers published,IPBES_GA3_sup_62,number of biodiversity papers published
+Proportion of known species assessed through the IUCN Red List †,IPBES_GA3_sup_63,proportion of known species assessed through the red list index
+Number of species occurrence records in the Global Biodiversity Information Facility,IPBES_GA3_sup_64,species occurrence records accessible through the global biodiversity information facility
+Funding committed to environmental research ($),IPBES_GA3_sup_65,funding committed to environmental research
+Funding provided by the Global Environment Facility ($),IPBES_GA3_sup_66,funding provided by the global environment facility
+Official Development Assistance provided in support of the CBD objectives ($),IPBES_GA3_sup_67,official development assistance provided in support of the cbd objectives
+"Global funding committed towards environmental policy, laws, regulations and economic instruments ($)",IPBES_GA3_sup_68,"global funding committed towards environmental policy, laws, regulations and economic instruments"
+"Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",IPBES_SUA_sup_1.1.1_1,"proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+"Proportion of population living below the national poverty line, by sex and age",IPBES_SUA_sup_1.2.1_2,"proportion of population living below the national poverty line, by sex and age"
+"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",IPBES_SUA_sup_1.2.2_3,"proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+Proportion of population living in households with access to basic services,IPBES_SUA_sup_1.4.1_4,proportion of population living in households with access to basic services
+"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",IPBES_SUA_sup_1.4.2_5,"proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",IPBES_SUA_sup_1.5.1_6,"number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),IPBES_SUA_sup_1.5.2_7,direct economic loss attributed to disasters in relation to global gross domestic product
+Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,IPBES_SUA_sup_1.5.3_8,number of countries that adopt and implement national disaster risk reduction strategies in line with the sendai framework for disaster risk reduction 2015-2030
+Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,IPBES_SUA_sup_1.5.4_9,proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income,IPBES_SUA_sup_1.a.1_10,total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income
+Pro-poor public social spending,IPBES_SUA_sup_1.b.1_11,pro-poor public social spending
+Prevalence of undernourishment,IPBES_SUA_sup_2.1.1_12,prevalence of undernourishment
+"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",IPBES_SUA_sup_2.1.2_13,"prevalence of moderate or severe food insecurity in the population, based on the food insecurity experience scale"
+Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,IPBES_SUA_sup_2.2.1_14,prevalence of stunting (height for age <-2 standard deviation from the median of the world health organization (who) child growth standards) among children under 5 years of age
+"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",IPBES_SUA_sup_2.2.2_15,"prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the who child growth standards) among children under 5 years of age, by type (wasting and overweight)"
+"Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",IPBES_SUA_sup_2.2.3_16,"prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
+Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,IPBES_SUA_sup_2.3.1_17,volume of production per labour unit by classes of farming/pastoral/forestry enterprise size
+"Average income of small-scale food producers, by sex and indigenous status",IPBES_SUA_sup_2.3.2_18,"average income of small-scale food producers, by sex and indigenous status"
+Proportion of agricultural area under productive and sustainable agriculture,IPBES_SUA_sup_2.4.1_19,proportion of agricultural area under productive and sustainable agriculture
+Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,IPBES_SUA_sup_2.5.1_20,number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+Proportion of local breeds classified as being at risk of extinction,IPBES_SUA_sup_2.5.2_21,proportion of local breeds classified as being at risk of extinction
+The agriculture orientation index for government expenditures,IPBES_SUA_sup_2.a.1_22,agriculture orientation index for government expenditures
+Total official flows (official development assistance plus other official flows) to the agriculture sector,IPBES_SUA_sup_2.a.2_23,total official flows (official development assistance plus other official flows) to the agriculture sector
+Agricultural export subsidies,IPBES_SUA_sup_2.b.1_24,agricultural export subsidies
+Indicator of food price anomalies,IPBES_SUA_sup_2.c.1_25,indicator of food price anomalies
+"Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",IPBES_SUA_sup_5.a.1.a_26,"proportion of total agricultural population with ownership or secure rights over agricultural land, by sex"
+"share of women among owners or rights-bearers of agricultural land, by type of tenure",IPBES_SUA_sup_5.a.1.b_27,"share of women among owners or rights-bearers of agricultural land, by type of tenure"
+Proportion of countries where the legal framework (including customary law) guarantees women equal rights to land ownership and/or control,IPBES_SUA_sup_5.a.2_28,proportion of countries where the legal framework (including customary law) guarantees women equal rights to land ownership and/or control
+Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,IPBES_SUA_sup_5.c.1_29,proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment
+Proportion of population using safely managed drinking water services,IPBES_SUA_sup_6.1.1_30,proportion of population using safely managed drinking water services
+Proportion of bodies of water with good ambient water quality,IPBES_SUA_sup_6.3.2_31,proportion of bodies of water with good ambient water quality
+Change in water-use efficiency over time,IPBES_SUA_sup_6.4.1_32,change in water-use efficiency over time
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,IPBES_SUA_sup_6.4.2_33,level of water stress (freshwater withdrawal as a proportion of available freshwater resources)
+Degree of integrated water resources management,IPBES_SUA_sup_6.5.1_34,degree of integrated water resources management
+Proportion of transboundary basin area with an operational arrangement for water cooperation,IPBES_SUA_sup_6.5.2_35,proportion of transboundary basin area with an operational arrangement for water cooperation
+Change in the extent of water-related ecosystems over time,IPBES_SUA_sup_6.6.1_36,change in the extent of water-related ecosystems over time
+Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,IPBES_SUA_sup_6.a.1_37,amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,IPBES_SUA_sup_6.b.1_38,proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management
+Proportion of population with primary reliance on clean fuels and technology,IPBES_SUA_sup_7.1.2_39,proportion of population with primary reliance on clean fuels and technology
+Renewable energy share in the total final energy consumption,IPBES_SUA_sup_7.2.1_40,renewable energy share in the total final energy consumption
+Energy intensity measured in terms of primary energy and GDP,IPBES_SUA_sup_7.3.1_41,energy intensity measured in terms of primary energy and gross domestic product
+"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",IPBES_SUA_sup_7.a.1_42,"international financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
+Installed renewable energy-generating capacity in developing countries (in watts per capita),IPBES_SUA_sup_7.b.1_43,installed renewable energy-generating capacity in developing countries (in watts per capita)
+Annual growth rate of real GDP per capita,IPBES_SUA_sup_8.1.1_44,annual growth rate of real gross domestic product
+Annual growth rate of real GDP per employed person,IPBES_SUA_sup_8.2.1_45,annual growth rate of real gross domestic product per employed person
+"Proportion of informal employment in total employment, by sector and sex",IPBES_SUA_sup_8.3.1_46,"proportion of informal employment in total employment, by sector and sex"
+"Material footprint, material footprint per capita, and material footprint per GDP",IPBES_SUA_sup_8.4.1_47,"material footprint, material footprint per capita, and material footprint per gross domestic product"
+"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",IPBES_SUA_sup_8.4.2_48,"domestic material consumption, domestic material consumption, and domestic material consumption per gross domestic product"
+"Average hourly earnings of employees, by sex, age, occupation and persons with disabilities",IPBES_SUA_sup_8.5.1_49,"average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+"Unemployment rate, by sex, age and persons with disabilities",IPBES_SUA_sup_8.5.2_50,"unemployment rate, by sex, age and persons with disabilities"
+"Proportion of youth (aged 15–24 years) not in education, employment or training",IPBES_SUA_sup_8.6.1_51,"proportion of youth (aged 15-24 years) not in education, employment or training"
+"Proportion and number of children aged 5–17 years engaged in child labour, by sex and age",IPBES_SUA_sup_8.7.1_52,"proportion and number of children aged 5-17 years engaged in child labour, by sex and age"
+"Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status",IPBES_SUA_sup_8.8.1_53,"fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+"Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status",IPBES_SUA_sup_8.8.2_54,"level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation, by sex and migrant status"
+Tourism direct GDP as a proportion of total GDP and in growth rate,IPBES_SUA_sup_8.9.1_55,tourism direct gross domestic product as a proportion of total gross domestic product and in growth rate
+Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,IPBES_SUA_sup_8.10.2_56,proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider
+Aid for Trade commitments and disbursements,IPBES_SUA_sup_8.a.1_57,aid for trade commitments and disbursements
+"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",IPBES_SUA_sup_8.b.1_58,"existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
+Proportion of the rural population who live within 2 km of an all-season road,IPBES_SUA_sup_9.1.1_59,proportion of the rural population who live within 2 km of an all-season road
+"Passenger and freight volumes, by mode of transport",IPBES_SUA_sup_9.1.2_60,"passenger and freight volumes, by mode of transport"
+Manufacturing value added as a proportion of GDP and per capita,IPBES_SUA_sup_9.2.1_61,manufacturing value added as a proportion of gross domestic product and per capita
+Manufacturing employment as a proportion of total employment,IPBES_SUA_sup_9.2.2_62,manufacturing employment as a proportion of total employment
+Proportion of small-scale industries in total industry value added,IPBES_SUA_sup_9.3.1_63,proportion of small-scale industries in total industry value added
+Proportion of small-scale industries with a loan or line of credit,IPBES_SUA_sup_9.3.2_64,proportion of small-scale industries with a loan or line of credit
+CO2 emission per unit of value added,IPBES_SUA_sup_9.4.1_65,co2 emission per unit of value added
+Research and development expenditure as a proportion of GDP,IPBES_SUA_sup_9.5.1_66,research and development expenditure as a proportion of gross domestic product
+Total official international support (official development assistance plus other official flows) to infrastructure,IPBES_SUA_sup_9.a.1_67,total official international support (official development assistance plus other official flows) to infrastructure
+Proportion of medium and high-tech industry value added in total value added,IPBES_SUA_sup_9.b.1_68,proportion of medium and high-tech industry value added in total value added
+"Proportion of population covered by a mobile network, by technology",IPBES_SUA_sup_9.c.1_69,"proportion of population covered by a mobile network, by technology"
+Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,IPBES_SUA_sup_10.1.1_70,growth rates of household expenditure or income per capita among the bottom 40 percent of the population and the total population
+"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",IPBES_SUA_sup_10.2.1_71,"proportion of people living below 50 percent of median income, by sex, age and persons with disabilities"
+Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,IPBES_SUA_sup_10.3.1_72,proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law
+Labour share of GDP,IPBES_SUA_sup_10.4.1_73,labour share of gross domestic product
+Proportion of members and voting rights of developing countries in international organizations,IPBES_SUA_sup_10.6.1_74,proportion of members and voting rights of developing countries in international organizations
+"Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people",IPBES_SUA_sup_10.7.2_75,"number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+Number of people who died or disappeared in the process of migration towards an international destinationi,IPBES_SUA_sup_10.7.3_76,number of people who died or disappeared in the process of migration towards an international destinationi
+"Proportion of the population who are refugees, by country of origin",IPBES_SUA_sup_10.7.4_77,"proportion of the population who are refugees, by country of origin"
+"Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",IPBES_SUA_sup_10.b.1_78,"total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+Ratio of land consumption rate to population growth rate,IPBES_SUA_sup_11.3.1_79,ratio of land consumption rate to population growth rate
+"Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",IPBES_SUA_sup_11.4.1_80,"total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
+"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",IPBES_SUA_sup_11.5.1_81,"number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+"Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters",IPBES_SUA_sup_11.5.2_82,"direct economic loss in relation to global gross domestic product, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters"
+Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted),IPBES_SUA_sup_11.6.2_83,annual mean levels of fine particulate matter in cities
+"Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",IPBES_SUA_sup_11.7.2_84,"proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space,IPBES_SUA_sup_11.a.1_85,number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space
+Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,IPBES_SUA_sup_11.b.1_86,number of countries that adopt and implement national disaster risk reduction strategies in line with the sendai framework for disaster risk reduction 2015-2030
+Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,IPBES_SUA_sup_11.b.2_87,proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+"Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production",IPBES_SUA_sup_12.1.1_88,"number of countries developing, adopting or implementing policy instruments aimed at encouraging and enabling people to make sustainable consumption choices"
+"Material footprint, material footprint per capita, and material footprint per GDP",IPBES_SUA_sup_12.2.1_89,"material footprint, material footprint per capita, and material footprint per gross domestic product"
+"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",IPBES_SUA_sup_12.2.2_90,"domestic material consumption, domestic material consumption, and domestic material consumption per gross domestic product"
+Food loss index,IPBES_SUA_sup_12.3.1.a_91,food loss index
+food waste index,IPBES_SUA_sup_12.3.1.b_92,food waste index
+Hazardous waste generated per capita,IPBES_SUA_sup_12.4.2.a_93,hazardous waste
+"proportion of hazardous waste treated, by type of treatment",IPBES_SUA_sup_12.4.2.b_94,"proportion of hazardous waste treated, by type of treatment"
+"National recycling rate, tons of material recycled",IPBES_SUA_sup_12.5.1_95,"national recycling rate, tons of material recycled"
+Number of companies publishing sustainability reports,IPBES_SUA_sup_12.6.1_96,number of companies publishing sustainability reports
+Degree of sustainable public procurement policies and action plan implementation,IPBES_SUA_sup_12.7.1_97,degree of sustainable public procurement policies and action plan implementation
+Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,IPBES_SUA_sup_12.8.1_98,"extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessments"
+Installed renewable energy-generating capacity in developing countries (in watts per capita),IPBES_SUA_sup_12.a.1_99,installed renewable energy-generating capacity in developing countries (in watts per capita)
+Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability,IPBES_SUA_sup_12.b.1_100,implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability
+Amount of fossil-fuel subsidies per unit of GDP (production and consumption),IPBES_SUA_sup_12.c.1_101,amount of fossil-fuel subsidies per unit of gross domestic product (production and consumption)
+"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",IPBES_SUA_sup_13.1.1_102,"number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,IPBES_SUA_sup_13.1.2_103,number of countries that adopt and implement national disaster risk reduction strategies in line with the sendai framework for disaster risk reduction 2015-2030
+Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,IPBES_SUA_sup_13.1.3_104,proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+"Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications",IPBES_SUA_sup_13.2.1_105,"number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the united nations framework convention on climate change"
+Total greenhouse gas emissions per year,IPBES_SUA_sup_13.2.2_106,total greenhouse gas emissions per year
+Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,IPBES_SUA_sup_13.3.1_107,"extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessments"
+Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025,IPBES_SUA_sup_13.a.1_108,amounts provided and mobilized in united states dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025
+"Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications",IPBES_SUA_sup_13.b.1_109,"number of least developed countries and small island developing states with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the united nations framework convention on climate change"
+Index of coastal eutrophication,IPBES_SUA_sup_14.1.1.a_110,index of coastal eutrophication potential (icep)
+plastic debris density,IPBES_SUA_sup_14.1.1.b_111,plastic debris density
+Number of countries using ecosystem-based approaches to managing marine areas,IPBES_SUA_sup_14.2.1_112,number of countries using ecosystem-based approaches to managing marine areas
+Average marine acidity (pH) measured at agreed suite of representative sampling stations,IPBES_SUA_sup_14.3.1_113,average marine acidity (ph) measured at agreed suite of representative sampling stations
+Proportion of fish stocks within biologically sustainable levels,IPBES_SUA_sup_14.4.1_114,proportion of fish stocks within biologically sustainable levels
+Coverage of protected areas in relation to marine areas,IPBES_SUA_sup_14.5.1_115,protected area coverage of marine and coastal areas
+"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",IPBES_SUA_sup_14.6.1_116,"degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",IPBES_SUA_sup_14.7.1_117,"sustainable fisheries as a proportion of gross domestic product in small island developing states, least developed countries and all countries"
+Proportion of total research budget allocated to research in the field of marine technology,IPBES_SUA_sup_14.a.1_118,proportion of total research budget allocated to research in the field of marine technology
+Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries,IPBES_SUA_sup_14.b.1_119,degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries
+"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",IPBES_SUA_sup_14.c.1_120,"number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the united nations convention on the law of the sea, for the conservation and sustainable use of the oceans and their resources"
+Forest area as a proportion of total land area,IPBES_SUA_sup_15.1.1_121,forest area as a percentage of total land area
+"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",IPBES_SUA_sup_15.1.2_122,protected area coverage of important sites for terrestrial and freshwater biodiversity
+Progress towards sustainable forest management,IPBES_SUA_sup_15.2.1_123,progress towards sustainable forest management
+Proportion of land that is degraded over total land area,IPBES_SUA_sup_15.3.1_124,proportion of land that is degraded over total land area
+Coverage by protected areas of important sites for mountain biodiversity,IPBES_SUA_sup_15.4.1_125,protected area coverage of important sites for mountain biodiversity
+Mountain Green Cover Index,IPBES_SUA_sup_15.4.2_126,mountain green cover index
+Red List Index,IPBES_SUA_sup_15.5.1_127,red list index
+"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",IPBES_SUA_sup_15.6.1_128,"number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+Proportion of traded wildlife that was poached or illicitly trafficked,IPBES_SUA_sup_15.7.1_129,proportion of traded wildlife that was poached or illicitly trafficked
+Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,IPBES_SUA_sup_15.8.1_130,proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species
+Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets,IPBES_SUA_sup_15.9.1.a_131,number of countries that have established national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plans and the progress reported towards these targets
+"integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting",IPBES_SUA_sup_15.9.1.b_132,"integration of biodiversity into national accounting and reporting systems, defined as implementation of the system of environmental-economic accounting"
+Official development assistance on conservation and sustainable use of biodiversity,IPBES_SUA_sup_15.a.1.a_133,official development assistance on conservation and sustainable use of biodiversity
+revenue generated and finance mobilized from biodiversity-relevant economic instruments,IPBES_SUA_sup_15.a.1.b_134,revenue generated and finance mobilized from biodiversity relevant economic instruments
+Official development assistance on conservation and sustainable use of biodiversity,IPBES_SUA_sup_15.b.1.a_135,official development assistance on conservation and sustainable use of biodiversity
+revenue generated and finance mobilized from biodiversity-relevant economic instruments,IPBES_SUA_sup_15.b.1.b_136,revenue generated and finance mobilized from biodiversity relevant economic instruments
+Proportion of traded wildlife that was poached or illicitly trafficked,IPBES_SUA_sup_15.c.1_137,proportion of traded wildlife that was poached or illicitly trafficked
+"Total government revenue as a proportion of GDP, by source",IPBES_SUA_sup_17.1.1_138,"total government revenue as a proportion of gross domestic product, by source"
+Proportion of domestic budget funded by domestic taxes,IPBES_SUA_sup_17.1.2_139,proportion of domestic budget funded by domestic taxes
+"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",IPBES_SUA_sup_17.2.1_140,"net official development assistance, total and to least developed countries, as a proportion of the organization for economic cooperation and development (oecd) development assistance committee donors’ gross national income (gni)"
+"Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income",IPBES_SUA_sup_17.3.1_141,"foreign direct investment (fdi), official development assistance and south-south cooperation as a proportion of total domestic budget"
+Volume of remittances (in United States dollars) as a proportion of total GDP,IPBES_SUA_sup_17.3.2_142,volume of remittances (in united states dollars) as a proportion of total gross domestic product
+"Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries",IPBES_SUA_sup_17.5.1_143,"number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
+"Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",IPBES_SUA_sup_17.7.1_144,"total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+Proportion of individuals using the Internet,IPBES_SUA_sup_17.8.1_145,proportion of individuals using the internet
+"Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries",IPBES_SUA_sup_17.9.1_146,"dollar value of financial and technical assistance (including through north-south, south‑south and triangular cooperation) committed to developing countries"
+Worldwide weighted tariff-average,IPBES_SUA_sup_17.10.1_147,worldwide weighted tariff-average
+Developing countries’ and least developed countries’ share of global exports,IPBES_SUA_sup_17.11.1_148,developing countries’ and least developed countries’ share of global exports
+"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",IPBES_SUA_sup_17.12.1_149,"weighted average tariffs faced by developing countries, least developed countries and small island developing states"
+Number of countries with mechanisms in place to enhance policy coherence of sustainable development,IPBES_SUA_sup_17.14.1_150,number of countries with mechanisms in place to enhance policy coherence of sustainable development
+Extent of use of country-owned results frameworks and planning tools by providers of development cooperation,IPBES_SUA_sup_17.15.1_151,extent of use of country-owned results frameworks and planning tools by providers of development cooperation
+Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,IPBES_SUA_sup_17.16.1_152,number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals
+Amount in United States dollars committed to public-private partnerships for infrastructure,IPBES_SUA_sup_17.17.1_153,amount in united states dollars committed to public-private partnerships for infrastructure
+Statistical capacity indicator for Sustainable Development Goal monitoring,IPBES_SUA_sup_17.18.1_154,statistical capacity indicator for sustainable development goal monitoring
+Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics,IPBES_SUA_sup_17.18.2_155,number of countries that have national statistical legislation that complies with the fundamental principles of official statistics
+"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",IPBES_SUA_sup_17.18.3_156,"number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
+Dollar value of all resources made available to strengthen statistical capacity in developing countries,IPBES_SUA_sup_17.19.1_157,dollar value of all resources made available to strengthen statistical capacity in developing countries
+Monthly maximum value of daily maximum temperature,IPCC_sup_1,monthly maximum value of daily maximum temperature
+Monthly minimum value of daily maximum temperature,IPCC_sup_2,monthly minimum value of daily maximum temperature
+Monthly minimum value of daily minimum temperature,IPCC_sup_3,monthly minimum value of daily minimum temperature
+Monthly maximum value of daily minimum temperature,IPCC_sup_4,monthly maximum value of daily minimum temperature
+Percentage of days when daily maximum temperature is greater than the 90th percentile,IPCC_sup_5,percentage of days when daily maximum temperature is greater than the 90th percentile
+Percentage of days when daily maximum temperature is less than the 10th percentile,IPCC_sup_6,percentage of days when daily maximum temperature is less than the 10th percentile
+Percentage of days when daily minimum temperature is greater than the 90th percentile,IPCC_sup_7,percentage of days when daily minimum temperature is greater than the 90th percentile
+Percentage of days when daily minimum temperature is less than the 10th percentile,IPCC_sup_8,percentage of days when daily minimum temperature is less than the 10th percentile
+Number of icing days: annual count of days when TX (daily maximum temperature) <0°C,IPCC_sup_9,number of icing days: annual count of days when tx (daily maximum temperature) <0°c
+Number of frost days: annual count of days when TN (daily minimum temperature) <0°C,IPCC_sup_10,number of frost days: annual count of days when tn (daily minimum temperature) <0°c
+Warm spell duration index: annual count of days with at least six consecutive days when TX >90th percentile,IPCC_sup_11,warm spell duration index (wsdi)
+Cold spell duration index: annual count of days with at least six consecutive days when TN <10th percentile,IPCC_sup_12,cold spell duration index: annual count of days with at least six consecutive days when tn <10th percentile
+Number of summer days: annual count of days when TX (daily maximum temperature) >25°C,IPCC_sup_13,number of summer days: annual count of days when tx (daily maximum temperature) >25°c
+Number of tropical nights: annual count of days when TN (daily minimum temperature) >20°C,IPCC_sup_14,number of tropical nights: annual count of days when tn (daily minimum temperature) >20°c
+Daily temperature range: monthly mean difference between TX and TN,IPCC_sup_15,daily temperature range: monthly mean difference between tx and tn
+"Growing season length: annual (1 Jan to 31 Dec in Northern Hemisphere (NH), 1 July to 30 June in Southern Hemisphere (SH)) count between first span of at least six days with daily mean temperature TG >5°C and first span after July 1 (Jan 1 in SH) of six days with TG <5°C",IPCC_sup_16,"growing season length: annual (1 jan to 31 dec in northern hemisphere (nh), 1 july to 30 june in southern hemisphere (sh)) count between first span of at least six days with daily mean temperature tg >5°c and first span after july 1 (jan 1 in sh) of six days with tg <5°c"
+One-in-20 year return value of monthly maximum value of daily maximum temperature,IPCC_sup_17,one-in-20 year return value of monthly maximum value of daily maximum temperature
+One-in-20 year return value of monthly minimum value of daily maximum temperature,IPCC_sup_18,one-in-20 year return value of monthly minimum value of daily maximum temperature
+One-in-20 year return value of monthly minimum value of daily minimum temperature,IPCC_sup_19,one-in-20 year return value of monthly minimum value of daily minimum temperature
+One-in-20 year return value of monthly maximum value of daily minimum temperature,IPCC_sup_20,one-in-20 year return value of monthly maximum value of daily minimum temperature
+Maximum one-day precipitation,IPCC_sup_21,maximum one-day precipitation
+Maximum five-day precipitation,IPCC_sup_22,maximum five-day precipitation
+Annual count of days when precipitation is greater than or equal to 5 mm,IPCC_sup_23,annual count of days when precipitation is greater than or equal to 5 mm
+Annual count of days when precipitation is greater than or equal to 10 mm,IPCC_sup_24,annual count of days when precipitation is greater than or equal to 10 mm
+Annual count of days when precipitation is greater than or equal to 20 mm,IPCC_sup_25,annual count of days when precipitation is greater than or equal to 20 mm
+Annual count of days when precipitation is greater than or equal to 50 mm,IPCC_sup_26,annual count of days when precipitation is greater than or equal to 50 mm
+Maximum number of consecutive days with less than 1 mm of precipitation per day,IPCC_sup_27,maximum number of consecutive days with less than 1 mm of precipitation per day
+Maximum number of consecutive days with more than or equal to 1 mm of precipitation per day,IPCC_sup_28,maximum number of consecutive days with more than or equal to 1 mm of precipitation per day
+Annual total precipitation when the daily precipitation exceeds the 95th percentile of the wet-day (>1 mm) precipitation,IPCC_sup_29,annual total precipitation when the daily precipitation exceeds the 95th percentile of the wet-day (>1 mm) precipitation
+Annual precipitation amount when the daily precipitation exceeds the 99th percentile of the wet-day precipitation,IPCC_sup_30,annual precipitation amount when the daily precipitation exceeds the 99th percentile of the wet-day precipitation
+Simple precipitation intensity index,IPCC_sup_31,simple precipitation intensity index
+One-in-20 year return value of maximum one-day precipitation,IPCC_sup_32,one-in-20 year return value of maximum one-day precipitation
+One-in-20 year return value of maximum five-day precipitation,IPCC_sup_33,one-in-20 year return value of maximum five-day precipitation
+Standardized precipitation index,IPCC_sup_34,standardized precipitation index (spi)
+"Potential evaporation, evaporative demand drought index",IPCC_sup_35,"potential evaporation, evaporative demand drought index"
+Soil moisture anomalies,IPCC_sup_36,soil moisture anomalies
+Standardized soil moisture index,IPCC_sup_37,standardized soil moisture index (ssmi)
+Standardized runoff index,IPCC_sup_38,standardized runoff index (sri)
+Standardized streamflow index,IPCC_sup_39,standardized streamflow index (ssi)
+Palmer drought severity index,IPCC_sup_40,palmer drought severity index (pdsi)
+Standardized precipitation evapotranspiration index,IPCC_sup_41,standardized precipitation evapotranspiration index (spei)
+Cooling degree days above 22°C,IPCC_sup_42,cooling degree days
+"Number of days with Tmax >35°C or 40°C (TX35, TX40)",IPCC_sup_43,"number of days with tmax >35°c or 40°c (tx35, tx40)"
+NOAA heat index (HI): number of days above 41°C threshold,IPCC_sup_44,noaa heat index (hi): number of days above 41°c threshold
+Heating degree days below 15.5°C,IPCC_sup_45,heating degree days below 15.5°c
+Number of frost days below 0°C (FD),IPCC_sup_46,number of frost days below 0°c (fd)
+Flood index (FI),IPCC_sup_47,flood index (fi)
+Soil moisture (SM),IPCC_sup_48,soil moisture
+Standardized Precipitation Index accumulated over 6 months (SPI-6),IPCC_sup_49,standardized precipitation index accumulated over 6 months (spi-6)
+Annual mean wind speed,IPCC_sup_50,annual mean wind speed
+Number of days with snow water equivalent >100 mm (SWE100) over the snow season (Nov–Mar for NH),IPCC_sup_51,number of days with snow water equivalent >100 mm (swe100) over the snow season (nov-mar for nh)
+1-in-100-year return period level (ETWL),IPCC_sup_52,1-in-100-year return period level (etwl)
+Shoreline retreat by mid- and end of century,IPCC_sup_53,shoreline retreat by mid- and end of century

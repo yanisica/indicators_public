@@ -1,0 +1,835 @@
+indicator_orig,indic_id,indicator_harmonized
+Red List of Ecosystems,GBF_GA_H_1,red list of ecosystems
+Extent of natural ecosystems,GBF_GA_H_2,extent of natural ecosystems
+Red List Index,GBF_GA_H_3,red list index
+The proportion of populations within species with an effective population size > 500,GBF_GA_H_4,proportion of populations within species with an effective population size > 500
+Services provided by ecosystems,GBF_GB_H_5,services provided by ecosystems
+"Number of countries with policies or actions for implementing and monitoring the sustainable use of biodiversity and the maintenance and enhancement of nature's contributions to people, including ecosystem functions and services",GBF_GB_H_6,"number of countries with policies or actions for implementing and monitoring the sustainable use of biodiversity and the maintenance and enhancement of nature's contributions to people, including ecosystem functions and services"
+Monetary benefits received in accordance with applicable internationally agreed Access and Benefit-sharing instruments,GBF_GC_H_7,monetary benefits received in accordance with applicable internationally agreed access and benefit-sharing instruments
+Non-monetary benefits arising from applicable international Access and Benefit-sharing instruments,GBF_GC_H_8,non-monetary benefits arising from applicable international access and benefit-sharing instruments
+"Number of countries that have taken effective legal, policy, administrative and capacity-building measures at all levels, as appropriate, to ensure the fair and equitable sharing of benefits from the utilization of genetic resources and from digital sequence information on genetic resources, as well as traditional knowledge associated with genetic resources.",GBF_GC_H_9,"number of countries that have taken effective legal, policy, administrative and capacity-building measures at all levels, as appropriate, to ensure the fair and equitable sharing of benefits from the utilization of genetic resources and from digital sequence information on genetic resources, as well as traditional knowledge associated with genetic resources"
+"International public funding, including official development assistance (ODA) for conservation and sustainable use of biodiversity and ecosystems",GBF_GD_H_10,"international public funding, including official development assistance (oda) for conservation and sustainable use of biodiversity and ecosystems"
+Domestic public funding on conservation and sustainable use of biodiversity and ecosystems,GBF_GD_H_11,domestic public funding on conservation and sustainable use of biodiversity and ecosystems
+Private funding (domestic and international) on conservation and sustainable use of biodiversity and ecosystems,GBF_GD_H_12,private funding (domestic and international) on conservation and sustainable use of biodiversity and ecosystems
+Red List of Ecosystems,GBF_T1_H_13,red list of ecosystems
+Extent of natural ecosystems,GBF_T1_H_14,extent of natural ecosystems
+Percentage of land and seas covered by biodiversity-inclusive spatial plans,GBF_T1_H_15,percentage of land and seas covered by biodiversity-inclusive spatial plans
+"Number of countries using participatory, integrated and biodiversity-inclusive spatial planning or effective management processes to address land and sea use change.",GBF_T1_H_16,"number of countries using participatory, integrated and biodiversity-inclusive spatial planning or effective management processes to address land and sea use change"
+Area under restoration,GBF_T2_H_17,area under restoration
+Coverage of protected areas and other effective area-based conservation measures,GBF_T3_H_18,coverage of protected areas and other effective area-based conservation measures
+Red List Index,GBF_T4_H_19,red list index
+The proportion of populations within species with an effective population size > 500,GBF_T4_H_20,proportion of populations within species with an effective population size > 500
+Proportion of fish stocks within biologically sustainable levels,GBF_T5_H_21,proportion of fish stocks within biologically sustainable levels
+Rate of invasive alien species establishment,GBF_T6_H_22,rate of invasive alien species establishment
+"Number of countries adopting relevant regulation, processes and measures and allocating resources to reduce the impact of invasive alien species.",GBF_T6_H_23,"number of countries adopting relevant regulation, processes and measures and allocating resources to reduce the impact of invasive alien species"
+Index of coastal eutrophication potential,GBF_T7_H_24,index of coastal eutrophication potential (icep)
+Aggregated Total Applied Toxicity,GBF_T7_H_25,aggregated total applied toxicity
+Number of countries with agreed policies to minimize the impact of climate change and ocean acidification on biodiversity and that minimize negative and foster positive impacts of climate action on biodiversity.,GBF_T8_H_26,number of countries with agreed policies to minimize the impact of climate change and ocean acidification on biodiversity and that minimize negative and foster positive impacts of climate action on biodiversity
+Benefits from the sustainable use of wild species,GBF_T9_H_27,benefits from the sustainable use of wild species
+Percentage of the population in traditional occupations,GBF_T9_H_28,percentage of the population in traditional occupations
+"Number or countries with policies to manage the use of wild species sustainably, providing social, economic and environmental benefits for people, and to protect and encourage customary sustainable use by indigenous peoples and local communities",GBF_T9_H_29,"number or countries with policies to manage the use of wild species sustainably, providing social, economic and environmental benefits for people, and to protect and encourage customary sustainable use by indigenous peoples and local communities"
+Proportion of agricultural area under productive and sustainable agriculture,GBF_T10_H_30,proportion of agricultural area under productive and sustainable agriculture
+Progress towards sustainable forest management,GBF_T10_H_31,progress towards sustainable forest management
+Services provided by ecosystems,GBF_T11_H_32,services provided by ecosystems
+Average share of the built-up area of cities that is green/blue space for public use for all,GBF_T12_H_33,average share of the built-up area of cities that is green/blue space for public use for all
+Number of countries with biodiversity-inclusive urban planning referring to green or blue urban spaces.,GBF_T12_H_34,number of countries with biodiversity-inclusive urban planning referring to green or blue urban spaces
+Indicator on monetary benefits received,GBF_T13_H_35,indicator on monetary benefits received
+Indicator on non-monetary benefits,GBF_T13_H_36,indicator on non-monetary benefits
+"Number of countries that have taken effective legal, policy, administrative and capacity-building measures at all levels, as appropriate, to ensure the fair and equitable sharing of benefits from the utilization of genetic resources and from digital sequence information on genetic resources, as well as traditional knowledge associated with genetic resources.",GBF_T13_H_37,"number of countries that have taken effective legal, policy, administrative and capacity-building measures at all levels, as appropriate, to ensure the fair and equitable sharing of benefits from the utilization of genetic resources and from digital sequence information on genetic resources, as well as traditional knowledge associated with genetic resources"
+"Number of countries integrating biodiversity and its multiple values into policies, regulations, planning, development processes, poverty [reduction][eradication] strategies and accounts at all levels, [ensuring that biodiversity values are mainstreamed] [and] across all sectors [ and fiscal and financial flows are aligned with it].",GBF_T14_H_38,"number of countries integrating biodiversity and its multiple values into policies, regulations, planning, development processes, poverty [reduction][eradication] strategies and accounts at all levels, [ensuring that biodiversity values are mainstreamed] [and] across all sectors [ and fiscal and financial flows are aligned with it]"
+"Number of companies disclosing their biodiversity-related risks, dependencies and impacts",GBF_T15_H_39,"number of companies disclosing their biodiversity-related risks, dependencies and impacts"
+"Number of countries taking legal, administrative or policy measures aimed at encouraging and enabling business and financial institutions, and in particular, ensuring that large and transnational companies and financial institutions, to progressively reduce negative impacts from business and financial institutions on biodiversity, increase their positive impacts, reduce their biodiversity-related risks and promote actions to ensure sustainable patterns of production.",GBF_T15_H_40,"number of countries taking legal, administrative or policy measures aimed at encouraging and enabling business and financial institutions, and in particular, ensuring that large and transnational companies and financial institutions, to progressively reduce negative impacts from business and financial institutions on biodiversity, increase their positive impacts, reduce their biodiversity-related risks and promote actions to ensure sustainable patterns of production"
+"Number of countries developing, adopting or implementing policy instruments aimed at encouraging and enabling people to make sustainable consumption choices.",GBF_T16_H_41,"number of countries developing, adopting or implementing policy instruments aimed at encouraging and enabling people to make sustainable consumption choices"
+Number of countries that have taken action to implement biosafety measures as set out in Article 8(g) of the Convention and measures for the handling of biotechnology and the distribution of its benefits as set out in Article 19.,GBF_T17_H_42,number of countries that have taken action to implement biosafety measures as set out in article 8(g) of the convention and measures for the handling of biotechnology and the distribution of its benefits as set out in article 19
+Positive incentives in place to promote biodiversity conservation and sustainable use,GBF_T18_H_43,positive incentives in place to promote biodiversity conservation and sustainable use
+Value of subsidies and other incentives harmful to biodiversity,GBF_T18_H_44,value of subsidies and other incentives harmful to biodiversity
+"International public funding, including official development assistance (ODA) for conservation and sustainable use of biodiversity and ecosystems",GBF_T19_H_45,"international public funding, including official development assistance (oda) for conservation and sustainable use of biodiversity and ecosystems"
+Domestic public funding on conservation and sustainable use of biodiversity and ecosystems,GBF_T19_H_46,domestic public funding on conservation and sustainable use of biodiversity and ecosystems
+Private funding (domestic and international) on conservation and sustainable use of biodiversity and ecosystems,GBF_T19_H_47,private funding (domestic and international) on conservation and sustainable use of biodiversity and ecosystems
+"Number of countries that have taken significant action to strengthen capacity-building and development, access to and transfer of technology, and to promote the development of and access to innovation and technical and scientific cooperation.",GBF_T20_H_48,"number of countries that have taken significant action to strengthen capacity-building and development, access to and transfer of technology, and to promote the development of and access to innovation and technical and scientific cooperation"
+Indicator on biodiversity information for monitoring the global biodiversity framework,GBF_T21_H_49,indicator on biodiversity information for monitoring the global biodiversity framework
+"Number of countries taking action towards the full, equitable, inclusive, effective and gender-responsive representation and participation in decision-making and access to justice and information related to biodiversity by indigenous peoples and local communities, respecting their cultures and their rights over lands, territories, resources and traditional knowledge, as well as by women and girls, children and youth, and persons with disabilities, and the full protection of environmental human rights defenders",GBF_T22_H_50,"number of countries taking action towards the full, equitable, inclusive, effective and gender-responsive representation and participation in decision-making and access to justice and information related to biodiversity by indigenous peoples and local communities, respecting their cultures and their rights over lands, territories, resources and traditional knowledge, as well as by women and girls, children and youth, and persons with disabilities, and the full protection of environmental human rights defenders"
+"Number of countries with legal, administrative or policy frameworks, including the Gender Plan of Action, as well as the allocation of specific financial resources to ensure that all women and girls have equal opportunity and capacity to contribute to the three objectives of the Convention, including by ensuring women’s equal rights and access to land and natural resources.",GBF_T23_H_51,"number of countries with legal, administrative or policy frameworks, including the gender plan of action, as well as the allocation of specific financial resources to ensure that all women and girls have equal opportunity and capacity to contribute to the three objectives of the convention, including by ensuring women’s equal rights and access to land and natural resources"
+Ecosystem Intactness Index,GBF_GA_C_1,ecosystem intactness index
+Ecosystem Integrity Index,GBF_GA_C_2,ecosystem integrity index
+Species habitat Index,GBF_GA_C_3,species habitat index
+Biodiversity Habitat Index,GBF_GA_C_4,biodiversity habitat index
+Protected Connected (Protconn) index,GBF_GA_C_5,protected connected (protconn) index
+Protected Area Connectedness Index (PARC-Connectedness),GBF_GA_C_6,protected area connectedness (parc-connectedness) index
+Evolutionarily Distinct and Globally Endangered (EDGE),GBF_GA_C_7,evolutionarily distinct and globally endangered (edge)
+Living Planet Index,GBF_GA_C_8,living planet index
+Change in the extent of water-related ecosystems over time,GBF_GA_C_9,change in the extent of water-related ecosystems over time
+Red List Index (for utilized species),GBF_GB_C_10,red list index (for utilized species)
+Living Planet Index (for used species),GBF_GB_C_11,living planet index (used species)
+Priority retention of intact / wilderness areas,GBF_T1_C_14,priority retention of intact / wilderness areas
+Extent of natural ecosystems by type,GBF_T2_C_15,extent of natural ecosystems
+Maintenance and restoration of connectivity of natural ecosystems,GBF_T2_C_16,maintenance and restoration of connectivity of natural ecosystems
+Protected area coverage of key biodiversity areas,GBF_T3_C_17,protected area coverage of key biodiversity areas
+Protected Area Management Effectiveness (PAME),GBF_T3_C_18,protected area management effectiveness (pame)
+Protconn,GBF_T3_C_19,protected connected (protconn) index
+Protected Area Connectedness Index (PARC-Connectedness),GBF_T3_C_20,protected area connectedness (parc-connectedness) index
+Red List of Ecosystems,GBF_T3_C_21,red list of ecosystems
+Connectivity Indicator (in development),GBF_T3_C_22,connectivity indicator
+The number of protected areas that have completed a site-level assessment of governance and equity (SAGE),GBF_T3_C_23,the number of protected areas that have completed a site-level assessment of governance and equity (sage)
+Species Protection Index,GBF_T3_C_24,species protection index
+Living Planet Index,GBF_T4_C_25,living planet index
+Number of plant and animal genetic resources secured in medium or long-term conservation facilities,GBF_T4_C_26,number of plant and animal genetic resources secured in medium or long-term conservation facilities
+Trends in effective and sustainable management of human-wildlife conflict and coexistence,GBF_T4_C_27,trends in effective and sustainable management of human-wildlife conflict and coexistence
+Green Status of Species Index,GBF_T4_C_28,green status of species index
+Conservation status of species listed in the CITES Appendices has stabilized or improved,GBF_T4_C_29,conservation status of species listed in the cites appendices has stabilized or improved
+Red List Index for used species,GBF_T5_C_30,red list index (for utilized species)
+Living Planet Index for used species,GBF_T5_C_31,living planet index (used species)
+Sustainable use of Wild Species,GBF_T5_C_32,sustainable use of wild species
+Rate of invasive species impact and rate of impact,GBF_T6_C_33,rate of invasive species impact and rate of impact
+Rate of invasive alien species spread,GBF_T6_C_34,rate of invasive alien species spread
+Number of invasive alien species introduction events,GBF_T6_C_35,number of invasive alien species introduction events
+Fertilizer use,GBF_T7_C_36,fertilizer use
+Proportion of domestic and industrial wastewater flow safely treated,GBF_T7_C_37,proportion of domestic and industrial wastewater flows safely treated
+Floating plastic debris density [by micro and macro plastics],GBF_T7_C_38,plastic debris density
+Red List Index (impact of pollution),GBF_T7_C_39,red list index (impacts of pollution)
+Total climate regulation services provided by ecosystems by ecosystem type (System of Environmental Economic Accounts),GBF_T8_C_40,total climate regulation services provided by ecosystems by ecosystem type (system of environmental economic accounts)
+Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030 which include biodiversity,GBF_T8_C_41,number of countries that adopt and implement national disaster risk reduction strategies in line with the sendai framework for disaster risk reduction 2015-2030
+National greenhouse inventories from land use and land use change,GBF_T8_C_42,national greenhouse inventories from land use and land use change
+Bioclimatic Ecosystem Resilience Index (BERI),GBF_T8_C_43,bioclimatic ecosystem resilience index (beri)
+"Number of people using wild resources for energy, food or culture (including firewood collection, hunting and fishing, gathering, medicinal use, craft making, etc.)",GBF_T9_C_44,"number of people using wild resources for energy, food or culture (including firewood collection, hunting and fishing, gathering, medicinal use, craft making, etc.)"
+Red List Index (species used for food and medicine),GBF_T9_C_45,red list index (for utilized species)
+Living Planet Index (for used species),GBF_T9_C_46,living planet index (used species)
+Area of forest under sustainable management: total forest management certification by Forest Stewardship Council and Programme for the Endorsement of Forest Certification,GBF_T10_C_47,area of forest under sustainable management
+"Average income of small-scale food producers, by sex and indigenous status",GBF_T10_C_48,"average income of small-scale food producers, by sex and indigenous status"
+"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",GBF_T11_C_49,"number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",GBF_T11_C_50,"mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe water, sanitation and hygiene for all (wash) services)"
+Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities,GBF_T11_C_51,annual mean levels of fine particulate matter in cities
+Proportion of bodies of water with good ambient water quality,GBF_T11_C_52,proportion of bodies of water with good ambient water quality
+Level of water stress,GBF_T11_C_53,level of water stress
+Recreation and cultural ecosystem services provided,GBF_T12_C_54,recreation and cultural ecosystem services provided
+Number of permits or their equivalents for genetic resources (including those related to traditional knowledge) by type of permit,GBF_T13_C_55,number of permits or their equivalents for genetic resources (including those related to traditional knowledge) by type of permit
+Number of countries with Implementation of the System of Environmental Economic Accounting,GBF_T14_C_56,number of countries with implementation of the system of environmental economic accounting
+Indicator based on Task Force for Naturerelated Financial Disclosures,GBF_T15_C_57,indicator based on task force for naturerelated financial disclosures
+Food waste index,GBF_T16_C_58,food waste index
+Material footprint per capita,GBF_T16_C_59,material footprint per capita
+Global environmental impacts of consumption,GBF_T16_C_60,global environmental impacts of consumption
+Ecological footprint,GBF_T16_C_61,ecological footprint
+"Value of subsidies and other incentives harmful to biodiversity, that are redirected, repurposed or eliminated",GBF_T18_C_63,value of subsidies and other incentives harmful to biodiversity
+Species status index,GBF_T21_C_66,species status index
+"Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessments",GBF_T21_C_67,"extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessments"
+"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",GBF_T22_C_68,"proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+Proportion of seats held by women in (a) national parliaments and (b) local governments,GBF_T23_C_69,proportion of seats held by women in (a) national parliaments and (b) local governments
+Indicator on national implementation of the Gender Plan of Action 2023-2030,GBF_T23_C_70,indicator on national implementation of the gender plan of action 2023-2030
+"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",GBF_T23_C_71,"proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+Forest area as a proportion of total land area,GBF_GA_CY_1,forest area as a percentage of total land area
+Forest distribution,GBF_GA_CY_2,forest distribution
+"Tree cover loss
+",GBF_GA_CY_3,tree cover loss
+Grassland and savannah extent,GBF_GA_CY_4,grassland and savannah extent
+"Mountain Green Cover Index
+",GBF_GA_CY_5,mountain green cover index
+"Peatland extent and condition
+",GBF_GA_CY_6,peatland extent and condition
+"Permafrost thickness, depth and extent
+",GBF_GA_CY_7,"permafrost thickness, depth and extent"
+"Continuous Global Mangrove Forest Cover
+",GBF_GA_CY_8,continuous global mangrove forest area
+"Trends in mangrove forest fragmentation
+",GBF_GA_CY_9,trends in mangrove forest fragmentation
+"Trends in mangrove extent
+",GBF_GA_CY_10,trends in mangrove extent
+"Live coral cover 
+",GBF_GA_CY_11,live coral cover
+"Hard coral cover and composition 
+",GBF_GA_CY_12,hard coral cover and composition
+"Global coral reef extent 
+",GBF_GA_CY_13,global coral reef extent
+Global Seagrass Extent (Seagrass Cover and composition),GBF_GA_CY_14,global seagrass extent (seagrass cover and composition)
+"Global saltmarsh extent
+",GBF_GA_CY_15,global saltmarsh extent
+"Kelp canopy extent
+",GBF_GA_CY_16,kelp canopy extent
+"Macroalgal Canopy Cover and Composition
+",GBF_GA_CY_17,macroalgal canopy cover and composition
+"Cover of key benthic groups
+",GBF_GA_CY_18,cover of key benthic groups
+"Fleshy algae cover
+",GBF_GA_CY_19,fleshy algae cover
+"Wetland Extent Trends Index
+",GBF_GA_CY_20,wetland extent trends index
+Change in the extent of inland water ecosystems over time,GBF_GA_CY_21,change in the extent of inland water ecosystems over time
+"Forest Fragmentation Index
+",GBF_GA_CY_22,forest fragmentation index
+"Forest Landscape Integrity Index
+",GBF_GA_CY_23,forest landscape integrity index
+"Biomass of selected natural ecosystems 
+",GBF_GA_CY_24,biomass of selected natural ecosystems
+Biodiversity Habitat Index,GBF_GA_CY_25,biodiversity habitat index
+"Global Vegetation Health Products
+",GBF_GA_CY_26,global vegetation health products
+Bioclimatic Ecosystem Resilience Index (BERI),GBF_GA_CY_27,bioclimatic ecosystem resilience index (beri)
+"Relative Magnitude of Fragmentation (RMF) 
+",GBF_GA_CY_28,relative magnitude of fragmentation (rmf)
+"Ecosystem Intactness Index
+",GBF_GA_CY_29,ecosystem intactness index
+"Biodiversity Intactness Index 
+",GBF_GA_CY_30,biodiversity intactness index
+"Ocean Health Index 
+",GBF_GA_CY_31,ocean health index
+Extent of physical damage indicator to predominant seafloor habitats physical damage,GBF_GA_CY_32,extent of physical damage indicator to predominant seafloor habitats physical damage
+River Fragmentation Index,GBF_GA_CY_33,river fragmentation index
+Dendritic Connectivity Index,GBF_GA_CY_34,dendritic connectivity index
+Percentage of threatened species that are improving in status according to the Red List,GBF_GA_CY_35,percentage of threatened species that are improving in status
+Number of threatened species by species group,GBF_GA_CY_36,number of threatened species by species group
+Wild bird index,GBF_GA_CY_37,wild bird index
+Mean Species Abundance (MSA),GBF_GA_CY_38,mean species abundance (msa)
+Species Protection Index,GBF_GA_CY_39,species protection index
+Changes in plankton biomass and abundance,GBF_GA_CY_40,changes in plankton biomass and abundance
+Fish abundance and biomass,GBF_GA_CY_41,fish abundance and biomass
+Genetic scorecard for wild species,GBF_GA_CY_42,genetic scorecard for wild species
+local species richness (predicts),GBF_GA_CY_43,local species richness (predicts)
+"Marine species richness 
+",GBF_GA_CY_44,marine species richness
+Comprehensiveness of conservation of socioeconomically as well as culturally valuable species.,GBF_GA_CY_45,comprehensiveness of conservation of socioeconomically as well as culturally valuable species
+Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,GBF_GA_CY_46,number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+Proportion of local breeds classified as being at risk extinction,GBF_GA_CY_47,proportion of local breeds classified as being at risk of extinction
+Red List Index (wild relatives of domesticated animals),GBF_GA_CY_48,red list index (wild relatives of farmed and domesticated species)
+CMS Connectivity Indicator,GBF_GA_CY_49,cms connectivity indicator
+Species Status Index,GBF_GA_CY_50,species status index
+"Intact Wilderness 
+",GBF_GA_CY_51,intact wilderness
+Expected Loss of Phylogenetic diversity,GBF_GA_CY_52,loss of phylogenetic diversity
+Proportion of populations maintained within species,GBF_GA_CY_53,proportion of populations maintained within species
+Free flowing rivers,GBF_GA_CY_54,free flowing rivers
+Levels of poverty in biodiversity depended communities,GBF_GB_CY_55,levels of poverty in biodiversity depended communities
+Ecological footprint,GBF_GB_CY_56,ecological footprint
+Number of certified forest areas under sustainable management with verified impacts on biodiversity conservation,GBF_GB_CY_57,number of certified forest areas under sustainable management with verified impacts on biodiversity conservation
+Expected loss of Phylogenetic Diversity,GBF_GB_CY_58,loss of phylogenetic diversity
+Red List Index (pollinating species),GBF_GB_CY_59,red list index (pollinators)
+Green status index (pollinators),GBF_GB_CY_60,green status of species index (pollinators)
+Air quality index,GBF_GB_CY_61,air quality index
+Air pollution emissions account,GBF_GB_CY_62,air pollution emissions account
+Zoonotic disease in wildlife,GBF_GB_CY_63,zoonotic disease
+Climatic impact index,GBF_GB_CY_64,climatic impact index
+Ocean acidification,GBF_GB_CY_65,ocean acidification
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,GBF_GB_CY_66,level of water stress (freshwater withdrawal as a proportion of available freshwater resources)
+Proportion of bodies of water with good ambient water quality,GBF_GB_CY_67,proportion of bodies of water with good ambient water quality
+Eflow index,GBF_GB_CY_68,eflow index
+Change in the quality of inland water ecosystems over time,GBF_GB_CY_69,change in the quality of inland water ecosystems over time
+Change in the quality of coastal water ecosystems over time,GBF_GB_CY_70,change in the quality of coastal water ecosystems over time
+Level of erosion,GBF_GB_CY_71,level of erosion
+"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",GBF_GB_CY_72,"number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+Intact wilderness,GBF_GB_CY_73,intact wilderness
+Biofuel production,GBF_GB_CY_74,biofuel production
+Maximum fish catch potential,GBF_GB_CY_75,fish catch potential
+Population involved in hunting and gathering,GBF_GB_CY_76,population involved in hunting and gathering
+"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale",GBF_GB_CY_77,"prevalence of moderate or severe food insecurity in the population, based on the food insecurity experience scale"
+Forestry Production & Trade (Wood Fuel),GBF_GB_CY_78,forestry production and trade (wood fuel)
+Trends in the legal trade of medicinal plants,GBF_GB_CY_79,trends in the legal trade of medicinal plants
+Visitor management assessment,GBF_GB_CY_80,visitor management assessment
+Number of formal and nonformal education programmes transmitting spiritual and cultural values in the UNESCO World Network of Biosphere Reserves,GBF_GB_CY_81,number of formal and nonformal education programmes transmitting spiritual and cultural values in the unesco world network of biosphere reserves
+"Number of mixed sites (having both natural and cultural Outstanding Universal Values), cultural landscapes (recognized as combined works of nature and people) and natural sites with cultural values including those supporting local and indigenous knowledge and practices inscribed on the UNESCO World Heritage List and UNESCO World Network of Biosphere Reserves",GBF_GB_CY_82,"number of mixed sites (having both natural and cultural outstanding universal values), cultural landscapes (recognized as combined works of nature and people) and natural sites with cultural values including those supporting local and indigenous knowledge and practices inscribed on the unesco world heritage list and unesco world network of biosphere reserves"
+Index of Linguistic Diversity,GBF_GB_CY_83,linguistic diversity index
+Trends of Bilinguistic diversity and numbers of speakers of indigenous languages,GBF_GB_CY_84,trends of bilinguistic diversity and numbers of speakers of indigenous languages
+"Index of development of the standard - setting framework for the protection and promotion of culture, cultural rights and cultural diversity",GBF_GB_CY_85,"index of development of the standard - setting framework for the protection and promotion of culture, cultural rights and cultural diversity"
+Cultural vitality index,GBF_GB_CY_86,cultural vitality index
+UNESCO Culture 2030 (multiple indicators),GBF_GB_CY_87,unesco culture 2030 (multiple indicators)
+Processes and tools to monitor the implementation of a right to a healthy environment (e.g. Included in NBSAPs and reported in national reports,GBF_GB_CY_88,processes and tools to monitor the implementation of a right to a healthy environment (e.g. included in nbsaps and reported in national reports
+Red List Index (for internationally traded species),GBF_GB_CY_89,red list index (internationally traded species)
+Number of users that have provided information relevant to the utilization of genetic resources to designated checkpoints,GBF_GC_CY_90,number of users that have provided information relevant to the utilization of genetic resources to designated checkpoints
+Total number of internationally recognized certificates published in the ABS Clearing-House,GBF_GC_CY_91,total number of internationally recognized certificates of compliance published in the abs clearing-house
+Number of checkpoint communiques published in the ABS Clearing-House,GBF_GC_CY_92,number of checkpoint communiques published in the abs clearing-house
+Number of internationally recognized certificates of compliance for non-commercial purposes,GBF_GC_CY_93,number of internationally recognized certificates of compliance for non-commercial purposes
+"Integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting.",GBF_GC_CY_94,"integration of biodiversity into national accounting and reporting systems, defined as implementation of the system of environmental-economic accounting"
+Finance mobilized for capacity-building,GBF_GD_CY_95,finance mobilized for capacity-building
+"Financial and technical assistance provided in dollars (including through South-South, North-South and triangular cooperation)",GBF_GD_CY_96,"financial and technical assistance provided in dollars (including through south-south, north-south and triangular cooperation)"
+"Finance mobilized for promoting the development, transfer, dissemination and diffusion of technology",GBF_GD_CY_97,"finance mobilized for promoting the development, transfer, dissemination and diffusion of technology"
+"Number of scientists per population
+",GBF_GD_CY_98,number of scientists per population
+Joint scientific papers published in Ocean Biodiversity Information System (OBIS) by sector,GBF_GD_CY_99,joint scientific papers published in ocean biodiversity information system (ocean biodiversity information system (obis)) by sector
+Nationally maintained research vessels,GBF_GD_CY_100,nationally maintained research vessels
+Proportion of total research budget allocated to research in the field of marine technology,GBF_GD_CY_101,proportion of total research budget allocated to research in the field of marine technology
+Volume of official development assistance flows for scholarships by sector and type of study,GBF_GD_CY_102,volume of official development assistance flows for scholarships by sector and type of study
+Global imports of information and communication technology (ICT) goods as presented by bilateral trade flows by ICT goods categories,GBF_GD_CY_103,global imports of information and communication technology (ict) goods as presented by bilateral trade flows by ict goods categories
+"Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",GBF_GD_CY_104,"total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+Number of countries using natural capital accounts in planning processes,GBF_T1_CY_105,number of countries using natural capital accounts in planning processes
+Percentage of spatial plans utilizing information on key biodiversity areas,GBF_T1_CY_106,percentage of spatial plans utilizing information on key biodiversity areas
+Habitat patches located within marine protected areas or integrated coastal zone management (ICZM),GBF_T1_CY_107,habitat patches located within marine protected areas or integrated coastal zone management (iczm)
+Other spatial management plans (not captured as ICZM or marine spatial planning in 14.2.1),GBF_T1_CY_108,other spatial management plans (not captured as iczm or marine spatial planning in 14.2.1)
+Number of countries using ocean accounts in planning processes,GBF_T1_CY_109,number of countries using ocean accounts in planning processes
+Proportion of transboundary basin area with an operational arrangement for water cooperation,GBF_T1_CY_110,proportion of transboundary basin area with an operational arrangement for water cooperation
+Percent of total land area that is under cultivation,GBF_T1_CY_111,percent of total land area that is under cultivation
+Extent of natural ecosystems by type,GBF_T1_CY_112,extent of natural ecosystems
+"Number of countries implementing national legislation, policies or other measures regarding FPIC related to conservation would work here for IPs (not necessarily LCs), if spatial planning was substituted for conservation.",GBF_T1_CY_113,"number of countries implementing national legislation, policies or other measures regarding fpic related to conservation"
+Ecosystem Integrity Index,GBF_T1_CY_114,ecosystem integrity index
+Habitat distributional range,GBF_T2_CY_115,habitat distributional range
+"Index of Species Rarity Sites, High Biodiversity Areas, Large Mammal Landscapes, Intact Wilderness and Climate Stabilization Areas",GBF_T2_CY_116,"index of species rarity sites, high biodiversity areas, large mammal landscapes, intact wilderness and climate stabilization areas"
+Increase in secondary natural forest cover,GBF_T2_CY_117,increase in secondary natural forest cover
+Annual Tropical Primary Tree Cover Loss,GBF_T2_CY_118,annual tropical primary tree cover loss
+Forest Landscape Integrity Index,GBF_T2_CY_119,forest landscape integrity index
+Global Ecosystem Restoration Index,GBF_T2_CY_120,global ecosystem restoration index
+Free flowing rivers,GBF_T2_CY_121,free flowing rivers
+Percentage of cropped landscapes with at least 10 % natural land,GBF_T2_CY_122,percentage of cropped landscapes with at least 10 percentage natural land
+Bioclimatic Ecosystem Resilience Index (BERI),GBF_T2_CY_123,bioclimatic ecosystem resilience index (beri)
+Priority retention of intact / wilderness areas,GBF_T2_CY_124,priority retention of intact / wilderness areas
+Status of Key Biodiversity Areas,GBF_T2_CY_125,status of key biodiversity areas
+Biodiversity Habitat Index,GBF_T2_CY_126,biodiversity habitat index
+Red List Index,GBF_T2_CY_127,red list index
+Red List of Ecosystems,GBF_T2_CY_128,red list of ecosystems
+Living Planet Index,GBF_T2_CY_129,living planet index
+Species habitat Index,GBF_T2_CY_130,species habitat index
+"Protected area downgrading, downsizing and degazettement (PD)",GBF_T3_CY_131,"protected area downgrading, downsizing and degazettement (pd)"
+Status of key biodiversity areas,GBF_T3_CY_132,status of key biodiversity areas
+IUCN Green List of Protected and Conserved Areas,GBF_T3_CY_133,iucn green list of protected and conserved areas
+Number of hectares of UNESCO designated sites (natural and mixed World Heritage sites and Biosphere Reserves),GBF_T3_CY_134,number of hectares of unesco designated sites (natural and mixed world heritage sites and biosphere reserves)
+Protected area and OECM management effectiveness (MEPCA) indicator,GBF_T3_CY_135,protected area and oecm management effectiveness (mepca) indicator
+Protected Area Isolation Index (PAI),GBF_T3_CY_136,protected area isolation index (pai)
+Protected Areas Network metric (ProNet),GBF_T3_CY_137,protected areas network metric (pronet)
+Extent to which protected areas and other effective area-based conservation measures (OECMs) cover Key Biodiversity Areas that are important for migratory species,GBF_T3_CY_138,extent to which protected areas and other effective area-based conservation measures cover key biodiversity areas that are important for migratory species
+Coverage of Protected areas and OECMS and traditional territories (by governance type),GBF_T3_CY_139,coverage of protected areas and other effective area-based conservation measures and traditional territories (by governance type)
+Ramsar Management Effectiveness Tracking Tool (R-METT),GBF_T3_CY_140,ramsar management effectiveness tracking tool (r-mett)
+Percentage of biosphere reserves that have a positive conservation outcome and effective management,GBF_T3_CY_141,percentage of biosphere reserves that have a positive conservation outcome and effective management
+Extent of indigenous peoples and local communities lands that have some form of recognition,GBF_T3_CY_142,extent of indigenous peoples and local communities lands that have some form of recognition
+Species Protection Index,GBF_T3_CY_143,species protection index
+"Number of countries implementing national legislation, policies or other measures regarding FPIC related to conservation",GBF_T3_CY_144,"number of countries implementing national legislation, policies or other measures regarding fpic related to conservation"
+Red List of Ecosystems,GBF_T3_CY_145,red list of ecosystems
+"Proportion of terrestrial, freshwater and marine ecological regions which are conserved by protected areas or other effective area-based conservation measures",GBF_T3_CY_146,"proportion of terrestrial, freshwater and marine ecological regions which are conserved by protected areas or other effective area-based conservation measures"
+Species threat abatement and restoration metric,GBF_T4_CY_147,species threat abatement and restoration metric
+Changing status of evolutionary distinct and globally endangered species (EDGE Index),GBF_T4_CY_148,changing status of evolutionary distinct and globally endangered species (edge index)
+Percentage of threatened species that are improving in status,GBF_T4_CY_149,percentage of threatened species that are improving in status
+Number of CMS daughter agreements,GBF_T4_CY_150,number of cms daughter agreements
+Proportion of local breeds classified as being at risk extinction,GBF_T4_CY_151,proportion of local breeds classified as being at risk of extinction
+Red List Index (wild relatives of domesticated animals),GBF_T4_CY_152,red list index (wild relatives of farmed and domesticated species)
+Rate of invasive alien species establishment,GBF_T4_CY_153,rate of invasive alien species establishment
+Sustainable watershed and inland fisheries index,GBF_T5_CY_154,sustainable watershed and inland fisheries index
+Red List Index (for internationally traded species and for migratory species),GBF_T5_CY_155,red list index (internationally traded species and migratory species)
+Marine Stewardship Council Fish catch,GBF_T5_CY_156,marine stewardship council certified catch
+Total catch of cetaceans under International Convention for the Regulation of Whaling,GBF_T5_CY_157,total catch of cetaceans under international convention for the regulation of whaling
+By catch of vulnerable and non-target species,GBF_T5_CY_158,by catch of vulnerable and non-target species
+"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",GBF_T5_CY_159,"degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+Proportion of legal and illegal wildlife trade consisting of species threatened with extinction,GBF_T5_CY_160,proportion of legal and illegal wildlife trade consisting of species threatened with extinction
+Illegal trade by CITES species classification,GBF_T5_CY_161,illegal trade by cites species classification
+Number of countries incorporating trade in their national biodiversity policy,GBF_T5_CY_162,number of countries incorporating trade in their national biodiversity policy
+"Proportion of terrestrial, freshwater and marine ecological regions which are conserved by protected areas or other effective area-based conservation measures",GBF_T5_CY_163,"proportion of terrestrial, freshwater and marine ecological regions which are conserved by protected areas or other effective area-based conservation measures"
+Implementation of measures designed to minimize the impacts of fisheries and hunting on migratory species and their habitats,GBF_T5_CY_164,implementation of measures designed to minimize the impacts of fisheries and hunting on migratory species and their habitats
+Number of MSC Chain of Custody Certification holders by distribution country,GBF_T5_CY_165,number of msc chain of custody certification holders by distribution country
+Trends of trade and commercialization in biodiversity-based products that is sustainable and legal (in line with BioTrade Principles and/or CITES requirements),GBF_T5_CY_166,trends of trade and commercialization in biodiversity-based products that is sustainable and legal (in line with biotrade principles and/or cites requirements)
+Number of invasive alien species in national lists as per the Global Register of Introduced and Invasive Species,GBF_T6_CY_167,number of invasive alien species in national lists as per the global register of introduced and invasive species
+"Trends in abundance, temporal occurrence, and spatial distribution of non-indigenous species, particularly invasive, non-indigenous species, notably in risk areas (in relation to the main vectors and pathways of spreading of such species)",GBF_T6_CY_168,"trends in abundance, temporal occurrence, and spatial distribution of non-indigenous species, particularly invasive, non-indigenous species, notably in risk areas (in relation to the main vectors and pathways of spreading of such species)"
+Red List Index (impacts of invasive alien species),GBF_T6_CY_169,red list index (impacts of invasive alien species)
+Trends in Loss of Reactive Nitrogen to the Environment.,GBF_T7_CY_170,trends in loss of reactive nitrogen to the environment
+Trends in Nitrogen Deposition,GBF_T7_CY_171,trends in nitrogen deposition
+Municipal solid waste collected and managed,GBF_T7_CY_172,municipal solid waste collected and managed
+Hazardous waste generation,GBF_T7_CY_173,hazardous waste
+Trends in the amount of litter in the water column including microplastics and on the seafloor,GBF_T7_CY_174,trends in the amount of litter in the water column including microplastics and on the seafloor
+Index of coastal eutrophication (icep),GBF_T7_CY_175,index of coastal eutrophication potential (icep)
+plastic debris density,GBF_T7_CY_176,plastic debris density
+Red List of Ecosystems,GBF_T7_CY_177,red list of ecosystems
+Underwater noise pollution,GBF_T7_CY_178,underwater noise pollution
+"Name, amount/ volume/ concentration of highly hazardous pesticides by type (per land/marine area)",GBF_T7_CY_179,"name, amount/ volume/ concentration of highly hazardous pesticides by type (per land/marine area)"
+Pesticide use per area of cropland,GBF_T7_CY_180,pesticide use per area of cropland
+Above-ground biomass stock in forest (tonnes/ha),GBF_T8_CY_181,above-ground biomass in forests
+National greenhouse inventories from land use and land use change,GBF_T8_CY_182,national greenhouse inventories from land use and land use change
+Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,GBF_T8_CY_183,proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+"Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications",GBF_T8_CY_184,"number of least developed countries and small island developing states with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the united nations framework convention on climate change"
+Index of coastal eutrophication,GBF_T8_CY_185,index of coastal eutrophication potential (icep)
+"Carbon stocks and annual net GHG emissions, by landuse category, split by natural and non-natural land cover",GBF_T8_CY_186,"carbon stocks and annual net ghg emissions, by landuse category, split by natural and non-natural land cover"
+Proportion of fish stocks within biologically sustainable levels,GBF_T9_CY_187,proportion of fish stocks within biologically sustainable levels
+"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",GBF_T9_CY_188,"degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+Number of MSC Chain of Custody Certification holders by distribution country,GBF_T9_CY_189,number of msc chain of custody certification holders by distribution country
+Spawning stock biomass (related to commercially exploited species),GBF_T9_CY_190,spawning stock biomass (related to commercially exploited species)
+Number of plant and animal genetic resources for food and agriculture secured in medium- or longterm conservation facilities,GBF_T9_CY_191,number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+Volume of production per labour unit by classes of farming/pastoral/ forestry enterprise size,GBF_T9_CY_192,volume of production per labour unit by classes of farming/pastoral/forestry enterprise size
+Agrobiodiversity Index,GBF_T10_CY_193,agrobiodiversity index
+Changes in soil organic carbon stocks,GBF_T10_CY_194,soil organic carbon (soc) stocks
+Red List Index (wild relatives of domesticated animals),GBF_T10_CY_195,red list index (wild relatives of farmed and domesticated species)
+Red List Index (pollinating species),GBF_T10_CY_196,red list index (pollinators)
+Proportion of local breeds classified as being at risk extinction,GBF_T10_CY_197,proportion of local breeds classified as being at risk of extinction
+Proportion of land that is degraded over total land area,GBF_T10_CY_198,proportion of land that is degraded over total land area
+Air emission accounts,GBF_T11_CY_199,air emission accounts
+Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,GBF_T11_CY_200,proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management
+Proportion of population using safely managed drinking water services,GBF_T11_CY_201,proportion of population using safely managed drinking water services
+Mortality rate attributed to household and ambient air pollution,GBF_T11_CY_202,mortality rate attributed to household and ambient air pollution
+Total number of transfers of crop material from the Multilateral System of the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA) received in a country,GBF_T13_CY_204,total number of transfers of crop material from the multilateral system of the international treaty on plant genetic resources for food and agriculture (itpgrfa) received in a country
+"Total number of permits, or their equivalent, granted for access to genetic resources",GBF_T13_CY_205,"total number of permits, or their equivalent, granted for access to genetic resources"
+Total number of internationally recognized certificates of compliance published in the ABS Clearing-House,GBF_T13_CY_206,total number of internationally recognized certificates of compliance published in the abs clearing-house
+"Number of countries that require prior informed consent that have published legislative, administrative or policy measures on access and benefit-sharing in the ABS Clearing-House",GBF_T13_CY_207,"number of countries that require prior informed consent that have published legislative, administrative or policy measures on access and benefit-sharing in the abs clearing-house"
+Number of countries that require prior informed consent that have published information on ABS procedures in the ABS Clearing-House,GBF_T13_CY_208,number of countries that require prior informed consent that have published information on abs procedures in the abs clearing-house
+"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",GBF_T13_CY_209,"number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+Estimated percentage of monetary and non monetary benefits directed towards conservation and sustainable use of biodiversity,GBF_T13_CY_210,estimated percentage of monetary and non monetary benefits directed towards conservation and sustainable use of biodiversity
+Human Appropriation of Net Primary Production (HANPP),GBF_T14_CY_211,human appropriation of net primary productivity
+CO2 emission per unit of value added,GBF_T14_CY_212,co2 emission per unit of value added
+Change in water-use efficiency over time,GBF_T14_CY_213,change in water-use efficiency over time
+Species threat abatement and restoration metric,GBF_T15_CY_214,species threat abatement and restoration metric
+Number of companies publishing sustainability reports,GBF_T15_CY_215,number of companies publishing sustainability reports
+"Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessments (SDG 4.7.1)",GBF_T16_CY_216,"extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessments"
+Recycling rate,GBF_T16_CY_217,recycling rate
+Life cycle Impact assessment (LCIA) e.g. LIME ; Lifecycle Impact Assessment Method based on Endpoint Modelling,GBF_T16_CY_218,life cycle impact assessment (lcia)
+Levels of poverty in developing communities,GBF_T16_CY_219,levels of poverty in developing communities
+Number of countries that have the necessary biosafety legal and administrative measures in place,GBF_T17_CY_220,number of countries that have the necessary biosafety legal and administrative measures in place
+Number of countries that implement their biosafety measures,GBF_T17_CY_221,number of countries that implement their biosafety measures
+Number of countries that have the necessary measures and means for detection and identification of products of biotechnology,GBF_T17_CY_222,number of countries that have the necessary measures and means for detection and identification of products of biotechnology
+Number of countries that carry out scientifically sound risk assessments to support biosafety decision-making,GBF_T17_CY_223,number of countries that carry out scientifically sound risk assessments to support biosafety decision-making
+Number of countries that establish and implement risk management measures,GBF_T17_CY_224,number of countries that establish and implement risk management measures
+Percentage of Parties to the Cartagena Protocol on Biosafety implementing the relevant provisions of the Protocol,GBF_T17_CY_225,percentage of parties to the cartagena protocol on biosafety implementing the relevant provisions of the protocol
+Number of countries with legal and technical measures for restoration and compensation,GBF_T17_CY_226,number of countries with legal and technical measures for restoration and compensation
+Percentage of Parties to the Nagoya - Kuala Lumpur Supplementary Protocol,GBF_T17_CY_227,percentage of parties to the nagoya - kuala lumpur supplementary protocol
+Percentage of countries with systems in place for restoration and compensation of damage to conservation and sustainable use of biological diversity,GBF_T17_CY_228,percentage of countries with systems in place for restoration and compensation of damage to conservation and sustainable use of biological diversity
+Number of countries that establish and implement risk management measures,GBF_T17_CY_229,number of countries that establish and implement risk management measures
+Number of countries with mechanisms to facilitate the sharing of and access to information on potential adverse impacts of biotechnology on biodiversity and human health,GBF_T17_CY_230,number of countries with mechanisms to facilitate the sharing of and access to information on potential adverse impacts of biotechnology on biodiversity and human health
+Number of countries with biodiversity-relevant taxes,GBF_T18_CY_231,number of countries with biodiversity relevant taxes
+Number of countries with biodiversity-relevant charges and fees,GBF_T18_CY_232,number of countries with biodiversity relevant charges and fees
+Number of countries with biodiversity-relevant tradable permit schemes,GBF_T18_CY_233,number of countries with biodiversity relevant tradable permit schemes
+Trends in potentially environmentally harmful elements of government support to agriculture (producer support estimate),GBF_T18_CY_234,trends in potentially environmentally harmful elements of government support to agriculture (producer support estimate)
+Trends in the number and value of government fossil fuel support measures,GBF_T18_CY_235,trends in the number and value of government fossil-fuel support measures
+Amount of fossil-fuel subsidies per unit of GDP (production and consumption),GBF_T18_CY_236,amount of fossil-fuel subsidies per unit of gross domestic product (production and consumption)
+Amount of funding provided through the Global Environment Facility and allocated to the biodiversity focal area,GBF_T19_CY_237,amount of funding provided through the global environment facility and allocated to the biodiversity focal area
+"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",GBF_T19_CY_238,"foreign direct investment (fdi), official development assistance and south-south cooperation as a proportion of total domestic budget"
+Amount and composition of biodiversity-related finance reported to the OECD Creditor reporting system,GBF_T19_CY_239,amount and composition of biodiversity-related finance reported to the oecd creditor reporting system
+"Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries",GBF_T19_CY_240,"dollar value of financial and technical assistance (including through north-south, south-south and triangular cooperation) committed to developing countries"
+Dollar value of all resources made available to strengthen statistical capacity in developing countries,GBF_T19_CY_241,dollar value of all resources made available to strengthen statistical capacity in developing countries
+Amount of biodiversity-related philanthropic funding,GBF_T19_CY_242,amount of biodiversity-related philanthropic funding
+Proportion of total research budget allocated to research in the field of marine technology,GBF_T19_CY_243,proportion of total research budget allocated to research in the field of marine technology
+"Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",GBF_T19_CY_244,"total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+Number of countries (and number of instruments) with payments for ecosystem services (PES) programmes,GBF_T19_CY_245,number of countries (and number of instruments) with payments for ecosystem services (pes) programmes
+"Number of countries that have (a) Assessed values of biodiversity, in accordance with the Convention, (b) Identified and reported funding needs, gaps and priorities (c)Developed national financial plans for biodiversity; (d) Been provided with the necessary funding and capacity building to undertake the above activities",GBF_T19_CY_246,"number of countries that have (a) assessed values of biodiversity, in accordance with the convention, (b) identified and reported funding needs, gaps and priorities (c)developed national financial plans for biodiversity; (d) been provided with the necessary funding and capacity building to undertake the above activities"
+Growth in number of records and species in the Living Planet Index database,GBF_T21_CY_248,growth in number of records and species in the living planet index database
+Growth in species occurrence records accessible through the Global Biodiversity Information Facility,GBF_T21_CY_249,species occurrence records accessible through the global biodiversity information facility
+Growth in marine species occurrence records accessible through OBIS,GBF_T21_CY_250,growth in marine species occurrence records accessible through ocean biodiversity information system (obis)
+Proportion of known species assessed through the IUCN Red List.,GBF_T21_CY_251,proportion of known species assessed through the red list index
+Number of assessments on the IUCN Red List of threatened species,GBF_T21_CY_252,number of assessments on the red list index
+World Association of Zoos and Aquariums (WAZA) bio-literacy survey (Biodiversity literacy in global zoo and aquarium visitors),GBF_T21_CY_253,world association of zoos and aquariums (waza) bio-literacy survey (biodiversity literacy in global zoo and aquarium visitors)
+"Species Status Information Index
+",GBF_T21_CY_254,species status index
+"Percentage of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups",GBF_T22_CY_255,"percentage of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+Number of countries with systems to track and make public allocations for gender equality and women's empowerment,GBF_T22_CY_256,number of countries with systems to track and make public allocations for gender equality and women's empowerment
+"Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",GBF_T22_CY_257,"proportion of total agricultural population with ownership or secure rights over agricultural land, by sex"
+"share of women among owners or rights-bearers of agricultural land, by type of tenure",GBF_T22_CY_258,"share of women among owners or rights-bearers of agricultural land, by type of tenure"
+Number of countries where the legal framework (including customary law) guarantees women's equal rights to land ownership and/or control,GBF_T22_CY_259,number of countries where the legal framework (including customary law) guarantees women's equal rights to land ownership and/or control
+Number of protected areas that have completed a site-level assessment of governance and equity (SAGE),GBF_T22_CY_260,number of protected areas that have completed a site-level assessment of governance and equity (sage)
+"Trends in number of environmental human rights defenders killed annually, disaggregated by country, gender; number of indigenous environmental human rights defenders kill",GBF_T22_CY_261,"trends in number of environmental human rights defenders killed annually, disaggregated by country, gender; number of indigenous environmental human rights defenders kill"
+Land tenure [in the traditional territories] of indigenous peoples and local communities [by sex and type of tenure],GBF_T22_CY_262,land tenure [in the traditional territories] of indigenous peoples and local communities [by sex and type of tenure]
+"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",GBF_T22_CY_263,"proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
+"Percentage of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups",GBF_T23_CY_264,"percentage of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+"Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",GBF_T23_CY_265,"proportion of total agricultural population with ownership or secure rights over agricultural land, by sex"
+"share of women among owners or rights-bearers of agricultural land, by type of tenure",GBF_T23_CY_266,"share of women among owners or rights-bearers of agricultural land, by type of tenure"
+Number of countries with systems to track and make public allocations for gender equality and women's empowerment,GBF_T23_CY_267,number of countries with systems to track and make public allocations for gender equality and women's empowerment
+Number of protected areas that have completed a site-level assessment of governance and equity (SAGE),GBF_T23_CY_268,number of protected areas that have completed a site-level assessment of governance and equity (sage)
+"Percentage of population who believe decision making is inclusive and responsive, by sex, age, disability and population group",GBF_T23_CY_269,"percentage of population who believe decision making is inclusive and responsive, by sex, age, disability and population group"
+Proportion of countries where the legal framework (including customary law) guarantees women's equal rights to land ownership and/or control,GBF_T23_CY_270,proportion of countries where the legal framework (including customary law) guarantees women equal rights to land ownership and/or control
+"Number of Parties that are in category 1 under the national legislation project. ",CITES_G1.1.1_1,number of parties that are in category 1 under the national legislation project
+Number of Parties subject to CITES recommendations to suspend trade.,CITES_G1.1.2_2,number of parties subject to cites recommendations to suspend trade
+"Number of Parties that have designated at least one Management Authority, independent Scientific Authority and enforcement focal points in place.",CITES_G1.2.1_3,"number of parties that have designated at least one management authority, independent scientific authority and enforcement focal points in place"
+Number of Parties that have implemented relevant reporting under Resolutions and Decisions of the Conference of the Parties and/or Standing Committee recommendations.,CITES_G1.3.1_4,number of parties that have implemented relevant reporting under resolutions and decisions of the conference of the parties and/or standing committee recommendations
+"The conservation status of species listed on the CITES Appendices has stabilized or improved. ",CITES_G1.5.1_5,the conservation status of species listed on the cites appendices has stabilized or improved
+Number of CITES-listed species for which Parties have put in place actions that support sustainable use,CITES_G1.5.2_6,number of cites-listed species for which parties have put in place actions that support sustainable use
+"Number of Parties that have adopted standard procedures for making non-detriment findings (NDFs). ",CITES_G2.1.1_7,number of parties that have adopted standard procedures for making non-detriment findings (ndfs)
+"Number of written NDFs submitted and number of Parties submitting NDFs for posting in the CITES online database. ",CITES_G2.1.2_8,number of written ndfs submitted and number of parties submitting ndfs for posting in the cites online database
+"Number of Parties that have included the legal acquisition finding obligation in their national regulatory framework, as recommended by Resolution Conf. 18.7 (Rev. CoP19).",CITES_G2.1.3_9,"number of parties that have included the legal acquisition finding obligation in their national regulatory framework, as recommended by resolution conf. 18.7 (rev. cop19)"
+"Number of surveys, studies or other analyses undertaken by exporting countries based on the sources of information cited in Resolution Conf. 16.7 (Rev. CoP17) on Non-detriment findings related to - the population status of Appendix-II species; - the trends and impact of trade upon Appendix-II species; and - the status of and trend in naturally-occurring Appendix I species and the impact of any recovery plans. ",CITES_G2.2.1_10,"number of surveys, studies or other analyses undertaken by exporting countries based on the sources of information cited in resolution conf. 16.7 (rev. cop17) on non-detriment findings related to - the population status of appendix-ii species; - the trends and impact of trade upon appendix-ii species; and - the status of and trend in naturally-occurring appendix i species and the impact of any recovery plans"
+"Number and proportion of annual export quotas based on population surveys. ",CITES_G2.2.2_11,number and proportion of annual export quotas based on population surveys
+"Number of workshops and other capacity-building activities that bring range States together to address the conservation and management needs of shared CITES listed species. ",CITES_G2.2.3_12,number of workshops and other capacity-building activities that bring range states together to address the conservation and management needs of shared cites listed species
+"Number of reports shared by the Parties in compliance with the Resolutions of the Convention. ",CITES_G2.2.4_13,number of reports shared by the parties in compliance with the resolutions of the convention
+"Number of Parties sharing information relevant to the implementation of CITES (e.g. shared databases, data visualization/software, information-sharing focused tools, etc.). ",CITES_G2.2.5_14,"number of parties sharing information relevant to the implementation of cites (e.g. shared databases, data visualization/software, information-sharing focused tools, etc.)"
+Number of CoP side-events where Parties present information and tools relevant to the implementation of CITES.,CITES_G2.2.6_15,number of cop side-events where parties present information and tools relevant to the implementation of cites
+"Proportion of Parties that are making use of the available tools",CITES_G2.3.1_16,proportion of parties that are making use of the available tools
+Percentage of Parties reporting having sufficient information to enforce the Convention.,CITES_G2.3.2_17,percentage of parties reporting having sufficient information to enforce the convention
+Percentage of Parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs.,CITES_G2.4.1_18,percentage of parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs
+"Number of Parties that have undertaken research (including for non-detriment findings) on their identified key species most relevant to the implementation of the Convention. ",CITES_G2.5.1_19,number of parties that have undertaken research (including for non-detriment findings) on their identified key species most relevant to the implementation of the convention
+Number of Parties that currently lack information for their identified key species most relevant to the implementation of the Convention and need assistance to address them.,CITES_G2.5.2_20,number of parties that currently lack information for their identified key species most relevant to the implementation of the convention and need assistance to address them
+"Number of Parties that have adopted standard transparent procedures for the timely issuance of permits in accordance with Article VI of the Convention. ",CITES_G3.1.1_21,number of parties that have adopted standard transparent procedures for the timely issuance of permits in accordance with article vi of the convention
+"Number of Parties making use of the simplified procedures provided for in Resolution Conf. 12.3 (Rev. CoP19). ",CITES_G3.1.2_22,number of parties making use of the simplified procedures provided for in resolution conf. 12.3 (rev. cop19)
+Number of Parties that have adopted an electronic system for the issuance of permits,CITES_G3.1.3_23,number of parties that have adopted an electronic system for the issuance of permits
+"Number of Parties with training programmes and information resources in place to implement CITES, including the making of non-detriment and legal acquisition findings, issuance of permits and enforcement. ",CITES_G3.2.1_24,"number of parties with training programmes and information resources in place to implement cites, including the making of non-detriment and legal acquisition findings, issuance of permits and enforcement"
+Number of workshops and other capacity-building activities that bring range States together to address the conservation and management needs of shared CITES listed species.,CITES_G3.2.2_25,number of workshops and other capacity-building activities that bring range states together to address the conservation and management needs of shared cites listed species
+"Number of Parties meeting their obligations with regard to their assessed contributions to the Trust Fund. ",CITES_G3.3.1_26,number of parties meeting their obligations with regard to their assessed contributions to the trust fund
+Percentage of the total funds required to implement the work programme agreed by the Conference of the Parties that is fully funded.,CITES_G3.3.2_27,percentage of the total funds required to implement the work programme agreed by the conference of the parties that is fully funded
+Number of Parties where criminal offences relating to illegal trade in wildlife (such as illegal hunting/harvest and wildlife trafficking) are recognized as a serious crime.,CITES_G3.4.1_28,number of parties where criminal offences relating to illegal trade in wildlife (such as illegal hunting/harvest and wildlife trafficking) are recognized as a serious crime
+"Number of seizures made through Parties collaboration across range, transit and destination states, to address entire illegal trade chains.",CITES_G3.5.1_29,"number of seizures made through parties collaboration across range, transit and destination states, to address entire illegal trade chains"
+Number of Parties reporting in implementation reports of activities taken to address corruption.,CITES_G3.6.1_30,number of parties reporting in implementation reports of activities taken to address corruption
+"Number of capacity-building activities delivered to Parties. ",CITES_G3.7.1_31,number of capacity-building activities delivered to parties
+"Number of Parties who report improvements in their implementation following targeted capacity-building efforts. ",CITES_G3.7.2_32,number of parties who report improvements in their implementation following targeted capacity-building efforts
+Total investments into capacity-building efforts.,CITES_G3.7.3_33,total investments into capacity-building efforts
+Number of CITES Parties using the CITES Checklist API.,CITES_G3.8.1_34,number of cites parties using the cites checklist api
+"Number of CITES-listed species for which Parties have designed/implemented relevant sustainable wildlife management policies. ",CITES_G4.1.1_35,number of cites-listed species for which parties have designed/implemented relevant sustainable wildlife management policies
+Percentage of Parties that co-developed or otherwise supported the capacity of indigenous peoples and local communities to pursue livelihoods.,CITES_G4.1.2_36,percentage of parties that co-developed or otherwise supported the capacity of indigenous peoples and local communities to pursue livelihoods
+"Number of Parties incorporating CITES into their National Biodiversity Strategy and Action Plan (NBSAP), also included in the global and national Strategies for Plant Conservation under CBD programme.",CITES_G4.2.1_37,"number of parties incorporating cites into their national biodiversity strategy and action plan (nbsap), also included in the global and national strategies for plant conservation under cbd programme"
+"Number of new, unique visits to the CITES website. ",CITES_G4.3.1_38,"number of new, unique visits to the cites website"
+"Number of Parties with information on CITES and its requirements on their official websites. ",CITES_G4.3.2_39,number of parties with information on cites and its requirements on their official websites
+"Number of followers on CITES social media platforms. ",CITES_G4.3.3_40,number of followers on cites social media platforms
+"Number of key identified hashtags (e.g. #cites, #citescop19 #worldwildlifeday, etc.) on CITES social media. ",CITES_G4.3.4_41,"number of key identified hashtags (e.g. #cites, #citescop19 #worldwildlifeday, etc.) on cites social media"
+Number of events submitted to the World Wildlife Day website.,CITES_G4.3.5_42,number of events submitted to the world wildlife day website
+"Number of meetings/CoP where representatives of other international bodies report on relevant activities to CITES Parties. ",CITES_G4.4.1_43,number of meetings/cop where representatives of other international bodies report on relevant activities to cites parties
+"Events, documents and presentations, etc. delivered by other intergovernmental bodies and fora in meetings convened by the CITES Secretariat. ",CITES_G4.4.2_44,"events, documents and presentations, etc. delivered by other intergovernmental bodies and fora in meetings convened by the cites secretariat"
+Number of Notifications to the Parties issued by the CITES Secretariat relating to international actions for sustainable development that may have a bearing on achieving the goal of CITES.,CITES_G4.4.3_45,number of notifications to the parties issued by the cites secretariat relating to international actions for sustainable development that may have a bearing on achieving the goal of cites
+"Number of Parties which report that they have achieved synergies in their implementation of CITES, other biodiversity-related conventions and other relevant multilateral environmental, trade and development agreements. ",CITES_G5.1.1_46,"number of parties which report that they have achieved synergies in their implementation of cites, other biodiversity-related conventions and other relevant multilateral environmental, trade and development agreements"
+"Number of Parties cooperating / collaborating with intergovernmental and non-governmental organizations to participate in and/or fund CITES workshops and other training and capacity-building activities. ",CITES_G5.1.2_47,number of parties cooperating / collaborating with intergovernmental and non-governmental organizations to participate in and/or fund cites workshops and other training and capacity-building activities
+"Number of cooperative actions taken under established bilateral or multilateral agreements to prevent species from being unsustainably exploited through international trade. ",CITES_G5.1.3_48,number of cooperative actions taken under established bilateral or multilateral agreements to prevent species from being unsustainably exploited through international trade
+"Number of times other relevant international organizations and agreements dealing with natural resources are consulted on issues relevant to species subject to unsustainable trade.",CITES_G5.1.4_49,number of times other relevant international organizations and agreements dealing with natural resources are consulted on issues relevant to species subject to unsustainable trade
+"Number of implemented cooperation agreements between the Secretariat and Multilateral Environmental Agreements (MEAS), including the Biodiversity Liaison Group (BLG) and other biodiversity-related Conventions.",CITES_G5.1.5_50,"number of implemented cooperation agreements between the secretariat and multilateral environmental agreements (meas), including the biodiversity liaison group (blg) and other biodiversity-related conventions"
+Number of alliances between CITES and relevant international partners to advance CITES objective and mainstream conservation and sustainable use of biodiversity.,CITES_G5.2.1_51,number of alliances between cites and relevant international partners to advance cites objective and mainstream conservation and sustainable use of biodiversity
+"Number of Parties funded by international financial mechanisms and other related institutions to develop activities that include CITES-related conservation and sustainable development elements. ",CITES_G5.3.1_52,number of parties funded by international financial mechanisms and other related institutions to develop activities that include cites-related conservation and sustainable development elements
+Number of countries and institutions that have provided additional funding from CITES Authorities to another country or activity for conservation and sustainable development projects in order to further the objectives of the Convention.,CITES_G5.3.2_53,number of countries and institutions that have provided additional funding from cites authorities to another country or activity for conservation and sustainable development projects in order to further the objectives of the convention
+Levels of engagement in World Migratory Bird Day and similar events,CMS_G1.1_1,levels of engagement in world migratory bird day and similar events
+Trends in awareness and attitudes to migratory species,CMS_G1.1_2,trends in awareness and attitudes to migratory species
+Trends in integration of migratory species values in national and sectoral policies,CMS_G1.2_3,trends in integration of migratory species values in national and sectoral policies
+Activity status/viability of CMS Family of instruments,CMS_G1.3_4,activity status/viability of cms family of instruments
+Other governance-related indicator on CMS implementation,CMS_G1.3_5,other governance-related indicator on cms implementation
+"CMS National Report Format question, to ask about progress in implementing target 4",CMS_G1.4_6,"cms national report format question, to ask about progress in implementing target 4"
+Status of migratory species in trade,CMS_G2.5_7,status of migratory species in trade
+Proportion of migratory fish stocks in safe biological limits,CMS_G2.6_8,proportion of migratory fish stocks in safe biological limits
+Trends in threats to migratory species (overall),CMS_G2.7_9,trends in threats to migratory species
+Trends in threats to migratory species (sub-indicators on specific threat types),CMS_G2.7_10,trends in threats to migratory species
+Further sub-indicators on additional/more specific threat types,CMS_G2.7_11,further sub-indicators on additional/more specific threat types
+Red List Index for migratory species,CMS_G3.8_12,red list index (migratory species)
+Living Planet Index for migratory species,CMS_G3.8_13,living planet index (migratory species)
+Wild Bird Index for migratory birds,CMS_G3.8_14,wild bird index (migratory birds)
+Trends in distribution of migratory species,CMS_G3.8_15,trends in distribution of migratory species
+Trends in range-related coverage of migratory species agreements and other concerted actions between States,CMS_G3.9_16,trends in range-related coverage of migratory species agreements and other concerted actions between states
+"Trends in conservation status, including connectivity, of identified habitats of key importance for migratory species",CMS_G3.10_17,"trends in conservation status, including connectivity, of identified habitats of key importance for migratory species"
+Coverage of key habitats for migratory species in protected areas,CMS_G3.10_18,coverage of key habitats for migratory species in protected areas
+Management effectiveness of areas protected specifically for migratory species,CMS_G3.10_19,management effectiveness of areas protected specifically for migratory species
+Trends in delivery of ecosystem services directly dependent on migratory species,CMS_G4.11_20,trends in delivery of ecosystem services directly dependent on migratory species
+Strategies of relevance to migratory species developed and implemented for minimizing genetic erosion,CMS_G4.12_21,strategies of relevance to migratory species developed and implemented for minimizing genetic erosion
+Trends in attention to migratory species in National Biodiversity Strategies and Action Plans,CMS_G5.13_22,trends in attention to migratory species in national biodiversity strategies and action plans
+Trends in integration of migratory species concerns in National Biodiversity Strategies and Action Plans,CMS_G5.13_23,trends in integration of migratory species concerns in national biodiversity strategies and action plans
+"Trends in the degree to which traditional knowledge and practices are respected through full integration, participation and safeguards in national implementation of the Strategic Plan for Migratory Species",CMS_G5.14_24,"trends in the degree to which traditional knowledge and practices are respected through full integration, participation and safeguards in national implementation of the strategic plan for migratory species"
+Trends in publication of papers on migratory species conservation in peer-reviewed literature,CMS_G5.15_25,trends in publication of papers on migratory species conservation in peer-reviewed literature
+Trends in official funding for actions which support implementation of the Strategic Plan for Migratory Species,CMS_G5.16_26,trends in official funding for actions which support implementation of the strategic plan for migratory species
+% of Parties that have made assessment of ecosystem services of Ramsar Sites. (Data source: National Reports),RAMSAR_SG1.1_1,percentage of parties that have made assessment of ecosystem services of ramsar sites
+% of Parties that have included wetland issues within national strategies and planning processes such as water resource management and water efficiency plans. (Data source: National Reports),RAMSAR_SG1.1_2,percentage of parties that have included wetland issues within national strategies and planning processes such as water resource management and water efficiency plans
+% of Parties that have included wetland issues within National Policies or measures on agriculture. (Data source: National Reports).,RAMSAR_SG1.1_3,percentage of parties that have included wetland issues within national policies or measures on agriculture
+% of Parties that have included wetland issues into national strategies and in the planning processes such as for water resource management and water efficiency plans. (Data source: National Reports).,RAMSAR_SG1.2_4,percentage of parties that have included wetland issues within national strategies and planning processes such as water resource management and water efficiency plans
+% of Ramsar sites which have improved the sustainability of water use in the context of ecosystem requirements,RAMSAR_SG1.2_5,percentage of ramsar sites which have improved the sustainability of water use in the context of ecosystem requirements
+% of Parties reporting actions taken to implement incentive measures that encourage the conservation and wise use of wetlands. (Data source: National Reports).,RAMSAR_SG1.3_6,percentage of parties reporting actions taken to implement incentive measures that encourage the conservation and wise use of wetlands
+% of Parties reporting actions taken to remove perverse incentive measures that discourage conservation and wise use of wetlands. (Data source: National Reports).,RAMSAR_SG1.3_7,percentage of parties reporting actions taken to remove perverse incentive measures that discourage conservation and wise use of wetlands
+"% of Parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general. (Data source: National Reports).",RAMSAR_SG1.3_8,"percentage of parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general"
+% of Parties having national Ramsar Committees that include both governmental and non-governmental representation. (Data source: new question for National Reports).,RAMSAR_SG1.3_9,percentage of parties having national ramsar committees that include both governmental and non-governmental representation
+% of Parties that have established or reviewed national policies or guidelines on invasive wetland species control and management. (Data source: National Reports).,RAMSAR_SG1.4_10,percentage of parties that have established or reviewed national policies or guidelines on invasive wetland species control and management
+% of Parties having a national inventory of invasive alien species that currently or potentially impact the ecological character of wetlands. (Data source: National Reports).,RAMSAR_SG1.4_11,percentage of parties having a national inventory of invasive alien species that currently or potentially impact the ecological character of wetlands
+Number of invasive species that are being controlled through management actions,RAMSAR_SG1.4_12,number of invasive species that are being controlled through management actions
+Effectiveness of wetland invasive alien species control programmes,RAMSAR_SG1.4_13,effectiveness of wetland invasive alien species control programmes
+"Number of Ramsar Sites that have effective, implemented management plans. (Data source: National Report).",RAMSAR_SG2.5_14,"number of ramsar sites that have effective, implemented management plans"
+"Number of Ramsar Sites that have effective, implemented management planning. (Data source: new National Report question).",RAMSAR_SG2.5_15,"number of ramsar sites that have effective, implemented management plans"
+% of Parties that have made assessments of effective management of Ramsar Sites. (Data source: National Reports).,RAMSAR_SG2.5_16,percentage of parties that have made assessments of effective management of ramsar sites
+% of Ramsar Sites that have updated Ramsar Information Sheets. (Data source: Ramsar Sites database).,RAMSAR_SG2.5_17,percentage of ramsar sites that have updated ramsar information sheets
+Coverage of wetland dependent bird populations by designated Ramsar Sites. Indicator from Resolution IX.1 to be developed.,RAMSAR_SG2.5_18,coverage of wetland dependent bird populations by designated ramsar sites
+Coverage of wetland dependent non-avian populations by designated Ramsar Sites. Indicator from Resolution IX.1 to be developed.,RAMSAR_SG2.5_19,coverage of wetland dependent non-avian populations by designated ramsar sites
+% loss of IUCN Red Listed species from Ramsar Sites,RAMSAR_SG2.5_20,percentage loss of red list indexed species from ramsar sites
+Number of Ramsar sites that have been designated. (Data source: Ramsar Sites database).,RAMSAR_SG2.6_21,number of ramsar sites that have been designated
+Total hectares of Ramsar sites that have been designated. (Data source: Ramsar Sites database).,RAMSAR_SG2.6_22,total hectares of ramsar sites that have been designated
+Number of transboundary Ramsar Sites that have been designated. (Data source: Ramsar Sites database).,RAMSAR_SG2.6_23,number of transboundary ramsar sites that have been designated
+Number of Ramsar Sites designated for the following under represented wetland types: Karst and other subterranean hydrological systems; Coral reefs; Wet grasslands; Peatland; Sea-grass beds; Mangroves; Temporary Pools; Bivalve (shellfish) reefs (Data source: Ramsar Sites database),RAMSAR_SG2.6_24,number of ramsar sites designated for the following under represented wetland types: karst and other subterranean hydrological systems; coral reefs; wet grasslands; peatland; sea-grass beds; mangroves; temporary pools; bivalve (shellfish) reefs
+Number of Ramsar Sites removed from the Montreux Record. (Data source: Ramsar Site database).,RAMSAR_SG2.7_25,number of ramsar sites removed from the montreux record
+% of Parties reporting to the Ramsar Secretariat all cases of negative human-induced change or likely change in the ecological character of Ramsar Sites pursuant to Article 3.2. (Data source: National Reports).,RAMSAR_SG2.7_26,percentage of parties reporting to the ramsar secretariat all cases of negative human-induced change or likely change in the ecological character of ramsar sites pursuant to article 3.2
+Number of Ramsar Sites reported by Parties to the Ramsar Secretariat of negative human-induced change or likely change in the ecological character of Ramsar Sites pursuant to Article 3.2. (Data source: National Reports).,RAMSAR_SG2.7_27,number of ramsar sites reported by parties to the ramsar secretariat of negative human-induced change or likely change in the ecological character of ramsar sites pursuant to article 3.2
+% of Parties that have taken actions to address the issues for which Ramsar Sites have been listed on the Montreux Record. (National Reports to COP12).,RAMSAR_SG2.7_28,percentage of parties that have taken actions to address the issues for which ramsar sites have been listed on the montreux record
+Indicator(s) relating to (numbers of) Ramsar Sites at risk,RAMSAR_SG2.7_29,indicator(s) relating to (numbers of) ramsar sites at risk
+% of Parties that have complete national wetland inventories. (Data source: National Reports).,RAMSAR_SG3.8_30,percentage of parties that have complete national wetland inventories
+% of Parties that have updated their national inventories in the last decade. (Data source: new question for National Reports).,RAMSAR_SG3.8_31,percentage of parties that have updated their national inventories in the last decade
+% of Parties that have adopted wetland policies or equivalent instruments that promote the wise use of their wetlands. (Data source: National Reports).,RAMSAR_SG3.9_32,percentage of parties that have adopted wetland policies or equivalent instruments that promote the wise use of their wetlands
+% of Parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin. (Data source: National Reports).,RAMSAR_SG3.9_33,percentage of parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin
+Involvement of stakeholders in various aspects of wetland and/or basin-scale management,RAMSAR_SG3.9_34,involvement of stakeholders in various aspects of wetland and/or basin-scale management
+Possible use or further development of indicator(s) linked to work currently being undertaken to develop indicator(s) for related Aichi Target 18 of the Strategic Plan for Biodiversity.,RAMSAR_SG3.10_35,possible use or further development of indicator(s) linked to work currently being undertaken to develop indicator(s) for related aichi target 18 of the strategic plan for biodiversity
+% of Parties that have made assessment of ecosystem services of Ramsar Sites. (Data source: National Reports).,RAMSAR_SG3.11_36,percentage of parties that have made assessment of ecosystem services of ramsar sites
+% of Parties that have incorporated wetlands issues into poverty eradication strategies. (Data source: National Reports).,RAMSAR_SG3.11_37,percentage of parties that have incorporated wetlands issues into poverty eradication strategies
+% of Parties that have implemented programmes or projects that contribute to poverty alleviation objectives or food and water security plans. (Data source: National Reports).,RAMSAR_SG3.11_38,percentage of parties that have implemented programmes or projects that contribute to poverty alleviation objectives or food and water security plans
+% of Parties that have established restoration plans [or activities] for sites. (Data source: National Reports).,RAMSAR_SG3.12_39,percentage of parties that have established restoration plans [or activities] for sites
+% of Parties that have implemented effective restoration or rehabilitation projects. (Data source: National Reports).,RAMSAR_SG3.12_40,percentage of parties that have implemented effective restoration or rehabilitation projects
+Outcome-based indicators(s) related to (extent of) wetland restoration possibly including remote sensing as appropriate.,RAMSAR_SG3.12_41,outcome-based indicators(s) related to (extent of) wetland restoration possibly including remote sensing as appropriate
+Indicators related to the relevant sectors especially using or linking to relevant Aichi Target indicators and other relevant international processes.,RAMSAR_SG3.13_42,indicators related to the relevant sectors especially using or linking to relevant aichi target indicators and other relevant international processes
+Number of ‘hits’ on scientific and technical guidance pages of the Ramsar web-site and associated subtotals by country and Ramsar Region of the source of these hits. (Data source: Ramsar web-site analytics).,RAMSAR_OG4.14_43,number of ‘hits’ on scientific and technical guidance pages of the ramsar web-site and associated subtotals by country and ramsar region of the source of these hits
+Number of STRP briefing papers downloaded from the Ramsar web site and subtotals by country and Ramsar Region of the source of these downloads. (Data source: Ramsar web-site analytics).,RAMSAR_OG4.14_44,number of strp briefing papers downloaded from the ramsar web site and subtotals by country and ramsar region of the source of these downloads
+Number of relevant Ramsar Handbooks downloaded from the Ramsar web-site and subtotals by country and Ramsar Region of the source of these downloads. (Data source: Ramsar web-site analytics).,RAMSAR_OG4.14_45,number of relevant ramsar handbooks downloaded from the ramsar web-site and subtotals by country and ramsar region of the source of these downloads
+"Number of practical tools and guidance documents for wetland conservation and wise use, and other key scientific documentation, which has been developed by either STRP, Parties and others, and is available via the Ramsar website. (Data source: Ramsar web-site).",RAMSAR_OG4.14_46,"number of practical tools and guidance documents for wetland conservation and wise use, and other key scientific documentation, which has been developed by either strp, parties and others, and is available via the ramsar website"
+Indicator(s) related to the use of guidance and availability in various language versions.,RAMSAR_OG4.14_47,indicator(s) related to the use of guidance and availability in various language versions
+Number of Regional Initiatives successfully implemented. (Data source: National Reports).,RAMSAR_OG4.15_48,number of regional initiatives successfully implemented
+% of Parties that have been involved in the development and implementation of a Regional Initiative under the framework of the Convention. (Data source: National Reports).,RAMSAR_OG4.15_49,percentage of parties that have been involved in the development and implementation of a regional initiative under the framework of the convention
+% of Parties that have branded World Wetlands Day activities. (Data source: National Reports).,RAMSAR_OG4.16_50,percentage of parties that have branded world wetlands day activities
+Number of World Wetland Day activities or events reported to the Secretariat. (Data source: Ramsar CEPA program).,RAMSAR_OG4.16_51,number of world wetland day activities or events reported to the secretariat
+Number of internet references to World Wetland Day activities. (Data source: internet analysis).,RAMSAR_OG4.16_52,number of internet references to world wetland day activities
+Number of internet references to the Ramsar Convention. (Data source: internet analysis).,RAMSAR_OG4.16_53,number of internet references to the ramsar convention
+Number of social media links to World Wetland Day. (Data source: social media analysis).,RAMSAR_OG4.16_54,number of social media links to world wetland day
+% of Parties with a) a governmental CEPA National Focal Point and b) a non-governmental National Focal Point (Data source: National Reports).,RAMSAR_OG4.16_55,percentage of parties with a) a governmental cepa national focal point and b) a non-governmental national focal point
+% of Parties that have established national action plans for wetland CEPA. (Data source: National Reports).,RAMSAR_OG4.16_56,percentage of parties that have established national action plans for wetland cepa
+"Number of centres (visitor centres, interpretation centres, education centres) have been established in Ramsar Sites. (Data source: National Reports).",RAMSAR_OG4.16_57,"number of centres (visitor centres, interpretation centres, education centres) have been established in ramsar sites"
+Number of centres at other wetlands. (Data source: National Reports).,RAMSAR_OG4.16_58,number of centres at other wetlands
+Indicator(s) related to whether and how wetland conservation and wise-use issues are included formal education programmes.,RAMSAR_OG4.16_59,indicator(s) related to whether and how wetland conservation and wise-use issues are included formal education programmes
+% of Contracting Parties that have provided additional financial support through voluntary contributions to non-core funded Convention activities. (National Reports to COP12).,RAMSAR_OG4.17_60,percentage of contracting parties that have provided additional financial support through voluntary contributions to non-core funded convention activities
+% of Parties that have received funding support from development assistance agencies for national wetlands conservation and management. (Data source: National Reports).,RAMSAR_OG4.17_61,percentage of parties that have received funding support from development assistance agencies for national wetlands conservation and management
+Indicator(s) related to flows of financing related to different aspects of Strategic Plan implementation.,RAMSAR_OG4.17_62,indicator(s) related to flows of financing related to different aspects of strategic plan implementation
+Number of Regional Initiatives successfully implemented. (Data source: National Reports).,RAMSAR_OG4.18_63,number of regional initiatives successfully implemented
+% of Parties that have been involved in the development and implementation of a Regional Initiative under the framework of the Convention. (Data source: National Reports).,RAMSAR_OG4.18_64,percentage of parties that have been involved in the development and implementation of a regional initiative under the framework of the convention
+% of Parties that have established networks including twinning arrangements nationally or internationally for knowledge sharing and training for wetlands that share common features. (Data source: National Reports).,RAMSAR_OG4.18_65,percentage of parties that have established networks including twinning arrangements nationally or internationally for knowledge sharing and training for wetlands that share common features
+% of Parties that have effective cooperative management in place for shared wetland systems (for example in shared river basins and coastal zones). (Data source: National Reports).,RAMSAR_OG4.18_66,percentage of parties that have effective cooperative management in place for shared wetland systems (for example in shared river basins and coastal zones)
+% of Parties where co-ordination mechanisms for the implementation of MEAs exist at a national level. (Data source: new question for National Reports).,RAMSAR_OG4.18_67,percentage of parties where co-ordination mechanisms for the implementation of meas exist at a national level
+Number of Parties which have acceded to the Ramsar Convention. (Data Source: National Reports).,RAMSAR_OG4.18_68,number of parties which have acceded to the ramsar convention
+Total number of transboundary Ramsar Sites. (Data source: Ramsar Sites Database).,RAMSAR_OG4.18_69,total number of transboundary ramsar sites
+% of Parties that have made an assessment of national and local training needs for the implementation of the Convention. (National Reports to COP12).,RAMSAR_OG4.19_70,percentage of parties that have made an assessment of national and local training needs for the implementation of the convention
+"Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",SDG_G1.1.1_1,"proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+"Proportion of population living below the national poverty line, by sex and age",SDG_G1.2.1_2,"proportion of population living below the national poverty line, by sex and age"
+"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",SDG_G1.2.2_3,"proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",SDG_G1.3.1_4,"proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+Proportion of population living in households with access to basic services,SDG_G1.4.1_5,proportion of population living in households with access to basic services
+"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",SDG_G1.4.2_6,"proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",SDG_G1.5.1_7,"number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),SDG_G1.5.2_8,direct economic loss attributed to disasters in relation to global gross domestic product
+Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,SDG_G1.5.3_9,number of countries that adopt and implement national disaster risk reduction strategies in line with the sendai framework for disaster risk reduction 2015-2030
+Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,SDG_G1.5.4_10,proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income,SDG_G1.a.1_11,total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income
+"Proportion of total government spending on essential services (education, health and social protection)",SDG_G1.a.2_12,"proportion of total government spending on essential services (education, health and social protection)"
+Pro-poor public social spending,SDG_G1.b.1_13,pro-poor public social spending
+Prevalence of undernourishment,SDG_G2.1.1_14,prevalence of undernourishment
+"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",SDG_G2.1.2_15,"prevalence of moderate or severe food insecurity in the population, based on the food insecurity experience scale"
+Prevalence of stunting (height for age <-2 standard deviation from the median of the world health organization (who) child growth standards) among children under 5 years of age,SDG_G2.2.1_16,prevalence of stunting (height for age <-2 standard deviation from the median of the world health organization (who) child growth standards) among children under 5 years of age
+"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the who child growth standards) among children under 5 years of age, by type (wasting and overweight)",SDG_G2.2.2_17,"prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the who child growth standards) among children under 5 years of age, by type (wasting and overweight)"
+"Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",SDG_G2.2.3_18,"prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
+Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,SDG_G2.3.1_19,volume of production per labour unit by classes of farming/pastoral/forestry enterprise size
+"Average income of small-scale food producers, by sex and indigenous status",SDG_G2.3.2_20,"average income of small-scale food producers, by sex and indigenous status"
+Proportion of agricultural area under productive and sustainable agriculture,SDG_G2.4.1_21,proportion of agricultural area under productive and sustainable agriculture
+Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,SDG_G2.5.1_22,number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+Proportion of local breeds classified as being at risk of extinction,SDG_G2.5.2_23,proportion of local breeds classified as being at risk of extinction
+The agriculture orientation index for government expenditures,SDG_G2.a.1_24,agriculture orientation index for government expenditures
+Total official flows (official development assistance plus other official flows) to the agriculture sector,SDG_G2.a.2_25,total official flows (official development assistance plus other official flows) to the agriculture sector
+Agricultural export subsidies,SDG_G2.b.1_26,agricultural export subsidies
+Indicator of food price anomalies,SDG_G2.c.1_27,indicator of food price anomalies
+Maternal mortality ratio,SDG_G3.1.1_28,maternal mortality ratio
+Proportion of births attended by skilled health personnel,SDG_G3.1.2_29,proportion of births attended by skilled health personnel
+Under‑5 mortality rate,SDG_G3.2.1_30,under-five child mortality rate
+Neonatal mortality rate,SDG_G3.2.2_31,neonatal mortality rate
+"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",SDG_G3.3.1_32,"number of new hiv infections per 1,000 uninfected population, by sex, age and key populations"
+"Tuberculosis incidence per 100,000 population",SDG_G3.3.2_33,"tuberculosis incidence per 100,000 population"
+"Malaria incidence per 1,000 population",SDG_G3.3.3_34,"malaria incidence per 1,000 population"
+"Hepatitis B incidence per 100,000 population",SDG_G3.3.4_35,"hepatitis b incidence per 100,000 population"
+Number of people requiring interventions against neglected tropical diseases,SDG_G3.3.5_36,number of people requiring interventions against neglected tropical diseases
+"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",SDG_G3.4.1_37,"mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+Suicide mortality rate,SDG_G3.4.2_38,suicide mortality rate
+"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",SDG_G3.5.1_39,"coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,SDG_G3.5.2_40,alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol
+Death rate due to road traffic injuries,SDG_G3.6.1_41,death rate due to road traffic injuries
+Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,SDG_G3.7.1_42,proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods
+"Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group",SDG_G3.7.2_43,"adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group"
+Coverage of essential health services,SDG_G3.8.1_44,coverage of essential health services
+Proportion of population with large household expenditures on health as a share of total household expenditure or income,SDG_G3.8.2_45,proportion of population with large household expenditures on health as a share of total household expenditure or income
+Mortality rate attributed to household and ambient air pollution,SDG_G3.9.1_46,mortality rate attributed to household and ambient air pollution
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",SDG_G3.9.2_47,"mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe water, sanitation and hygiene for all (wash) services)"
+Mortality rate attributed to unintentional poisoning,SDG_G3.9.3_48,mortality rate attributed to unintentional poisoning
+Age-standardized prevalence of current tobacco use among persons aged 15 years and older,SDG_G3.a.1_49,age-standardized prevalence of current tobacco use among persons aged 15 years and older
+Proportion of the target population covered by all vaccines included in their national programme,SDG_G3.b.1_50,proportion of the target population covered by all vaccines included in their national programme
+Total net official development assistance to medical research and basic health sectors,SDG_G3.b.2_51,total net official development assistance to medical research and basic health sectors
+Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,SDG_G3.b.3_52,proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis
+Health worker density and distribution,SDG_G3.c.1_53,health worker density and distribution
+International Health Regulations (IHR) capacity and health emergency preparedness,SDG_G3.d.1_54,international health regulations (ihr) capacity and health emergency preparedness
+Percentage of bloodstream infections due to selected antimicrobial-resistant organisms,SDG_G3.d.2_55,percentage of bloodstream infections due to selected antimicrobial-resistant organisms
+"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",SDG_G4.1.1_56,"proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+"Completion rate (primary education, lower secondary education, upper secondary education)",SDG_G4.1.2_57,"completion rate (primary education, lower secondary education, upper secondary education)"
+"Proportion of children aged 24–59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",SDG_G4.2.1_58,"proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex"
+"Participation rate in organized learning (one year before the official primary entry age), by sex",SDG_G4.2.2_59,"participation rate in organized learning (one year before the official primary entry age), by sex"
+"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",SDG_G4.3.1_60,"participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",SDG_G4.4.1_61,"proportion of youth and adults with information and communications technology (ict) skills, by type of skill"
+"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",SDG_G4.5.1_62,"parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",SDG_G4.6.1_63,"proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
+Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,SDG_G4.7.1_64,"extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessments"
+"Proportion of schools offering basic services, by type of service",SDG_G4.a.1_65,"proportion of schools offering basic services, by type of service"
+Volume of official development assistance flows for scholarships by sector and type of study,SDG_G4.b.1_66,volume of official development assistance flows for scholarships by sector and type of study
+"Proportion of teachers with the minimum required qualifications, by education level",SDG_G4.c.1_67,"proportion of teachers with the minimum required qualifications, by education level"
+"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex",SDG_G5.1.1_68,"whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
+"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",SDG_G5.2.1_69,"proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",SDG_G5.2.2_70,"proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18,SDG_G5.3.1_71,proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18
+"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age",SDG_G5.3.2_72,"proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age"
+"Proportion of time spent on unpaid domestic and care work, by sex, age and location",SDG_G5.4.1_73,"proportion of time spent on unpaid domestic and care work, by sex, age and location"
+Proportion of seats held by women in (a) national parliaments and (b) local governments,SDG_G5.5.1_74,proportion of seats held by women in (a) national parliaments and (b) local governments
+Proportion of women in managerial positions,SDG_G5.5.2_75,proportion of women in managerial positions
+"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",SDG_G5.6.1_76,"proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+"Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",SDG_G5.6.2_77,"number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+"Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",SDG_G5.a.1.a_78,"proportion of total agricultural population with ownership or secure rights over agricultural land, by sex"
+"share of women among owners or rights-bearers of agricultural land, by type of tenure",SDG_G5.a.1.b_79,"share of women among owners or rights-bearers of agricultural land, by type of tenure"
+Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control,SDG_G5.a.2_80,proportion of countries where the legal framework (including customary law) guarantees women equal rights to land ownership and/or control
+"Proportion of individuals who own a mobile telephone, by sex",SDG_G5.b.1_81,"proportion of individuals who own a mobile telephone, by sex"
+Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,SDG_G5.c.1_82,proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment
+Proportion of population using safely managed drinking water services,SDG_G6.1.1_83,proportion of population using safely managed drinking water services
+Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water,SDG_G6.2.1_84,proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water
+Proportion of domestic and industrial wastewater flows safely treated,SDG_G6.3.1_85,proportion of domestic and industrial wastewater flows safely treated
+Proportion of bodies of water with good ambient water quality,SDG_G6.3.2_86,proportion of bodies of water with good ambient water quality
+Change in water-use efficiency over time,SDG_G6.4.1_87,change in water-use efficiency over time
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,SDG_G6.4.2_88,level of water stress (freshwater withdrawal as a proportion of available freshwater resources)
+Degree of integrated water resources management,SDG_G6.5.1_89,degree of integrated water resources management
+Proportion of transboundary basin area with an operational arrangement for water cooperation,SDG_G6.5.2_90,proportion of transboundary basin area with an operational arrangement for water cooperation
+Change in the extent of water-related ecosystems over time,SDG_G6.6.1_91,change in the extent of water-related ecosystems over time
+Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,SDG_G6.a.1_92,amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,SDG_G6.b.1_93,proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management
+Proportion of population with access to electricity,SDG_G7.1.1_94,proportion of population with access to electricity
+Proportion of population with primary reliance on clean fuels and technology,SDG_G7.1.2_95,proportion of population with primary reliance on clean fuels and technology
+Renewable energy share in the total final energy consumption,SDG_G7.2.1_96,renewable energy share in the total final energy consumption
+Energy intensity measured in terms of primary energy and GDP,SDG_G7.3.1_97,energy intensity measured in terms of primary energy and gross domestic product
+"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",SDG_G7.a.1_98,"international financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
+Installed renewable energy-generating capacity in developing and developed countries (in watts per capita),SDG_G7.b.1_99,installed renewable energy-generating capacity in developing countries (in watts per capita)
+Annual growth rate of real GDP per capita,SDG_G8.1.1_100,annual growth rate of real gross domestic product
+Annual growth rate of real GDP per employed person,SDG_G8.2.1_101,annual growth rate of real gross domestic product per employed person
+"Proportion of informal employment in total employment, by sector and sex",SDG_G8.3.1_102,"proportion of informal employment in total employment, by sector and sex"
+"Material footprint, material footprint per capita, and material footprint per GDP",SDG_G8.4.1_103,"material footprint, material footprint per capita, and material footprint per gross domestic product"
+"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",SDG_G8.4.2_104,"domestic material consumption, domestic material consumption, and domestic material consumption per gross domestic product"
+"Average hourly earnings of employees, by sex, age, occupation and persons with disabilities",SDG_G8.5.1_105,"average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+"Unemployment rate, by sex, age and persons with disabilities",SDG_G8.5.2_106,"unemployment rate, by sex, age and persons with disabilities"
+"Proportion of youth (aged 15-24 years) not in education, employment or training",SDG_G8.6.1_107,"proportion of youth (aged 15-24 years) not in education, employment or training"
+"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",SDG_G8.7.1_108,"proportion and number of children aged 5-17 years engaged in child labour, by sex and age"
+"Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status",SDG_G8.8.1_109,"fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+"Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status",SDG_G8.8.2_110,"level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation, by sex and migrant status"
+Tourism direct GDP as a proportion of total GDP and in growth rate,SDG_G8.9.1_111,tourism direct gross domestic product as a proportion of total gross domestic product and in growth rate
+"Number of commercial bank branches per 100,000 adults",SDG_G8.10.1.a_112,"number of commercial bank branches per 100,000 adults"
+"number of automated teller machines (ATMs) per 100,000 adults",SDG_G8.10.1.b_113,"number of automated teller machines (atms) per 100,000 adults"
+Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,SDG_G8.10.2_114,proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider
+Aid for Trade commitments and disbursements,SDG_G8.a.1_115,aid for trade commitments and disbursements
+"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",SDG_G8.b.1_116,"existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
+Proportion of the rural population who live within 2 km of an all-season road,SDG_G9.1.1_117,proportion of the rural population who live within 2 km of an all-season road
+"Passenger and freight volumes, by mode of transport",SDG_G9.1.2_118,"passenger and freight volumes, by mode of transport"
+Manufacturing value added as a proportion of GDP and per capita,SDG_G9.2.1_119,manufacturing value added as a proportion of gross domestic product and per capita
+Manufacturing employment as a proportion of total employment,SDG_G9.2.2_120,manufacturing employment as a proportion of total employment
+Proportion of small-scale industries in total industry value added,SDG_G9.3.1_121,proportion of small-scale industries in total industry value added
+Proportion of small-scale industries with a loan or line of credit,SDG_G9.3.2_122,proportion of small-scale industries with a loan or line of credit
+CO2 emission per unit of value added,SDG_G9.4.1_123,co2 emission per unit of value added
+Research and development expenditure as a proportion of GDP,SDG_G9.5.1_124,research and development expenditure as a proportion of gross domestic product
+Researchers (in full-time equivalent) per million inhabitants,SDG_G9.5.2_125,researchers (in full-time equivalent) per million inhabitants
+Total official international support (official development assistance plus other official flows) to infrastructure,SDG_G9.a.1_126,total official international support (official development assistance plus other official flows) to infrastructure
+Proportion of medium and high-tech industry value added in total value added,SDG_G9.b.1_127,proportion of medium and high-tech industry value added in total value added
+"Proportion of population covered by a mobile network, by technology",SDG_G9.c.1_128,"proportion of population covered by a mobile network, by technology"
+Growth rates of household expenditure or income per capita among the bottom 40 percent of the population and the total population,SDG_G10.1.1_129,growth rates of household expenditure or income per capita among the bottom 40 percent of the population and the total population
+"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",SDG_G10.2.1_130,"proportion of people living below 50 percent of median income, by sex, age and persons with disabilities"
+Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,SDG_G10.3.1_131,proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law
+Labour share of GDP,SDG_G10.4.1_132,labour share of gross domestic product
+Redistributive impact of fiscal policy,SDG_G10.4.2_133,redistributive impact of fiscal policy
+Financial Soundness Indicators,SDG_G10.5.1_134,financial soundness indicators
+Proportion of members and voting rights of developing countries in international organizations,SDG_G10.6.1_135,proportion of members and voting rights of developing countries in international organizations
+Recruitment cost borne by employee as a proportion of monthly income earned in country of destination,SDG_G10.7.1_136,recruitment cost borne by employee as a proportion of monthly income earned in country of destination
+"Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people",SDG_G10.7.2_137,"proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+Number of people who died or disappeared in the process of migration towards an international destination,SDG_G10.7.3_138,number of people who died or disappeared in the process of migration towards an international destination
+"Proportion of the population who are refugees, by country of origin",SDG_G10.7.4_139,"proportion of the population who are refugees, by country of origin"
+Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,SDG_G10.a.1_140,proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff
+"Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",SDG_G10.b.1_141,"total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+Remittance costs as a proportion of the amount remitted,SDG_G10.c.1_142,remittance costs as a proportion of the amount remitted
+"Proportion of urban population living in slums, informal settlements or inadequate housing",SDG_G11.1.1_143,"proportion of urban population living in slums, informal settlements or inadequate housing"
+"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",SDG_G11.2.1_144,"proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
+Ratio of land consumption rate to population growth rate,SDG_G11.3.1_145,ratio of land consumption rate to population growth rate
+Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically,SDG_G11.3.2_146,proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically
+"Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",SDG_G11.4.1_147,"total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
+"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",SDG_G11.5.1_148,"number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),SDG_G11.5.2_149,direct economic loss attributed to disasters in relation to global gross domestic product
+Damage to critical infrastructure,SDG_G11.5.3.a_150,damage to critical infrastructure
+"number of disruptions to basic services, attributed to disasters",SDG_G11.5.3.b_151,"number of disruptions to basic services, attributed to disasters"
+"Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities",SDG_G11.6.1_152,"proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
+Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted),SDG_G11.6.2_153,annual mean levels of fine particulate matter in cities
+"Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",SDG_G11.7.1_154,"average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
+"Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",SDG_G11.7.2_155,"proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space,SDG_G11.a.1_156,number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space
+Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,SDG_G11.b.1_157,number of countries that adopt and implement national disaster risk reduction strategies in line with the sendai framework for disaster risk reduction 2015-2030
+Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,SDG_G11.b.2_158,proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+"Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production",SDG_G12.1.1_160,"number of countries developing, adopting or implementing policy instruments aimed at encouraging and enabling people to make sustainable consumption choices"
+"Material footprint, material footprint per capita, and material footprint per GDP",SDG_G12.2.1_161,"material footprint, material footprint per capita, and material footprint per gross domestic product"
+"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",SDG_G12.2.2_162,"domestic material consumption, domestic material consumption, and domestic material consumption per gross domestic product"
+Food loss index,SDG_G12.3.1.a_163,food loss index
+food waste index,SDG_G12.3.1.b_164,food waste index
+"Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",SDG_G12.4.1_165,"number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
+Hazardous waste generated per capita,SDG_G12.4.2.a_166,hazardous waste
+"proportion of hazardous waste treated, by type of treatment",SDG_G12.4.2.b_167,"proportion of hazardous waste treated, by type of treatment"
+"National recycling rate, tons of material recycled",SDG_G12.5.1_168,"national recycling rate, tons of material recycled"
+Number of companies publishing sustainability reports,SDG_G12.6.1_169,number of companies publishing sustainability reports
+Number of countries implementing sustainable public procurement policies and action plans,SDG_G12.7.1_170,number of countries implementing sustainable public procurement policies and action plans
+Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,SDG_G12.8.1_171,"extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessments"
+Installed renewable energy-generating capacity in developing and developed countries (in watts per capita),SDG_G12.a.1_172,installed renewable energy-generating capacity in developing countries (in watts per capita)
+Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability,SDG_G12.b.1_173,implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability
+Amount of fossil-fuel subsidies (production and consumption) per unit of GDP,SDG_G12.c.1_174,amount of fossil-fuel subsidies per unit of gross domestic product (production and consumption)
+"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",SDG_G13.1.1_175,"number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,SDG_G13.1.2_176,number of countries that adopt and implement national disaster risk reduction strategies in line with the sendai framework for disaster risk reduction 2015-2030
+Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,SDG_G13.1.3_177,proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+"Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change",SDG_G13.2.1_178,"number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the united nations framework convention on climate change"
+Total greenhouse gas emissions per year,SDG_G13.2.2_179,total greenhouse gas emissions per year
+Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,SDG_G13.3.1_180,"extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessments"
+Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025,SDG_G13.a.1_181,amounts provided and mobilized in united states dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025
+"Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change",SDG_G13.b.1_182,"number of least developed countries and small island developing states with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the united nations framework convention on climate change"
+Index of coastal eutrophication,SDG_G14.1.1.a_183,index of coastal eutrophication potential (icep)
+plastic debris density,SDG_G14.1.1.b_184,plastic debris density
+Number of countries using ecosystem-based approaches to managing marine areas,SDG_G14.2.1_185,number of countries using ecosystem-based approaches to managing marine areas
+Average marine acidity (pH) measured at agreed suite of representative sampling stations,SDG_G14.3.1_186,average marine acidity (ph) measured at agreed suite of representative sampling stations
+Proportion of fish stocks within biologically sustainable levels,SDG_G14.4.1_187,proportion of fish stocks within biologically sustainable levels
+Coverage of protected areas in relation to marine areas,SDG_G14.5.1_188,protected area coverage of marine and coastal areas
+"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",SDG_G14.6.1_189,"degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",SDG_G14.7.1_190,"sustainable fisheries as a proportion of gross domestic product in small island developing states, least developed countries and all countries"
+Proportion of total research budget allocated to research in the field of marine technology,SDG_G14.a.1_191,proportion of total research budget allocated to research in the field of marine technology
+Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries,SDG_G14.b.1_192,degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries
+"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",SDG_G14.c.1_193,"number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the united nations convention on the law of the sea, for the conservation and sustainable use of the oceans and their resources"
+Forest area as a proportion of total land area,SDG_G15.1.1_194,forest area as a percentage of total land area
+"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",SDG_G15.1.2_195,protected area coverage of important sites for terrestrial and freshwater biodiversity
+Progress towards sustainable forest management,SDG_G15.2.1_196,progress towards sustainable forest management
+Proportion of land that is degraded over total land area,SDG_G15.3.1_197,proportion of land that is degraded over total land area
+Coverage by protected areas of important sites for mountain biodiversity,SDG_G15.4.1_198,protected area coverage of important sites for mountain biodiversity
+Mountain Green Cover Index,SDG_G15.4.2.a_199,mountain green cover index
+proportion of degraded mountain land,SDG_G15.4.2.b_200,proportion of degraded mountain land
+Red List Index,SDG_G15.5.1_201,red list index
+"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",SDG_G15.6.1_202,"number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+Proportion of traded wildlife that was poached or illicitly trafficked,SDG_G15.7.1_203,proportion of traded wildlife that was poached or illicitly trafficked
+Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,SDG_G15.8.1_204,proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species
+Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets,SDG_G15.9.1.a_205,number of countries that have established national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plans and the progress reported towards these targets
+"integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting",SDG_G15.9.1.b_206,"integration of biodiversity into national accounting and reporting systems, defined as implementation of the system of environmental-economic accounting"
+Official development assistance on conservation and sustainable use of biodiversity,SDG_G15.a.1.a_207,official development assistance on conservation and sustainable use of biodiversity
+revenue generated and finance mobilized from biodiversity-relevant economic instruments,SDG_G15.a.1.b_208,revenue generated and finance mobilized from biodiversity relevant economic instruments
+Official development assistance on conservation and sustainable use of biodiversity,SDG_G15.b.1.a_209,official development assistance on conservation and sustainable use of biodiversity
+revenue generated and finance mobilized from biodiversity-relevant economic instruments,SDG_G15.b.1.b_210,revenue generated and finance mobilized from biodiversity relevant economic instruments
+Proportion of traded wildlife that was poached or illicitly trafficked,SDG_G15.c.1_211,proportion of traded wildlife that was poached or illicitly trafficked
+"Number of victims of intentional homicide per 100,000 population, by sex and age",SDG_G16.1.1_212,"number of victims of intentional homicide per 100,000 population, by sex and age"
+"Conflict-related deaths per 100,000 population, by sex, age and cause",SDG_G16.1.2_213,"conflict-related deaths per 100,000 population, by sex, age and cause"
+"Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months",SDG_G16.1.3_214,"proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months"
+Proportion of population that feel safe walking alone around the area they live after dark,SDG_G16.1.4_215,proportion of population that feel safe walking alone around the area they live after dark
+Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,SDG_G16.2.1_216,proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month
+"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation",SDG_G16.2.2_217,"number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
+Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18,SDG_G16.2.3_218,proportion of young women and men aged 18-29 years who experienced sexual violence by age 18
+"Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",SDG_G16.3.1_219,"proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+Unsentenced detainees as a proportion of overall prison population,SDG_G16.3.2_220,unsentenced detainees as a proportion of overall prison population
+"Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",SDG_G16.3.3_221,"proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
+Total value of inward and outward illicit financial flows (in current United States dollars),SDG_G16.4.1_222,total value of inward and outward illicit financial flows (in current united states dollars)
+"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",SDG_G16.4.2_223,"proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
+"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",SDG_G16.5.1_224,"proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",SDG_G16.5.2_225,"proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
+"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",SDG_G16.6.1_226,"primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+Proportion of population satisfied with their last experience of public services,SDG_G16.6.2_227,proportion of population satisfied with their last experience of public services
+"Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups",SDG_G16.7.1_228,"proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",SDG_G16.7.2_229,"proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
+Proportion of members and voting rights of developing countries in international organizations,SDG_G16.8.1_230,proportion of members and voting rights of developing countries in international organizations
+"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",SDG_G16.9.1_231,"proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",SDG_G16.10.1_232,"number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
+"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",SDG_G16.10.2_233,"number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
+Existence of independent national human rights institutions in compliance with the Paris Principles,SDG_G16.a.1_234,existence of independent national human rights institutions in compliance with the paris principles
+Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,SDG_G16.b.1_235,proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law
+"Total government revenue as a proportion of GDP, by source",SDG_G17.1.1_236,"total government revenue as a proportion of gross domestic product, by source"
+Proportion of domestic budget funded by domestic taxes,SDG_G17.1.2_237,proportion of domestic budget funded by domestic taxes
+"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",SDG_G17.2.1_238,"net official development assistance, total and to least developed countries, as a proportion of the organization for economic cooperation and development (oecd) development assistance committee donors’ gross national income (gni)"
+Additional financial resources mobilized for developing countries from multiple sources,SDG_G17.3.1_239,additional financial resources mobilized for developing countries from multiple sources
+Volume of remittances (in United States dollars) as a proportion of total GDP,SDG_G17.3.2_240,volume of remittances (in united states dollars) as a proportion of total gross domestic product
+Debt service as a proportion of exports of goods and services,SDG_G17.4.1_241,debt service as a proportion of exports of goods and services
+"Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries",SDG_G17.5.1_242,"number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
+"Fixed broadband subscriptions per 100 inhabitants, by speed",SDG_G17.6.1_243,"fixed broadband subscriptions per 100 inhabitants, by speed"
+"Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",SDG_G17.7.1_244,"total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+Proportion of individuals using the Internet,SDG_G17.8.1_245,proportion of individuals using the internet
+"Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries",SDG_G17.9.1_246,"dollar value of financial and technical assistance (including through north-south, south‑south and triangular cooperation) committed to developing countries"
+Worldwide weighted tariff-average,SDG_G17.10.1_247,worldwide weighted tariff-average
+Developing countries’ and least developed countries’ share of global exports,SDG_G17.11.1_248,developing countries’ and least developed countries’ share of global exports
+"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",SDG_G17.12.1_249,"weighted average tariffs faced by developing countries, least developed countries and small island developing states"
+Macroeconomic Dashboard,SDG_G17.13.1_250,macroeconomic dashboard
+Number of countries with mechanisms in place to enhance policy coherence of sustainable development,SDG_G17.14.1_251,number of countries with mechanisms in place to enhance policy coherence of sustainable development
+Extent of use of country-owned results frameworks and planning tools by providers of development cooperation,SDG_G17.15.1_252,extent of use of country-owned results frameworks and planning tools by providers of development cooperation
+Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,SDG_G17.16.1_253,number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals
+Amount in United States dollars committed to public-private partnerships for infrastructure,SDG_G17.17.1_254,amount in united states dollars committed to public-private partnerships for infrastructure
+Statistical capacity indicators,SDG_G17.18.1_255,statistical capacity indicator for sustainable development goal monitoring
+Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics,SDG_G17.18.2_256,number of countries that have national statistical legislation that complies with the fundamental principles of official statistics
+"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",SDG_G17.18.3_257,"number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
+Dollar value of all resources made available to strengthen statistical capacity in developing countries,SDG_G17.19.1_258,dollar value of all resources made available to strengthen statistical capacity in developing countries
+Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,SDG_G17.19.2_259,proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 percent birth registration and 80 percent death registration
+Trends in land cover,UNCCD_SO1.1_1,trends in land cover
+Trends in land productivity or functioning of the land,UNCCD_SO1.1_2,trends in land productivity or functioning of the land
+Trends in carbon stocks above and below ground,UNCCD_SO1.1_3,trends in carbon stocks above and below ground
+Trends in population living below the relative poverty line and/or income inequality in affected areas,UNCCD_SO2.1_4,trends in population living below the relative poverty line and/or income inequality in affected areas
+Trends in access to safe drinking water in affected areas,UNCCD_SO2.2_5,trends in access to safe drinking water in affected areas
+Trends in carbon stocks above and below ground,UNCCD_SO4.1_8,trends in carbon stocks above and below ground
+Trends in abundance and distribution of selected species,UNCCD_SO4.2_9,trends in abundance and distribution of selected species
+Trends in international bilateral and multilateral official development assistance,UNCCD_SO5.1_10,trends in international bilateral and multilateral official development assistance
+Trends in domestic public resources,UNCCD_SO5.2_11,trends in domestic public resources
+Trends in number of co-financing partners,UNCCD_SO5.3_12,trends in number of co-financing partners
+"Resources mobilized from innovative sources of finance, including from the private sector",UNCCD_SO5.4_13,"resources mobilized from innovative sources of finance, including from the private sector"
+"Total amount of approved funding for developing countries and countries with economies in transition to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",UNCCD_SO5.5_14,"total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+"Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation",UNCCD_SO5.6_15,"number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation"
+"United States dollar value of financial and technical assistance, including through North–South, South–South and triangular cooperation, committed to developing countries and countries with economies in transition",UNCCD_SO5.7_16,"united states dollar value of financial and technical assistance, including through north-south, south-south and triangular cooperation, committed to developing countries and countries with economies in transition"
