@@ -137,7 +137,7 @@ all_indicators_cl %>% filter(!is.na(Categories)) %>% count() #1829 classified
 all_indicators_cl %>% filter(is.na(Categories)) %>% count() #0 NOT classified yet
 
 # Save
-#write_csv(dplyr::select(all_indicators_cl, -classif),'../output/all_indicators_classified_20052025.csv')
+write_csv(dplyr::select(all_indicators_cl, -classif),'../output/all_indicators_classified_20052025.csv')
 #all_indicators_cl = read_csv('../output/all_indicators_classified_14052025.csv')
 
 # checks
@@ -162,7 +162,7 @@ indic = all_indicators_cl %>%
 names(indic)
 
 # Save
-#write_csv(indic,'../output/all_indicators_classified_20052025_lv.csv')
+write_csv(indic,'../output/all_indicators_classified_20052025_lv.csv')
 
 # Read in
 #indic = read_csv('../output/all_indicators_classified_20052025_lv.csv')
@@ -185,7 +185,6 @@ mea_sources         <- c("GBF", "SDG", "CITES", "CMS", "RAMSAR", "UNCCD", "ICCWC
 
 #verbatim_indicator
 #Look each id up in all_orig_indicators.csv and collapse the deduplicated original names.
-
 id_to_orig <- setNames(orig$indicator_orig, orig$indic_id)
 
 get_verbatim <- function(ids_string) {
@@ -197,21 +196,20 @@ get_verbatim <- function(ids_string) {
   paste(origs, collapse = "; ")
 }
 
-classified[, verbatim_indicator := vapply(indic_ids, get_verbatim, character(1))]
+classified <- classified %>%
+  mutate(verbatim_indicator = vapply(indic_ids, get_verbatim, character(1)))
 
-# ---- 2. Frequency of use ----------------------------------------------------
-# Number of distinct assessments/MEAs the indicator was used in.
-
+#Frequency of use (Number of distinct assessments/MEAs the indicator was used in.
 get_frequency <- function(sources_string) {
   toks <- trimws(unlist(strsplit(sources_string, ";")))
   toks <- toks[toks != ""]
   length(unique(toks))
 }
 
-classified[, `Frequency of use` := vapply(sources, get_frequency, integer(1))]
+classified <- classified %>%
+  mutate(`Frequency of use` = vapply(sources, get_frequency, integer(1)))
 
-# ---- 3. MEA/assess -----------------------------------------------------------
-
+#MEA/assess
 get_mea_assess <- function(sources_string) {
   toks <- trimws(unlist(strsplit(sources_string, ";")))
   toks <- toks[toks != ""]
@@ -223,19 +221,25 @@ get_mea_assess <- function(sources_string) {
   NA_character_
 }
 
-classified[, `MEA/assess` := vapply(sources, get_mea_assess, character(1))]
+classified <- classified %>%
+  mutate(`MEA/assess` = vapply(sources, get_mea_assess, character(1))) 
 
-# ---- Save prepped table -----------------------------------------------------
+classified <- classified %>%
+  select("Indicators harmonized"="indicator_harmonized","Sources" ="sources",
+         "Elements"="Categories","Subelements"="Subcategories",
+         "Frequency of use","MEA/assess", "Indicators original name"="verbatim_indicator",
+         "Elements_2"="Categories_2","Subelements_2"="Subcategories_2")
+names(classified)
 
-out_path <- file.path("..", "data", "indicators_prepped.csv")
-if (!dir.exists(dirname(out_path))) out_path <- "indicators_prepped.csv"
+# Save prepped table
+out_path <- file.path("../output/indicators_prepped_app.csv")
 
 fwrite(classified, out_path)
 message("Wrote prepped table (", nrow(classified), " rows) to: ", out_path)
 
 
 
-# 4-Summaries----
+# 5-Summaries----
 
 all_indicators_cl = read_csv('../output/all_indicators_classified_20052025.csv')
 indic = read_csv('../output/all_indicators_classified_20052025_lv.csv')
@@ -248,8 +252,10 @@ all_indicators_cl %>% filter(!is.na(Categories)) %>% distinct(indicator_harmoniz
 all = indic %>% count() #2098 indicators
 unique = indic %>%  distinct(indicator_harmonized) %>% count() # 1829 unique
 cat('all indicators: ',all$n, '\nunique indicators: ',unique$n)
+# all indicators:  2098 
+# unique indicators:  1829
 
-# 3.a-Summaries of indicators by source----
+# 5.a-Summaries of indicators by source----
 
 # MEAs vs asses
 all_mea = indic %>% filter(mea==TRUE) %>% count() %>% arrange(desc(n))
@@ -261,6 +267,8 @@ unique_assess = indic %>% filter(assess == TRUE) %>% distinct(indicator_harmoniz
   count() 
 
 cat('\nunique assess indicators: ',unique_assess$n, '\nunique mea indicators: ',unique_mea$n)
+# unique assess indicators:  1356 
+# unique mea indicators:  657
 
 # sources (extracted with duplicates)
 total_by_source = indic %>% group_by(source) %>% count() %>% arrange(desc(n))
@@ -276,7 +284,7 @@ total_by_source = indic %>% group_by(source) %>% count() %>% arrange(desc(n))
 # 9 UNCCD     13
 
 
-# 3.b-Summaries of indicators by category-----
+# 5.b-Summaries of indicators by category-----
 
 all_indicators_cl %>% distinct(Categories) %>% count() #8
 

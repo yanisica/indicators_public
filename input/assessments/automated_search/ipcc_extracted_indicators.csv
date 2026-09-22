@@ -1,334 +1,334 @@
 indicator_harmonized,indic_ids,ipcc_extracted
-10-day cumulative precipitation,IPCC_12_17_597,1
-15n/14n isotope ratio,IPCC_5_36_279,1
-2 m air temperatures,IPCC_12_15_596,1
-absolute global forcing potential (agfp),IPCC_7_91_360,1
-absolute global temperature change potential (agtp),IPCC_7_91_360,1
-accumulated cyclone energy (ace),IPCC_11_79_569,1
-accumulated seasonal heat,IPCC_12_14_594,1
-aerosol abundance,IPCC_2_24_45,1
-aerosol changes,IPCC_3_17_173,1
-aerosol index,IPCC_7_29_329,1
-air moisture,IPCC_2_52_82,1
-amoc,IPCC_1_70_30,1
-annual gsat change,IPCC_1_50_21,1
-annual ice volume,IPCC_1_50_21,1
-annual precipitation from daily precipitation > 95th percentile (r95p),IPCC_11_53_541,1
-annular mode index,IPCC_4_51_251,1
-antarctic ice cores,IPCC_1_13_4,1
-antarctic ice sheet loss,IPCC_7_55_334,1
-arctic sea ice area,IPCC_4_7_219;IPCC_9_37_433,1
-areas below calcium carbonate saturation thresholds,IPCC_12_24_615,1
-atlantic meridional overturning circulation (amoc),IPCC_2_69_110;IPCC_4_8_220;IPCC_4_18_229,1
-atlantic multi-decadal variability (amv) index,IPCC_2_90_158;IPCC_3_83_210;IPCC_10_58_493,1
-atmosphere-land co2 fluxes,IPCC_3_64_190,1
-atmospheric co2 concentrations,IPCC_1_16_6;IPCC_1_92_33;IPCC_2_81_132;IPCC_3_64_190,1
-atmospheric dust deposition,IPCC_2_43_71,1
-atmospheric evaporative demand (aed),IPCC_11_60_547,1
-atmospheric internal variability,IPCC_8_88_422,1
-atmospheric inversions,IPCC_5_40_281,1
-beach erosion volume due to the 100-year recurrence storm wave height,IPCC_12_20_606,1
-bedrock topography,IPCC_9_48_440,1
-benthich isotopes,IPCC_2_28_57,1
-blocking index,IPCC_8_47_395,1
-boron-isotope,IPCC_2_14_37,1
-c-haines index,IPCC_12_43_643,1
-carbon uptake by land and ocean,IPCC_4_8_220,1
-change in # days hi>41°c,IPCC_12_24_613,1
-change in # days tx>35°c,IPCC_12_24_613,1
-change in # droughts,IPCC_12_24_613,1
-change in # soil moisture,IPCC_12_24_613,1
-change in extreme total water level,IPCC_12_24_613,1
-change in mean wind,IPCC_12_24_613,1
-changes in evapotranspiration demand,IPCC_12_17_599,1
-changes in groundwater,IPCC_12_17_599,1
-changes in land versus sea surface temperature,IPCC_2_31_65,1
-changes in low flows,IPCC_11_60_550,1
-changes in mean precipitation,IPCC_4_49_249,1
-changes in mean streamflow,IPCC_11_60_550,1
-changes in observed cloud cover,IPCC_2_51_79,1
-changes in phytoplankton phenology,IPCC_2_76_122,1
-changes in precipitation,IPCC_12_17_599,1
-changes in precipitation frequency and intensity,IPCC_8_27_367,1
-changes in soil moisture,IPCC_12_17_599,1
-changes in surface water,IPCC_12_17_599,1
-"changes in the number of warm nights, warm days, cold nights, and cold days",IPCC_11_40_526,1
-circulation,IPCC_2_26_47,1
-circulation index,IPCC_4_8_221,1
-climate velocity,IPCC_12_14_593,1
-climatic impact-driver (cid) duration,IPCC_12_22_609,1
-climatic impact-driver (cid) frequency,IPCC_12_22_609,1
-climatic impact-driver (cid) magnitude,IPCC_12_22_609,1
-climatic impact-driver (cid) spatial extent,IPCC_12_22_609,1
-climatic impact-driver (cid) timing,IPCC_12_22_609,1
-clorophyll concentration,IPCC_2_75_119,1
-co2 concentration,IPCC_4_79_266,1
-cold season temperatures,IPCC_12_19_604,1
-combined extreme index (cei),IPCC_11_40_527,1
-combined sea level due to storm surge and tide,IPCC_12_45_645,1
-consecutive dry days (cdd),IPCC_11_58_543;IPCC_11_93_579;IPCC_12_17_601;IPCC_12_57_665,1
-contrast of mean precipitation between dry and wet regions and between dry and wet seasons,IPCC_4_49_249,1
-convective available potential energy and wind shear,IPCC_12_66_684,1
-cooling degree day index,IPCC_12_54_662,1
-cooling degree days,IPCC_12_46_648,1
-cumulative ghg emissions,IPCC_1_58_23,1
-cumulative storm energy and storm power index,IPCC_12_20_606,1
-daily maximum tempreature above 35°c,IPCC_12_11_589,1
-daily precipitation,IPCC_11_25_512,1
-daily temperature,IPCC_11_25_512;IPCC_11_37_520,1
-days of heavy precipitation,IPCC_11_53_541,1
-degree heating months,IPCC_12_70_691,1
-degree heating weeks,IPCC_12_70_691,1
-direct co2 air measurements,IPCC_1_13_4,1
-distribution of marine biota,IPCC_2_26_47,1
-distribution of species,IPCC_2_75_120,1
-distribution of terrestrial biota,IPCC_2_26_47,1
-drought frequency (df),IPCC_12_43_641,1
-drought index (di),IPCC_12_43_640,1
-drought severity index,IPCC_12_57_666,1
-early nimbus satellite visible and infrared imagery,IPCC_2_58_91,1
-economic damages due to river floods,IPCC_1_62_25,1
-economic inequality,IPCC_1_62_25,1
-el niño-southern oscillation (enso) index,IPCC_2_76_122;IPCC_4_8_220;IPCC_4_27_234;IPCC_5_36_278,1
-el niño-southern oscillation (enso) index bjerknes index,IPCC_4_37_241,1
-emission of particular compounds,IPCC_7_90_359,1
-equilibrium climate sensitivity ecs,IPCC_7_9_323,1
-essential climate variables (ecvs),IPCC_1_64_26,1
-essential ocean variables (eovs),IPCC_1_64_26,1
-estimate of gsat (era-5),IPCC_1_45_19,1
-evaporative demand drought index (eddi),IPCC_11_58_543,1
-excess of atmospheric evaporative demand (aed),IPCC_11_58_544,1
-expansion of oligotrophic subtropical gyres of the atlantic and pacific oceans,IPCC_2_74_117,1
-extreme canopy temperatures,IPCC_12_15_596,1
-extreme low runoff,IPCC_12_17_601,1
-extreme temperatures,IPCC_11_24_511,1
-fire disturbances/burned areas,IPCC_1_66_27,1
-fire risk,IPCC_12_85_722,1
-fire weather index (fwi),IPCC_12_66_682;IPCC_12_79_710,1
-first and last days of snow cover,IPCC_12_19_604,1
-forest fire danger index (ffdi),IPCC_12_43_642;IPCC_12_43_643,1
-fossil co2 emissions,IPCC_4_79_266,1
-fraction of absorbed photosynthetically active radiation (fapar),IPCC_1_66_27;IPCC_2_79_128,1
-fraction of precipitation falling as snow,IPCC_12_19_604,1
-free tropospheric ozone,IPCC_2_21_42,1
-fuel aridity,IPCC_12_18_602,1
-full exceedance probability distribution of coastal erosion volume,IPCC_12_20_606,1
-genesis potential index,IPCC_11_78_568,1
-ghg changes,IPCC_3_17_173,1
-ghs effective radiative forcing,IPCC_7_44_330,1
-glacier areal and mass changes/loss rate,IPCC_2_60_95,1
-glacier mass and extent,IPCC_2_26_47,1
-glacier mass loss,IPCC_1_13_4;IPCC_9_65_447,1
-global annual mean tropospheric ozone burden,IPCC_6_22_300,1
-global carbon budget,IPCC_5_70_289,1
-global dust deposition,IPCC_6_16_296,1
-global energy budget,IPCC_1_38_17;IPCC_7_77_351,1
-global greening/browning,IPCC_2_26_47,1
-global land precipitation,IPCC_4_7_219,1
-global mean ocean surface ph,IPCC_4_8_220,1
-global mean sea level (gmsl),IPCC_1_16_6;IPCC_9_96_465,1
-global mean surface temperature (gmst),IPCC_1_13_4;IPCC_1_16_6;IPCC_1_45_19;IPCC_1_47_20;IPCC_2_8_35;IPCC_7_82_356;IPCC_7_91_360,1
-global monsoons,IPCC_2_26_47,1
-global precipitation climatology centre (gpcc) v8,IPCC_1_13_4,1
-global surface air temperature (gsat),IPCC_4_7_219;IPCC_9_11_426,1
-global temperature,IPCC_1_58_23,1
-global temperatures,IPCC_1_92_33,1
-global vegetation cover,IPCC_2_43_71,1
-greenland blocking index,IPCC_9_47_438,1
-greenland ice sheet fluctuations,IPCC_2_60_96,1
-ground subsidence,IPCC_2_63_102,1
-grounding line retreat,IPCC_9_55_443,1
-growing degree days,IPCC_12_46_648,1
-growing season of terrestrial biota,IPCC_2_26_47,1
-hadley circulation cell,IPCC_3_37_179,1
-hadley/walker circulation,IPCC_2_26_47,1
-heat index (hi),IPCC_12_7_581;IPCC_12_27_618;IPCC_12_49_649;IPCC_12_85_724,1
-heat stress (humidity and temperature),IPCC_12_15_596,1
-heat stress index,IPCC_12_54_663,1
-heating degree day index,IPCC_12_56_664,1
-highest five day precipitation amount (rx5day),IPCC_11_52_540,1
-highest one day precipitation amount (rx1day),IPCC_11_52_540,1
-humidity,IPCC_12_62_673,1
-hydrological deficits,IPCC_11_58_544,1
-ice core measurements,IPCC_5_14_270,1
-ice core records,IPCC_2_58_90,1
-ice cores,IPCC_2_63_105,1
-increase in global tc maximum surface wind speeds,IPCC_11_79_569,1
-indian ocean basin (iob) index,IPCC_3_78_203,1
-indian ocean dipole (ipo),IPCC_3_80_205,1
-indian ocean dipole index (iod),IPCC_3_78_202,1
-inter-decadal pacific oscillation (ipo) index,IPCC_2_89_154,1
-inter-tropical convergence zone (itcz) narrowing,IPCC_8_39_378,1
-interannual variability of primary production (pp),IPCC_5_57_287,1
-isotope-composition of molecular oxygen trapped in polar firn and ice,IPCC_2_21_41,1
-lake sediments,IPCC_9_66_448,1
-land monsoon precipitation index,IPCC_4_34_236;IPCC_4_51_250,1
-land rainfall over mc,IPCC_8_46_393,1
-land-use and management,IPCC_3_64_190,1
-land-use co2 emissions,IPCC_4_79_266,1
-land-use related non-co2 emissions,IPCC_4_79_266,1
-leaf area index (lai),IPCC_1_66_27;IPCC_2_79_128;IPCC_3_64_190;IPCC_3_65_191;IPCC_8_30_372;IPCC_8_65_401;IPCC_9_76_452;IPCC_10_31_483,1
-lightning frequency,IPCC_12_18_602,1
-local wind circulations,IPCC_12_18_602,1
-loss of older ice,IPCC_2_56_85,1
-low-flows days,IPCC_12_17_601,1
-magnitude of shoreline retreat by a pre-determined planning horizon such as 50 or 100 years into the future,IPCC_12_20_606,1
-marine cloudiness over mc,IPCC_8_46_393,1
-marine sediment cores,IPCC_2_29_60;IPCC_2_89_153,1
-marine sediments,IPCC_2_57_89;IPCC_2_61_98,1
-marine sediments below the ice sheet,IPCC_2_61_99,1
-maximum daytime heat index,IPCC_12_71_692,1
-maximum fire weather index,IPCC_12_66_682,1
-maximum temperatures,IPCC_12_49_649,1
-mean air temperature,IPCC_11_39_524,1
-mean arctic sea ice area,IPCC_2_57_88,1
-mean gsat,IPCC_1_45_19,1
-minimum temperature,IPCC_11_44_532,1
-monthly drought code fire index,IPCC_12_66_682,1
-net climate feedback,IPCC_7_56_335,1
-non-co2 fossil-fuel emissions,IPCC_4_79_266,1
-normalized difference vegetation index (ndvi),IPCC_2_78_126,1
-north atlantic oscillation (nao) index,IPCC_2_84_139;IPCC_3_67_194;IPCC_9_47_438,1
-northern and southern annular modes (nam and sam),IPCC_4_8_220,1
-northern annular mode (nam) index,IPCC_2_84_139;IPCC_3_67_194;IPCC_4_26_231;IPCC_4_35_237,1
-northern hemisphere summer monsoon circulation index,IPCC_4_34_236,1
-northern hemisphere temperature over the last millennium,IPCC_1_67_29,1
-northernmost location of the treeline,IPCC_2_78_127,1
-number of consecutive dry days (cdd),IPCC_11_60_550,1
-occurrence of heat-related human mortality,IPCC_1_62_25,1
-ocean heat content,IPCC_1_13_4;IPCC_1_70_30;IPCC_2_26_47;IPCC_2_63_104;IPCC_3_51_187,1
-ocean heat content ohc,IPCC_9_37_432,1
-ocean ph,IPCC_4_18_229,1
-ocean salinity,IPCC_3_84_212,1
-ocean temperature,IPCC_3_51_187,1
-ocean-colour,IPCC_2_76_123,1
-oceanic niño index (oni),IPCC_2_86_146,1
-ocenan ph,IPCC_2_81_132,1
-old ship logbooks,IPCC_2_58_90,1
-pacific decadal oscillation (pdo),IPCC_2_89_154;IPCC_3_80_205,1
-pacific decadal variability (pdv),IPCC_3_78_203;IPCC_3_80_206;IPCC_3_81_208,1
-paleo-temperature records,IPCC_2_29_62,1
-palmer drought severity index (pdsi),IPCC_8_66_403;IPCC_11_58_543;IPCC_11_60_549,1
-pan evaporation measurements,IPCC_11_61_551,1
-penman-monteith aed (atmospheric evaporative demand),IPCC_11_61_551,1
-permafrost temperature,IPCC_2_62_101,1
-permafrost-vegetation relationships,IPCC_2_62_100,1
-ph and desoxygenation,IPCC_2_26_47,1
-ph of ocean surface water,IPCC_1_32_16,1
-phenology of marine biota,IPCC_2_26_47,1
-phytoplankton abundance,IPCC_2_74_118,1
-phytoplankton community structure,IPCC_2_75_119,1
-planck temperature response,IPCC_7_56_335,1
-plant water use efficiency (wue),IPCC_8_65_401,1
-poleward shifts in the south atlantic convergence zone (sacz),IPCC_8_45_390,1
-pollen presence,IPCC_2_24_46;IPCC_2_62_100,1
-population-weighted ozone concentrations,IPCC_6_73_321,1
-population-weighted pm2.5 concentrations,IPCC_6_73_321,1
-position of 15n atom in atmospheric n2o,IPCC_5_36_279,1
-potential evaporation anomalies,IPCC_11_58_543,1
-power dissipation index,IPCC_9_104_471;IPCC_11_79_569,1
-precipitable water vapour,IPCC_2_26_47,1
-precipitation,IPCC_2_26_47;IPCC_3_8_164;IPCC_8_28_370,1
-precipitation deciles and percentiles,IPCC_11_58_543,1
-precipitation deficits,IPCC_11_58_544,1
-precipitation index,IPCC_4_8_221,1
-precipitation intensity-duration thresholds,IPCC_12_17_598,1
-precipitation-evaporation,IPCC_2_26_47,1
-primary production of marine biota,IPCC_2_26_47,1
-profile of effective radiative forcing (erf),IPCC_7_90_359,1
-radiative forcing,IPCC_7_91_360,1
-radio occultation,IPCC_2_42_69,1
-rainfall,IPCC_8_42_382,1
-rainfall variability,IPCC_8_77_414,1
-rate of rslr (relative sea level rise),IPCC_12_20_605,1
-reduction in post-volcanic eruption extreme precipitation,IPCC_11_50_537,1
-reef growth,IPCC_2_67_109,1
-regional deficit index,IPCC_12_72_695,1
-retreat of ice sheet,IPCC_9_59_445,1
-rooting depth,IPCC_12_17_599,1
-runoff,IPCC_2_26_47,1
-salinity,IPCC_1_70_30;IPCC_2_26_47,1
-satellite formaldehyde (hcho) observations,IPCC_6_26_304,1
-satellite observations of precipitation,IPCC_2_51_79,1
-sea ice extent,IPCC_1_70_30;IPCC_2_26_47,1
-sea ice thermodynamic,IPCC_3_45_183,1
-sea level,IPCC_2_26_47,1
-sea level change,IPCC_1_13_4,1
-sea level pressure and winds,IPCC_2_26_47,1
-sea surface temperature (sst),IPCC_2_86_146;IPCC_3_22_174;IPCC_3_84_211;IPCC_4_26_231;IPCC_7_67_343;IPCC_8_71_406;IPCC_8_88_422;IPCC_9_27_430,1
-seasonal cycle of co2,IPCC_2_26_47,1
-seasonal variations in atmospheric co2 concentrations,IPCC_2_74_116,1
-seasonality and thickness,IPCC_2_26_47,1
-sectoral emissions density,IPCC_6_63_319,1
-sediment cores,IPCC_2_63_105;IPCC_2_70_112,1
-sedimentary records,IPCC_10_56_492,1
-september sea ice extent,IPCC_1_50_21,1
-sh monsoons,IPCC_2_51_80,1
-shoreline change (indicator of coastal erosion),IPCC_12_60_671,1
-simple daily intensity index (sdii),IPCC_11_50_537,1
-simulated global mean surface air temperature (gsat),IPCC_1_45_19,1
-simulated global mean surface air temperature (gsat) anomalies,IPCC_1_45_19,1
-sink rate,IPCC_5_19_272,1
-slope instability,IPCC_2_63_102,1
-snow cover,IPCC_12_18_602,1
-snow water equivalent at key seasonal dates,IPCC_12_19_604,1
-snowfall,IPCC_8_28_371,1
-soil moisture,IPCC_8_33_375;IPCC_10_31_483;IPCC_12_17_601,1
-soil moisture anomalies,IPCC_11_58_543,1
-soil moisture deficits,IPCC_11_58_544,1
-soil moisture-based drought events,IPCC_11_60_550,1
-south pacific convergence zone (spcz),IPCC_8_39_378,1
-southern annular mode (sam) index,IPCC_2_85_141,1
-southern oscillation index (soi),IPCC_2_86_146,1
-spatiotemporal variability of meteorological parameters,IPCC_10_24_481,1
-speleothem records,IPCC_2_62_100,1
-speleotherm records,IPCC_9_71_451,1
-standardized groundwater index (sgi),IPCC_11_58_543,1
-standardized precipitation evapotranspiration index (spei),IPCC_11_58_543;IPCC_11_60_549;IPCC_12_17_601;IPCC_12_85_726,1
-standardized precipitation index (spi),IPCC_11_58_543;IPCC_11_60_550;IPCC_12_17_601;IPCC_12_57_665;IPCC_12_57_666,1
-standardized runoff index (sri),IPCC_11_58_543;IPCC_11_94_580;IPCC_12_17_601,1
-standardized soil moisture index (ssmi),IPCC_11_58_543,1
-standardized streamflow index (ssi),IPCC_11_58_543,1
-strom tracks and jets,IPCC_2_26_47,1
-subsurface borehole temperature profiles,IPCC_2_31_65,1
-sudden stratospheric warmings,IPCC_2_26_47,1
-sulphate in precipitation,IPCC_6_30_309,1
-surface albedo,IPCC_10_31_483,1
-surface and upper air temperatures,IPCC_2_26_47,1
-surface humidity,IPCC_2_26_47,1
-surface moisture flux convergence,IPCC_8_46_393,1
-surface soil moisture,IPCC_11_60_550,1
-surface turbulent fluxes,IPCC_7_17_328,1
-surface warming,IPCC_6_56_315,1
-temperature,IPCC_2_28_57;IPCC_10_77_504,1
-terrestrial permafrost temperature and active layer thickness,IPCC_2_26_47,1
-terrestrial snow cover,IPCC_2_26_47,1
-thermokarst,IPCC_2_63_102,1
-thermosteric sea level,IPCC_1_70_30,1
-threshold level methods,IPCC_11_58_543,1
-threshold when flooding occurs about once every two weeks,IPCC_12_20_605,1
-threshold when the local land elevation falls below the local mean higher high water (mhhw),IPCC_12_20_605,1
-thresholds related to antecedent extreme rainfall intensities,IPCC_12_17_598,1
-thresholds related to antecedent wet periods,IPCC_12_17_598,1
-tide gauge,IPCC_9_85_462;IPCC_12_73_700,1
-time series of normalized difference vegetation index (ndvi),IPCC_1_67_28,1
-toa energy budget,IPCC_7_82_356,1
-total soil moisture,IPCC_11_60_550,1
-transient climate response tcr,IPCC_7_9_323;IPCC_7_44_330,1
-tree rings,IPCC_3_27_176;IPCC_8_33_374,1
-tropical precipitation,IPCC_8_83_420,1
-tropospheric no2 abundance,IPCC_6_23_302,1
-upper tropospheric humidity,IPCC_2_51_79,1
-volcanic activity,IPCC_3_17_173,1
-volcanic eruptions,IPCC_8_90_424,1
-warm spell duration index (wsdi),IPCC_11_40_526,1
-water flow volume,IPCC_12_17_600,1
-water intermittency thresholds,IPCC_12_17_600,1
-water table depth,IPCC_12_17_599,1
-water vapour residence time,IPCC_8_53_397,1
-water-balance estimates,IPCC_11_60_550,1
-wet bulb globe temperature (wbgt) index,IPCC_12_49_649;IPCC_12_54_663;IPCC_12_71_692,1
-wet bulb temperature,IPCC_12_88_731,1
-whaling records,IPCC_2_58_90,1
-wildfires,IPCC_3_64_190,1
-zonally averaged mean annual temperature reconstructions,IPCC_2_31_64,1
+10-day cumulative precipitation,IPCC_12_17_597_336,1
+15n/14n isotope ratio,IPCC_5_36_279_198,1
+2 m air temperatures,IPCC_12_15_596_334,1
+absolute global forcing potential (agfp),IPCC_7_91_360_228,1
+absolute global temperature change potential (agtp),IPCC_7_91_360_230,1
+accumulated cyclone energy (ace),IPCC_11_79_569_326,1
+accumulated seasonal heat,IPCC_12_14_594_332,1
+aerosol abundance,IPCC_2_24_45_45,1
+aerosol changes,IPCC_3_17_173_142,1
+aerosol index,IPCC_7_29_329_215,1
+air moisture,IPCC_2_52_82_89,1
+amoc,IPCC_1_70_30_38,1
+annual gsat change,IPCC_1_50_21_19,1
+annual ice volume,IPCC_1_50_21_20,1
+annual precipitation from daily precipitation > 95th percentile (r95p),IPCC_11_53_541_292,1
+annular mode index,IPCC_4_51_251_189,1
+antarctic ice cores,IPCC_1_13_4_1,1
+antarctic ice sheet loss,IPCC_7_55_334_218,1
+arctic sea ice area,IPCC_4_7_219_169;IPCC_9_37_433_258,1
+areas below calcium carbonate saturation thresholds,IPCC_12_24_615_382,1
+atlantic meridional overturning circulation (amoc),IPCC_2_69_110_112;IPCC_4_8_220_170;IPCC_4_18_229_177,1
+atlantic multi-decadal variability (amv) index,IPCC_2_90_158_138;IPCC_3_83_210_164;IPCC_10_58_493_276,1
+atmosphere-land co2 fluxes,IPCC_3_64_190_150,1
+atmospheric co2 concentrations,IPCC_1_16_6_8;IPCC_1_92_33_39;IPCC_2_81_132_127;IPCC_3_64_190_149,1
+atmospheric dust deposition,IPCC_2_43_71_84,1
+atmospheric evaporative demand (aed),IPCC_11_60_547_310,1
+atmospheric internal variability,IPCC_8_88_422_252,1
+atmospheric inversions,IPCC_5_40_281_200,1
+beach erosion volume due to the 100-year recurrence storm wave height,IPCC_12_20_606_368,1
+bedrock topography,IPCC_9_48_440_261,1
+benthich isotopes,IPCC_2_28_57_76,1
+blocking index,IPCC_8_47_395_244,1
+boron-isotope,IPCC_2_14_37_42,1
+c-haines index,IPCC_12_43_643_387,1
+carbon uptake by land and ocean,IPCC_4_8_220_172,1
+change in # days hi>41°c,IPCC_12_24_613_377,1
+change in # days tx>35°c,IPCC_12_24_613_376,1
+change in # droughts,IPCC_12_24_613_378,1
+change in # soil moisture,IPCC_12_24_613_379,1
+change in extreme total water level,IPCC_12_24_613_381,1
+change in mean wind,IPCC_12_24_613_380,1
+changes in evapotranspiration demand,IPCC_12_17_599_345,1
+changes in groundwater,IPCC_12_17_599_346,1
+changes in land versus sea surface temperature,IPCC_2_31_65_81,1
+changes in low flows,IPCC_11_60_550_319,1
+changes in mean precipitation,IPCC_4_49_249_186,1
+changes in mean streamflow,IPCC_11_60_550_320,1
+changes in observed cloud cover,IPCC_2_51_79_85,1
+changes in phytoplankton phenology,IPCC_2_76_122_121,1
+changes in precipitation,IPCC_12_17_599_344,1
+changes in precipitation frequency and intensity,IPCC_8_27_367_231,1
+changes in soil moisture,IPCC_12_17_599_340,1
+changes in surface water,IPCC_12_17_599_341,1
+"changes in the number of warm nights, warm days, cold nights, and cold days",IPCC_11_40_526_283,1
+circulation,IPCC_2_26_47_66,1
+circulation index,IPCC_4_8_221_176,1
+climate velocity,IPCC_12_14_593_331,1
+climatic impact-driver (cid) duration,IPCC_12_22_609_373,1
+climatic impact-driver (cid) frequency,IPCC_12_22_609_372,1
+climatic impact-driver (cid) magnitude,IPCC_12_22_609_371,1
+climatic impact-driver (cid) spatial extent,IPCC_12_22_609_375,1
+climatic impact-driver (cid) timing,IPCC_12_22_609_374,1
+clorophyll concentration,IPCC_2_75_119_117,1
+co2 concentration,IPCC_4_79_266_194,1
+cold season temperatures,IPCC_12_19_604_363,1
+combined extreme index (cei),IPCC_11_40_527_285,1
+combined sea level due to storm surge and tide,IPCC_12_45_645_389,1
+consecutive dry days (cdd),IPCC_11_58_543_294;IPCC_11_93_579_327;IPCC_12_17_601_349;IPCC_12_57_665_400,1
+contrast of mean precipitation between dry and wet regions and between dry and wet seasons,IPCC_4_49_249_187,1
+convective available potential energy and wind shear,IPCC_12_66_684_408,1
+cooling degree day index,IPCC_12_54_662_395,1
+cooling degree days,IPCC_12_46_648_391,1
+cumulative ghg emissions,IPCC_1_58_23_23,1
+cumulative storm energy and storm power index,IPCC_12_20_606_370,1
+daily maximum tempreature above 35°c,IPCC_12_11_589_330,1
+daily precipitation,IPCC_11_25_512_279,1
+daily temperature,IPCC_11_25_512_280;IPCC_11_37_520_281,1
+days of heavy precipitation,IPCC_11_53_541_291,1
+degree heating months,IPCC_12_70_691_410,1
+degree heating weeks,IPCC_12_70_691_409,1
+direct co2 air measurements,IPCC_1_13_4_2,1
+distribution of marine biota,IPCC_2_26_47_69,1
+distribution of species,IPCC_2_75_120_119,1
+distribution of terrestrial biota,IPCC_2_26_47_72,1
+drought frequency (df),IPCC_12_43_641_385,1
+drought index (di),IPCC_12_43_640_384,1
+drought severity index,IPCC_12_57_666_401,1
+early nimbus satellite visible and infrared imagery,IPCC_2_58_91_96,1
+economic damages due to river floods,IPCC_1_62_25_24,1
+economic inequality,IPCC_1_62_25_26,1
+el niño-southern oscillation (enso) index,IPCC_2_76_122_120;IPCC_4_8_220_174;IPCC_4_27_234_181;IPCC_5_36_278_197,1
+el niño-southern oscillation (enso) index bjerknes index,IPCC_4_37_241_185,1
+emission of particular compounds,IPCC_7_90_359_226,1
+equilibrium climate sensitivity ecs,IPCC_7_9_323_213,1
+essential climate variables (ecvs),IPCC_1_64_26_27,1
+essential ocean variables (eovs),IPCC_1_64_26_28,1
+estimate of gsat (era-5),IPCC_1_45_19_15,1
+evaporative demand drought index (eddi),IPCC_11_58_543_297,1
+excess of atmospheric evaporative demand (aed),IPCC_11_58_544_307,1
+expansion of oligotrophic subtropical gyres of the atlantic and pacific oceans,IPCC_2_74_117_115,1
+extreme canopy temperatures,IPCC_12_15_596_333,1
+extreme low runoff,IPCC_12_17_601_355,1
+extreme temperatures,IPCC_11_24_511_278,1
+fire disturbances/burned areas,IPCC_1_66_27_31,1
+fire risk,IPCC_12_85_722_416,1
+fire weather index (fwi),IPCC_12_66_682_406;IPCC_12_79_710_415,1
+first and last days of snow cover,IPCC_12_19_604_362,1
+forest fire danger index (ffdi),IPCC_12_43_642_386;IPCC_12_43_643_388,1
+fossil co2 emissions,IPCC_4_79_266_191,1
+fraction of absorbed photosynthetically active radiation (fapar),IPCC_1_66_27_30;IPCC_2_79_128_125,1
+fraction of precipitation falling as snow,IPCC_12_19_604_361,1
+free tropospheric ozone,IPCC_2_21_42_44,1
+fuel aridity,IPCC_12_18_602_357,1
+full exceedance probability distribution of coastal erosion volume,IPCC_12_20_606_369,1
+genesis potential index,IPCC_11_78_568_323,1
+ghg changes,IPCC_3_17_173_141,1
+ghs effective radiative forcing,IPCC_7_44_330_216,1
+glacier areal and mass changes/loss rate,IPCC_2_60_95_97,1
+glacier mass and extent,IPCC_2_26_47_61,1
+glacier mass loss,IPCC_1_13_4_4;IPCC_9_65_447_264,1
+global annual mean tropospheric ozone burden,IPCC_6_22_300_204,1
+global carbon budget,IPCC_5_70_289_202,1
+global dust deposition,IPCC_6_16_296_203,1
+global energy budget,IPCC_1_38_17_12;IPCC_7_77_351_222,1
+global greening/browning,IPCC_2_26_47_73,1
+global land precipitation,IPCC_4_7_219_168,1
+global mean ocean surface ph,IPCC_4_8_220_171,1
+global mean sea level (gmsl),IPCC_1_16_6_10;IPCC_9_96_465_269,1
+global mean surface temperature (gmst),IPCC_1_13_4_5;IPCC_1_16_6_9;IPCC_1_45_19_16;IPCC_1_47_20_18;IPCC_2_8_35_41;IPCC_7_82_356_223;IPCC_7_91_360_229,1
+global monsoons,IPCC_2_26_47_55,1
+global precipitation climatology centre (gpcc) v8,IPCC_1_13_4_3,1
+global surface air temperature (gsat),IPCC_4_7_219_167;IPCC_9_11_426_255,1
+global temperature,IPCC_1_58_23_22,1
+global temperatures,IPCC_1_92_33_40,1
+global vegetation cover,IPCC_2_43_71_83,1
+greenland blocking index,IPCC_9_47_438_260,1
+greenland ice sheet fluctuations,IPCC_2_60_96_98,1
+ground subsidence,IPCC_2_63_102_105,1
+grounding line retreat,IPCC_9_55_443_262,1
+growing degree days,IPCC_12_46_648_390,1
+growing season of terrestrial biota,IPCC_2_26_47_74,1
+hadley circulation cell,IPCC_3_37_179_145,1
+hadley/walker circulation,IPCC_2_26_47_54,1
+heat index (hi),IPCC_12_7_581_329;IPCC_12_27_618_383;IPCC_12_49_649_394;IPCC_12_85_724_417,1
+heat stress (humidity and temperature),IPCC_12_15_596_335,1
+heat stress index,IPCC_12_54_663_396,1
+heating degree day index,IPCC_12_56_664_398,1
+highest five day precipitation amount (rx5day),IPCC_11_52_540_289,1
+highest one day precipitation amount (rx1day),IPCC_11_52_540_290,1
+humidity,IPCC_12_62_673_404,1
+hydrological deficits,IPCC_11_58_544_309,1
+ice core measurements,IPCC_5_14_270_195,1
+ice core records,IPCC_2_58_90_95,1
+ice cores,IPCC_2_63_105_109,1
+increase in global tc maximum surface wind speeds,IPCC_11_79_569_324,1
+indian ocean basin (iob) index,IPCC_3_78_203_158,1
+indian ocean dipole (ipo),IPCC_3_80_205_161,1
+indian ocean dipole index (iod),IPCC_3_78_202_157,1
+inter-decadal pacific oscillation (ipo) index,IPCC_2_89_154_137,1
+inter-tropical convergence zone (itcz) narrowing,IPCC_8_39_378_238,1
+interannual variability of primary production (pp),IPCC_5_57_287_201,1
+isotope-composition of molecular oxygen trapped in polar firn and ice,IPCC_2_21_41_43,1
+lake sediments,IPCC_9_66_448_265,1
+land monsoon precipitation index,IPCC_4_34_236_182;IPCC_4_51_250_188,1
+land rainfall over mc,IPCC_8_46_393_241,1
+land-use and management,IPCC_3_64_190_152,1
+land-use co2 emissions,IPCC_4_79_266_190,1
+land-use related non-co2 emissions,IPCC_4_79_266_193,1
+leaf area index (lai),IPCC_1_66_27_29;IPCC_2_79_128_126;IPCC_3_64_190_151;IPCC_3_65_191_154;IPCC_8_30_372_234;IPCC_8_65_401_247;IPCC_9_76_452_267;IPCC_10_31_483_273,1
+lightning frequency,IPCC_12_18_602_356,1
+local wind circulations,IPCC_12_18_602_359,1
+loss of older ice,IPCC_2_56_85_90,1
+low-flows days,IPCC_12_17_601_354,1
+magnitude of shoreline retreat by a pre-determined planning horizon such as 50 or 100 years into the future,IPCC_12_20_606_367,1
+marine cloudiness over mc,IPCC_8_46_393_242,1
+marine sediment cores,IPCC_2_29_60_77;IPCC_2_89_153_135,1
+marine sediments,IPCC_2_57_89_92;IPCC_2_61_98_99,1
+marine sediments below the ice sheet,IPCC_2_61_99_100,1
+maximum daytime heat index,IPCC_12_71_692_412,1
+maximum fire weather index,IPCC_12_66_682_407,1
+maximum temperatures,IPCC_12_49_649_393,1
+mean air temperature,IPCC_11_39_524_282,1
+mean arctic sea ice area,IPCC_2_57_88_91,1
+mean gsat,IPCC_1_45_19_17,1
+minimum temperature,IPCC_11_44_532_286,1
+monthly drought code fire index,IPCC_12_66_682_405,1
+net climate feedback,IPCC_7_56_335_219,1
+non-co2 fossil-fuel emissions,IPCC_4_79_266_192,1
+normalized difference vegetation index (ndvi),IPCC_2_78_126_123,1
+north atlantic oscillation (nao) index,IPCC_2_84_139_129;IPCC_3_67_194_155;IPCC_9_47_438_259,1
+northern and southern annular modes (nam and sam),IPCC_4_8_220_173,1
+northern annular mode (nam) index,IPCC_2_84_139_130;IPCC_3_67_194_156;IPCC_4_26_231_179;IPCC_4_35_237_184,1
+northern hemisphere summer monsoon circulation index,IPCC_4_34_236_183,1
+northern hemisphere temperature over the last millennium,IPCC_1_67_29_33,1
+northernmost location of the treeline,IPCC_2_78_127_124,1
+number of consecutive dry days (cdd),IPCC_11_60_550_314,1
+occurrence of heat-related human mortality,IPCC_1_62_25_25,1
+ocean heat content,IPCC_1_13_4_7;IPCC_1_70_30_34;IPCC_2_26_47_63;IPCC_2_63_104_108;IPCC_3_51_187_148,1
+ocean heat content ohc,IPCC_9_37_432_257,1
+ocean ph,IPCC_4_18_229_178,1
+ocean salinity,IPCC_3_84_212_166,1
+ocean temperature,IPCC_3_51_187_147,1
+ocean-colour,IPCC_2_76_123_122,1
+oceanic niño index (oni),IPCC_2_86_146_133,1
+ocenan ph,IPCC_2_81_132_128,1
+old ship logbooks,IPCC_2_58_90_94,1
+pacific decadal oscillation (pdo),IPCC_2_89_154_136;IPCC_3_80_205_160,1
+pacific decadal variability (pdv),IPCC_3_78_203_159;IPCC_3_80_206_162;IPCC_3_81_208_163,1
+paleo-temperature records,IPCC_2_29_62_78,1
+palmer drought severity index (pdsi),IPCC_8_66_403_248;IPCC_11_58_543_305;IPCC_11_60_549_311,1
+pan evaporation measurements,IPCC_11_61_551_321,1
+penman-monteith aed (atmospheric evaporative demand),IPCC_11_61_551_322,1
+permafrost temperature,IPCC_2_62_101_104,1
+permafrost-vegetation relationships,IPCC_2_62_100_103,1
+ph and desoxygenation,IPCC_2_26_47_67,1
+ph of ocean surface water,IPCC_1_32_16_11,1
+phenology of marine biota,IPCC_2_26_47_71,1
+phytoplankton abundance,IPCC_2_74_118_116,1
+phytoplankton community structure,IPCC_2_75_119_118,1
+planck temperature response,IPCC_7_56_335_220,1
+plant water use efficiency (wue),IPCC_8_65_401_246,1
+poleward shifts in the south atlantic convergence zone (sacz),IPCC_8_45_390_240,1
+pollen presence,IPCC_2_24_46_46;IPCC_2_62_100_101,1
+population-weighted ozone concentrations,IPCC_6_73_321_211,1
+population-weighted pm2.5 concentrations,IPCC_6_73_321_210,1
+position of 15n atom in atmospheric n2o,IPCC_5_36_279_199,1
+potential evaporation anomalies,IPCC_11_58_543_296,1
+power dissipation index,IPCC_9_104_471_270;IPCC_11_79_569_325,1
+precipitable water vapour,IPCC_2_26_47_49,1
+precipitation,IPCC_2_26_47_50;IPCC_3_8_164_139;IPCC_8_28_370_232,1
+precipitation deciles and percentiles,IPCC_11_58_543_295,1
+precipitation deficits,IPCC_11_58_544_306,1
+precipitation index,IPCC_4_8_221_175,1
+precipitation intensity-duration thresholds,IPCC_12_17_598_337,1
+precipitation-evaporation,IPCC_2_26_47_51,1
+primary production of marine biota,IPCC_2_26_47_70,1
+profile of effective radiative forcing (erf),IPCC_7_90_359_225,1
+radiative forcing,IPCC_7_91_360_227,1
+radio occultation,IPCC_2_42_69_82,1
+rainfall,IPCC_8_42_382_239,1
+rainfall variability,IPCC_8_77_414_250,1
+rate of rslr (relative sea level rise),IPCC_12_20_605_366,1
+reduction in post-volcanic eruption extreme precipitation,IPCC_11_50_537_287,1
+reef growth,IPCC_2_67_109_111,1
+regional deficit index,IPCC_12_72_695_413,1
+retreat of ice sheet,IPCC_9_59_445_263,1
+rooting depth,IPCC_12_17_599_343,1
+runoff,IPCC_2_26_47_52,1
+salinity,IPCC_1_70_30_36;IPCC_2_26_47_64,1
+satellite formaldehyde (hcho) observations,IPCC_6_26_304_206,1
+satellite observations of precipitation,IPCC_2_51_79_86,1
+sea ice extent,IPCC_1_70_30_37;IPCC_2_26_47_58,1
+sea ice thermodynamic,IPCC_3_45_183_146,1
+sea level,IPCC_2_26_47_65,1
+sea level change,IPCC_1_13_4_6,1
+sea level pressure and winds,IPCC_2_26_47_53,1
+sea surface temperature (sst),IPCC_2_86_146_132;IPCC_3_22_174_143;IPCC_3_84_211_165;IPCC_4_26_231_180;IPCC_7_67_343_221;IPCC_8_71_406_249;IPCC_8_88_422_253;IPCC_9_27_430_256,1
+seasonal cycle of co2,IPCC_2_26_47_68,1
+seasonal variations in atmospheric co2 concentrations,IPCC_2_74_116_114,1
+seasonality and thickness,IPCC_2_26_47_59,1
+sectoral emissions density,IPCC_6_63_319_209,1
+sediment cores,IPCC_2_63_105_110;IPCC_2_70_112_113,1
+sedimentary records,IPCC_10_56_492_275,1
+september sea ice extent,IPCC_1_50_21_21,1
+sh monsoons,IPCC_2_51_80_88,1
+shoreline change (indicator of coastal erosion),IPCC_12_60_671_403,1
+simple daily intensity index (sdii),IPCC_11_50_537_288,1
+simulated global mean surface air temperature (gsat),IPCC_1_45_19_13,1
+simulated global mean surface air temperature (gsat) anomalies,IPCC_1_45_19_14,1
+sink rate,IPCC_5_19_272_196,1
+slope instability,IPCC_2_63_102_107,1
+snow cover,IPCC_12_18_602_358,1
+snow water equivalent at key seasonal dates,IPCC_12_19_604_360,1
+snowfall,IPCC_8_28_371_233,1
+soil moisture,IPCC_8_33_375_236;IPCC_10_31_483_272;IPCC_12_17_601_350,1
+soil moisture anomalies,IPCC_11_58_543_298,1
+soil moisture deficits,IPCC_11_58_544_308,1
+soil moisture-based drought events,IPCC_11_60_550_316,1
+south pacific convergence zone (spcz),IPCC_8_39_378_237,1
+southern annular mode (sam) index,IPCC_2_85_141_131,1
+southern oscillation index (soi),IPCC_2_86_146_134,1
+spatiotemporal variability of meteorological parameters,IPCC_10_24_481_271,1
+speleothem records,IPCC_2_62_100_102,1
+speleotherm records,IPCC_9_71_451_266,1
+standardized groundwater index (sgi),IPCC_11_58_543_303,1
+standardized precipitation evapotranspiration index (spei),IPCC_11_58_543_304;IPCC_11_60_549_312;IPCC_12_17_601_353;IPCC_12_85_726_418,1
+standardized precipitation index (spi),IPCC_11_58_543_293;IPCC_11_60_550_313;IPCC_12_17_601_351;IPCC_12_57_665_399;IPCC_12_57_666_402,1
+standardized runoff index (sri),IPCC_11_58_543_300;IPCC_11_94_580_328;IPCC_12_17_601_352,1
+standardized soil moisture index (ssmi),IPCC_11_58_543_299,1
+standardized streamflow index (ssi),IPCC_11_58_543_301,1
+strom tracks and jets,IPCC_2_26_47_56,1
+subsurface borehole temperature profiles,IPCC_2_31_65_80,1
+sudden stratospheric warmings,IPCC_2_26_47_57,1
+sulphate in precipitation,IPCC_6_30_309_207,1
+surface albedo,IPCC_10_31_483_274,1
+surface and upper air temperatures,IPCC_2_26_47_47,1
+surface humidity,IPCC_2_26_47_48,1
+surface moisture flux convergence,IPCC_8_46_393_243,1
+surface soil moisture,IPCC_11_60_550_317,1
+surface turbulent fluxes,IPCC_7_17_328_214,1
+surface warming,IPCC_6_56_315_208,1
+temperature,IPCC_2_28_57_75;IPCC_10_77_504_277,1
+terrestrial permafrost temperature and active layer thickness,IPCC_2_26_47_62,1
+terrestrial snow cover,IPCC_2_26_47_60,1
+thermokarst,IPCC_2_63_102_106,1
+thermosteric sea level,IPCC_1_70_30_35,1
+threshold level methods,IPCC_11_58_543_302,1
+threshold when flooding occurs about once every two weeks,IPCC_12_20_605_365,1
+threshold when the local land elevation falls below the local mean higher high water (mhhw),IPCC_12_20_605_364,1
+thresholds related to antecedent extreme rainfall intensities,IPCC_12_17_598_339,1
+thresholds related to antecedent wet periods,IPCC_12_17_598_338,1
+tide gauge,IPCC_9_85_462_268;IPCC_12_73_700_414,1
+time series of normalized difference vegetation index (ndvi),IPCC_1_67_28_32,1
+toa energy budget,IPCC_7_82_356_224,1
+total soil moisture,IPCC_11_60_550_315,1
+transient climate response tcr,IPCC_7_9_323_212;IPCC_7_44_330_217,1
+tree rings,IPCC_3_27_176_144;IPCC_8_33_374_235,1
+tropical precipitation,IPCC_8_83_420_251,1
+tropospheric no2 abundance,IPCC_6_23_302_205,1
+upper tropospheric humidity,IPCC_2_51_79_87,1
+volcanic activity,IPCC_3_17_173_140,1
+volcanic eruptions,IPCC_8_90_424_254,1
+warm spell duration index (wsdi),IPCC_11_40_526_284,1
+water flow volume,IPCC_12_17_600_347,1
+water intermittency thresholds,IPCC_12_17_600_348,1
+water table depth,IPCC_12_17_599_342,1
+water vapour residence time,IPCC_8_53_397_245,1
+water-balance estimates,IPCC_11_60_550_318,1
+wet bulb globe temperature (wbgt) index,IPCC_12_49_649_392;IPCC_12_54_663_397;IPCC_12_71_692_411,1
+wet bulb temperature,IPCC_12_88_731_419,1
+whaling records,IPCC_2_58_90_93,1
+wildfires,IPCC_3_64_190_153,1
+zonally averaged mean annual temperature reconstructions,IPCC_2_31_64_79,1

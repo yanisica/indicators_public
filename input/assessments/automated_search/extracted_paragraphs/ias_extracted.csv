@@ -1,90 +1,90 @@
 indicator_orig,indicator_harmonized,indic_id,var_indic,ILK
-invasive alien species are given new names by Indigenous Peoples and local communities,invasive alien species are given new names by indigenous peoples and local communities,IPBES_IAS_1_53_8,1,1
-Total imports,total imports,IPBES_IAS_2_5_11,1,NA
- Human population size,human population size,IPBES_IAS_2_5_11,1,NA
- Gross domestic product per capita,gross domestic product,IPBES_IAS_2_5_11,1,NA
- Number of tourists,number of tourists,IPBES_IAS_2_5_11,1,NA
- Proportion of cropland,proportion of cropland,IPBES_IAS_2_5_11,1,NA
- Proportion of urban area,proportion of urban area,IPBES_IAS_2_5_11,1,NA
- Ship calls,ship calls,IPBES_IAS_2_5_11,1,NA
- Number of people migrating,number of people migrating,IPBES_IAS_2_5_11,1,NA
- Temperature,temperature,IPBES_IAS_2_5_11,1,NA
-number of studies on IAS available per region,number of studies on ias available per region,IPBES_IAS_2_13_15,2,NA
-number of widespread phyla for which no information was available for a particular region,number of widespread phyla for which no information was available for a particular region,IPBES_IAS_2_13_16,1,NA
-Comparison of the number of available first records of established alien species for a region with the total number of species recorded for the same region,comparison of the number of available first records of established alien species for a region with the total number of species recorded for the same region,IPBES_IAS_2_14_17,2,NA
-Total number of introduced alien species,total number of introduced alien species,IPBES_IAS_2_15_20,1,NA
- Rate of species accumulation,rate of species accumulation,IPBES_IAS_2_15_20,1,NA
-Human development index,human development index (hdi),IPBES_IAS_2_18_24,2,NA
-Red List of threatened species,red list index,IPBES_IAS_2_48_40,2,NA
-Current distribution of species,current distribution of species,IPBES_IAS_2_155_79,1,NA
-GDP per capita,gross domestic product,IPBES_IAS_3_8_84,1,NA
- Human population density,human population density,IPBES_IAS_3_8_84,1,NA
- mean annual precipitation,mean annual precipitation,IPBES_IAS_3_8_84,1,NA
- mean annual temperature,mean annual temperature,IPBES_IAS_3_8_84,1,NA
- alien species richness,alien species richness,IPBES_IAS_3_8_84,1,NA
-GDP,gross domestic product,IPBES_IAS_3_34_90,2,NA
-Evolutionary diversity,evolutionary diversity,IPBES_IAS_3_84_95,1,NA
- tree biomass,tree biomass,IPBES_IAS_3_84_95,1,NA
- phylogenetic distance,phylogenetic distance,IPBES_IAS_3_84_95,1,NA
- species richness,species richness,IPBES_IAS_3_84_95,1,NA
-concentration of hydrogen ions (H+),concentration of hydrogen ions (h+),IPBES_IAS_4_8_100,1,NA
-Number of extinctions,number of species extinctions,IPBES_IAS_4_22_102,1,NA
- Number of species at risk of extinction,number of species at risk of extinction,IPBES_IAS_4_22_102,1,NA
- local species richness,local species richness,IPBES_IAS_4_22_102,1,NA
- Mean body length,mean body length,IPBES_IAS_4_22_102,1,NA
- IUCN Red List Index,red list index,IPBES_IAS_4_22_102,1,NA
-species growth rate,species growth rate,IPBES_IAS_4_64_104,2,NA
- species Condition Index,species condition index,IPBES_IAS_4_64_104,2,NA
-totem or culturally important species,totem or culturally important species,IPBES_IAS_4_140_116,2,1
-IUCN Red List,red list index,IPBES_IAS_5_52_127,2,NA
-Functional diversity,functional diversity,IPBES_IAS_5_109_131,1,NA
-Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,IPBES_IAS_5_120_132,2,NA
-Macroinvertebrate-based indices,macroinvertebrate-based indices,IPBES_IAS_5_130_134,1,NA
-trends in pathways of introduction and spread,trends in pathways of introduction and spread,IPBES_IAS_6_11_138,2,NA
- trends in numbers of invasive alien species and their impacts,trends in numbers of invasive alien species and their impacts,IPBES_IAS_6_11_138,2,NA
-" trends, mechanisms and severity of invasive alien species impacts","trends, mechanisms and severity of invasive alien species impacts",IPBES_IAS_6_11_138,2,NA
- trends in the allocation of resources towards the prevention or control of invasive alien species,trends in the allocation of resources towards the prevention or control of invasive alien species,IPBES_IAS_6_11_138,2,NA
- trends in establishment and national adoption of international agreements relevant to the prevention and control of invasive alien species,trends in establishment and national adoption of international agreements relevant to the prevention and control of invasive alien species,IPBES_IAS_6_11_138,2,NA
- trends in numbers of countries with national legislation and other policy measures relevant to the prevention and/or control of invasive alien species,trends in numbers of countries with national legislation and other policy measures relevant to the prevention and/or control of invasive alien species,IPBES_IAS_6_11_138,2,NA
- trends in the prevention of invasive alien species,trends in the prevention of invasive alien species,IPBES_IAS_6_11_138,2,NA
- growth in information relevant to informing policy on invasive alien species prevention and control,growth in information relevant to informing policy on invasive alien species prevention and control,IPBES_IAS_6_11_138,2,NA
- trends in successful control and eradications of invasive alien species,trends in successful control and eradications of invasive alien species,IPBES_IAS_6_11_138,2,NA
-existence and uptake of multilateral agreements and national legislation relevant to the prevention and control of invasive alien species,existence and uptake of multilateral agreements and national legislation relevant to the prevention and control of invasive alien species,IPBES_IAS_6_14_142,2,NA
- resourcing of invasive alien species prevention and control activities,resourcing of invasive alien species prevention and control activities,IPBES_IAS_6_14_142,2,NA
-National funding for resourcing of biological invasions policy and management implementation,national funding for resourcing of biological invasions policy and management implementation,IPBES_IAS_6_17_143,1,NA
- Global funding for resourcing of biological invasions policy and management implementation,global funding for resourcing of biological invasions policy and management implementation,IPBES_IAS_6_17_143,1,NA
-Number of biogeographic regions with risk-associated activities,number of biogeographic regions with risk-associated activities,IPBES_IAS_6_21_146,2,NA
- Trends in numbers of facilities in the region,trends in numbers of facilities in the region,IPBES_IAS_6_21_146,2,NA
-" Number of tourists, scientists and facilities per biogeographic region","number of tourists, scientists and facilities per biogeographic region",IPBES_IAS_6_21_146,2,NA
- Number of alien and invasive taxa per biogeographic region,number of alien and invasive taxa per biogeographic region,IPBES_IAS_6_21_146,2,NA
- Trends in extinction risk of birds impacted by invasive species,trends in extinction risk of birds impacted by invasive species,IPBES_IAS_6_21_146,2,NA
- Prospective inclusion of other native taxa and threatened habitats,prospective inclusion of other native taxa and threatened habitats,IPBES_IAS_6_21_146,2,NA
- Trends in adoption of multinational agreements to reduce invasive alien species threats,trends in adoption of multinational agreements to reduce invasive alien species threats,IPBES_IAS_6_21_146,2,NA
- Trends in invasive alien species relevant submissions to managers,trends in invasive alien species relevant submissions to managers,IPBES_IAS_6_21_146,2,NA
- Trends in invasive alien species eradication at different scales,trends in invasive alien species eradication at different scales,IPBES_IAS_6_21_146,2,NA
-number of alien taxa,number of alien taxa,IPBES_IAS_6_56_150,1,NA
- species negatively impacting biodiversity,species negatively impacting biodiversity,IPBES_IAS_6_56_150,1,NA
- Trends in species at risk of localized extinction in a protected area,trends in species at risk of localized extinction in a protected area,IPBES_IAS_6_56_150,1,NA
- extent of which essential policy and management approaches have been adopted,extent of which essential policy and management approaches have been adopted,IPBES_IAS_6_56_150,1,NA
-Gross domestic product,gross domestic product,IPBES_IAS_6_85_153,2,NA
- Gross national product,gross national product,IPBES_IAS_6_85_153,2,NA
- Genuine Progress indicator,genuine progress indicator,IPBES_IAS_6_85_153,2,NA
- index of sustainable economic welfare (isew),index of sustainable economic welfare (isew),IPBES_IAS_6_85_153,2,NA
- Gross National Happiness measure,gross national happiness index,IPBES_IAS_6_85_153,2,NA
-Spread of alien species by pathway,spread of alien species by pathway,IPBES_IAS_6_97_160,2,NA
-" Impact of alien species on sensitive places, species and functions","impact of alien species on sensitive places, species and functions",IPBES_IAS_6_97_160,2,NA
- Interventions to limit spread and reduce impact of alien species,interventions to limit spread and reduce impact of alien species,IPBES_IAS_6_97_160,2,NA
-alien species occurrence,alien species occurrence,IPBES_IAS_6_114_165,1,NA
- status of an individual or species as native or alien,status of an individual or species as native or alien,IPBES_IAS_6_114_165,1,NA
- invasive alien species impact,invasive alien species impact,IPBES_IAS_6_114_165,1,NA
-Rate of invasive alien species establishment,rate of invasive alien species establishment,IPBES_IAS_6_119_173,2,NA
-Trends in pathways of introduction and spread,trends in pathways of introduction and spread,IPBES_IAS_6_119_174,2,NA
- Trends in numbers and spatial distribution of invasive alien species and their impacts,trends in numbers and spatial distribution of invasive alien species and their impacts,IPBES_IAS_6_119_174,2,NA
-" Trends, mechanisms and severity of invasive alien species impacts","trends, mechanisms and severity of invasive alien species impacts",IPBES_IAS_6_119_174,2,NA
- Trends in the allocation of resources towards the prevention or control of invasive alien species,trends in the allocation of resources towards the prevention or control of invasive alien species,IPBES_IAS_6_119_174,2,NA
- Trends in establishments and national adoption of international agreements relevant to the prevention and control of invasive alien species,trends in establishment and national adoption of international agreements relevant to the prevention and control of invasive alien species,IPBES_IAS_6_119_174,2,NA
- Trends in numbers of countries with national legislation and other policy measures relevant to the prevention and/or control of invasive alien species,trends in numbers of countries with national legislation and other policy measures relevant to the prevention and/or control of invasive alien species,IPBES_IAS_6_119_174,2,NA
- Trends in the prevention and eradication and control of invasive alien species,trends in the prevention and eradication and control of invasive alien species,IPBES_IAS_6_119_174,2,NA
- Growth in information relevant to informing policy on invasive alien species prevention and control,growth in information relevant to informing policy on invasive alien species prevention and control,IPBES_IAS_6_119_174,2,NA
- Trends in successful eradications of invasive alien species,trends in successful eradications of invasive alien species,IPBES_IAS_6_119_174,2,NA
- Improvement in conseration status of species threatened by invasive alien species,improvement in conseration status of species threatened by invasive alien species,IPBES_IAS_6_119_174,2,NA
+invasive alien species are given new names by Indigenous Peoples and local communities,invasive alien species are given new names by indigenous peoples and local communities,IPBES_IAS_1_53_8_1,1,1
+Total imports,total imports,IPBES_IAS_2_5_11_2,1,NA
+ Human population size,human population size,IPBES_IAS_2_5_11_3,1,NA
+ Gross domestic product per capita,gross domestic product,IPBES_IAS_2_5_11_4,1,NA
+ Number of tourists,number of tourists,IPBES_IAS_2_5_11_5,1,NA
+ Proportion of cropland,proportion of cropland,IPBES_IAS_2_5_11_6,1,NA
+ Proportion of urban area,proportion of urban area,IPBES_IAS_2_5_11_7,1,NA
+ Ship calls,ship calls,IPBES_IAS_2_5_11_8,1,NA
+ Number of people migrating,number of people migrating,IPBES_IAS_2_5_11_9,1,NA
+ Temperature,temperature,IPBES_IAS_2_5_11_10,1,NA
+number of studies on IAS available per region,number of studies on ias available per region,IPBES_IAS_2_13_15_11,2,NA
+number of widespread phyla for which no information was available for a particular region,number of widespread phyla for which no information was available for a particular region,IPBES_IAS_2_13_16_12,1,NA
+Comparison of the number of available first records of established alien species for a region with the total number of species recorded for the same region,comparison of the number of available first records of established alien species for a region with the total number of species recorded for the same region,IPBES_IAS_2_14_17_13,2,NA
+Total number of introduced alien species,total number of introduced alien species,IPBES_IAS_2_15_20_14,1,NA
+ Rate of species accumulation,rate of species accumulation,IPBES_IAS_2_15_20_15,1,NA
+Human development index,human development index (hdi),IPBES_IAS_2_18_24_16,2,NA
+Red List of threatened species,red list index,IPBES_IAS_2_48_40_17,2,NA
+Current distribution of species,current distribution of species,IPBES_IAS_2_155_79_18,1,NA
+GDP per capita,gross domestic product,IPBES_IAS_3_8_84_19,1,NA
+ Human population density,human population density,IPBES_IAS_3_8_84_20,1,NA
+ mean annual precipitation,mean annual precipitation,IPBES_IAS_3_8_84_21,1,NA
+ mean annual temperature,mean annual temperature,IPBES_IAS_3_8_84_22,1,NA
+ alien species richness,alien species richness,IPBES_IAS_3_8_84_23,1,NA
+GDP,gross domestic product,IPBES_IAS_3_34_90_24,2,NA
+Evolutionary diversity,evolutionary diversity,IPBES_IAS_3_84_95_25,1,NA
+ tree biomass,tree biomass,IPBES_IAS_3_84_95_26,1,NA
+ phylogenetic distance,phylogenetic distance,IPBES_IAS_3_84_95_27,1,NA
+ species richness,species richness,IPBES_IAS_3_84_95_28,1,NA
+concentration of hydrogen ions (H+),concentration of hydrogen ions (h+),IPBES_IAS_4_8_100_29,1,NA
+Number of extinctions,number of species extinctions,IPBES_IAS_4_22_102_30,1,NA
+ Number of species at risk of extinction,number of species at risk of extinction,IPBES_IAS_4_22_102_31,1,NA
+ local species richness,local species richness,IPBES_IAS_4_22_102_32,1,NA
+ Mean body length,mean body length,IPBES_IAS_4_22_102_33,1,NA
+ IUCN Red List Index,red list index,IPBES_IAS_4_22_102_34,1,NA
+species growth rate,species growth rate,IPBES_IAS_4_64_104_35,2,NA
+ species Condition Index,species condition index,IPBES_IAS_4_64_104_36,2,NA
+totem or culturally important species,totem or culturally important species,IPBES_IAS_4_140_116_37,2,1
+IUCN Red List,red list index,IPBES_IAS_5_52_127_38,2,NA
+Functional diversity,functional diversity,IPBES_IAS_5_109_131_39,1,NA
+Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,IPBES_IAS_5_120_132_40,2,NA
+Macroinvertebrate-based indices,macroinvertebrate-based indices,IPBES_IAS_5_130_134_41,1,NA
+trends in pathways of introduction and spread,trends in pathways of introduction and spread,IPBES_IAS_6_11_138_42,2,NA
+ trends in numbers of invasive alien species and their impacts,trends in numbers of invasive alien species and their impacts,IPBES_IAS_6_11_138_43,2,NA
+" trends, mechanisms and severity of invasive alien species impacts","trends, mechanisms and severity of invasive alien species impacts",IPBES_IAS_6_11_138_44,2,NA
+ trends in the allocation of resources towards the prevention or control of invasive alien species,trends in the allocation of resources towards the prevention or control of invasive alien species,IPBES_IAS_6_11_138_45,2,NA
+ trends in establishment and national adoption of international agreements relevant to the prevention and control of invasive alien species,trends in establishment and national adoption of international agreements relevant to the prevention and control of invasive alien species,IPBES_IAS_6_11_138_46,2,NA
+ trends in numbers of countries with national legislation and other policy measures relevant to the prevention and/or control of invasive alien species,trends in numbers of countries with national legislation and other policy measures relevant to the prevention and/or control of invasive alien species,IPBES_IAS_6_11_138_47,2,NA
+ trends in the prevention of invasive alien species,trends in the prevention of invasive alien species,IPBES_IAS_6_11_138_48,2,NA
+ growth in information relevant to informing policy on invasive alien species prevention and control,growth in information relevant to informing policy on invasive alien species prevention and control,IPBES_IAS_6_11_138_49,2,NA
+ trends in successful control and eradications of invasive alien species,trends in successful control and eradications of invasive alien species,IPBES_IAS_6_11_138_50,2,NA
+existence and uptake of multilateral agreements and national legislation relevant to the prevention and control of invasive alien species,existence and uptake of multilateral agreements and national legislation relevant to the prevention and control of invasive alien species,IPBES_IAS_6_14_142_51,2,NA
+ resourcing of invasive alien species prevention and control activities,resourcing of invasive alien species prevention and control activities,IPBES_IAS_6_14_142_52,2,NA
+National funding for resourcing of biological invasions policy and management implementation,national funding for resourcing of biological invasions policy and management implementation,IPBES_IAS_6_17_143_53,1,NA
+ Global funding for resourcing of biological invasions policy and management implementation,global funding for resourcing of biological invasions policy and management implementation,IPBES_IAS_6_17_143_54,1,NA
+Number of biogeographic regions with risk-associated activities,number of biogeographic regions with risk-associated activities,IPBES_IAS_6_21_146_55,2,NA
+ Trends in numbers of facilities in the region,trends in numbers of facilities in the region,IPBES_IAS_6_21_146_56,2,NA
+" Number of tourists, scientists and facilities per biogeographic region","number of tourists, scientists and facilities per biogeographic region",IPBES_IAS_6_21_146_57,2,NA
+ Number of alien and invasive taxa per biogeographic region,number of alien and invasive taxa per biogeographic region,IPBES_IAS_6_21_146_58,2,NA
+ Trends in extinction risk of birds impacted by invasive species,trends in extinction risk of birds impacted by invasive species,IPBES_IAS_6_21_146_59,2,NA
+ Prospective inclusion of other native taxa and threatened habitats,prospective inclusion of other native taxa and threatened habitats,IPBES_IAS_6_21_146_60,2,NA
+ Trends in adoption of multinational agreements to reduce invasive alien species threats,trends in adoption of multinational agreements to reduce invasive alien species threats,IPBES_IAS_6_21_146_61,2,NA
+ Trends in invasive alien species relevant submissions to managers,trends in invasive alien species relevant submissions to managers,IPBES_IAS_6_21_146_62,2,NA
+ Trends in invasive alien species eradication at different scales,trends in invasive alien species eradication at different scales,IPBES_IAS_6_21_146_63,2,NA
+number of alien taxa,number of alien taxa,IPBES_IAS_6_56_150_64,1,NA
+ species negatively impacting biodiversity,species negatively impacting biodiversity,IPBES_IAS_6_56_150_65,1,NA
+ Trends in species at risk of localized extinction in a protected area,trends in species at risk of localized extinction in a protected area,IPBES_IAS_6_56_150_66,1,NA
+ extent of which essential policy and management approaches have been adopted,extent of which essential policy and management approaches have been adopted,IPBES_IAS_6_56_150_67,1,NA
+Gross domestic product,gross domestic product,IPBES_IAS_6_85_153_68,2,NA
+ Gross national product,gross national product,IPBES_IAS_6_85_153_69,2,NA
+ Genuine Progress indicator,genuine progress indicator,IPBES_IAS_6_85_153_70,2,NA
+ index of sustainable economic welfare (isew),index of sustainable economic welfare (isew),IPBES_IAS_6_85_153_71,2,NA
+ Gross National Happiness measure,gross national happiness index,IPBES_IAS_6_85_153_72,2,NA
+Spread of alien species by pathway,spread of alien species by pathway,IPBES_IAS_6_97_160_73,2,NA
+" Impact of alien species on sensitive places, species and functions","impact of alien species on sensitive places, species and functions",IPBES_IAS_6_97_160_74,2,NA
+ Interventions to limit spread and reduce impact of alien species,interventions to limit spread and reduce impact of alien species,IPBES_IAS_6_97_160_75,2,NA
+alien species occurrence,alien species occurrence,IPBES_IAS_6_114_165_76,1,NA
+ status of an individual or species as native or alien,status of an individual or species as native or alien,IPBES_IAS_6_114_165_77,1,NA
+ invasive alien species impact,invasive alien species impact,IPBES_IAS_6_114_165_78,1,NA
+Rate of invasive alien species establishment,rate of invasive alien species establishment,IPBES_IAS_6_119_173_79,2,NA
+Trends in pathways of introduction and spread,trends in pathways of introduction and spread,IPBES_IAS_6_119_174_80,2,NA
+ Trends in numbers and spatial distribution of invasive alien species and their impacts,trends in numbers and spatial distribution of invasive alien species and their impacts,IPBES_IAS_6_119_174_81,2,NA
+" Trends, mechanisms and severity of invasive alien species impacts","trends, mechanisms and severity of invasive alien species impacts",IPBES_IAS_6_119_174_82,2,NA
+ Trends in the allocation of resources towards the prevention or control of invasive alien species,trends in the allocation of resources towards the prevention or control of invasive alien species,IPBES_IAS_6_119_174_83,2,NA
+ Trends in establishments and national adoption of international agreements relevant to the prevention and control of invasive alien species,trends in establishment and national adoption of international agreements relevant to the prevention and control of invasive alien species,IPBES_IAS_6_119_174_84,2,NA
+ Trends in numbers of countries with national legislation and other policy measures relevant to the prevention and/or control of invasive alien species,trends in numbers of countries with national legislation and other policy measures relevant to the prevention and/or control of invasive alien species,IPBES_IAS_6_119_174_85,2,NA
+ Trends in the prevention and eradication and control of invasive alien species,trends in the prevention and eradication and control of invasive alien species,IPBES_IAS_6_119_174_86,2,NA
+ Growth in information relevant to informing policy on invasive alien species prevention and control,growth in information relevant to informing policy on invasive alien species prevention and control,IPBES_IAS_6_119_174_87,2,NA
+ Trends in successful eradications of invasive alien species,trends in successful eradications of invasive alien species,IPBES_IAS_6_119_174_88,2,NA
+ Improvement in conseration status of species threatened by invasive alien species,improvement in conseration status of species threatened by invasive alien species,IPBES_IAS_6_119_174_89,2,NA

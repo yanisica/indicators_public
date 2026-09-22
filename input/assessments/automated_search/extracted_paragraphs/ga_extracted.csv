@@ -1,507 +1,507 @@
 indicator_orig,indicator_harmonized,indic_id,var_indic,ILK
-Gross domestic product (GDP),gross domestic product,IPBES_GA_1_19_6,2,NA
- human development INDEX,human development index (hdi),IPBES_GA_1_19_6,2,NA
- inclusive wealth,inclusive wealth,IPBES_GA_1_19_6,2,NA
- gross national happiness index,gross national happiness index,IPBES_GA_1_19_6,2,NA
-Human development index (HDI),human development index (hdi),IPBES_GA_1_31_9,2,NA
-Ecological footprint,ecological footprint,IPBES_GA_1_52_19,2,NA
- Water footprint (Human appropriation of fresh water),water footprint,IPBES_GA_1_52_19,2,NA
- Percentage of category 1 nations in CITES,percentage of countries that are category 1 cites parties,IPBES_GA_1_52_19,2,NA
- Trends in forest extent (tree cover),trends in forest extent,IPBES_GA_1_52_19,2,NA
-" Protected area coverage of Key Biodiversity Areas (including Important Bird and Biodiversity Areas, Alliance for Zero Extinction sites)",protected area coverage of key biodiversity areas,IPBES_GA_1_52_19,2,NA
- Total wood removals,total wood removals,IPBES_GA_1_52_19,2,NA
- Biodiversity Habitat Index,biodiversity habitat index,IPBES_GA_1_52_19,2,NA
- Species Habitat Index,species habitat index,IPBES_GA_1_52_19,2,NA
- Forest area as a percentage of total land area,forest area as a percentage of total land area,IPBES_GA_1_52_19,2,NA
- Trends in fisheries certified by the MSC,trends in fisheries certified by the msc,IPBES_GA_1_52_19,2,NA
- Estimated fisheries catch and fishing effort,estimated fisheries catch and fishing effort,IPBES_GA_1_52_19,2,NA
- Proportion of fish stocks within biologically sustainable levels,proportion of fish stocks within biologically sustainable levels,IPBES_GA_1_52_19,2,NA
- Inland fishery production,inland fishery production,IPBES_GA_1_52_19,2,NA
- Marine Trophic Index,marine trophic index (mti),IPBES_GA_1_52_19,2,NA
- Proportion of area of forest production under FSC and PEFC certification,proportion of area of forest production under fsc and pefc certification,IPBES_GA_1_52_19,2,NA
- Nitrogen use efficiency,nitrogen use efficiency,IPBES_GA_1_52_19,2,NA
- Nitrogen + Phosphate Fertilizers (N+P205 total nutrients),nitrogen + phosphate fertilizers (n+p205 total nutrients),IPBES_GA_1_52_19,2,NA
- Trends in pesticide use,trends in pesticide use,IPBES_GA_1_52_19,2,NA
- Trends in nitrogen deposition,trends in nitrogen deposition,IPBES_GA_1_52_19,2,NA
- Species protection index,species protection index,IPBES_GA_1_52_19,2,NA
- Protected area management effectiveness,protected area management effectiveness (pame),IPBES_GA_1_52_19,2,NA
- Protected Area Connectedness Index,protected area connectedness (parc-connectedness) index,IPBES_GA_1_52_19,2,NA
-" Percentage of areas covered by protected areas- marine, coastal, terrestrial, inland water",protected area coverage,IPBES_GA_1_52_19,2,NA
- Biodiversity Intactness Index,biodiversity intactness index,IPBES_GA_1_52_19,2,NA
- Red list index,red list index,IPBES_GA_1_52_19,2,NA
- Species habitat index,species habitat index,IPBES_GA_1_52_19,2,NA
-" Proportion of local breeds, classified as being at risk, not-at-risk or unknown level of risk of extinction",proportion of local breeds classified as being at risk of extinction,IPBES_GA_1_52_19,2,NA
- inland fishery production,inland fishery production,IPBES_GA_1_52_19,2,NA
- Percentage of undernourished people,percentage of undernourished people,IPBES_GA_1_52_19,2,NA
- Number of countries with developed or revised NBSAPs,number of countries with developed or revised nbsaps,IPBES_GA_1_52_19,2,NA
- Proportion of known species assessed through the IUCN red list,proportion of known species assessed through the red list index,IPBES_GA_1_52_19,2,NA
- species status index,species status index,IPBES_GA_1_52_19,2,NA
- Living planet index,living planet index,IPBES_GA_1_52_19,2,NA
-" Number of countries with national instruments on biodiversity-relevant taxes, charges and fees","number of countries with national instruments on biodiversity relevant taxes, charges and fees",IPBES_GA_1_52_19,2,NA
- Number of countries with national instruments on REDD plus schemes,number of countries with national instruments on redd plus schemes,IPBES_GA_1_52_19,2,NA
- Trends in potentially harmful elements of government support to agriculture (produced support estimates),trends in potentially harmful elements of government support to agriculture (produced support estimates),IPBES_GA_1_52_19,2,NA
- Trends in potentially harmful elements of government support to fisheries,trends in potentially harmful elements of government support to fisheries,IPBES_GA_1_52_19,2,NA
- Number of countries with national instruments on biodiversity relevant tradable permit schemes,number of countries with national instruments on biodiversity relevant tradable permit schemes,IPBES_GA_1_52_19,2,NA
- Human appropriation of net primary productivity,human appropriation of net primary productivity,IPBES_GA_1_52_19,2,NA
- Trend in Carbon Intensity,trend in carbon intensity,IPBES_GA_1_52_19,2,NA
- Global climate risk Index,global climate risk index,IPBES_GA_1_52_19,2,NA
- Westland Extent Trend Index,wetland extent trends index,IPBES_GA_1_52_19,2,NA
- Global effort in bottom trawling,global effort in bottom-trawling,IPBES_GA_1_52_19,2,NA
- Number and coverage of stocks with adaptive management systems/plans,number and coverage of stocks with adaptive management systems/plans,IPBES_GA_1_52_19,2,NA
-  Presence of regulations requiring recovery of depleted species,presence of regulations requiring recovery of depleted species,IPBES_GA_1_52_19,2,NA
- Policies to secure that mortalities and significant indirect adverse impacts on non-target species are accounted for are in place,policies to secure that mortalities and significant indirect adverse impacts on non-target species are accounted for are in place,IPBES_GA_1_52_19,2,NA
-  Policies make adequate provisions to minimize impacts of fisheries on threatened species,policies make adequate provisions to minimize impacts of fisheries on threatened species,IPBES_GA_1_52_19,2,NA
- Coverage of fisheries with management measures to reduce bycatch and discards,coverage of fisheries with management measures to reduce bycatch and discards,IPBES_GA_1_52_19,2,NA
-  Proportion of predatory fish,proportion of predatory fish,IPBES_GA_1_52_19,2,NA
- Mean length of fish,mean length of fish,IPBES_GA_1_52_19,2,NA
- BioTime-Local Species Richness,biotime-local species richness,IPBES_GA_1_52_19,2,NA
- Temporal Species Turnover,temporal species turnover,IPBES_GA_1_52_19,2,NA
- Overall Species Abundance,overall species abundance,IPBES_GA_1_52_19,2,NA
- Non declining exploited species,non declining exploited species,IPBES_GA_1_52_19,2,NA
- Number of world natural heritage sites per country per year,number of world natural heritage sites per country per year,IPBES_GA_1_52_19,2,NA
- Nitrogen use balance,nitrogen use balance,IPBES_GA_1_52_19,2,NA
- Areas of agricultural land under convervation agriculture,area of agricultural land under conservation,IPBES_GA_1_52_19,2,NA
-  Proportion of agricultural area under productive and sustainable agriculture,proportion of agricultural area under productive and sustainable agriculture,IPBES_GA_1_52_19,2,NA
- Trends in the numbers of invasive alien species introduction events,trends in the numbers of invasive alien species introduction events,IPBES_GA_1_52_19,2,NA
- Trends in invasive alien species vertebrate eradications,trends in invasive alien species vertebrate eradications,IPBES_GA_1_52_19,2,NA
-" Protected area coverage of terrestrial, marine and freshwater ecoregions","protected area coverage of terrestrial, marine and freshwater ecoregions",IPBES_GA_1_52_19,2,NA
- Protected Area Representativeness Index,protected area representativeness index,IPBES_GA_1_52_19,2,NA
- Wildlife Picture Index,wildlife picture index,IPBES_GA_1_52_19,2,NA
- Mean Species Abundance,mean species abundance (msa),IPBES_GA_1_52_19,2,NA
- Number of species extinctions,number of species extinctions,IPBES_GA_1_52_19,2,NA
- RAMSAR sites,ramsar sites,IPBES_GA_1_52_19,2,NA
- Better life index,better life index,IPBES_GA_1_52_19,2,NA
- Percentage of population using safely managed drinking water services,percentage of population using safely managed drinking water services,IPBES_GA_1_52_19,2,NA
- Wetland Extent Trend Index,wetland extent trends index,IPBES_GA_1_52_19,2,NA
- Land under cereal production (ha),land under cereal production (ha),IPBES_GA_1_52_19,2,NA
- Global Ecosystem Restoration Index,global ecosystem restoration index,IPBES_GA_1_52_19,2,NA
-" Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits","number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",IPBES_GA_1_52_19,2,NA
- Global Index of Linguistic Diversity and language threat level,global linguistic diversity index and language threat level,IPBES_GA_1_52_19,2,NA
- Growth in species occurrence records accessible through GBIF,species occurrence records accessible through the global biodiversity information facility,IPBES_GA_1_52_19,2,NA
-  Species represented in the barcode of life data system,species represented in the barcode of life data system,IPBES_GA_1_52_19,2,NA
+Gross domestic product (GDP),gross domestic product,IPBES_GA_1_19_6_1,2,NA
+ human development INDEX,human development index (hdi),IPBES_GA_1_19_6_2,2,NA
+ inclusive wealth,inclusive wealth,IPBES_GA_1_19_6_3,2,NA
+ gross national happiness index,gross national happiness index,IPBES_GA_1_19_6_4,2,NA
+Human development index (HDI),human development index (hdi),IPBES_GA_1_31_9_5,2,NA
+Ecological footprint,ecological footprint,IPBES_GA_1_52_19_6,2,NA
+ Water footprint (Human appropriation of fresh water),water footprint,IPBES_GA_1_52_19_7,2,NA
+ Percentage of category 1 nations in CITES,percentage of countries that are category 1 cites parties,IPBES_GA_1_52_19_8,2,NA
+ Trends in forest extent (tree cover),trends in forest extent,IPBES_GA_1_52_19_9,2,NA
+" Protected area coverage of Key Biodiversity Areas (including Important Bird and Biodiversity Areas, Alliance for Zero Extinction sites)",protected area coverage of key biodiversity areas,IPBES_GA_1_52_19_10,2,NA
+ Total wood removals,total wood removals,IPBES_GA_1_52_19_11,2,NA
+ Biodiversity Habitat Index,biodiversity habitat index,IPBES_GA_1_52_19_12,2,NA
+ Species Habitat Index,species habitat index,IPBES_GA_1_52_19_13,2,NA
+ Forest area as a percentage of total land area,forest area as a percentage of total land area,IPBES_GA_1_52_19_14,2,NA
+ Trends in fisheries certified by the MSC,trends in fisheries certified by the msc,IPBES_GA_1_52_19_15,2,NA
+ Estimated fisheries catch and fishing effort,estimated fisheries catch and fishing effort,IPBES_GA_1_52_19_16,2,NA
+ Proportion of fish stocks within biologically sustainable levels,proportion of fish stocks within biologically sustainable levels,IPBES_GA_1_52_19_17,2,NA
+ Inland fishery production,inland fishery production,IPBES_GA_1_52_19_18,2,NA
+ Marine Trophic Index,marine trophic index (mti),IPBES_GA_1_52_19_19,2,NA
+ Proportion of area of forest production under FSC and PEFC certification,proportion of area of forest production under fsc and pefc certification,IPBES_GA_1_52_19_20,2,NA
+ Nitrogen use efficiency,nitrogen use efficiency,IPBES_GA_1_52_19_21,2,NA
+ Nitrogen + Phosphate Fertilizers (N+P205 total nutrients),nitrogen + phosphate fertilizers (n+p205 total nutrients),IPBES_GA_1_52_19_22,2,NA
+ Trends in pesticide use,trends in pesticide use,IPBES_GA_1_52_19_23,2,NA
+ Trends in nitrogen deposition,trends in nitrogen deposition,IPBES_GA_1_52_19_24,2,NA
+ Species protection index,species protection index,IPBES_GA_1_52_19_25,2,NA
+ Protected area management effectiveness,protected area management effectiveness (pame),IPBES_GA_1_52_19_26,2,NA
+ Protected Area Connectedness Index,protected area connectedness (parc-connectedness) index,IPBES_GA_1_52_19_27,2,NA
+" Percentage of areas covered by protected areas- marine, coastal, terrestrial, inland water",protected area coverage,IPBES_GA_1_52_19_28,2,NA
+ Biodiversity Intactness Index,biodiversity intactness index,IPBES_GA_1_52_19_29,2,NA
+ Red list index,red list index,IPBES_GA_1_52_19_30,2,NA
+ Species habitat index,species habitat index,IPBES_GA_1_52_19_31,2,NA
+" Proportion of local breeds, classified as being at risk, not-at-risk or unknown level of risk of extinction",proportion of local breeds classified as being at risk of extinction,IPBES_GA_1_52_19_32,2,NA
+ inland fishery production,inland fishery production,IPBES_GA_1_52_19_33,2,NA
+ Percentage of undernourished people,percentage of undernourished people,IPBES_GA_1_52_19_34,2,NA
+ Number of countries with developed or revised NBSAPs,number of countries with developed or revised nbsaps,IPBES_GA_1_52_19_35,2,NA
+ Proportion of known species assessed through the IUCN red list,proportion of known species assessed through the red list index,IPBES_GA_1_52_19_36,2,NA
+ species status index,species status index,IPBES_GA_1_52_19_37,2,NA
+ Living planet index,living planet index,IPBES_GA_1_52_19_38,2,NA
+" Number of countries with national instruments on biodiversity-relevant taxes, charges and fees","number of countries with national instruments on biodiversity relevant taxes, charges and fees",IPBES_GA_1_52_19_39,2,NA
+ Number of countries with national instruments on REDD plus schemes,number of countries with national instruments on redd plus schemes,IPBES_GA_1_52_19_40,2,NA
+ Trends in potentially harmful elements of government support to agriculture (produced support estimates),trends in potentially harmful elements of government support to agriculture (produced support estimates),IPBES_GA_1_52_19_41,2,NA
+ Trends in potentially harmful elements of government support to fisheries,trends in potentially harmful elements of government support to fisheries,IPBES_GA_1_52_19_42,2,NA
+ Number of countries with national instruments on biodiversity relevant tradable permit schemes,number of countries with national instruments on biodiversity relevant tradable permit schemes,IPBES_GA_1_52_19_43,2,NA
+ Human appropriation of net primary productivity,human appropriation of net primary productivity,IPBES_GA_1_52_19_44,2,NA
+ Trend in Carbon Intensity,trend in carbon intensity,IPBES_GA_1_52_19_45,2,NA
+ Global climate risk Index,global climate risk index,IPBES_GA_1_52_19_46,2,NA
+ Westland Extent Trend Index,wetland extent trends index,IPBES_GA_1_52_19_47,2,NA
+ Global effort in bottom trawling,global effort in bottom-trawling,IPBES_GA_1_52_19_48,2,NA
+ Number and coverage of stocks with adaptive management systems/plans,number and coverage of stocks with adaptive management systems/plans,IPBES_GA_1_52_19_49,2,NA
+  Presence of regulations requiring recovery of depleted species,presence of regulations requiring recovery of depleted species,IPBES_GA_1_52_19_50,2,NA
+ Policies to secure that mortalities and significant indirect adverse impacts on non-target species are accounted for are in place,policies to secure that mortalities and significant indirect adverse impacts on non-target species are accounted for are in place,IPBES_GA_1_52_19_51,2,NA
+  Policies make adequate provisions to minimize impacts of fisheries on threatened species,policies make adequate provisions to minimize impacts of fisheries on threatened species,IPBES_GA_1_52_19_52,2,NA
+ Coverage of fisheries with management measures to reduce bycatch and discards,coverage of fisheries with management measures to reduce bycatch and discards,IPBES_GA_1_52_19_53,2,NA
+  Proportion of predatory fish,proportion of predatory fish,IPBES_GA_1_52_19_54,2,NA
+ Mean length of fish,mean length of fish,IPBES_GA_1_52_19_55,2,NA
+ BioTime-Local Species Richness,biotime-local species richness,IPBES_GA_1_52_19_56,2,NA
+ Temporal Species Turnover,temporal species turnover,IPBES_GA_1_52_19_57,2,NA
+ Overall Species Abundance,overall species abundance,IPBES_GA_1_52_19_58,2,NA
+ Non declining exploited species,non declining exploited species,IPBES_GA_1_52_19_59,2,NA
+ Number of world natural heritage sites per country per year,number of world natural heritage sites per country per year,IPBES_GA_1_52_19_60,2,NA
+ Nitrogen use balance,nitrogen use balance,IPBES_GA_1_52_19_61,2,NA
+ Areas of agricultural land under convervation agriculture,area of agricultural land under conservation,IPBES_GA_1_52_19_62,2,NA
+  Proportion of agricultural area under productive and sustainable agriculture,proportion of agricultural area under productive and sustainable agriculture,IPBES_GA_1_52_19_63,2,NA
+ Trends in the numbers of invasive alien species introduction events,trends in the numbers of invasive alien species introduction events,IPBES_GA_1_52_19_64,2,NA
+ Trends in invasive alien species vertebrate eradications,trends in invasive alien species vertebrate eradications,IPBES_GA_1_52_19_65,2,NA
+" Protected area coverage of terrestrial, marine and freshwater ecoregions","protected area coverage of terrestrial, marine and freshwater ecoregions",IPBES_GA_1_52_19_66,2,NA
+ Protected Area Representativeness Index,protected area representativeness index,IPBES_GA_1_52_19_67,2,NA
+ Wildlife Picture Index,wildlife picture index,IPBES_GA_1_52_19_68,2,NA
+ Mean Species Abundance,mean species abundance (msa),IPBES_GA_1_52_19_69,2,NA
+ Number of species extinctions,number of species extinctions,IPBES_GA_1_52_19_70,2,NA
+ RAMSAR sites,ramsar sites,IPBES_GA_1_52_19_71,2,NA
+ Better life index,better life index,IPBES_GA_1_52_19_72,2,NA
+ Percentage of population using safely managed drinking water services,percentage of population using safely managed drinking water services,IPBES_GA_1_52_19_73,2,NA
+ Wetland Extent Trend Index,wetland extent trends index,IPBES_GA_1_52_19_74,2,NA
+ Land under cereal production (ha),land under cereal production (ha),IPBES_GA_1_52_19_75,2,NA
+ Global Ecosystem Restoration Index,global ecosystem restoration index,IPBES_GA_1_52_19_76,2,NA
+" Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits","number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",IPBES_GA_1_52_19_77,2,NA
+ Global Index of Linguistic Diversity and language threat level,global linguistic diversity index and language threat level,IPBES_GA_1_52_19_78,2,NA
+ Growth in species occurrence records accessible through GBIF,species occurrence records accessible through the global biodiversity information facility,IPBES_GA_1_52_19_79,2,NA
+  Species represented in the barcode of life data system,species represented in the barcode of life data system,IPBES_GA_1_52_19_80,2,NA
 " Information provided through the financial reporting framework, adopted by decision XII/3 
-","information provided through the financial reporting framework, adopted by decision xii/3",IPBES_GA_1_52_19,2,NA
-GDP per capita,gross domestic product,IPBES_GA_2_20_26,2,NA
-Child mortality,child mortality,IPBES_GA_2_22_28,1,NA
- caloric intake,caloric intake,IPBES_GA_2_22_28,1,NA
- per capita consumption,per capita consumption,IPBES_GA_2_22_28,1,NA
- value of merchandise being exported,value of merchandise being exported,IPBES_GA_2_22_28,1,NA
-mortality rate under 5,mortality rate under 5,IPBES_GA_2_24_29,2,NA
- Human development index,human development index (hdi),IPBES_GA_2_24_29,2,NA
- calorie intake,caloric intake,IPBES_GA_2_24_29,2,NA
- GDP per capita,gross domestic product,IPBES_GA_2_24_29,2,NA
- Globalization index,globalization index,IPBES_GA_2_24_29,2,NA
- Domestic material consumption per capita,domestic material consumption,IPBES_GA_2_24_29,2,NA
- merchandise exports,merchandise exports,IPBES_GA_2_24_29,2,NA
- total population,total population,IPBES_GA_2_24_29,2,NA
- proportion of urban population,proportion of urban population,IPBES_GA_2_24_29,2,NA
- International migrant stock,international migrant stock,IPBES_GA_2_24_29,2,NA
- Absence of conflict as indicator of political stability,absence of conflict as indicator of political stability,IPBES_GA_2_24_29,2,NA
- Protection of key biodiversity areas,protection of key biodiversity areas,IPBES_GA_2_24_29,2,NA
-human development index,human development index (hdi),IPBES_GA_2_22_30,2,NA
-income,income,IPBES_GA_2_25_31,1,NA
- life expectancy at birth,life expectancy,IPBES_GA_2_25_31,1,NA
- average number of years of schooling,average number of years of schooling,IPBES_GA_2_25_31,1,NA
-World happiness index,world happiness index,IPBES_GA_2_25_34,2,NA
- Social progress index,social progress index,IPBES_GA_2_25_34,2,NA
- Environmental performance index,environmental performance index,IPBES_GA_2_25_34,2,NA
- Environmental Component of the Social Sustainability INDEX,environmental component of the social sustainability index,IPBES_GA_2_25_34,2,NA
-index of linguistic diversity,linguistic diversity index,IPBES_GA_2_41_36,1,NA
-Fertilizer use,fertilizer use,IPBES_GA_2_83_42,2,NA
- Land use change,land use change,IPBES_GA_2_83_42,2,NA
- Extraction of living biomass,extraction of living biomass,IPBES_GA_2_83_42,2,NA
- Extraction of non-living materials,extraction of non-living materials,IPBES_GA_2_83_42,2,NA
- Greenhouse gas emissions,greenhouse gas emissions,IPBES_GA_2_83_42,2,NA
- Air pollution,air pollution,IPBES_GA_2_83_42,2,NA
- Alien species richness,alien species richness,IPBES_GA_2_83_42,2,NA
-Access to improved sanitation facilities,access to improved sanitation facilities,IPBES_GA_2_109_44,2,NA
-Water quality index (WATQI),water quality index (watqi),IPBES_GA_2_110_45,2,NA
-Biodiversity Intactness index,biodiversity intactness index,IPBES_GA_2_117_46,2,NA
-Total land footprint,total land footprint,IPBES_GA_2_118_47,2,NA
- percentage of abroad land use footprint,percentage of abroad land use footprint,IPBES_GA_2_118_47,2,NA
- percentage of agricultural and urban areas,percentage of agricultural and urban areas,IPBES_GA_2_118_47,2,NA
- Extraction of non-human materials,extraction of non-human materials,IPBES_GA_2_118_47,2,NA
- Total GHG emissions,total greenhouse gas emissions per year,IPBES_GA_2_118_47,2,NA
- Alien species,alien species,IPBES_GA_2_118_47,2,NA
-Biomass of prey fish,biomass of prey fish,IPBES_GA_2.2_1_50,1,NA
- Terrestrial vegetation biomass,terrestrial vegetation biomass,IPBES_GA_2.2_1_50,1,NA
- extent of forests,extent of forests,IPBES_GA_2.2_1_50,1,NA
- area of tree cover,tree cover,IPBES_GA_2.2_1_50,1,NA
- total extinction risk,extinction risk,IPBES_GA_2.2_1_50,1,NA
-time needed to harvest resources,time needed to harvest resources,IPBES_GA_2.2_5_55,1,1
- distance travelled to harvest resources,distance travelled to harvest resources,IPBES_GA_2.2_5_55,1,1
- culturally salient species,culturally salient species,IPBES_GA_2.2_5_55,1,1
- native newcomer species arrive,native newcomer species arrive,IPBES_GA_2.2_5_55,1,1
- new pests and invasive alien species colonize,new pests and invasive alien species colonize,IPBES_GA_2.2_5_55,1,1
- forests and grazing lands loss,forests and grazing lands loss,IPBES_GA_2.2_5_55,1,1
- remnant ecosystems degrade,remnant ecosystems degrade,IPBES_GA_2.2_5_55,1,1
- health condition and body size of wild animals decrease,health condition and body size of wild animals decrease,IPBES_GA_2.2_5_55,1,1
-tropical forest-monocrop conversions,tropical forest-monocrop conversions,IPBES_GA_2.2_6_56,1,1
- expansion of settlements,expansion of settlements,IPBES_GA_2.2_6_56,1,1
- discontinued traditional land-management practices,discontinued traditional land-management practices,IPBES_GA_2.2_6_56,1,1
- droughts,droughts,IPBES_GA_2.2_6_56,1,1
- increasingly unpredictable annual distribution of rainfall,increasingly unpredictable annual distribution of rainfall,IPBES_GA_2.2_6_56,1,1
- arrival of new native and alien species,arrival of new native and alien species,IPBES_GA_2.2_6_56,1,1
- changing range of wild species,changing range of wild species,IPBES_GA_2.2_6_56,1,1
- floods,floods,IPBES_GA_2.2_6_56,1,1
- overexploitation of resources by outsiders and locals,overexploitation of resources by outsiders and locals,IPBES_GA_2.2_6_56,1,1
-Total richness of endemic species,total richness of endemic species,IPBES_GA_2.2_21_61,2,NA
- range-size rarity,range-size rarity,IPBES_GA_2.2_21_61,2,NA
- endemism richness,endemism richness,IPBES_GA_2.2_21_61,2,NA
- weighted endemisms,weighted endemisms,IPBES_GA_2.2_21_61,2,NA
-Soil organic carbon,soil organic carbon,IPBES_GA_2.2_37_70,2,NA
- Fraction of ocean not fished per year,fraction of ocean not fished per year,IPBES_GA_2.2_37_70,2,NA
- Extent of marine wilderness,extent of marine wilderness,IPBES_GA_2.2_37_70,2,NA
- Leaf area index,leaf area index (lai),IPBES_GA_2.2_37_70,2,NA
- Tree cover,tree cover,IPBES_GA_2.2_37_70,2,NA
- Vegetation biomass,vegetation biomass,IPBES_GA_2.2_37_70,2,NA
- Permanent surface water extent,permanent surface water extent,IPBES_GA_2.2_37_70,2,NA
- Aboveground biomass,above-ground biomass,IPBES_GA_2.2_37_70,2,NA
- BHI (overall habitat integrity),biodiversity habitat index,IPBES_GA_2.2_37_70,2,NA
- Land not cultivated or urban (indigenous Lands),land not cultivated or urban (indigenous lands),IPBES_GA_2.2_37_70,2,NA
- Land not cultivated or urban (Hotspots),land not cultivated or urban (hotspots),IPBES_GA_2.2_37_70,2,NA
- Land not cultivated or urban (global),land not cultivated or urban,IPBES_GA_2.2_37_70,2,NA
- Natural habitat extent,extent of suitable habitat,IPBES_GA_2.2_37_70,2,NA
- Extent of forests,extent of forests,IPBES_GA_2.2_37_70,2,NA
- Mangrove forest area,mangrove forest area,IPBES_GA_2.2_37_70,2,NA
- Remaining primary vegetation (Indigenous Lands),remaining primary vegetation (indigenous lands),IPBES_GA_2.2_37_70,2,NA
- Coastal protection habitats,coastal protection habitats,IPBES_GA_2.2_37_70,2,NA
- Percentage live coral cover,live coral cover,IPBES_GA_2.2_37_70,2,NA
- remaining primary vegetations,remaining primary vegetation,IPBES_GA_2.2_37_70,2,NA
- Extent of terrestrial wilderness,extent of terrestrial wilderness,IPBES_GA_2.2_37_70,2,NA
- Extent of intact forest landscapes,extent of intact forest landscapes,IPBES_GA_2.2_37_70,2,NA
- Coastal carbon-rich habitat,coastal carbon-rich habitat,IPBES_GA_2.2_37_70,2,NA
- Wetland extent trends index,wetland extent trends index,IPBES_GA_2.2_37_70,2,NA
- Seagrass meadow area,seagrass meadow area,IPBES_GA_2.2_37_70,2,NA
- Mean annual change in aboveground biomass,mean annual change in above-ground biomass,IPBES_GA_2.2_37_70,2,NA
- Biomass turnover rate,biomass turnover rate,IPBES_GA_2.2_37_70,2,NA
- Oceanic carbon sequestration,oceanic carbon sequestration,IPBES_GA_2.2_37_70,2,NA
- Terrestrial C sequestration,terrestrial c sequestration,IPBES_GA_2.2_37_70,2,NA
- Marine NPP,marine net primary production,IPBES_GA_2.2_37_70,2,NA
- Terrestrial NPP,terrestrial net primary production,IPBES_GA_2.2_37_70,2,NA
- NPP remaining in ecosystems,net primary production,IPBES_GA_2.2_37_70,2,NA
- Evapotranspiration,evapotranspiration,IPBES_GA_2.2_37_70,2,NA
- Biological pump efficiency,biological pump efficiency,IPBES_GA_2.2_37_70,2,NA
- Local species richness,local species richness,IPBES_GA_2.2_37_70,2,NA
- Mean Species abundance Index,mean species abundance (msa),IPBES_GA_2.2_37_70,2,NA
- Tropical forest BII (Indigenous Lands),"biodiversity intactness index (tropical forest, indigenous lands)",IPBES_GA_2.2_37_70,2,NA
- Tropical forest BII (overall),biodiversity intactness index (tropical forest),IPBES_GA_2.2_37_70,2,NA
- Tropical forest BII (hotspots),"biodiversity intactness index (tropical forest, hotspots)",IPBES_GA_2.2_37_70,2,NA
- Cumulative number of alien species,cumulative introduced invasive aliens,IPBES_GA_2.2_37_70,2,NA
- Cumulative introduced invasive aliens,cumulative introduced invasive aliens,IPBES_GA_2.2_37_70,2,NA
- Bird species per grid cell,bird species per grid cell,IPBES_GA_2.2_37_70,2,NA
- Species richness per grid cell,species richness per grid cell,IPBES_GA_2.2_37_70,2,NA
- Forest-specialist bird species per grid cell,forest-specialist bird species per grid cell,IPBES_GA_2.2_37_70,2,NA
- Functional intactness,functional intactness (madingley),IPBES_GA_2.2_37_70,2,NA
- Global mammal & bird species remaining,global mammal and bird species remaining,IPBES_GA_2.2_37_70,2,NA
- Red List Index,red list index,IPBES_GA_2.2_37_70,2,NA
- Mammalian range size,mammalian range size,IPBES_GA_2.2_37_70,2,NA
- Megafaunal range size,megafaunal range size,IPBES_GA_2.2_37_70,2,NA
- Species Habitat index,species habitat index,IPBES_GA_2.2_37_70,2,NA
- Extent of suitable habitat,extent of suitable habitat,IPBES_GA_2.2_37_70,2,NA
- wild mammal biomass,wild mammal biomass,IPBES_GA_2.2_37_70,2,NA
- prey fish biomass,prey fish biomass,IPBES_GA_2.2_37_70,2,NA
- fish stocks biologically sustainable,proportion of fish stocks within biologically sustainable levels,IPBES_GA_2.2_37_70,2,NA
- Wild Bird Index,wild bird index,IPBES_GA_2.2_37_70,2,NA
- Predatory fish biomass,predatory fish biomass,IPBES_GA_2.2_37_70,2,NA
-seagrass meadow area,seagrass meadow area,IPBES_GA_2.2_38_74,2,NA
- mangrove forest area,mangrove forest area,IPBES_GA_2.2_38_74,2,NA
- live coral cover on reefs,live coral cover,IPBES_GA_2.2_38_74,2,NA
- Ocean health index,ocean health index,IPBES_GA_2.2_38_74,2,NA
-Biodiversity habitat index,biodiversity habitat index,IPBES_GA_2.2_39_75,2,NA
- Wetland extent trend index,wetland extent trends index,IPBES_GA_2.2_39_75,2,NA
-Aboveground biomass,above-ground biomass,IPBES_GA_2.2_39_76,2,NA
-Tree cover,tree cover,IPBES_GA_2.2_40_77,2,NA
-Extent of forests,extent of forests,IPBES_GA_2.2_40_78,2,NA
-Leaf area index,leaf area index (lai),IPBES_GA_2.2_40_79,2,NA
-Terrestrial Net Primary Production NPP,terrestrial net primary production,IPBES_GA_2.2_42_82,2,NA
- material NCP,material ncp,IPBES_GA_2.2_42_82,2,NA
-BioTime Species richness indicator,biotime species richness indicator,IPBES_GA_2.2_45_85,2,NA
- PREDICTS species-richness INDICATOR,local species richness (predicts),IPBES_GA_2.2_45_85,2,NA
-Biodiversity Intactness INDEX,biodiversity intactness index,IPBES_GA_2.2_45_87,2,NA
-Biodiversity Intactness Index,biodiversity intactness index,IPBES_GA_2.2_46_88,2,NA
- Mean species abundance,mean species abundance (msa),IPBES_GA_2.2_46_88,2,NA
-Species richness per grid cell,species richness per grid cell,IPBES_GA_2.2_47_90,2,NA
- Average functional intactness,functional intactness (madingley),IPBES_GA_2.2_47_90,2,NA
-Red List INDEX,red list index,IPBES_GA_2.2_51_92,2,NA
- red list index (internationally traded species),red list index (internationally traded species),IPBES_GA_2.2_51_92,2,NA
- red list index (pollinators),red list index (pollinators),IPBES_GA_2.2_51_92,2,NA
- red list index (species used for food and medicine),red list index (for utilized species),IPBES_GA_2.2_51_92,2,NA
- red list index (wild relatives of farmed and domesticated species),red list index (wild relatives of farmed and domesticated species),IPBES_GA_2.2_51_92,2,NA
-Biodiversity Habitat Index,biodiversity habitat index,IPBES_GA_2.2_52_95,2,NA
-Marine trophic index,marine trophic index (mti),IPBES_GA_2.2_59_101,2,NA
-Human Footprint,human footprint,IPBES_GA_2.2_62_105,2,NA
-trends of populations of palatable or unpalatable species,trends of populations of palatable or unpalatable species,IPBES_GA_2.2_63_107,1,1
-culturally salient wild species populations,culturally salient species,IPBES_GA_2.2_65_113,1,1
- time needed or distance travelled to harvest resources,distance travelled to harvest resources,IPBES_GA_2.2_65_113,1,1
- native newcomer species,native newcomer species arrive,IPBES_GA_2.2_65_113,1,1
- opening up of forest canopy,opening up of forest canopy,IPBES_GA_2.2_65_113,1,1
-" less biomass, more annuals and shrubs on pastures","less biomass, more annuals and shrubs on pastures",IPBES_GA_2.2_65_113,1,1
- proportion of unpalatable plants on rangelands,proportion of unpalatable plants on rangelands,IPBES_GA_2.2_65_113,1,1
- condition and size of wild animals,condition and size of wild animals,IPBES_GA_2.2_65_113,1,1
-IUCN red list of threatened species,red list index,IPBES_GA_2.2_70_120,2,NA
- Proportion of fish stocks within sustainable levels,proportion of fish stocks within biologically sustainable levels,IPBES_GA_2.2_70_120,2,NA
- mean length of fish,mean length of fish,IPBES_GA_2.2_70_120,2,NA
- local species richness,local species richness,IPBES_GA_2.2_70_120,2,NA
- NPP,net primary production,IPBES_GA_2.2_70_120,2,NA
- Mangrove forest cover,mangrove forest area,IPBES_GA_2.2_70_120,2,NA
- Percentage of live coral cover,percentage of live coral cover,IPBES_GA_2.2_70_120,2,NA
-Adverse changes in woody or shrubby vegetation,adverse changes in woody or shrubby vegetation,IPBES_GA_2.2_81_123,1,NA
- adverse changes of unpalatable species,adverse changes of unpalatable species,IPBES_GA_2.2_81_123,1,NA
-Global cover of mangroves,global cover of mangroves,IPBES_GA_2.2_91_124,1,NA
- hallow coral reefs,hallow coral reefs,IPBES_GA_2.2_91_124,1,NA
- live coral cover,live coral cover,IPBES_GA_2.2_91_124,1,NA
- severe global bleaching events,severe global bleaching events,IPBES_GA_2.2_91_124,1,NA
- pollinator diversity,pollinator diversity,IPBES_GA_2.3_2_125,2,NA
-Species used for medicine,species used for medicine,IPBES_GA_2.3_22_127,2,1
- Crops and their dietary roles,crops and their dietary roles,IPBES_GA_2.3_22_127,2,1
- Forest and its role in protecting water sources,forest and its role in protecting water sources,IPBES_GA_2.3_22_127,2,1
- behavior of animals with importance as food,behavior of animals with importance as food,IPBES_GA_2.3_22_127,2,1
- changes in crop phenology,changes in crop phenology,IPBES_GA_2.3_22_127,2,1
- development of crop varieties or landraces,development of crop varieties or landraces,IPBES_GA_2.3_22_127,2,1
-Visitation to national parks,visitation to national parks,IPBES_GA_2.3_32_132,2,NA
- Visitation to urban green spaces,visitation to urban green spaces,IPBES_GA_2.3_32_132,2,NA
-Connection to land,connection to land,IPBES_GA_2.3_36_133,2,1
- Connection to sea,connection to sea,IPBES_GA_2.3_36_133,2,1
-" Terrestrial Net Primary Productivity, evapotranspiration",terrestrial net primary production,IPBES_GA_2.3_39_137,2,NA
- Bare area,bare area,IPBES_GA_2.3_39_137,2,NA
- Soil organic carbon,soil organic carbon,IPBES_GA_2.3_39_137,2,NA
- Area of Floodplain Wetlands,area of floodplain wetlands,IPBES_GA_2.3_39_137,2,NA
- Net Primary Productivity in Forests and on Cultivated Land,net primary productivity in forests and on cultivated land,IPBES_GA_2.3_39_137,2,NA
- Cultivated area,cultivated area,IPBES_GA_2.3_39_137,2,NA
- Aboveground biomass in forests,above-ground biomass in forests,IPBES_GA_2.3_39_137,2,NA
- Medicinal Species as a Fraction of Total Vascular Plant Species,medicinal species as a fraction of total vascular plant species,IPBES_GA_2.3_39_137,2,NA
- Geographical Overlay of Linguistic Diversity and Biodiversity,geographical overlay of linguistic diversity and biodiversity,IPBES_GA_2.3_39_137,2,NA
- Rate of land use change,rate of land use change,IPBES_GA_2.3_39_137,2,NA
-Population size,population size,IPBES_GA_2.3_40_140,1,1
- Spatial distribution,spatial distribution of species,IPBES_GA_2.3_40_140,1,1
- Animal behavior,animal behavior,IPBES_GA_2.3_40_140,1,1
- Phenology of economically and/or culturally important wild plant and animal species,phenology of economically and/or culturally important wild plant and animal species,IPBES_GA_2.3_40_140,1,1
- catch per unit effort,catch per unit effort,IPBES_GA_2.3_40_140,1,1
- distance travelled to reach a resource,distance travelled to harvest resources,IPBES_GA_2.3_40_140,1,1
- health of the soil,health of the soil,IPBES_GA_2.3_40_140,1,1
- density of preferred and palatable species,density of preferred and palatable species,IPBES_GA_2.3_40_140,1,1
-health of the forest,health of the forest,IPBES_GA_2.3_41_142,2,1
- encounter rates with supernatural forest dwelling entities,encounter rates with supernatural forest dwelling entities,IPBES_GA_2.3_41_142,2,1
-Water availability,water availability,IPBES_GA_2.3_42_143,2,NA
-Water available for people relative to demand,water available for people relative to demand,IPBES_GA_2.3_42_143,2,NA
- Extent of ecosystems that filter or add constituent components to water,extent of ecosystems that filter or add constituent components to water,IPBES_GA_2.3_42_143,2,NA
-Reduced concentration of pollutants in water,reduced concentration of pollutants in water,IPBES_GA_2.3_42_143,2,NA
-Avoided water treatment costs,avoided water treatment costs,IPBES_GA_2.3_42_143,2,NA
-Reduced incidence of water borne disease,reduced incidence of water borne disease,IPBES_GA_2.3_42_143,2,NA
-Extent of suitable habitat,extent of suitable habitat,IPBES_GA_2.3_42_143,2,NA
-Biodiversity intactness index,biodiversity intactness index,IPBES_GA_2.3_42_143,2,NA
-Pollinator diversity,pollinator diversity,IPBES_GA_2.3_42_143,2,NA
-Abundance of managed and wild pollinators,abundance of managed and wild pollinators,IPBES_GA_2.3_42_143,2,NA
-Health associated with intake of pollinator dependent foods,health associated with intake of pollinator dependent foods,IPBES_GA_2.3_42_143,2,NA
-Natural habitat in agriculture,natural habitat in agriculture,IPBES_GA_2.3_42_143,2,NA
- Pollen deposition,pollen deposition,IPBES_GA_2.3_42_143,2,NA
-Retention and prevented emissions of air pollutants by ecosystems,retention and prevented emissions of air pollutants by ecosystems,IPBES_GA_2.3_42_143,2,NA
-Reduced concentrations of PM2.5,reduced concentrations of pm2.5,IPBES_GA_2.3_42_143,2,NA
-Avoided morbidity and premature mortality from air pollution,avoided morbidity and premature mortality from air pollution,IPBES_GA_2.3_42_143,2,NA
-Avoided costs from air pollution,avoided costs from air pollution,IPBES_GA_2.3_42_143,2,NA
-Prevented emissions and uptake of greenhouse gases by ecosystems,prevented emissions and uptake of greenhouse gases by ecosystems,IPBES_GA_2.3_42_143,2,NA
-Reduced concentrations of greenhouse gases in the atmosphere,reduced concentrations of greenhouse gases in the atmosphere,IPBES_GA_2.3_42_143,2,NA
-Reduction in climate related costs,reduction in climate related costs,IPBES_GA_2.3_42_143,2,NA
-Land and ocean carbon sinks,land and ocean carbon sinks,IPBES_GA_2.3_42_143,2,NA
-Reduced ocean acidification,reduced ocean acidification,IPBES_GA_2.3_42_143,2,NA
-Seafood availability due to ocean acidification,seafood availability due to ocean acidification,IPBES_GA_2.3_42_143,2,NA
-Extent of marine calcification Benefits from coral reefs,extent of marine calcification benefits from coral reefs,IPBES_GA_2.3_42_143,2,NA
-Soil quality impact on crop production,soil quality impact on crop production,IPBES_GA_2.3_42_143,2,NA
-Ability of ecosystems to absorb and buffer hazards,ability of ecosystems to absorb and buffer hazards,IPBES_GA_2.3_42_143,2,NA
-Reduced incidence and severity of hazards,reduced incidence and severity of hazards,IPBES_GA_2.3_42_143,2,NA
-Reduced morbidity and premature mortality due to natural hazards,reduced morbidity and premature mortality due to natural hazards,IPBES_GA_2.3_42_143,2,NA
-Reduced property loss due to natural hazards,reduced property loss due to natural hazards,IPBES_GA_2.3_42_143,2,NA
-Reduced food spoilage,reduced food spoilage,IPBES_GA_2.3_42_143,2,NA
-Reduced net farm income loss from pests and diseases,reduced net farm income loss from pests and diseases,IPBES_GA_2.3_42_143,2,NA
-Diversity of competent hosts of vector-borne diseases,diversity of competent hosts of vector-borne diseases,IPBES_GA_2.3_42_143,2,NA
-Reduced risk of disease transmission,reduced risk of disease transmission,IPBES_GA_2.3_42_143,2,NA
-Reduced incidence of infectious diseases,reduced incidence of infectious diseases,IPBES_GA_2.3_42_143,2,NA
-Extent of agricultural land,extent of agricultural land,IPBES_GA_2.3_42_143,2,NA
-Energy content of bioenergy crops,energy content of bioenergy crops,IPBES_GA_2.3_42_143,2,NA
-Revenue from bioenergy production,revenue from bioenergy production,IPBES_GA_2.3_42_143,2,NA
-Extent of forested land,extent of forests,IPBES_GA_2.3_42_143,2,NA
-Production of fuelwood,production of fuelwood,IPBES_GA_2.3_42_143,2,NA
-Energy security from bio-energy and fuelwood,energy security from bio-energy and fuelwood,IPBES_GA_2.3_42_143,2,NA
-Food produced (kcal),food produced (kcal),IPBES_GA_2.3_42_143,2,NA
-Food quality (nutrients),food quality (nutrients),IPBES_GA_2.3_42_143,2,NA
-Reduced malnutrition,reduced malnutrition,IPBES_GA_2.3_42_143,2,NA
-Marine stocks,marine stocks,IPBES_GA_2.3_42_143,2,NA
-Reduced hunger,reduced hunger,IPBES_GA_2.3_42_143,2,NA
-Seafood produced (kcal),seafood produced (kcal),IPBES_GA_2.3_42_143,2,NA
-Agriculture-based materials produced (tons),agriculture-based materials produced (tons),IPBES_GA_2.3_42_143,2,NA
-Employment in materials production,employment in materials production,IPBES_GA_2.3_42_143,2,NA
-Timber production (m3),timber production (m3),IPBES_GA_2.3_42_143,2,NA
-Revenue from forestry,revenue from forestry,IPBES_GA_2.3_42_143,2,NA
-Fraction of species known to be medicinal,species used for medicine,IPBES_GA_2.3_42_143,2,NA
-Natural medicinal products and manufactured bio-derived medicines,natural medicinal products and manufactured bio-derived medicines,IPBES_GA_2.3_42_143,2,NA
-Improved health from natural medicines or bio-derived medicines,improved health from natural medicines or bio-derived medicines,IPBES_GA_2.3_42_143,2,NA
-Phylogenetic diversity,phylogenetic diversity,IPBES_GA_2.3_42_143,2,NA
-Gene bank accession and available genetic resources,gene bank accession and available genetic resources,IPBES_GA_2.3_42_143,2,NA
-Proximity of people and nature,proximity of people and nature,IPBES_GA_2.3_42_143,2,NA
-Ideas and products mimicking or inspired by nature,ideas and products mimicking or inspired by nature,IPBES_GA_2.3_42_143,2,NA
-Economic value of bio-inspired production,economic value of bio-inspired production,IPBES_GA_2.3_42_143,2,NA
-Diversity of life from which to learn,diversity of life from which to learn,IPBES_GA_2.3_42_143,2,NA
-Area of natural and traditional landscapes and seascapes,area of natural and traditional landscapes and seascapes,IPBES_GA_2.3_42_143,2,NA
-"Visitation rates to natural terrestrial, coastal, and marine areas","visitation rates to natural terrestrial, coastal, and marine areas",IPBES_GA_2.3_42_143,2,NA
-"Increased awareness, care, mental health, cultural security, life satisfaction - urban","increased awareness, care, mental health, cultural security, life satisfaction - urban",IPBES_GA_2.3_42_143,2,NA
-"Increased awareness, care, mental health, cultural security, life satisfaction - rural and IPLC","increased awareness, care, mental health, cultural security, life satisfaction - rural and iplc",IPBES_GA_2.3_42_143,2,NA
-"Daily exposure natural terrestrial, coastal and marine areas","daily exposure natural terrestrial, coastal and marine areas",IPBES_GA_2.3_42_143,2,NA
-Stability of land use and land cover,stability of land use and land cover,IPBES_GA_2.3_42_143,2,NA
-Identity value – urban,identity value - urban,IPBES_GA_2.3_42_143,2,NA
-Identity value - rural and IPLC,identity value - rural and iplc,IPBES_GA_2.3_42_143,2,NA
-Visitation to natural areas,visitation to natural areas,IPBES_GA_2.3_50_149,2,NA
- Percentage of population living in dense urban areas,percentage of population living in dense urban areas,IPBES_GA_2.3_50_149,2,NA
-Historic land use change since 1970,historic land use change since 1970,IPBES_GA_2.3_53_152,2,NA
-Leaf surface area,leaf surface area,IPBES_GA_2.3_56_155,1,NA
- net carbon sequestration,carbon sequestration,IPBES_GA_2.3_56_155,1,NA
- transfer of water to the atmosphere,transfer of water to the atmosphere,IPBES_GA_2.3_56_155,1,NA
- biotic productivity,biotic productivity,IPBES_GA_2.3_56_155,1,NA
-Extent of protected and intact habitat globally,extent of protected and intact habitat globally,IPBES_GA_2.3_59_157,2,NA
-Correlation between high cultural diversity and areas of high biodiversity,correlation between high cultural diversity and areas of high biodiversity,IPBES_GA_2.3_71_160,1,NA
-Population extinctions,population extinctions,IPBES_GA_2.3_75_161,1,NA
- Range contractions,range contractions,IPBES_GA_2.3_75_161,1,NA
-IUCN Red list index,red list index,IPBES_GA_4_30_175,2,NA
-Biomass abundance,biomass abundance,IPBES_GA_4_34_176,2,NA
- Production,production,IPBES_GA_4_34_176,2,NA
- Species distribution area and shift,species distribution area and shift,IPBES_GA_4_34_176,2,NA
- Species Richness,species richness,IPBES_GA_4_34_176,2,NA
- Habitat area and Quality,habitat area and quality,IPBES_GA_4_34_176,2,NA
- Organisms` size or growth,organisms` size or growth,IPBES_GA_4_34_176,2,NA
- Reproduction rate,reproduction rate,IPBES_GA_4_34_176,2,NA
-" Pest, invasive or harmful species","pest, invasive or harmful species",IPBES_GA_4_34_176,2,NA
- C pool,c pool,IPBES_GA_4_34_176,2,NA
-Global sclae ecosystem carbon storage,global scale ecosystem carbon storage,IPBES_GA_4_87_186,2,NA
-Adaptive capacity index (ACI),adaptive capacity index (aci),IPBES_GA_4_129_208,2,NA
-OECD Better life index,oecd better life index,IPBES_GA_4_131_209,2,NA
-Living Planet Index,living planet index,IPBES_GA_4_144_217,2,NA
-SDG Index,sustainable development goals index,IPBES_GA_4_147_220,2,NA
-Proportion of fish stocks within safe biological limits,proportion of fish stocks within biologically sustainable levels,IPBES_GA_4_152_225,2,NA
- global effort in bottom trawling,global effort in bottom-trawling,IPBES_GA_4_152_225,2,NA
- MSC certified fisheries,marine stewardship council certified fisheries,IPBES_GA_4_152_225,2,NA
-Ocean health index,ocean health index,IPBES_GA_4_155_228,2,NA
- Cumulative human impacts on marine ecosystems,cumulative human impacts on marine ecosystems,IPBES_GA_4_155_228,2,NA
- average conservation status,average conservation status,IPBES_GA_4_158_230,2,NA
- Living Planet INDEX,living planet index,IPBES_GA_5_10_235,2,NA
- Biodiversity Intactness INDEX,biodiversity intactness index,IPBES_GA_5_10_235,2,NA
-Mean Species Abundance Index,mean species abundance (msa),IPBES_GA_5_34_243,2,NA
- Extent of Suitable Habitat ESH Index,extent of suitable habitat index (esh),IPBES_GA_5_34_243,2,NA
- Living Planet Index,living planet index,IPBES_GA_5_34_243,2,NA
- Species Area Relationship,species area relationship,IPBES_GA_5_34_243,2,NA
-Human Development Index,human development index (hdi),IPBES_GA_5_68_252,2,NA
-Happy Planet INDEX,happy planet index,IPBES_GA_5_69_253,2,NA
- Gross Domestic Happiness INDEX,gross national happiness index,IPBES_GA_5_69_253,2,NA
-Ecological Footprint,ecological footprint,IPBES_GA_5_73_254,2,NA
-Gini Index,gini index,IPBES_GA_5_80_256,2,NA
-Rule of Law Index,rule of law index,IPBES_GA_5_104_261,2,NA
- Environmental Performance Index,environmental performance index,IPBES_GA_5_104_261,2,NA
-Environmental Performance Index,environmental performance index,IPBES_GA_5_107_262,2,NA
-Happy Planet Index,happy planet index,IPBES_GA_5_108_263,2,NA
-Ocean Health Index,ocean health index,IPBES_GA_6_86_279,2,NA
-Water Quality Risk index,water quality risk index,IPBES_GA_6_93_281,2,NA
-MiBiD Index,mibid index,IPBES_GA_6_122_285,2,NA
-Commodity Index,commodity index,IPBES_GA_6_137_288,2,NA
-Index of Sustainable Economic Welfare (ISEW),index of sustainable economic welfare (isew),IPBES_GA_6_139_289,2,NA
- Genuine Progress Indicator (GPI),genuine progress indicator,IPBES_GA_6_139_289,2,NA
- GDP,gross domestic product,IPBES_GA_6_139_289,2,NA
-Gross National Happiness Index,gross national happiness index,IPBES_GA_6_140_290,2,NA
-Biodiversity Barometer (% of respondents that have heard of biodiversity),biodiversity barometer (percentage of respondents that have heard of biodiversity),IPBES_GA_3_15_329,2,NA
- Biodiversity Barometer (% of respondents giving correct definition of biodiversity),biodiversity barometer (percentage of respondents giving correct definition of biodiversity),IPBES_GA_3_15_329,2,NA
- Funding for environmental education,funding for environmental education,IPBES_GA_3_15_329,2,NA
- Online interest in biodiversity (proportion of google searches),online interest in biodiversity (proportion of google searches),IPBES_GA_3_15_329,2,NA
- Funding for Environmental Impact Assessments,funding for environmental impact assessments,IPBES_GA_3_15_329,2,NA
- Number of research studies involving economic valuation,number of research studies involving economic valuation,IPBES_GA_3_15_329,2,NA
- World Trade Organisation greenbox agricultural subsidies,world trade organisation greenbox agricultural subsidies,IPBES_GA_3_15_329,2,NA
- Funding towards institutional capacity building in fisheries,funding towards institutional capacity building in fisheries,IPBES_GA_3_15_329,2,NA
- Percentage of countries that are Category 1 CITES Parties,percentage of countries that are category 1 cites parties,IPBES_GA_3_15_329,2,NA
- Ecological Footprint,ecological footprint,IPBES_GA_3_15_329,2,NA
- Red List Index (impacts of utilisation),red list index (for utilized species),IPBES_GA_3_15_329,2,NA
- Red List Index (internationally traded species),red list index (internationally traded species),IPBES_GA_3_15_329,2,NA
- Human appropriation of fresh water,human appropriation of fresh water,IPBES_GA_3_15_329,2,NA
- Wetland Extent Trends Index,wetland extent trends index,IPBES_GA_3_15_329,2,NA
- Area of tree cover loss,tree cover,IPBES_GA_3_15_329,2,NA
- Percentage natural habitat extent,extent of suitable habitat,IPBES_GA_3_15_329,2,NA
- Wild Bird Index (habitat specialists),wild bird index (habitat specialists),IPBES_GA_3_15_329,2,NA
- Red List index (forest specialists),red list index (forest specialists),IPBES_GA_3_15_329,2,NA
- Proportion of fish stocks within safe biological limits,proportion of fish stocks within biologically sustainable levels,IPBES_GA_3_15_329,2,NA
- Marine Stewardship Council certified fisheries,marine stewardship council certified fisheries,IPBES_GA_3_15_329,2,NA
- Global effort in bottom-trawling,global effort in bottom-trawling,IPBES_GA_3_15_329,2,NA
- Marine trophic index,marine trophic index (mti),IPBES_GA_3_15_329,2,NA
- Red List Index (impacts of fisheries),red list index (impacts of fisheries),IPBES_GA_3_15_329,2,NA
- Wild Bird Index (farmland birds),wild bird index (farmland birds),IPBES_GA_3_15_329,2,NA
- Area of agricultural land under organic production,area of agricultural land under organic production,IPBES_GA_3_15_329,2,NA
- Area of agricultural land under conservation,area of agricultural land under conservation,IPBES_GA_3_15_329,2,NA
-proportion of countries that are category 1 signatories to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES),proportion of countries that are category 1 signatories to the convention on international trade in endangered species of wild fauna and flora (cites),IPBES_GA_3_26_354,1,NA
-Growth in human appropriation of net primary production (HANPP) ,growth in human appropriation of net primary productivity,IPBES_GA_3_26_355,2,NA
- ecological footprint,ecological footprint,IPBES_GA_3_26_355,2,NA
- water footprint,water footprint,IPBES_GA_3_26_355,2,NA
- Demand for greener products and services,demand for greener products and services,IPBES_GA_3_26_355,2,NA
- green consumption,green consumption,IPBES_GA_3_26_355,2,NA
-annual rate of net forest loss,annual rate of net forest loss,IPBES_GA_3_27_356,2,NA
- annual tree cover loss,annual rate of net forest loss,IPBES_GA_3_27_356,2,NA
+","information provided through the financial reporting framework, adopted by decision xii/3",IPBES_GA_1_52_19_81,2,NA
+GDP per capita,gross domestic product,IPBES_GA_2_20_26_82,2,NA
+Child mortality,child mortality,IPBES_GA_2_22_28_83,1,NA
+ caloric intake,caloric intake,IPBES_GA_2_22_28_84,1,NA
+ per capita consumption,per capita consumption,IPBES_GA_2_22_28_85,1,NA
+ value of merchandise being exported,value of merchandise being exported,IPBES_GA_2_22_28_86,1,NA
+mortality rate under 5,mortality rate under 5,IPBES_GA_2_24_29_87,2,NA
+ Human development index,human development index (hdi),IPBES_GA_2_24_29_88,2,NA
+ calorie intake,caloric intake,IPBES_GA_2_24_29_89,2,NA
+ GDP per capita,gross domestic product,IPBES_GA_2_24_29_90,2,NA
+ Globalization index,globalization index,IPBES_GA_2_24_29_91,2,NA
+ Domestic material consumption per capita,domestic material consumption,IPBES_GA_2_24_29_92,2,NA
+ merchandise exports,merchandise exports,IPBES_GA_2_24_29_93,2,NA
+ total population,total population,IPBES_GA_2_24_29_94,2,NA
+ proportion of urban population,proportion of urban population,IPBES_GA_2_24_29_95,2,NA
+ International migrant stock,international migrant stock,IPBES_GA_2_24_29_96,2,NA
+ Absence of conflict as indicator of political stability,absence of conflict as indicator of political stability,IPBES_GA_2_24_29_97,2,NA
+ Protection of key biodiversity areas,protection of key biodiversity areas,IPBES_GA_2_24_29_98,2,NA
+human development index,human development index (hdi),IPBES_GA_2_22_30_99,2,NA
+income,income,IPBES_GA_2_25_31_100,1,NA
+ life expectancy at birth,life expectancy,IPBES_GA_2_25_31_101,1,NA
+ average number of years of schooling,average number of years of schooling,IPBES_GA_2_25_31_102,1,NA
+World happiness index,world happiness index,IPBES_GA_2_25_34_103,2,NA
+ Social progress index,social progress index,IPBES_GA_2_25_34_104,2,NA
+ Environmental performance index,environmental performance index,IPBES_GA_2_25_34_105,2,NA
+ Environmental Component of the Social Sustainability INDEX,environmental component of the social sustainability index,IPBES_GA_2_25_34_106,2,NA
+index of linguistic diversity,linguistic diversity index,IPBES_GA_2_41_36_107,1,NA
+Fertilizer use,fertilizer use,IPBES_GA_2_83_42_108,2,NA
+ Land use change,land use change,IPBES_GA_2_83_42_109,2,NA
+ Extraction of living biomass,extraction of living biomass,IPBES_GA_2_83_42_110,2,NA
+ Extraction of non-living materials,extraction of non-living materials,IPBES_GA_2_83_42_111,2,NA
+ Greenhouse gas emissions,greenhouse gas emissions,IPBES_GA_2_83_42_112,2,NA
+ Air pollution,air pollution,IPBES_GA_2_83_42_113,2,NA
+ Alien species richness,alien species richness,IPBES_GA_2_83_42_114,2,NA
+Access to improved sanitation facilities,access to improved sanitation facilities,IPBES_GA_2_109_44_115,2,NA
+Water quality index (WATQI),water quality index (watqi),IPBES_GA_2_110_45_116,2,NA
+Biodiversity Intactness index,biodiversity intactness index,IPBES_GA_2_117_46_117,2,NA
+Total land footprint,total land footprint,IPBES_GA_2_118_47_118,2,NA
+ percentage of abroad land use footprint,percentage of abroad land use footprint,IPBES_GA_2_118_47_119,2,NA
+ percentage of agricultural and urban areas,percentage of agricultural and urban areas,IPBES_GA_2_118_47_120,2,NA
+ Extraction of non-human materials,extraction of non-human materials,IPBES_GA_2_118_47_121,2,NA
+ Total GHG emissions,total greenhouse gas emissions per year,IPBES_GA_2_118_47_122,2,NA
+ Alien species,alien species,IPBES_GA_2_118_47_123,2,NA
+Biomass of prey fish,biomass of prey fish,IPBES_GA_2.2_1_50_124,1,NA
+ Terrestrial vegetation biomass,terrestrial vegetation biomass,IPBES_GA_2.2_1_50_125,1,NA
+ extent of forests,extent of forests,IPBES_GA_2.2_1_50_126,1,NA
+ area of tree cover,tree cover,IPBES_GA_2.2_1_50_127,1,NA
+ total extinction risk,extinction risk,IPBES_GA_2.2_1_50_128,1,NA
+time needed to harvest resources,time needed to harvest resources,IPBES_GA_2.2_5_55_129,1,1
+ distance travelled to harvest resources,distance travelled to harvest resources,IPBES_GA_2.2_5_55_130,1,1
+ culturally salient species,culturally salient species,IPBES_GA_2.2_5_55_131,1,1
+ native newcomer species arrive,native newcomer species arrive,IPBES_GA_2.2_5_55_132,1,1
+ new pests and invasive alien species colonize,new pests and invasive alien species colonize,IPBES_GA_2.2_5_55_133,1,1
+ forests and grazing lands loss,forests and grazing lands loss,IPBES_GA_2.2_5_55_134,1,1
+ remnant ecosystems degrade,remnant ecosystems degrade,IPBES_GA_2.2_5_55_135,1,1
+ health condition and body size of wild animals decrease,health condition and body size of wild animals decrease,IPBES_GA_2.2_5_55_136,1,1
+tropical forest-monocrop conversions,tropical forest-monocrop conversions,IPBES_GA_2.2_6_56_137,1,1
+ expansion of settlements,expansion of settlements,IPBES_GA_2.2_6_56_138,1,1
+ discontinued traditional land-management practices,discontinued traditional land-management practices,IPBES_GA_2.2_6_56_139,1,1
+ droughts,droughts,IPBES_GA_2.2_6_56_140,1,1
+ increasingly unpredictable annual distribution of rainfall,increasingly unpredictable annual distribution of rainfall,IPBES_GA_2.2_6_56_141,1,1
+ arrival of new native and alien species,arrival of new native and alien species,IPBES_GA_2.2_6_56_142,1,1
+ changing range of wild species,changing range of wild species,IPBES_GA_2.2_6_56_143,1,1
+ floods,floods,IPBES_GA_2.2_6_56_144,1,1
+ overexploitation of resources by outsiders and locals,overexploitation of resources by outsiders and locals,IPBES_GA_2.2_6_56_145,1,1
+Total richness of endemic species,total richness of endemic species,IPBES_GA_2.2_21_61_146,2,NA
+ range-size rarity,range-size rarity,IPBES_GA_2.2_21_61_147,2,NA
+ endemism richness,endemism richness,IPBES_GA_2.2_21_61_148,2,NA
+ weighted endemisms,weighted endemisms,IPBES_GA_2.2_21_61_149,2,NA
+Soil organic carbon,soil organic carbon,IPBES_GA_2.2_37_70_150,2,NA
+ Fraction of ocean not fished per year,fraction of ocean not fished per year,IPBES_GA_2.2_37_70_151,2,NA
+ Extent of marine wilderness,extent of marine wilderness,IPBES_GA_2.2_37_70_152,2,NA
+ Leaf area index,leaf area index (lai),IPBES_GA_2.2_37_70_153,2,NA
+ Tree cover,tree cover,IPBES_GA_2.2_37_70_154,2,NA
+ Vegetation biomass,vegetation biomass,IPBES_GA_2.2_37_70_155,2,NA
+ Permanent surface water extent,permanent surface water extent,IPBES_GA_2.2_37_70_156,2,NA
+ Aboveground biomass,above-ground biomass,IPBES_GA_2.2_37_70_157,2,NA
+ BHI (overall habitat integrity),biodiversity habitat index,IPBES_GA_2.2_37_70_158,2,NA
+ Land not cultivated or urban (indigenous Lands),land not cultivated or urban (indigenous lands),IPBES_GA_2.2_37_70_159,2,NA
+ Land not cultivated or urban (Hotspots),land not cultivated or urban (hotspots),IPBES_GA_2.2_37_70_160,2,NA
+ Land not cultivated or urban (global),land not cultivated or urban,IPBES_GA_2.2_37_70_161,2,NA
+ Natural habitat extent,extent of suitable habitat,IPBES_GA_2.2_37_70_162,2,NA
+ Extent of forests,extent of forests,IPBES_GA_2.2_37_70_163,2,NA
+ Mangrove forest area,mangrove forest area,IPBES_GA_2.2_37_70_164,2,NA
+ Remaining primary vegetation (Indigenous Lands),remaining primary vegetation (indigenous lands),IPBES_GA_2.2_37_70_165,2,NA
+ Coastal protection habitats,coastal protection habitats,IPBES_GA_2.2_37_70_166,2,NA
+ Percentage live coral cover,live coral cover,IPBES_GA_2.2_37_70_167,2,NA
+ remaining primary vegetations,remaining primary vegetation,IPBES_GA_2.2_37_70_168,2,NA
+ Extent of terrestrial wilderness,extent of terrestrial wilderness,IPBES_GA_2.2_37_70_169,2,NA
+ Extent of intact forest landscapes,extent of intact forest landscapes,IPBES_GA_2.2_37_70_170,2,NA
+ Coastal carbon-rich habitat,coastal carbon-rich habitat,IPBES_GA_2.2_37_70_171,2,NA
+ Wetland extent trends index,wetland extent trends index,IPBES_GA_2.2_37_70_172,2,NA
+ Seagrass meadow area,seagrass meadow area,IPBES_GA_2.2_37_70_173,2,NA
+ Mean annual change in aboveground biomass,mean annual change in above-ground biomass,IPBES_GA_2.2_37_70_174,2,NA
+ Biomass turnover rate,biomass turnover rate,IPBES_GA_2.2_37_70_175,2,NA
+ Oceanic carbon sequestration,oceanic carbon sequestration,IPBES_GA_2.2_37_70_176,2,NA
+ Terrestrial C sequestration,terrestrial c sequestration,IPBES_GA_2.2_37_70_177,2,NA
+ Marine NPP,marine net primary production,IPBES_GA_2.2_37_70_178,2,NA
+ Terrestrial NPP,terrestrial net primary production,IPBES_GA_2.2_37_70_179,2,NA
+ NPP remaining in ecosystems,net primary production,IPBES_GA_2.2_37_70_180,2,NA
+ Evapotranspiration,evapotranspiration,IPBES_GA_2.2_37_70_181,2,NA
+ Biological pump efficiency,biological pump efficiency,IPBES_GA_2.2_37_70_182,2,NA
+ Local species richness,local species richness,IPBES_GA_2.2_37_70_183,2,NA
+ Mean Species abundance Index,mean species abundance (msa),IPBES_GA_2.2_37_70_184,2,NA
+ Tropical forest BII (Indigenous Lands),"biodiversity intactness index (tropical forest, indigenous lands)",IPBES_GA_2.2_37_70_185,2,NA
+ Tropical forest BII (overall),biodiversity intactness index (tropical forest),IPBES_GA_2.2_37_70_186,2,NA
+ Tropical forest BII (hotspots),"biodiversity intactness index (tropical forest, hotspots)",IPBES_GA_2.2_37_70_187,2,NA
+ Cumulative number of alien species,cumulative introduced invasive aliens,IPBES_GA_2.2_37_70_188,2,NA
+ Cumulative introduced invasive aliens,cumulative introduced invasive aliens,IPBES_GA_2.2_37_70_189,2,NA
+ Bird species per grid cell,bird species per grid cell,IPBES_GA_2.2_37_70_190,2,NA
+ Species richness per grid cell,species richness per grid cell,IPBES_GA_2.2_37_70_191,2,NA
+ Forest-specialist bird species per grid cell,forest-specialist bird species per grid cell,IPBES_GA_2.2_37_70_192,2,NA
+ Functional intactness,functional intactness (madingley),IPBES_GA_2.2_37_70_193,2,NA
+ Global mammal & bird species remaining,global mammal and bird species remaining,IPBES_GA_2.2_37_70_194,2,NA
+ Red List Index,red list index,IPBES_GA_2.2_37_70_195,2,NA
+ Mammalian range size,mammalian range size,IPBES_GA_2.2_37_70_196,2,NA
+ Megafaunal range size,megafaunal range size,IPBES_GA_2.2_37_70_197,2,NA
+ Species Habitat index,species habitat index,IPBES_GA_2.2_37_70_198,2,NA
+ Extent of suitable habitat,extent of suitable habitat,IPBES_GA_2.2_37_70_199,2,NA
+ wild mammal biomass,wild mammal biomass,IPBES_GA_2.2_37_70_200,2,NA
+ prey fish biomass,prey fish biomass,IPBES_GA_2.2_37_70_201,2,NA
+ fish stocks biologically sustainable,proportion of fish stocks within biologically sustainable levels,IPBES_GA_2.2_37_70_202,2,NA
+ Wild Bird Index,wild bird index,IPBES_GA_2.2_37_70_203,2,NA
+ Predatory fish biomass,predatory fish biomass,IPBES_GA_2.2_37_70_204,2,NA
+seagrass meadow area,seagrass meadow area,IPBES_GA_2.2_38_74_205,2,NA
+ mangrove forest area,mangrove forest area,IPBES_GA_2.2_38_74_206,2,NA
+ live coral cover on reefs,live coral cover,IPBES_GA_2.2_38_74_207,2,NA
+ Ocean health index,ocean health index,IPBES_GA_2.2_38_74_208,2,NA
+Biodiversity habitat index,biodiversity habitat index,IPBES_GA_2.2_39_75_209,2,NA
+ Wetland extent trend index,wetland extent trends index,IPBES_GA_2.2_39_75_210,2,NA
+Aboveground biomass,above-ground biomass,IPBES_GA_2.2_39_76_211,2,NA
+Tree cover,tree cover,IPBES_GA_2.2_40_77_212,2,NA
+Extent of forests,extent of forests,IPBES_GA_2.2_40_78_213,2,NA
+Leaf area index,leaf area index (lai),IPBES_GA_2.2_40_79_214,2,NA
+Terrestrial Net Primary Production NPP,terrestrial net primary production,IPBES_GA_2.2_42_82_215,2,NA
+ material NCP,material ncp,IPBES_GA_2.2_42_82_216,2,NA
+BioTime Species richness indicator,biotime species richness indicator,IPBES_GA_2.2_45_85_217,2,NA
+ PREDICTS species-richness INDICATOR,local species richness (predicts),IPBES_GA_2.2_45_85_218,2,NA
+Biodiversity Intactness INDEX,biodiversity intactness index,IPBES_GA_2.2_45_87_219,2,NA
+Biodiversity Intactness Index,biodiversity intactness index,IPBES_GA_2.2_46_88_220,2,NA
+ Mean species abundance,mean species abundance (msa),IPBES_GA_2.2_46_88_221,2,NA
+Species richness per grid cell,species richness per grid cell,IPBES_GA_2.2_47_90_222,2,NA
+ Average functional intactness,functional intactness (madingley),IPBES_GA_2.2_47_90_223,2,NA
+Red List INDEX,red list index,IPBES_GA_2.2_51_92_224,2,NA
+ red list index (internationally traded species),red list index (internationally traded species),IPBES_GA_2.2_51_92_225,2,NA
+ red list index (pollinators),red list index (pollinators),IPBES_GA_2.2_51_92_226,2,NA
+ red list index (species used for food and medicine),red list index (for utilized species),IPBES_GA_2.2_51_92_227,2,NA
+ red list index (wild relatives of farmed and domesticated species),red list index (wild relatives of farmed and domesticated species),IPBES_GA_2.2_51_92_228,2,NA
+Biodiversity Habitat Index,biodiversity habitat index,IPBES_GA_2.2_52_95_229,2,NA
+Marine trophic index,marine trophic index (mti),IPBES_GA_2.2_59_101_230,2,NA
+Human Footprint,human footprint,IPBES_GA_2.2_62_105_231,2,NA
+trends of populations of palatable or unpalatable species,trends of populations of palatable or unpalatable species,IPBES_GA_2.2_63_107_232,1,1
+culturally salient wild species populations,culturally salient species,IPBES_GA_2.2_65_113_233,1,1
+ time needed or distance travelled to harvest resources,distance travelled to harvest resources,IPBES_GA_2.2_65_113_234,1,1
+ native newcomer species,native newcomer species arrive,IPBES_GA_2.2_65_113_235,1,1
+ opening up of forest canopy,opening up of forest canopy,IPBES_GA_2.2_65_113_236,1,1
+" less biomass, more annuals and shrubs on pastures","less biomass, more annuals and shrubs on pastures",IPBES_GA_2.2_65_113_237,1,1
+ proportion of unpalatable plants on rangelands,proportion of unpalatable plants on rangelands,IPBES_GA_2.2_65_113_238,1,1
+ condition and size of wild animals,condition and size of wild animals,IPBES_GA_2.2_65_113_239,1,1
+IUCN red list of threatened species,red list index,IPBES_GA_2.2_70_120_240,2,NA
+ Proportion of fish stocks within sustainable levels,proportion of fish stocks within biologically sustainable levels,IPBES_GA_2.2_70_120_241,2,NA
+ mean length of fish,mean length of fish,IPBES_GA_2.2_70_120_242,2,NA
+ local species richness,local species richness,IPBES_GA_2.2_70_120_243,2,NA
+ NPP,net primary production,IPBES_GA_2.2_70_120_244,2,NA
+ Mangrove forest cover,mangrove forest area,IPBES_GA_2.2_70_120_245,2,NA
+ Percentage of live coral cover,percentage of live coral cover,IPBES_GA_2.2_70_120_246,2,NA
+Adverse changes in woody or shrubby vegetation,adverse changes in woody or shrubby vegetation,IPBES_GA_2.2_81_123_247,1,NA
+ adverse changes of unpalatable species,adverse changes of unpalatable species,IPBES_GA_2.2_81_123_248,1,NA
+Global cover of mangroves,global cover of mangroves,IPBES_GA_2.2_91_124_249,1,NA
+ hallow coral reefs,hallow coral reefs,IPBES_GA_2.2_91_124_250,1,NA
+ live coral cover,live coral cover,IPBES_GA_2.2_91_124_251,1,NA
+ severe global bleaching events,severe global bleaching events,IPBES_GA_2.2_91_124_252,1,NA
+ pollinator diversity,pollinator diversity,IPBES_GA_2.3_2_125_253,2,NA
+Species used for medicine,species used for medicine,IPBES_GA_2.3_22_127_254,2,1
+ Crops and their dietary roles,crops and their dietary roles,IPBES_GA_2.3_22_127_255,2,1
+ Forest and its role in protecting water sources,forest and its role in protecting water sources,IPBES_GA_2.3_22_127_256,2,1
+ behavior of animals with importance as food,behavior of animals with importance as food,IPBES_GA_2.3_22_127_257,2,1
+ changes in crop phenology,changes in crop phenology,IPBES_GA_2.3_22_127_258,2,1
+ development of crop varieties or landraces,development of crop varieties or landraces,IPBES_GA_2.3_22_127_259,2,1
+Visitation to national parks,visitation to national parks,IPBES_GA_2.3_32_132_260,2,NA
+ Visitation to urban green spaces,visitation to urban green spaces,IPBES_GA_2.3_32_132_261,2,NA
+Connection to land,connection to land,IPBES_GA_2.3_36_133_262,2,1
+ Connection to sea,connection to sea,IPBES_GA_2.3_36_133_263,2,1
+" Terrestrial Net Primary Productivity, evapotranspiration",terrestrial net primary production,IPBES_GA_2.3_39_137_264,2,NA
+ Bare area,bare area,IPBES_GA_2.3_39_137_265,2,NA
+ Soil organic carbon,soil organic carbon,IPBES_GA_2.3_39_137_266,2,NA
+ Area of Floodplain Wetlands,area of floodplain wetlands,IPBES_GA_2.3_39_137_267,2,NA
+ Net Primary Productivity in Forests and on Cultivated Land,net primary productivity in forests and on cultivated land,IPBES_GA_2.3_39_137_268,2,NA
+ Cultivated area,cultivated area,IPBES_GA_2.3_39_137_269,2,NA
+ Aboveground biomass in forests,above-ground biomass in forests,IPBES_GA_2.3_39_137_270,2,NA
+ Medicinal Species as a Fraction of Total Vascular Plant Species,medicinal species as a fraction of total vascular plant species,IPBES_GA_2.3_39_137_271,2,NA
+ Geographical Overlay of Linguistic Diversity and Biodiversity,geographical overlay of linguistic diversity and biodiversity,IPBES_GA_2.3_39_137_272,2,NA
+ Rate of land use change,rate of land use change,IPBES_GA_2.3_39_137_273,2,NA
+Population size,population size,IPBES_GA_2.3_40_140_274,1,1
+ Spatial distribution,spatial distribution of species,IPBES_GA_2.3_40_140_275,1,1
+ Animal behavior,animal behavior,IPBES_GA_2.3_40_140_276,1,1
+ Phenology of economically and/or culturally important wild plant and animal species,phenology of economically and/or culturally important wild plant and animal species,IPBES_GA_2.3_40_140_277,1,1
+ catch per unit effort,catch per unit effort,IPBES_GA_2.3_40_140_278,1,1
+ distance travelled to reach a resource,distance travelled to harvest resources,IPBES_GA_2.3_40_140_279,1,1
+ health of the soil,health of the soil,IPBES_GA_2.3_40_140_280,1,1
+ density of preferred and palatable species,density of preferred and palatable species,IPBES_GA_2.3_40_140_281,1,1
+health of the forest,health of the forest,IPBES_GA_2.3_41_142_282,2,1
+ encounter rates with supernatural forest dwelling entities,encounter rates with supernatural forest dwelling entities,IPBES_GA_2.3_41_142_283,2,1
+Water availability,water availability,IPBES_GA_2.3_42_143_284,2,NA
+Water available for people relative to demand,water available for people relative to demand,IPBES_GA_2.3_42_143_285,2,NA
+ Extent of ecosystems that filter or add constituent components to water,extent of ecosystems that filter or add constituent components to water,IPBES_GA_2.3_42_143_286,2,NA
+Reduced concentration of pollutants in water,reduced concentration of pollutants in water,IPBES_GA_2.3_42_143_287,2,NA
+Avoided water treatment costs,avoided water treatment costs,IPBES_GA_2.3_42_143_288,2,NA
+Reduced incidence of water borne disease,reduced incidence of water borne disease,IPBES_GA_2.3_42_143_289,2,NA
+Extent of suitable habitat,extent of suitable habitat,IPBES_GA_2.3_42_143_290,2,NA
+Biodiversity intactness index,biodiversity intactness index,IPBES_GA_2.3_42_143_291,2,NA
+Pollinator diversity,pollinator diversity,IPBES_GA_2.3_42_143_292,2,NA
+Abundance of managed and wild pollinators,abundance of managed and wild pollinators,IPBES_GA_2.3_42_143_293,2,NA
+Health associated with intake of pollinator dependent foods,health associated with intake of pollinator dependent foods,IPBES_GA_2.3_42_143_294,2,NA
+Natural habitat in agriculture,natural habitat in agriculture,IPBES_GA_2.3_42_143_295,2,NA
+ Pollen deposition,pollen deposition,IPBES_GA_2.3_42_143_296,2,NA
+Retention and prevented emissions of air pollutants by ecosystems,retention and prevented emissions of air pollutants by ecosystems,IPBES_GA_2.3_42_143_297,2,NA
+Reduced concentrations of PM2.5,reduced concentrations of pm2.5,IPBES_GA_2.3_42_143_298,2,NA
+Avoided morbidity and premature mortality from air pollution,avoided morbidity and premature mortality from air pollution,IPBES_GA_2.3_42_143_299,2,NA
+Avoided costs from air pollution,avoided costs from air pollution,IPBES_GA_2.3_42_143_300,2,NA
+Prevented emissions and uptake of greenhouse gases by ecosystems,prevented emissions and uptake of greenhouse gases by ecosystems,IPBES_GA_2.3_42_143_301,2,NA
+Reduced concentrations of greenhouse gases in the atmosphere,reduced concentrations of greenhouse gases in the atmosphere,IPBES_GA_2.3_42_143_302,2,NA
+Reduction in climate related costs,reduction in climate related costs,IPBES_GA_2.3_42_143_303,2,NA
+Land and ocean carbon sinks,land and ocean carbon sinks,IPBES_GA_2.3_42_143_304,2,NA
+Reduced ocean acidification,reduced ocean acidification,IPBES_GA_2.3_42_143_305,2,NA
+Seafood availability due to ocean acidification,seafood availability due to ocean acidification,IPBES_GA_2.3_42_143_306,2,NA
+Extent of marine calcification Benefits from coral reefs,extent of marine calcification benefits from coral reefs,IPBES_GA_2.3_42_143_307,2,NA
+Soil quality impact on crop production,soil quality impact on crop production,IPBES_GA_2.3_42_143_308,2,NA
+Ability of ecosystems to absorb and buffer hazards,ability of ecosystems to absorb and buffer hazards,IPBES_GA_2.3_42_143_309,2,NA
+Reduced incidence and severity of hazards,reduced incidence and severity of hazards,IPBES_GA_2.3_42_143_310,2,NA
+Reduced morbidity and premature mortality due to natural hazards,reduced morbidity and premature mortality due to natural hazards,IPBES_GA_2.3_42_143_311,2,NA
+Reduced property loss due to natural hazards,reduced property loss due to natural hazards,IPBES_GA_2.3_42_143_312,2,NA
+Reduced food spoilage,reduced food spoilage,IPBES_GA_2.3_42_143_313,2,NA
+Reduced net farm income loss from pests and diseases,reduced net farm income loss from pests and diseases,IPBES_GA_2.3_42_143_314,2,NA
+Diversity of competent hosts of vector-borne diseases,diversity of competent hosts of vector-borne diseases,IPBES_GA_2.3_42_143_315,2,NA
+Reduced risk of disease transmission,reduced risk of disease transmission,IPBES_GA_2.3_42_143_316,2,NA
+Reduced incidence of infectious diseases,reduced incidence of infectious diseases,IPBES_GA_2.3_42_143_317,2,NA
+Extent of agricultural land,extent of agricultural land,IPBES_GA_2.3_42_143_318,2,NA
+Energy content of bioenergy crops,energy content of bioenergy crops,IPBES_GA_2.3_42_143_319,2,NA
+Revenue from bioenergy production,revenue from bioenergy production,IPBES_GA_2.3_42_143_320,2,NA
+Extent of forested land,extent of forests,IPBES_GA_2.3_42_143_321,2,NA
+Production of fuelwood,production of fuelwood,IPBES_GA_2.3_42_143_322,2,NA
+Energy security from bio-energy and fuelwood,energy security from bio-energy and fuelwood,IPBES_GA_2.3_42_143_323,2,NA
+Food produced (kcal),food produced (kcal),IPBES_GA_2.3_42_143_324,2,NA
+Food quality (nutrients),food quality (nutrients),IPBES_GA_2.3_42_143_325,2,NA
+Reduced malnutrition,reduced malnutrition,IPBES_GA_2.3_42_143_326,2,NA
+Marine stocks,marine stocks,IPBES_GA_2.3_42_143_327,2,NA
+Reduced hunger,reduced hunger,IPBES_GA_2.3_42_143_328,2,NA
+Seafood produced (kcal),seafood produced (kcal),IPBES_GA_2.3_42_143_329,2,NA
+Agriculture-based materials produced (tons),agriculture-based materials produced (tons),IPBES_GA_2.3_42_143_330,2,NA
+Employment in materials production,employment in materials production,IPBES_GA_2.3_42_143_331,2,NA
+Timber production (m3),timber production (m3),IPBES_GA_2.3_42_143_332,2,NA
+Revenue from forestry,revenue from forestry,IPBES_GA_2.3_42_143_333,2,NA
+Fraction of species known to be medicinal,species used for medicine,IPBES_GA_2.3_42_143_334,2,NA
+Natural medicinal products and manufactured bio-derived medicines,natural medicinal products and manufactured bio-derived medicines,IPBES_GA_2.3_42_143_335,2,NA
+Improved health from natural medicines or bio-derived medicines,improved health from natural medicines or bio-derived medicines,IPBES_GA_2.3_42_143_336,2,NA
+Phylogenetic diversity,phylogenetic diversity,IPBES_GA_2.3_42_143_337,2,NA
+Gene bank accession and available genetic resources,gene bank accession and available genetic resources,IPBES_GA_2.3_42_143_338,2,NA
+Proximity of people and nature,proximity of people and nature,IPBES_GA_2.3_42_143_339,2,NA
+Ideas and products mimicking or inspired by nature,ideas and products mimicking or inspired by nature,IPBES_GA_2.3_42_143_340,2,NA
+Economic value of bio-inspired production,economic value of bio-inspired production,IPBES_GA_2.3_42_143_341,2,NA
+Diversity of life from which to learn,diversity of life from which to learn,IPBES_GA_2.3_42_143_342,2,NA
+Area of natural and traditional landscapes and seascapes,area of natural and traditional landscapes and seascapes,IPBES_GA_2.3_42_143_343,2,NA
+"Visitation rates to natural terrestrial, coastal, and marine areas","visitation rates to natural terrestrial, coastal, and marine areas",IPBES_GA_2.3_42_143_344,2,NA
+"Increased awareness, care, mental health, cultural security, life satisfaction - urban","increased awareness, care, mental health, cultural security, life satisfaction - urban",IPBES_GA_2.3_42_143_345,2,NA
+"Increased awareness, care, mental health, cultural security, life satisfaction - rural and IPLC","increased awareness, care, mental health, cultural security, life satisfaction - rural and iplc",IPBES_GA_2.3_42_143_346,2,NA
+"Daily exposure natural terrestrial, coastal and marine areas","daily exposure natural terrestrial, coastal and marine areas",IPBES_GA_2.3_42_143_347,2,NA
+Stability of land use and land cover,stability of land use and land cover,IPBES_GA_2.3_42_143_348,2,NA
+Identity value – urban,identity value - urban,IPBES_GA_2.3_42_143_349,2,NA
+Identity value - rural and IPLC,identity value - rural and iplc,IPBES_GA_2.3_42_143_350,2,NA
+Visitation to natural areas,visitation to natural areas,IPBES_GA_2.3_50_149_351,2,NA
+ Percentage of population living in dense urban areas,percentage of population living in dense urban areas,IPBES_GA_2.3_50_149_352,2,NA
+Historic land use change since 1970,historic land use change since 1970,IPBES_GA_2.3_53_152_353,2,NA
+Leaf surface area,leaf surface area,IPBES_GA_2.3_56_155_354,1,NA
+ net carbon sequestration,carbon sequestration,IPBES_GA_2.3_56_155_355,1,NA
+ transfer of water to the atmosphere,transfer of water to the atmosphere,IPBES_GA_2.3_56_155_356,1,NA
+ biotic productivity,biotic productivity,IPBES_GA_2.3_56_155_357,1,NA
+Extent of protected and intact habitat globally,extent of protected and intact habitat globally,IPBES_GA_2.3_59_157_358,2,NA
+Correlation between high cultural diversity and areas of high biodiversity,correlation between high cultural diversity and areas of high biodiversity,IPBES_GA_2.3_71_160_359,1,NA
+Population extinctions,population extinctions,IPBES_GA_2.3_75_161_360,1,NA
+ Range contractions,range contractions,IPBES_GA_2.3_75_161_361,1,NA
+IUCN Red list index,red list index,IPBES_GA_4_30_175_362,2,NA
+Biomass abundance,biomass abundance,IPBES_GA_4_34_176_363,2,NA
+ Production,production,IPBES_GA_4_34_176_364,2,NA
+ Species distribution area and shift,species distribution area and shift,IPBES_GA_4_34_176_365,2,NA
+ Species Richness,species richness,IPBES_GA_4_34_176_366,2,NA
+ Habitat area and Quality,habitat area and quality,IPBES_GA_4_34_176_367,2,NA
+ Organisms` size or growth,organisms` size or growth,IPBES_GA_4_34_176_368,2,NA
+ Reproduction rate,reproduction rate,IPBES_GA_4_34_176_369,2,NA
+" Pest, invasive or harmful species","pest, invasive or harmful species",IPBES_GA_4_34_176_370,2,NA
+ C pool,c pool,IPBES_GA_4_34_176_371,2,NA
+Global sclae ecosystem carbon storage,global scale ecosystem carbon storage,IPBES_GA_4_87_186_372,2,NA
+Adaptive capacity index (ACI),adaptive capacity index (aci),IPBES_GA_4_129_208_373,2,NA
+OECD Better life index,oecd better life index,IPBES_GA_4_131_209_374,2,NA
+Living Planet Index,living planet index,IPBES_GA_4_144_217_375,2,NA
+SDG Index,sustainable development goals index,IPBES_GA_4_147_220_376,2,NA
+Proportion of fish stocks within safe biological limits,proportion of fish stocks within biologically sustainable levels,IPBES_GA_4_152_225_377,2,NA
+ global effort in bottom trawling,global effort in bottom-trawling,IPBES_GA_4_152_225_378,2,NA
+ MSC certified fisheries,marine stewardship council certified fisheries,IPBES_GA_4_152_225_379,2,NA
+Ocean health index,ocean health index,IPBES_GA_4_155_228_380,2,NA
+ Cumulative human impacts on marine ecosystems,cumulative human impacts on marine ecosystems,IPBES_GA_4_155_228_381,2,NA
+ average conservation status,average conservation status,IPBES_GA_4_158_230_382,2,NA
+ Living Planet INDEX,living planet index,IPBES_GA_5_10_235_383,2,NA
+ Biodiversity Intactness INDEX,biodiversity intactness index,IPBES_GA_5_10_235_384,2,NA
+Mean Species Abundance Index,mean species abundance (msa),IPBES_GA_5_34_243_385,2,NA
+ Extent of Suitable Habitat ESH Index,extent of suitable habitat index (esh),IPBES_GA_5_34_243_386,2,NA
+ Living Planet Index,living planet index,IPBES_GA_5_34_243_387,2,NA
+ Species Area Relationship,species area relationship,IPBES_GA_5_34_243_388,2,NA
+Human Development Index,human development index (hdi),IPBES_GA_5_68_252_389,2,NA
+Happy Planet INDEX,happy planet index,IPBES_GA_5_69_253_390,2,NA
+ Gross Domestic Happiness INDEX,gross national happiness index,IPBES_GA_5_69_253_391,2,NA
+Ecological Footprint,ecological footprint,IPBES_GA_5_73_254_392,2,NA
+Gini Index,gini index,IPBES_GA_5_80_256_393,2,NA
+Rule of Law Index,rule of law index,IPBES_GA_5_104_261_394,2,NA
+ Environmental Performance Index,environmental performance index,IPBES_GA_5_104_261_395,2,NA
+Environmental Performance Index,environmental performance index,IPBES_GA_5_107_262_396,2,NA
+Happy Planet Index,happy planet index,IPBES_GA_5_108_263_397,2,NA
+Ocean Health Index,ocean health index,IPBES_GA_6_86_279_398,2,NA
+Water Quality Risk index,water quality risk index,IPBES_GA_6_93_281_399,2,NA
+MiBiD Index,mibid index,IPBES_GA_6_122_285_400,2,NA
+Commodity Index,commodity index,IPBES_GA_6_137_288_401,2,NA
+Index of Sustainable Economic Welfare (ISEW),index of sustainable economic welfare (isew),IPBES_GA_6_139_289_402,2,NA
+ Genuine Progress Indicator (GPI),genuine progress indicator,IPBES_GA_6_139_289_403,2,NA
+ GDP,gross domestic product,IPBES_GA_6_139_289_404,2,NA
+Gross National Happiness Index,gross national happiness index,IPBES_GA_6_140_290_405,2,NA
+Biodiversity Barometer (% of respondents that have heard of biodiversity),biodiversity barometer (percentage of respondents that have heard of biodiversity),IPBES_GA_3_15_329_406,2,NA
+ Biodiversity Barometer (% of respondents giving correct definition of biodiversity),biodiversity barometer (percentage of respondents giving correct definition of biodiversity),IPBES_GA_3_15_329_407,2,NA
+ Funding for environmental education,funding for environmental education,IPBES_GA_3_15_329_408,2,NA
+ Online interest in biodiversity (proportion of google searches),online interest in biodiversity (proportion of google searches),IPBES_GA_3_15_329_409,2,NA
+ Funding for Environmental Impact Assessments,funding for environmental impact assessments,IPBES_GA_3_15_329_410,2,NA
+ Number of research studies involving economic valuation,number of research studies involving economic valuation,IPBES_GA_3_15_329_411,2,NA
+ World Trade Organisation greenbox agricultural subsidies,world trade organisation greenbox agricultural subsidies,IPBES_GA_3_15_329_412,2,NA
+ Funding towards institutional capacity building in fisheries,funding towards institutional capacity building in fisheries,IPBES_GA_3_15_329_413,2,NA
+ Percentage of countries that are Category 1 CITES Parties,percentage of countries that are category 1 cites parties,IPBES_GA_3_15_329_414,2,NA
+ Ecological Footprint,ecological footprint,IPBES_GA_3_15_329_415,2,NA
+ Red List Index (impacts of utilisation),red list index (for utilized species),IPBES_GA_3_15_329_416,2,NA
+ Red List Index (internationally traded species),red list index (internationally traded species),IPBES_GA_3_15_329_417,2,NA
+ Human appropriation of fresh water,human appropriation of fresh water,IPBES_GA_3_15_329_418,2,NA
+ Wetland Extent Trends Index,wetland extent trends index,IPBES_GA_3_15_329_419,2,NA
+ Area of tree cover loss,tree cover,IPBES_GA_3_15_329_420,2,NA
+ Percentage natural habitat extent,extent of suitable habitat,IPBES_GA_3_15_329_421,2,NA
+ Wild Bird Index (habitat specialists),wild bird index (habitat specialists),IPBES_GA_3_15_329_422,2,NA
+ Red List index (forest specialists),red list index (forest specialists),IPBES_GA_3_15_329_423,2,NA
+ Proportion of fish stocks within safe biological limits,proportion of fish stocks within biologically sustainable levels,IPBES_GA_3_15_329_424,2,NA
+ Marine Stewardship Council certified fisheries,marine stewardship council certified fisheries,IPBES_GA_3_15_329_425,2,NA
+ Global effort in bottom-trawling,global effort in bottom-trawling,IPBES_GA_3_15_329_426,2,NA
+ Marine trophic index,marine trophic index (mti),IPBES_GA_3_15_329_427,2,NA
+ Red List Index (impacts of fisheries),red list index (impacts of fisheries),IPBES_GA_3_15_329_428,2,NA
+ Wild Bird Index (farmland birds),wild bird index (farmland birds),IPBES_GA_3_15_329_429,2,NA
+ Area of agricultural land under organic production,area of agricultural land under organic production,IPBES_GA_3_15_329_430,2,NA
+ Area of agricultural land under conservation,area of agricultural land under conservation,IPBES_GA_3_15_329_431,2,NA
+proportion of countries that are category 1 signatories to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES),proportion of countries that are category 1 signatories to the convention on international trade in endangered species of wild fauna and flora (cites),IPBES_GA_3_26_354_432,1,NA
+Growth in human appropriation of net primary production (HANPP) ,growth in human appropriation of net primary productivity,IPBES_GA_3_26_355_433,2,NA
+ ecological footprint,ecological footprint,IPBES_GA_3_26_355_434,2,NA
+ water footprint,water footprint,IPBES_GA_3_26_355_435,2,NA
+ Demand for greener products and services,demand for greener products and services,IPBES_GA_3_26_355_436,2,NA
+ green consumption,green consumption,IPBES_GA_3_26_355_437,2,NA
+annual rate of net forest loss,annual rate of net forest loss,IPBES_GA_3_27_356_438,2,NA
+ annual tree cover loss,annual rate of net forest loss,IPBES_GA_3_27_356_439,2,NA
 "wild bird index (farmland birds)
-",wild bird index (farmland birds),IPBES_GA_3_31_358,2,NA
-percentage of live coral cover,percentage of live coral cover,IPBES_GA_3_34_361,2,NA
-Climatic Impact INDEX,climatic impact index,IPBES_GA_3_35_362,2,NA
-proportion of sites in the World Database on Protected Areas reporting shared governance,proportion of sites in the world database on protected areas reporting shared governance,IPBES_GA_3_38_364,2,NA
-number of extintions,number of extintions,IPBES_GA_3_40_367,1,NA
-  IUCN Red List,red list index,IPBES_GA_3_40_368,2,NA
-Living Planet INDEX,living planet index,IPBES_GA_3_41_369,2,NA
-proportion of domesticated breeds categorized as at risk or extinct,proportion of domesticated breeds categorized as at risk or extinct,IPBES_GA_3_44_371,1,NA
- extinction risk of wild relatives of domesticated or farmed birds and mammals,extinction risk of wild relatives of domesticated or farmed birds and mammals,IPBES_GA_3_44_371,1,NA
-IUCN Red List,red list index,IPBES_GA_3_45_374,2,NA
- Red List INDEX for vertebrate pollinators,red list index (vertebrate pollinators),IPBES_GA_3_45_374,2,NA
-number of countries implementing NBSAPs,number of countries implementing nbsaps,IPBES_GA_3_48_377,2,NA
-numbers of scientific publications on biodiversity,numbers of scientific publications on biodiversity,IPBES_GA_3_49_379,2,NA
- relevant research funding,relevant research funding,IPBES_GA_3_49_379,2,NA
- taxa assessed for the IUCN Red List,proportion of known species assessed through the red list index,IPBES_GA_3_49_379,2,NA
- species with data included in the Global Biodiversity Information Facility,species with data included in the global biodiversity information facility,IPBES_GA_3_49_379,2,NA
- Mean polar sea ice extent,mean polar sea ice extent,IPBES_GA_3_51_381,2,NA
- Official development assistance provided in support of CBD objectives,official development assistance provided in support of the cbd objectives,IPBES_GA_3_51_381,2,NA
- Wild Bird INDEX (habitat specialists),wild bird index (habitat specialists),IPBES_GA_3_51_381,2,NA
- Pesticide use,pesticide use,IPBES_GA_3_51_381,2,NA
- Glacial mass balance,glacier mass balance,IPBES_GA_3_51_381,2,NA
-Red List INDEX for birds and mammals,red list index (birds and mammals),IPBES_GA_3_51_382,2,NA
-Species Habitat INDEX,species habitat index,IPBES_GA_3_54_387,2,NA
- Pesticide Use,pesticide use,IPBES_GA_3_54_387,2,NA
-Area of tree cover loss,tree cover,IPBES_GA_3_55_389,2,NA
- Marine trophic INDEX,marine trophic index (mti),IPBES_GA_3_55_389,2,NA
- Percentage of Key Biodiversity Areas covered by protected areas,protected area coverage of key biodiversity areas,IPBES_GA_3_55_389,2,NA
-Red List Index (impacts of pollution),red list index (impacts of pollution),IPBES_GA_3_72_395,2,NA
- Percentage of freshwater Key Biodiversity Areas covered by protected areas,percentage of freshwater key biodiversity areas covered by protected areas,IPBES_GA_3_72_395,2,NA
- Proportion of fish stocks in safe biological limits,proportion of fish stocks within biologically sustainable levels,IPBES_GA_3_72_395,2,NA
- Marine Stewardship Council engaged fisheries (tonnes),marine stewardship council engaged fisheries,IPBES_GA_3_72_395,2,NA
- Percentage of marine and coastal areas covered by protected areas,protected area coverage of marine and coastal areas,IPBES_GA_3_72_395,2,NA
- Percentage of marine Key Biodiversity Areas covered by protected areas,percentage of marine key biodiversity areas covered by protected areas,IPBES_GA_3_72_395,2,NA
- Percentage of terrestrial areas covered by protected areas,percentage of terrestrial ecoregions covered by protected areas,IPBES_GA_3_72_395,2,NA
- Percentage of terrestrial ecoregions covered by protected areas,percentage of terrestrial ecoregions covered by protected areas,IPBES_GA_3_72_395,2,NA
- Number of protected area management effectiveness assessments,number of protected area management effectiveness (pame) assessments,IPBES_GA_3_72_395,2,NA
- Percentage of terrestrial Key Biodiversity Areas covered by protected areas,protected area coverage of key biodiversity areas,IPBES_GA_3_72_395,2,NA
- Area of forest under sustainable management: total FSC and PEFC forest management certification (million ha),area of forest under sustainable management,IPBES_GA_3_72_395,2,NA
- Area of tree cover loss (ha),tree cover,IPBES_GA_3_72_395,2,NA
- Percentage of mountain Key Biodiversity Areas covered by protected areas,coverage by protected areas of important sites for mountain biodiversity,IPBES_GA_3_72_395,2,NA
- Climatic Impact Index for Birds,climatic impact index for birds,IPBES_GA_3_72_395,2,NA
- Number of invasive alien species introductions,number of invasive alien species introduction events,IPBES_GA_3_72_395,2,NA
- Percentage of countries with invasive alien species legislation,percentage of countries with invasive alien species legislation,IPBES_GA_3_72_395,2,NA
- Red List Index (impacts of invasive alien species),red list index (impacts of invasive alien species),IPBES_GA_3_72_395,2,NA
-biochemical oxygen demand (BOD),biochemical oxygen demand (bod),IPBES_GA_3_74_399,2,NA
- nitrogen (N) loads,nitrogen (n) loads,IPBES_GA_3_74_399,2,NA
- phosphorus (P) loads,phosphorus (p) loads,IPBES_GA_3_74_399,2,NA
- total dissolved solids (TDS),total dissolved solids (tds),IPBES_GA_3_74_399,2,NA
-blue water sustainability INDEX,blue water sustainability index,IPBES_GA_3_76_401,2,NA
-Human Development INDEX (HDI),human development index (hdi),IPBES_GA_3_77_402,2,NA
-human development INDEX,human development index (hdi),IPBES_GA_3_97_413,2,NA
- multidimensional poverty INDEX,multidimensional poverty index,IPBES_GA_3_97_413,2,NA
- Individual Deprivation Measure,individual deprivation measure,IPBES_GA_3_97_413,2,NA
-City Biodiversity INDEX,city biodiversity index,IPBES_GA_3_115_417,2,NA
-CO2 emissions,co2 emissions,IPBES_GA_3_123_420,1,NA
- air quality,air quality,IPBES_GA_3_123_420,1,NA
- water quality,water quality,IPBES_GA_3_123_420,1,NA
-proportion of the rural population who live within 2 km of an all-season road,proportion of the rural population who live within 2 km of an all-season road,IPBES_GA_3_128_421,2,NA
- Passenger and freight volumes by mode of transport,passenger and freight volumes by mode of transport,IPBES_GA_3_128_421,2,NA
-migratory birds threatened or Near Threatened on the IUCN Red List,migratory birds threatened or near threatened on the red list index,IPBES_GA_3_150_436,2,NA
- Red List INDEX,red list index,IPBES_GA_3_150_436,2,NA
-fisheries stock size,fisheries stock size,IPBES_GA_3_164_441,2,NA
- fisheries exploitation rates,fisheries exploitation rates,IPBES_GA_3_164_441,2,NA
-Arctic Species Trend INDEX,arctic species trend index,IPBES_GA_3_169_443,2,NA
-number of countries that have ratified the Nagoya Protocol,number of countries that have ratified the nagoya protocol,IPBES_GA_3_175_446,2,NA
+",wild bird index (farmland birds),IPBES_GA_3_31_358_440,2,NA
+percentage of live coral cover,percentage of live coral cover,IPBES_GA_3_34_361_441,2,NA
+Climatic Impact INDEX,climatic impact index,IPBES_GA_3_35_362_442,2,NA
+proportion of sites in the World Database on Protected Areas reporting shared governance,proportion of sites in the world database on protected areas reporting shared governance,IPBES_GA_3_38_364_443,2,NA
+number of extintions,number of extintions,IPBES_GA_3_40_367_444,1,NA
+  IUCN Red List,red list index,IPBES_GA_3_40_368_445,2,NA
+Living Planet INDEX,living planet index,IPBES_GA_3_41_369_446,2,NA
+proportion of domesticated breeds categorized as at risk or extinct,proportion of domesticated breeds categorized as at risk or extinct,IPBES_GA_3_44_371_447,1,NA
+ extinction risk of wild relatives of domesticated or farmed birds and mammals,extinction risk of wild relatives of domesticated or farmed birds and mammals,IPBES_GA_3_44_371_448,1,NA
+IUCN Red List,red list index,IPBES_GA_3_45_374_449,2,NA
+ Red List INDEX for vertebrate pollinators,red list index (vertebrate pollinators),IPBES_GA_3_45_374_450,2,NA
+number of countries implementing NBSAPs,number of countries implementing nbsaps,IPBES_GA_3_48_377_451,2,NA
+numbers of scientific publications on biodiversity,numbers of scientific publications on biodiversity,IPBES_GA_3_49_379_452,2,NA
+ relevant research funding,relevant research funding,IPBES_GA_3_49_379_453,2,NA
+ taxa assessed for the IUCN Red List,proportion of known species assessed through the red list index,IPBES_GA_3_49_379_454,2,NA
+ species with data included in the Global Biodiversity Information Facility,species with data included in the global biodiversity information facility,IPBES_GA_3_49_379_455,2,NA
+ Mean polar sea ice extent,mean polar sea ice extent,IPBES_GA_3_51_381_456,2,NA
+ Official development assistance provided in support of CBD objectives,official development assistance provided in support of the cbd objectives,IPBES_GA_3_51_381_457,2,NA
+ Wild Bird INDEX (habitat specialists),wild bird index (habitat specialists),IPBES_GA_3_51_381_458,2,NA
+ Pesticide use,pesticide use,IPBES_GA_3_51_381_459,2,NA
+ Glacial mass balance,glacier mass balance,IPBES_GA_3_51_381_460,2,NA
+Red List INDEX for birds and mammals,red list index (birds and mammals),IPBES_GA_3_51_382_461,2,NA
+Species Habitat INDEX,species habitat index,IPBES_GA_3_54_387_462,2,NA
+ Pesticide Use,pesticide use,IPBES_GA_3_54_387_463,2,NA
+Area of tree cover loss,tree cover,IPBES_GA_3_55_389_464,2,NA
+ Marine trophic INDEX,marine trophic index (mti),IPBES_GA_3_55_389_465,2,NA
+ Percentage of Key Biodiversity Areas covered by protected areas,protected area coverage of key biodiversity areas,IPBES_GA_3_55_389_466,2,NA
+Red List Index (impacts of pollution),red list index (impacts of pollution),IPBES_GA_3_72_395_467,2,NA
+ Percentage of freshwater Key Biodiversity Areas covered by protected areas,percentage of freshwater key biodiversity areas covered by protected areas,IPBES_GA_3_72_395_468,2,NA
+ Proportion of fish stocks in safe biological limits,proportion of fish stocks within biologically sustainable levels,IPBES_GA_3_72_395_469,2,NA
+ Marine Stewardship Council engaged fisheries (tonnes),marine stewardship council engaged fisheries,IPBES_GA_3_72_395_470,2,NA
+ Percentage of marine and coastal areas covered by protected areas,protected area coverage of marine and coastal areas,IPBES_GA_3_72_395_471,2,NA
+ Percentage of marine Key Biodiversity Areas covered by protected areas,percentage of marine key biodiversity areas covered by protected areas,IPBES_GA_3_72_395_472,2,NA
+ Percentage of terrestrial areas covered by protected areas,percentage of terrestrial ecoregions covered by protected areas,IPBES_GA_3_72_395_473,2,NA
+ Percentage of terrestrial ecoregions covered by protected areas,percentage of terrestrial ecoregions covered by protected areas,IPBES_GA_3_72_395_474,2,NA
+ Number of protected area management effectiveness assessments,number of protected area management effectiveness (pame) assessments,IPBES_GA_3_72_395_475,2,NA
+ Percentage of terrestrial Key Biodiversity Areas covered by protected areas,protected area coverage of key biodiversity areas,IPBES_GA_3_72_395_476,2,NA
+ Area of forest under sustainable management: total FSC and PEFC forest management certification (million ha),area of forest under sustainable management,IPBES_GA_3_72_395_477,2,NA
+ Area of tree cover loss (ha),tree cover,IPBES_GA_3_72_395_478,2,NA
+ Percentage of mountain Key Biodiversity Areas covered by protected areas,coverage by protected areas of important sites for mountain biodiversity,IPBES_GA_3_72_395_479,2,NA
+ Climatic Impact Index for Birds,climatic impact index for birds,IPBES_GA_3_72_395_480,2,NA
+ Number of invasive alien species introductions,number of invasive alien species introduction events,IPBES_GA_3_72_395_481,2,NA
+ Percentage of countries with invasive alien species legislation,percentage of countries with invasive alien species legislation,IPBES_GA_3_72_395_482,2,NA
+ Red List Index (impacts of invasive alien species),red list index (impacts of invasive alien species),IPBES_GA_3_72_395_483,2,NA
+biochemical oxygen demand (BOD),biochemical oxygen demand (bod),IPBES_GA_3_74_399_484,2,NA
+ nitrogen (N) loads,nitrogen (n) loads,IPBES_GA_3_74_399_485,2,NA
+ phosphorus (P) loads,phosphorus (p) loads,IPBES_GA_3_74_399_486,2,NA
+ total dissolved solids (TDS),total dissolved solids (tds),IPBES_GA_3_74_399_487,2,NA
+blue water sustainability INDEX,blue water sustainability index,IPBES_GA_3_76_401_488,2,NA
+Human Development INDEX (HDI),human development index (hdi),IPBES_GA_3_77_402_489,2,NA
+human development INDEX,human development index (hdi),IPBES_GA_3_97_413_490,2,NA
+ multidimensional poverty INDEX,multidimensional poverty index,IPBES_GA_3_97_413_491,2,NA
+ Individual Deprivation Measure,individual deprivation measure,IPBES_GA_3_97_413_492,2,NA
+City Biodiversity INDEX,city biodiversity index,IPBES_GA_3_115_417_493,2,NA
+CO2 emissions,co2 emissions,IPBES_GA_3_123_420_494,1,NA
+ air quality,air quality,IPBES_GA_3_123_420_495,1,NA
+ water quality,water quality,IPBES_GA_3_123_420_496,1,NA
+proportion of the rural population who live within 2 km of an all-season road,proportion of the rural population who live within 2 km of an all-season road,IPBES_GA_3_128_421_497,2,NA
+ Passenger and freight volumes by mode of transport,passenger and freight volumes by mode of transport,IPBES_GA_3_128_421_498,2,NA
+migratory birds threatened or Near Threatened on the IUCN Red List,migratory birds threatened or near threatened on the red list index,IPBES_GA_3_150_436_499,2,NA
+ Red List INDEX,red list index,IPBES_GA_3_150_436_500,2,NA
+fisheries stock size,fisheries stock size,IPBES_GA_3_164_441_501,2,NA
+ fisheries exploitation rates,fisheries exploitation rates,IPBES_GA_3_164_441_502,2,NA
+Arctic Species Trend INDEX,arctic species trend index,IPBES_GA_3_169_443_503,2,NA
+number of countries that have ratified the Nagoya Protocol,number of countries that have ratified the nagoya protocol,IPBES_GA_3_175_446_504,2,NA

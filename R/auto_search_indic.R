@@ -312,8 +312,8 @@ if(pdf_col == 2){
 ga = readxl::read_excel("../input/assessments/automated_search/extracted_paragraphs/manual_validation/validated_global_matches2.xlsx",
                 sheet = "global_matches2") %>% 
   # re do ID to include page
-  dplyr::mutate(indic_id = paste0('IPBES_GA_',chapter,'_',page,'_', row_number())) %>% 
-  dplyr::select(indic_id,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
+  dplyr::mutate(indic_id_not_unique = paste0('IPBES_GA_',chapter,'_',page,'_', row_number())) %>% 
+  dplyr::select(indic_id_not_unique,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
 
 ipbes_ga_ext = ga %>% 
   # remove no hits
@@ -328,6 +328,8 @@ ipbes_ga_ext = ga %>%
   unnest(indicator) %>% 
   # remove duplicates
   dplyr::distinct(indicator, .keep_all = TRUE) %>% 
+  # re do unique ID
+  dplyr::mutate(indic_id = paste0(indic_id_not_unique,'_', row_number())) %>% 
   # harmonize indicators
   dplyr::mutate(indicators_h = gsub('  ', ' ',indicator)) %>% 
   dplyr::mutate(indicators_h = tolower(indicators_h)) %>%
@@ -355,8 +357,8 @@ rm(ga)
 sua = readxl::read_excel("../input/assessments/automated_search/extracted_paragraphs/manual_validation/validated_sua_matches2.xlsx",
                  sheet = "sua_matches2") %>% 
   # re do ID to include page
-  dplyr::mutate(indic_id = paste0('IPBES_SUA_',chapter,'_',page,'_', row_number())) %>% 
-  dplyr::select(indic_id,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
+  dplyr::mutate(indic_id_not_unique = paste0('IPBES_SUA_',chapter,'_',page,'_', row_number())) %>% 
+  dplyr::select(indic_id_not_unique,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
 
 ipbes_sua_ext = sua %>% 
   # remove no hits
@@ -371,6 +373,8 @@ ipbes_sua_ext = sua %>%
   unnest(indicator) %>% 
   # remove duplicates
   dplyr::distinct(indicator, .keep_all = TRUE) %>% 
+  # re do unique ID
+  dplyr::mutate(indic_id = paste0(indic_id_not_unique,'_', row_number())) %>% 
   # harmonize indicators
   dplyr::mutate(indicators_h = gsub('  ', ' ',indicator)) %>% 
   dplyr::mutate(indicators_h = tolower(indicators_h)) %>%
@@ -398,8 +402,8 @@ rm(sua)
 va = readxl::read_excel("../input/assessments/automated_search/extracted_paragraphs/manual_validation/validated_values_matches.xlsx",
                 sheet = "values_matches2") %>% 
   # re do ID to include page
-  dplyr::mutate(indic_id = paste0('IPBES_VA_',chapter,'_',page,'_', row_number())) %>% 
-  dplyr::select(indic_id,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
+  dplyr::mutate(indic_id_not_unique = paste0('IPBES_VA_',chapter,'_',page,'_', row_number())) %>% 
+  dplyr::select(indic_id_not_unique,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
 
 ipbes_va_ext = va %>% 
   # remove no hits
@@ -414,6 +418,8 @@ ipbes_va_ext = va %>%
   unnest(indicator) %>% 
   # remove duplicates
   dplyr::distinct(indicator, .keep_all = TRUE) %>% 
+  # re do unique ID
+  dplyr::mutate(indic_id = paste0(indic_id_not_unique,'_', row_number())) %>% 
   # harmonize indicators
   dplyr::mutate(indicators_h = gsub('  ', ' ',indicator)) %>% 
   dplyr::mutate(indicators_h = tolower(indicators_h)) %>%
@@ -440,8 +446,8 @@ rm(va)
 ias = readxl::read_excel("../input/assessments/automated_search/extracted_paragraphs/manual_validation/validated_ias_matches.xlsx",
                  sheet = "ias_matches") %>% 
   # re do ID to include page
-  dplyr::mutate(indic_id = paste0('IPBES_IAS_',chapter,'_',page,'_', row_number())) %>% 
-  dplyr::select(indic_id,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
+  dplyr::mutate(indic_id_not_unique = paste0('IPBES_IAS_',chapter,'_',page,'_', row_number())) %>% 
+  dplyr::select(indic_id_not_unique,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
 
 ipbes_ias_ext = ias %>% 
   # remove no hits
@@ -456,6 +462,8 @@ ipbes_ias_ext = ias %>%
   unnest(indicator) %>% 
   # remove duplicates
   dplyr::distinct(indicator, .keep_all = TRUE) %>% 
+  # re do unique ID
+  dplyr::mutate(indic_id = paste0(indic_id_not_unique,'_', row_number())) %>% 
   # harmonize indicators
   dplyr::mutate(indicators_h = gsub('  ', ' ',indicator)) %>% 
   dplyr::mutate(indicators_h = tolower(indicators_h)) %>%
@@ -499,8 +507,8 @@ rm(indic_ga, indic_sua,indic_va,indic_ias)
 geo = readxl::read_excel("../input/assessments/automated_search/extracted_paragraphs/manual_validation/validated_GEO6_matches.xlsx",
                  sheet = "GEO6_matches") %>% 
   # re do ID to include page
-  dplyr::mutate(indic_id = paste0('GEO_',chapter,'_',page,'_', row_number())) %>% 
-  dplyr::select(indic_id,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
+  dplyr::mutate(indic_id_not_unique = paste0('GEO_',chapter,'_',page,'_', row_number())) %>% 
+  dplyr::select(indic_id_not_unique,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
 
 geo_ext = geo %>% 
   # remove no hits
@@ -515,6 +523,8 @@ geo_ext = geo %>%
   unnest(indicator) %>% 
   # remove duplicates
   dplyr::distinct(indicator, .keep_all = TRUE) %>% 
+  # re do unique ID
+  dplyr::mutate(indic_id = paste0(indic_id_not_unique,'_', row_number())) %>% 
   # harmonize indicators
   dplyr::mutate(indicators_h = gsub('  ', ' ',indicator)) %>% 
   dplyr::mutate(indicators_h = tolower(indicators_h)) %>%
@@ -546,8 +556,8 @@ rm(geo)
 ipcc = readxl::read_excel("../input/assessments/automated_search/extracted_paragraphs/manual_validation/validated_AR6_WG1_matches.xlsx",
                   sheet = "AR6_WG1_matches") %>% 
   # re do ID to include page
-  dplyr::mutate(indic_id = paste0('IPCC_',chapter,'_',page,'_', row_number())) %>% 
-  dplyr::select(indic_id,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
+  dplyr::mutate(indic_id_not_unique = paste0('IPCC_',chapter,'_',page,'_', row_number())) %>% 
+  dplyr::select(indic_id_not_unique,agree_val = `Agreement_validation (1,2,3)`,agree_indic = `Agreement_extracted`, ILK = ILK_indicators)
 
 ipcc_ext = ipcc %>% 
   # remove no hits
@@ -562,6 +572,8 @@ ipcc_ext = ipcc %>%
   unnest(indicator) %>% 
   # remove duplicates
   dplyr::distinct(indicator, .keep_all = TRUE) %>% 
+  # re do unique ID
+  dplyr::mutate(indic_id = paste0(indic_id_not_unique,'_', row_number())) %>% 
   # harmonize indicators
   dplyr::mutate(indicators_h = gsub('  ', ' ',indicator)) %>% 
   dplyr::mutate(indicators_h = tolower(indicators_h)) %>%
@@ -598,53 +610,7 @@ indic_orig_mea = dplyr::select(geo_ext, indicator_orig, indic_id, indicator_harm
         write_csv('../input/assessments/automated_search/assess_ext_indicators_orig.csv')
 
 
-# ### Append all extracted and harmonized indicators----
-# indic_va_ext = read_csv(paste0(git_dir,'input/automated_search/va_extracted.csv'))
-# indic_sua_ext = read_csv(paste0(git_dir,'input/automated_search/sua_extracted.csv'))
-# indic_ga_ext = read_csv(paste0(git_dir,'input/automated_search/ga_extracted.csv'))
-# indic_ias_ext = read_csv(paste0(git_dir,'input/automated_search/ias_extracted.csv'))
-# indic_geo_ext = read_csv(paste0(git_dir,'input/automated_search/geo_extracted.csv'))
-# indic_ipcc_ext = read_csv(paste0(git_dir,'input/automated_search/ipcc_extracted.csv'))
-# 
-# # Check independent files
-# dup = check_dup(indic_ias_ext, indicators_harmonized) # no exact duplicates
-# dup = check_dup(indic_sua_ext, indicators_harmonized) # no exact duplicates
-# rm(dup)
-# 
-# # Join
-# indicators_extracted = indic_ga_ext %>% 
-#   full_join(indic_sua_ext, by = 'indicators_harmonized') %>% 
-#   full_join(indic_va_ext, by = 'indicators_harmonized') %>% 
-#   full_join(indic_ias_ext, by = 'indicators_harmonized') %>% 
-#   full_join(indic_ipcc_ext, by = 'indicators_harmonized') %>% 
-#   full_join(indic_geo_ext, by = 'indicators_harmonized') %>% 
-#   dplyr::mutate(ILK_ext = if_else(ILK.x==1 | ILK.y==1 | ILK.x.x==1 | ILK.y.y==1 | ILK.x.x.x==1 | ILK.y.y.y==1 ,
-#                                   true = 1,
-#                                   false = NA)) %>% 
-#   dplyr::mutate(var_ext = if_else(var_indic.x==1 | var_indic.y==1 | var_indic.x.x==1 | var_indic.y.y==1 | var_indic.x.x.x==1 | var_indic.y.y.y==1 ,
-#                                   true = 1,
-#                                   false = NA)) %>% 
-#   dplyr::mutate(indic_ext = if_else(var_indic.x==2 | var_indic.y==2 | var_indic.x.x==2 | var_indic.y.y==2 | var_indic.x.x.x==2 | var_indic.y.y.y==2 ,
-#                                     true = 1,
-#                                     false = NA)) %>% 
-#   dplyr::select(indicators_harmonized, ga_extracted, sua_extracted, va_extracted, ias_extracted, ipcc_extracted, geo_extracted, ILK_ext, indic_ext, var_ext) 
-# 
-# # checks joined indicators
-# dup = check_dup(indicators_extracted, indicators_harmonized) # no exact duplicates
-# 
-# indicators_extracted = indicators_extracted %>% 
-#   # harmonize indicators
-#   dplyr::mutate(indicators_h = tolower(indicators_harmonized)) %>%
-#   dplyr::mutate(indicators_h = str_trim(indicators_h)) %>% 
-#   harmonize_indic(indicators_h)
-# dup = check_dup(indicators_extracted, indicators_h) # no exact duplicates
-# 
-# # save
-# indicators_extracted = indicators_extracted %>% 
-#   # clean table
-#   dplyr::select(-indicators_h, -field_harm) %>%
-#   # save data
-#   write_csv(paste0(git_dir,'input/automated_search/automated_search_indicators.csv'))
+
 
 
 
