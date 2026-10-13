@@ -137,11 +137,31 @@ all_indicators_cl %>% filter(!is.na(Categories)) %>% count() #1829 classified
 all_indicators_cl %>% filter(is.na(Categories)) %>% count() #0 NOT classified yet
 
 # Save
-write_csv(dplyr::select(all_indicators_cl, -classif),'../output/all_indicators_classified_20052025.csv')
-#all_indicators_cl = read_csv('../output/all_indicators_classified_14052025.csv')
+#write_csv(dplyr::select(all_indicators_cl, -classif),'../output/all_indicators_classified_20052025.csv')
+all_indicators_cl = read_csv('../output/all_indicators_classified_20052025.csv')
 
 # checks
 check_dup(all_indicators_cl,indicator_harmonized)
+
+### Second harmonization
+all_indicators_cl_harm3 =  all_indicators_cl %>% 
+  # harmonize indicators
+  harmonize_indic3(indicator_harmonized, include_near = TRUE) %>% 
+  # extra cleaning to make it nicer
+  dplyr::mutate(indicator_harmonized3 = gsub('ghg', 'greenhouse gas',field_harm))
+
+
+  # After harmonising, rows that now share a name still need collapsing, e.g.:
+  # all_indic %>%
+  #   harmonize_indic3(indicator_harmonized) %>%
+  #   dplyr::group_by(field_harm) %>%
+  #   dplyr::summarise(
+  #     indic_ids = paste(unique(unlist(strsplit(indic_ids, ";"))), collapse = ";"),
+  #     sources   = paste(unique(unlist(strsplit(sources,   ";"))), collapse = ";"),
+  #     .groups = "drop")
+  #harm_same_df = as.data.frame(harm_same)
+
+
 
 # re-format table (long table with repetitions)
 indic = all_indicators_cl %>% 
