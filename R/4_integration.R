@@ -15,8 +15,8 @@ your_dir <- dirname(rstudioapi::getSourceEditorContext()$path) # works only in R
 #your_dir <- "path_to_where_code_is" # complete accordingly
 
 ## Source useful functions from folder downloaded from GitHub
-source(paste0(your_dir,"/useful_functions_indic.R"))
-source(paste0(your_dir,"/harmonize_indicators.R"))
+source(paste0(your_dir,"/useful_funcs_indic.R"))
+source(paste0(your_dir,"/harmonize_indic_func.R"))
 source(paste0(your_dir,"/settings.R"))
 
 ## Set working directory and install required libraries
@@ -76,7 +76,7 @@ all_indicators %>% group_by(source) %>% count()
 
 write_csv(all_indicators, '../input/all_indicators_orig.csv')
 
-# 2-Harmonize indicators---
+# 2-Harmonize indicators----
 
 # Harmonize: adds the column field_harm, one row per extracted name
 harm <- harmonize_indic(all_indicators, indicator_orig)
@@ -111,119 +111,68 @@ classified %>% filter(is.na(Subcategories)) %>% count()
 all_indicators_harm_cl = left_join(all_indicators_harm, classified, by = 'indicator_harmonized')
 
 # checks
-
-# missing indic
+## missing indic
 anti_join(classified, all_indicators_harm_cl, by = 'indicator_harmonized')#423 from old extraction were classified (no need to add them)
 anti_join(all_indicators_harm_cl,classified, by = 'indicator_harmonized')#0 indicator from last extraction were not classified
-
-# duplicates
+## duplicates
 check_dup(all_indicators_harm_cl,indicator_harmonized)
-
-# missing categories
+## missing categories
 all_indicators_harm_cl %>% count() #1691
 all_indicators_harm_cl %>% group_by(policy) %>% count()
 # policy     n
 #      0  1061
 #      1   630
-all_indicators_harm_cl %>% group_by(source) %>% count()
+all_indicators_harm_cl %>% group_by(source) %>% count() %>% View()
 
 # Save
 write_csv(all_indicators_harm_cl,'../output/all_indicators_harmonized_classified_15102026.csv')
 
 # re-format table (long table with repetitions)
+mea_sources <- c("GBF", "SDG", "CITES", "CMS", "RAMSAR", "UNCCD") 
+assessment_sources <- c("IPBES", "IPCC", "GEO")
+
 indic = all_indicators_harm_cl %>% 
   dplyr::mutate(indic_id = strsplit(as.character(indic_id), ";")) %>% 
   unnest(indic_id) %>%
-  dplyr::mutate(source = sub("_.*", "", indic_id)) %>% 
-  dplyr::select( -"policy", -"n_sources")
+  dplyr::mutate(source = sub("_.*", "", indic_id),
+                policy = ifelse(source %in% mea_sources, 1, 0)) %>% 
+  dplyr::select(-"n_sources")
 names(indic)
 
-# Save
+
+indic <- all_indicators_harm_cl %>%
+  # 1. one row per extracted indicator (ID); the source is the ID prefix
+  tidyr::separate_rows(indic_id, sep = ";") %>%
+  dplyr::mutate(indic_id = trimws(indic_id),
+                source   = sub("_.*", "", indic_id)) %>%
+  # 2. one row per indicator x source
+  dplyr::group_by(indicator_harmonized, source) %>%
+  dplyr::summarise(
+    indic_ids = paste(indic_id, collapse = ";"),        # this source's IDs only
+    dplyr::across(c(Categories, Categories_2, Subcategories, Subcategories_2),
+                  dplyr::first),
+    .groups = "drop") %>%
+  # 3. policy flags from each row's own source
+  dplyr::mutate(mea = ifelse(source %in% mea_sources, 1, 0),
+                assess = ifelse(source %in% assessment_sources, 1, 0)) %>%
+  dplyr::select(indicator_harmonized, indic_ids, source,
+                Categories, Categories_2, Subcategories, Subcategories_2,
+                mea, assess)
+
 write_csv(indic,'../output/all_indicators_harmonized_classified_15102026_lv.csv')
 
-# 5-Build table for shinny app with verbatim manes and harmonized names----
-orig = read_csv('../output/all_orig_indicators.csv')
-classified = read_csv('../output/all_indicators_cl_ha_14102026.csv')
+# 4-Summaries----
 
-assessment_sources <- c("IPBES", "IPCC", "GEO")
-mea_sources         <- c("GBF", "SDG", "CITES", "CMS", "RAMSAR", "UNCCD", "ICCWC")
-
-#verbatim_indicator
-#Look each id up in all_orig_indicators.csv and collapse the deduplicated original names.
-id_to_orig <- setNames(orig$indicator_orig, orig$indic_id)
-
-get_verbatim <- function(ids_string) {
-  ids <- trimws(unlist(strsplit(ids_string, ";")))
-  ids <- ids[ids != ""]
-  origs <- unique(id_to_orig[ids])
-  origs <- origs[!is.na(origs)]
-  if (length(origs) == 0) return(NA_character_)
-  paste(origs, collapse = "; ")
-}
-
-classified <- classified %>%
-  mutate(verbatim_indicator = vapply(indic_ids, get_verbatim, character(1)))
-
-#Frequency of use (Number of distinct assessments/MEAs the indicator was used in.
-get_frequency <- function(sources_string) {
-  toks <- trimws(unlist(strsplit(sources_string, ";")))
-  toks <- toks[toks != ""]
-  length(unique(toks))
-}
-
-classified <- classified %>%
-  mutate(`Frequency of use` = vapply(sources, get_frequency, integer(1)))
-
-#MEA/assess
-get_mea_assess <- function(sources_string) {
-  toks <- trimws(unlist(strsplit(sources_string, ";")))
-  toks <- toks[toks != ""]
-  has_mea    <- any(toks %in% mea_sources)
-  has_assess <- any(toks %in% assessment_sources)
-  if (has_mea && has_assess) return("both")
-  if (has_mea)               return("mea")
-  if (has_assess)            return("assessment")
-  NA_character_
-}
-
-classified <- classified %>%
-  mutate(`MEA/assess` = vapply(sources, get_mea_assess, character(1))) 
-
-classified <- classified %>%
-  select("Indicators harmonized"="indicator_harmonized","Sources" ="sources",
-         "Elements"="Categories","Subelements"="Subcategories",
-         "Frequency of use","MEA/assess", "Indicators original name"="verbatim_indicator",
-         "Elements_2"="Categories_2","Subelements_2"="Subcategories_2")
-names(classified)
-
-# remove original-names column duplicates
-classified$`Indicators original name` <- sapply(strsplit(classified$`Indicators original name`, ";"),
-                                        function(x) paste(unique(trimws(x)), collapse = "; "))
-
-# Save prepped table
-out_path <- file.path("../output/indicators_prepped_app.csv")
-
-fwrite(classified, out_path)
-message("Wrote prepped table (", nrow(classified), " rows) to: ", out_path)
-
-
-
-# 5-Summaries----
-# Read in
-#indic = read_csv('../output/all_indicators_cl_ha_14102026_lv.csv.csv')
-#all_indicators_cl = read_csv("../output/all_indicators_cl_ha_14102026.csv")
-
-
-all_indicators_cl %>% count() #1829 unique indicators -->1646
-all_indicators_cl %>%  distinct(indicator_harmonized) %>% count() # all unique
-all_indicators_cl %>% filter(!is.na(Categories)) %>% distinct(indicator_harmonized) %>% count() # all classified
+all_indicators_harm_cl %>% count() #1691 unique indicators
+all_indicators_harm_cl %>%  distinct(indicator_harmonized) %>% count() # all unique
+all_indicators_harm_cl %>% filter(!is.na(Categories)) %>% distinct(indicator_harmonized) %>% count() # all classified
 
 
 all = indic %>% count() #2098 indicators --> 1963
 unique = indic %>%  distinct(indicator_harmonized) %>% count() # 1829 unique --> 1646
 cat('all indicators: ',all$n, '\nunique indicators: ',unique$n)
-# all indicators:  1963 
-# unique indicators:  1646
+# all indicators:  1996 
+# unique indicators:  1691
 
 # 5.a-Summaries of indicators by source----
 
@@ -236,9 +185,12 @@ unique_mea = indic %>% filter(mea == TRUE) %>% distinct(indicator_harmonized, .k
 unique_assess = indic %>% filter(assess == TRUE) %>% distinct(indicator_harmonized, .keep_all = TRUE) %>% 
   count() 
 
-cat('\nunique assess indicators: ',unique_assess$n, '\nunique mea indicators: ',unique_mea$n)
-# unique assess indicators:  1356 --> 1221
-# unique mea indicators:  657 --> 627
+cat('\nAssess indicators: ',all_assess$n, '\nMea indicators: ',all_mea$n)
+cat('\nUnique assess indicators: ',unique_assess$n, '\nUnique mea indicators: ',unique_mea$n)
+# Assess indicators:  1307 
+# Mea indicators:  689
+# Unique assess indicators:  1258 
+# Unique mea indicators:  630
 
 # sources (extracted with duplicates)
 total_by_source = indic %>% group_by(source) %>% count() %>% arrange(desc(n))
