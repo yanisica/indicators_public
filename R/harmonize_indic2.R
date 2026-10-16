@@ -29,15 +29,16 @@ harm_same <- c(
   # -> annual total precipitation when the daily precipitation exceeds the 95
   "annual precipitation from daily precipitation > 95th percentile (r95p)" =
     "annual total precipitation when the daily precipitation exceeds the 95th percentile of the wet-day (>1 mm) precipitation",
-  # -> total greenhouse gas emissions per year
+  # -> greenhouse gas emissions
   "anthropogenic emissions of long-lived greenhouse gases (co2 equivalents)" =
-    "total greenhouse gas emissions per year",
+    "greenhouse gas emissions",
   "anthropogenic emissions of long-lived greenhouse gases (ghg emissions)" =
-    "total greenhouse gas emissions per year",
+    "greenhouse gas emissions",
   "ghg emissions" =
-    "total greenhouse gas emissions per year",
-  "greenhouse gas emissions" =
-    "total greenhouse gas emissions per year",
+    "greenhouse gas emissions",
+  "ghg emissions from agriculture" =
+    "greenhouse gas emissions from agriculture",
+
   # -> oecd better life index
   "better life index" =
     "oecd better life index",
@@ -85,7 +86,7 @@ harm_same <- c(
   # -> total richness of endemic species
   "endemic species richness" =
     "total richness of endemic species",
-  # -> exposure to pm concentrations (population-weighted annual mean concent
+  # -> exposure to pm concentrations (population-weighted annual mean concent...
   "population-weighted annual mean concentration of pm2.5" =
     "exposure to pm concentrations (population-weighted annual mean concentration of pm2.5)",
   "population-weighted pm2.5 concentrations" =
@@ -102,7 +103,7 @@ harm_same <- c(
   # -> fertilizer use
   "fertilizers used" =
     "fertilizer use",
-  # -> level of water stress (freshwater withdrawal as a proportion of availa
+  # -> level of water stress (freshwater withdrawal as a proportion of availa..
   "freshwater withdrawal as a proportion of available freshwater resources" =
     "level of water stress (freshwater withdrawal as a proportion of available freshwater resources)",
   "level of water stress" =
@@ -225,7 +226,35 @@ harm_same <- c(
     "trends in integration of migratory species concerns in national biodiversity strategies and action plans",
   # -> trends in potentially environmentally harmful elements of government s
   "trends in potentially harmful elements of government support to agriculture (produced support estimates)" =
-    "trends in potentially environmentally harmful elements of government support to agriculture (producer support estimate)"
+    "trends in potentially environmentally harmful elements of government support to agriculture (producer support estimate)",
+  # -> trends in successful control and eradications of invasive alien specie
+  "trends in successful eradications of invasive alien species" =
+    "trends in successful control and eradications of invasive alien species",
+  # -> volcanic eruptions
+  "volcanic activity" =
+    "volcanic eruptions",
+  # -> material footprint
+  "material footprint, material footprint per capita, and material footprint per gross domestic product" =
+    "material footprint",
+  # -> water footprint
+  "human appropriation of fresh water" =
+    "water footprint",
+  # -> "human population size"
+  "total population" = 
+    "human population size",
+  # -> material flow accounting
+  "material flow analysis" = 
+    "material flow accounting",
+  # -> total number of introduced alien species
+  "cumulative introduced invasive aliens" = 
+    "total number of introduced alien species",
+  # -> trends in establishment and national adoption of international agreements relevant to the prevention and control of invasive alien species
+  "existence and uptake of multilateral agreements and national legislation relevant to the prevention and control of invasive alien species" =
+    "trends in establishment and national adoption of international agreements relevant to the prevention and control of invasive alien species",
+  # ->"indicator on non-monetary benefits”
+  "indicator on non-monetary benefits" =
+    "non-monetary benefits arising from applicable international access and benefit-sharing instruments"
+  
 )
 
 # Near-equivalent (only used with include_near = TRUE) ---------------------
@@ -236,18 +265,9 @@ harm_near <- c(
   # -> access to improved sanitation facilities
   "improved water supply and sanitation" =
     "access to improved sanitation facilities",
-  # -> agrobiodiversity index
-  "agro-biodiversity" =
-    "agrobiodiversity index",
   # -> air pollution emissions account
   "air emission accounts" =
     "air pollution emissions account",
-  # -> air quality index
-  "air quality" =
-    "air quality index",
-  # -> alcohol per capita consumption (aged 15 years and older) within a cale
-  "alcohol use" =
-    "alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
   # -> amount of funding provided through the global environment facility and
   "funding provided by the global environment facility" =
     "amount of funding provided through the global environment facility and allocated to the biodiversity focal area",
@@ -266,26 +286,26 @@ harm_near <- c(
   # -> atmospheric dust deposition
   "global dust deposition" =
     "atmospheric dust deposition",
-  # -> penman-monteith aed (atmospheric evaporative demand)
-  "atmospheric evaporative demand (aed)" =
-    "penman-monteith aed (atmospheric evaporative demand)",
   # -> average share of the built-up area of cities that is open space for pu
   "average share of the built-up area of cities that is green/blue space for public use for all" =
     "average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",
-  # -> drought severity index
+  # -> droughts
   "change in # droughts" =
-    "drought severity index",
+    "droughts",
+  # -> drought severity index
   "drought index (di)" =
     "drought severity index",
-  "droughts" =
-    "drought severity index",
-  # -> change in # soil moisture
+  # -> soil moisture
+  "change in # soil moisture" =
+    "soil moisture",
   "changes in soil moisture" =
-    "change in # soil moisture",
-  "soil moisture" =
-    "change in # soil moisture",
+    "soil moisture",
   "total soil moisture" =
-    "change in # soil moisture",
+    "soil moisture",
+  "surface soil moisture" =
+    "soil moisture",
+  "soil moisture deficits" =
+    "soil moisture",
   # -> change in the extent of water-related ecosystems over time
   "change in the extent of inland water ecosystems over time" =
     "change in the extent of water-related ecosystems over time",
@@ -311,11 +331,6 @@ harm_near <- c(
     "continuous global mangrove forest area",
   "trends in mangrove extent" =
     "continuous global mangrove forest area",
-  # -> extent to which protected areas and other effective area-based conserv
-  "coverage of protected areas and other effective area-based conservation measures" =
-    "extent to which protected areas and other effective area-based conservation measures cover key biodiversity areas that are important for migratory species",
-  "coverage of protected areas and other effective area-based conservation measures and traditional territories (by governance type)" =
-    "extent to which protected areas and other effective area-based conservation measures cover key biodiversity areas that are important for migratory species",
   # -> protected area coverage of marine and coastal areas
   "coverage of protected areas in relation to marine areas" =
     "protected area coverage of marine and coastal areas",
@@ -341,12 +356,9 @@ harm_near <- c(
   # -> direct economic loss attributed to disasters in relation to global gro
   "direct economic loss in relation to global gross domestic product, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters" =
     "direct economic loss attributed to disasters in relation to global gross domestic product",
-  # -> domestic material consumption, domestic material consumption, and dome
-  "domestic material consumption" =
-    "domestic material consumption, domestic material consumption, and domestic material consumption per gross domestic product",
-  # -> energy intensity measured in terms of primary energy and gross domesti
-  "energy-intensity" =
-    "energy intensity measured in terms of primary energy and gross domestic product",
+  # -> domestic material consumption
+  "domestic material consumption, domestic material consumption, and domestic material consumption per gross domestic product" =
+    "domestic material consumption",
   # -> potential evaporation, evaporative demand drought index
   "evaporative demand drought index (eddi)" =
     "potential evaporation, evaporative demand drought index",
@@ -358,15 +370,9 @@ harm_near <- c(
   # -> number of species at risk of extinction
   "extinction risk" =
     "number of species at risk of extinction",
-  # -> red list index (wild relatives of farmed and domesticated species)
-  "extinction risk of wild relatives of domesticated or farmed birds and mammals" =
-    "red list index (wild relatives of farmed and domesticated species)",
   # -> total amount of funding for developing countries to promote the develo
   "finance mobilized for promoting the development, transfer, dissemination and diffusion of technology" =
     "total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",
-  # -> flood index (fi)
-  "floods" =
-    "flood index (fi)",
   # -> glacier mass balance
   "glacier areal and mass changes/loss rate" =
     "glacier mass balance",
@@ -380,26 +386,22 @@ harm_near <- c(
     "global mean ocean surface ph",
   "ph of ocean surface water" =
     "global mean ocean surface ph",
-  # -> sea level
-  "global mean sea level (gmsl)" =
-    "sea level",
+  # -> "global mean sea level (gmsl)"
   "increase in the global mean sea level" =
-    "sea level",
+    "global mean sea level (gmsl)",
+  "sea level" =
+    "global mean sea level (gmsl)",
+  # -> "sea level rise"
   "rate of rslr (relative sea level rise)" =
-    "sea level",
+    "sea level rise",
   "sea level change" =
-    "sea level",
-  "sea level rise" =
-    "sea level",
+    "sea level rise",
   # -> global seagrass extent (seagrass cover and composition)
   "seagrass meadow area" =
     "global seagrass extent (seagrass cover and composition)",
   # -> quality of governance index
   "governance index" =
     "quality of governance index",
-  # -> gross national happiness index of bhutan
-  "gross national happiness index" =
-    "gross national happiness index of bhutan",
   # -> live coral cover
   "hard coral cover and composition" =
     "live coral cover",
@@ -435,12 +437,11 @@ harm_near <- c(
   # -> marine sediment cores
   "marine sediments" =
     "marine sediment cores",
-  # -> marine stewardship council certified catch
-  "marine stewardship council certified fisheries" =
-    "marine stewardship council certified catch",
-  # -> material footprint, material footprint per capita, and material footpr
+  # -> material footprint
   "material footprint per capita" =
-    "material footprint, material footprint per capita, and material footprint per gross domestic product",
+    "material footprint",
+  "material footprint, material footprint per capita, and material footprint per gross domestic product" =
+    "material footprint",
   # -> mean annual temperature
   "mean air temperature" =
     "mean annual temperature",
@@ -453,8 +454,6 @@ harm_near <- c(
   "number of plant and animal genetic resources secured in medium or long-term conservation facilities" =
     "number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities",
   # -> proportion of countries adopting relevant national legislation and ade
-  "number of countries implementing national legislation, policies or other measures regarding fpic related to conservation" =
-    "proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species",
   "percentage of countries with invasive alien species legislation" =
     "proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species",
   "trends in numbers of countries with national legislation and other policy measures relevant to the prevention and/or control of invasive alien species" =
@@ -493,8 +492,6 @@ harm_near <- c(
     "number of permits or their equivalents for genetic resources (including those related to traditional knowledge) by type of permit",
   # -> protected area management effectiveness (pame)
   "number of protected area management effectiveness (pame) assessments" =
-    "protected area management effectiveness (pame)",
-  "protected area and oecm management effectiveness (mepca) indicator" =
     "protected area management effectiveness (pame)",
   # -> numbers of scientific publications on biodiversity
   "number of publications" =
@@ -541,24 +538,27 @@ harm_near <- c(
     "trends in pathways of introduction and spread",
   # -> terrestrial vegetation biomass
   "vegetation biomass" =
-    "terrestrial vegetation biomass",
-  # -> total official international support (official development assistance 
-  "total official flows (official development assistance plus other official flows) to the agriculture sector" =
-    "total official international support (official development assistance plus other official flows) to infrastructure",
-  "trends in international bilateral and multilateral official development assistance" =
-    "total official international support (official development assistance plus other official flows) to infrastructure",
-  # -> trends in successful control and eradications of invasive alien specie
-  "trends in successful eradications of invasive alien species" =
-    "trends in successful control and eradications of invasive alien species",
-  # -> volcanic eruptions
-  "volcanic activity" =
-    "volcanic eruptions",
-  # -> water quality index (watqi)
-  "water quality" =
-    "water quality index (watqi)",
-  # -> odss and ghgs
+    "terrestrial vegetation biomass", 
+  
+  # # -> “percent of total land area that is under cultivation”
+  # "cultivated area"  = 
+  #   "percent of total land area that is under cultivation",
+  # # ->"o3 concentration” 
+  # "population-weighted ozone concentrations" = "o3 concentration",
+
+  # # -> total official international support (official development assistance 
+  # "total official flows (official development assistance plus other official flows) to the agriculture sector" =
+  #   "total official international support (official development assistance plus other official flows) to infrastructure",
+  # "trends in international bilateral and multilateral official development assistance" =
+  #   "total official international support (official development assistance plus other official flows) to infrastructure",
+
+  ## better looks
   "odss and ghgs" = 
-    "ozone depleting substances and greenhouse gases"
+    "ozone depleting substances and greenhouse gases",
+  "cumulative ghg emissions" =
+    "cumulative greenhouse gas emissions",
+  "ghg changes" =
+    "greenhouse gas emissions change"
 )
 
 #' Harmonise indicator names
@@ -569,7 +569,7 @@ harm_near <- c(
 #'                      measure, different unit or framing, e.g. number vs
 #'                      proportion of countries). FALSE by default.
 #' @return file_name with a new column field_harm
-harmonize_indic3 <- function(file_name = file_name,
+harmonize_indic2 <- function(file_name = file_name,
                              field = field,
                              include_near = FALSE,
                              verbose = TRUE){

@@ -301,9 +301,6 @@ if(pdf_col == 2){
 # validated datasets are stored './input/automated_search/extracted_paragraphs/manual_validation'
 
 # 3- Harmonization of manually extracted indicators----
-
-
-# Load indicators from extracted var/indices/indicators in assessments----
 ## Indicators extracted from IPBES------
 # Automatic extraction of 'indicator', 'index', 'indicates', 'indices' from IPBES assessments
 # Manual validation
@@ -600,7 +597,7 @@ indic_ipcc = ipcc_ext %>%
 
 rm(ipcc)
 
-### Append original indicators from tables and appendices----
+# 4- Append original indicators from tables and appendices----
 indic_orig_mea = dplyr::select(geo_ext, indicator_orig, indic_id, indicator_harmonized) %>% 
   rbind(dplyr::select(ipbes_va_ext, indicator_orig, indic_id, indicator_harmonized),
         dplyr::select(ipbes_ga_ext, indicator_orig, indic_id, indicator_harmonized),

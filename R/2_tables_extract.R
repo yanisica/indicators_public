@@ -29,7 +29,7 @@ library(readxl)
 library(readr)
 
 
-# Load indicators from supplementary material (tables)----
+# 1- Load indicators from supplementary material (tables)----
 ## Indicators from tables and appendices in IPBES----
 
 # SUA
@@ -254,88 +254,7 @@ indic_ipcc_sup = ipcc %>%
 
 rm(ipccTAVI1, ipccTAVI2, ipcc)
 
-### Append original indicators from tables and appendices----
+# 2- Append original indicators from tables and appendices----
 indic_orig = rbind(ipbes_ga21,ipbes_ga22,ipbes_ga23,ipbes_ga3,ipbes_sua, ipcc)
 write_csv(indic_orig,'../input/assessments/tables_extraction/ipcc_ipbes_supp_indicators_orig.csv')
-
-# ## Append indicators from tables and appendices----
-# 
-# indic_ipcc = read_csv(paste0(git_dir,'input/tables_extraction/ipcc_indicators.csv')) %>% 
-#   # add source
-#   dplyr::mutate(ipcc_sup = 1) %>% 
-#   dplyr::distinct(indicators_harmonized, .keep_all = TRUE)  %>% 
-#   dplyr::select(indicators_harmonized, ipcc_sup)
-# 
-# indic_ga = read_csv(paste0(git_dir,'input/tables_extraction/ga_sup_indicators.csv')) %>% 
-#   # add source
-#   dplyr::mutate(ga_sup = 1) %>% 
-#   dplyr::distinct(indicators_harmonized, .keep_all = TRUE)  %>% 
-#   dplyr::select(indicators_harmonized, ga_sup)
-# 
-# indic_sua = read_csv(paste0(git_dir,'input/tables_extraction/sua_sup_indicators.csv')) %>% 
-#   # add source
-#   dplyr::mutate(sua_sup = 1) %>% 
-#   dplyr::distinct(indicators_harmonized, .keep_all = TRUE)  %>% 
-#   dplyr::select(indicators_harmonized, sua_sup)
-# 
-# # Check independent files
-# dup = check_dup(indic_ipcc, indicators_harmonized) # no exact duplicates
-# dup = check_dup(indic_ga, indicators_harmonized) # no exact duplicates
-# dup = check_dup(indic_sua, indicators_harmonized) # no exact duplicates
-# rm(dup)
-# 
-# # Join
-# indic_supp_tables = indic_ipcc %>% 
-#   full_join(indic_ga, by = 'indicators_harmonized') %>% 
-#   full_join(indic_sua, by = 'indicators_harmonized')
-# 
-# # checks joined indicators
-# dup = check_dup(indic_supp_tables, indicators_harmonized) # no exact duplicates
-# 
-# indic_supp_tables = indic_supp_tables %>% 
-#   # harmonize indicators
-#   dplyr::mutate(indicators_h = tolower(indicators_harmonized)) %>%
-#   dplyr::mutate(indicators_h = str_trim(indicators_h)) %>% 
-#   harmonize_indic(indicators_h)
-# dup = check_dup(indic_supp_tables, indicators_h) # no exact duplicates
-# 
-# # save
-# indic_supp_tables = indic_supp_tables %>% 
-#   # clean table
-#   dplyr::select(-indicators_h, -field_harm) %>%
-#   # save data
-#   write_csv(paste0(git_dir,'input/tables_extraction/IPBES-IPCC_supp_tables_indicators.csv'))
-
-### NOT INCLUDED IN MANUSCRIPT ###
-### IPBES core and highlighted indicators (D&K TF 2017-2018)----
-# core_high = readxl::read_excel(paste0(git_dir, "input/tables_extraction/IPBES/IPBES_2018.xlsx"),
-#                        sheet = "core-high")
-# 
-# core_high %>%  group_by(`type of indicator`) %>% distinct() %>% count()
-# # core              30
-# # highlighted       42
-# 
-# indic_core_high = core_high %>% 
-#   mutate(indicators = tolower(`Specific Indicator (matched)`)) %>% 
-#   mutate(type_indicators = tolower(`type of indicator`)) %>% 
-#   # harmonize indicators
-#   dplyr::mutate(indicators_h = tolower(indicators)) %>%
-#   dplyr::mutate(indicators_h = str_trim(indicators_h)) %>% 
-#   harmonize_indic(indicators_h) %>% 
-#   dplyr::rename(indicators_harmonized = field_harm) %>% 
-#   dplyr::mutate(indicators_harmonized = str_trim(indicators_harmonized)) %>% 
-#   dplyr::select(-indicators_h) %>% 
-#   # save input data
-#   write_csv(paste0(git_dir,'input/tables_extraction/ipbes_core_high_indicators.csv')) %>% 
-#   # add source
-#   dplyr::mutate(core_high = 1) %>% 
-#   dplyr::distinct(indicators_harmonized, .keep_all = TRUE)  %>% 
-#   dplyr::select(indic_id, indicators_harmonized, core_high, type_indicators)
-# 
-# indic_core_high %>%  distinct(indicators_harmonized) %>% count() # 72
-
-
-
-#################################### END
-
 

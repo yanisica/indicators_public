@@ -29,7 +29,7 @@ library(readr)
 library(data.table)
 
 
-# Load indicators from conventions (policy)----
+# 1- Load indicators from conventions (policy)----
 ## Indicators from KM_GBF----
 
 complementary =  read_csv("../input/meas/GBF/complementary_indicators_2025-01-15.csv") %>% 
@@ -174,7 +174,7 @@ cites = cites %>%
   write_csv('../input/meas/CITES/cites_indicators.csv')
 
 
-# Prepare indicators for analisys
+# Prepare indicators for analysis
 indic_cites = cites %>% 
   dplyr::group_by(indicator_harmonized) %>% 
   dplyr::summarise(indic_ids = paste0(indic_id, collapse = ";")) %>% 
@@ -274,8 +274,6 @@ unccd = unccd %>%
   dplyr::select(-indicators_h) %>% 
   # remove qualitative indicators
   dplyr::filter(!is.na(verbatim_indic_id)) %>% 
-  # save input data
-  write_csv('../input/meas/UNCCD/unccd_indic_harm.csv') %>% 
   # keep original indicator name
   dplyr::rename(indicator_orig = indicator) %>% 
   # clean columns
@@ -337,50 +335,13 @@ indic_cms = cms %>%
 
 #rm(cms)
 
-### Append original indicators from tables and appendices----
+# 2- Append original indicators from tables and appendices----
 indic_orig_mea = dplyr::select(gbf, indicator_orig, indic_id, indicator_harmonized) %>% 
-  rbind(dplyr::select(cites, indicator_orig, indic_id, indicator_harmonized),dplyr::select(cms, indicator_orig, indic_id, indicator_harmonized),
-        dplyr::select(ramsar, indicator_orig, indic_id, indicator_harmonized),dplyr::select(sdg, indicator_orig, indic_id, indicator_harmonized),
+  rbind(dplyr::select(cites, indicator_orig, indic_id, indicator_harmonized),
+        dplyr::select(cms, indicator_orig, indic_id, indicator_harmonized),
+        dplyr::select(ramsar, indicator_orig, indic_id, indicator_harmonized),
+        dplyr::select(sdg, indicator_orig, indic_id, indicator_harmonized),
         dplyr::select(unccd, indicator_orig, indic_id, indicator_harmonized))
 write_csv(indic_orig_mea,'../input/meas/meas_indicators_orig.csv')
 
 
-# ## Indicators from tables and appendices in ICCWC----
-# 
-# iccwc = readxl::read_excel(paste0(git_dir, "input/tables_extraction/ICCWC/ICCWC.xlsx"),
-#                            sheet = "indicators")
-# 
-# indic_iccwc = iccwc %>% 
-#   # harmonize indicators
-#   dplyr::mutate(indicators_h = tolower(indicators)) %>%
-#   dplyr::mutate(indicators_h = str_trim(indicators_h)) %>% 
-#   harmonize_indic(indicators_h) %>% 
-#   dplyr::rename(indicator_harmonized = field_harm) %>% 
-#   dplyr::mutate(indicator_harmonized = str_trim(indicator_harmonized)) %>% 
-#   dplyr::select(-indicators_h) %>% 
-#   # save input data
-#   write_csv(paste0(git_dir,'input/tables_extraction/iccwc_indicators.csv')) %>% 
-#   # add source
-#   dplyr::mutate(iccwc = 1) %>% 
-#   dplyr::distinct(indicator_harmonized, .keep_all = TRUE)  %>% 
-#   dplyr::select(indic_id, indicator_harmonized, iccwc)
-# 
-# rm(iccwc)
-
-
-# Join
-indic_policy = indic_gbf %>%
-  # join indicators
-  full_join(indic_sdg, by = 'indicator_harmonized') %>%
-  full_join(indic_cites, by = 'indicator_harmonized') %>%
-  full_join(indic_cms, by = 'indicator_harmonized') %>%
-  full_join(indic_ramsar, by = 'indicator_harmonized') %>%
-  full_join(indic_unccd, by = 'indicator_harmonized') %>% 
-  dplyr::mutate(indic_ids = paste(indic_ids.x,indic_ids.y,indic_ids.x.x,indic_ids.y.y,indic_ids.x.x.x,indic_ids.y.y.y, sep=';',collapse = NULL)) %>% 
-  dplyr::mutate(indic_ids = gsub('NA[;]', '',indic_ids)) %>% 
-  dplyr::mutate(indic_ids = gsub('[;]NA', '',indic_ids)) %>% 
-  dplyr::select("indicator_harmonized","indic_ids","gbf","sdg", "cites","cms","ramsar","unccd") %>% 
-  # save data
-  write_csv('../input/meas/policy_indicators.csv')
-
-#indic_policy = read_csv('../input/meas/policy_indicators.csv')
