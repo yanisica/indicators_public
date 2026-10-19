@@ -15,7 +15,7 @@ your_dir <- dirname(rstudioapi::getSourceEditorContext()$path) # works only in R
 #your_dir <- "path_to_where_code_is" # complete accordingly
 
 ## Source useful functions from folder downloaded from GitHub
-source(paste0(your_dir,"/useful_functions_indic.R"))
+source(paste0(your_dir,"/useful_funcs_indic.R"))
 source(paste0(your_dir,"/settings.R"))
 
 ## Set working directory and install required libraries
@@ -40,10 +40,10 @@ library(reshape2)
 
 # Load indicators----
 
-all_indicators_cl = read_csv('../output/all_indicators_classified_20052025.csv')
+all_indicators_harm_cl = read_csv('../output/all_indicators_harmonized_classified_15102026.csv')
 
 # long format with duplication
-indic = read_csv('../output/all_indicators_classified_20052025_lv.csv')
+indic = read_csv('../output/all_indicators_harmonized_classified_15102026_lv.csv')
 
 # Compute number of distinct sources per indicator ONCE, across the full
 indic_nsources <- indic |>
@@ -139,7 +139,7 @@ hist_meas = ggplot(data_hist_meas,
   # n_unique label inside bottom segment (only when < n_total)
   geom_text(
     data = ~filter(.x, segment == "n_unique", !equal),
-    aes(x = sources, y = 200, label = value),
+    aes(x = sources, y = n_total - value / 2, label = value),
     inherit.aes = FALSE, size = 2.5, color = "black") +
   labs(y = "Number of metrics", x = "", tag = "A") +
   theme_minimal() +
@@ -182,7 +182,7 @@ hist_assess = ggplot(data_hist_assess,
   # n_unique label inside bottom segment (only when < n_total)
   geom_text(
     data = ~filter(.x, segment == "n_unique", !equal),
-    aes(x = sources, y = value / 1.5, label = value),
+    aes(x = sources, y = n_total - value / 2, label = value),
     inherit.aes = FALSE, size = 2.5, color = "black") +
   labs(y = "Number of metrics", x = "", tag = "B") +
   theme_minimal() +
@@ -205,349 +205,118 @@ fig1 = hist_meas + hist_assess
 fig1
 
 # Save figures
-ggsave(file="../output/figures/fig1_17092026.svg", plot=fig1,
+ggsave(file="../output/figures/fig1_oct26.svg", plot=fig1,
        width=7, height=3.5, units = "in", dpi = 300)
-ggsave(file="../output/figures/fig1_17092026.png", plot=fig1,
+ggsave(file="../output/figures/fig1_oct26.png", plot=fig1,
        width=7, height=3.5, units = "in", dpi = 300)
 
-# Figure 2: Summaries of shared and not shared indicators ----
-sources_ordered <- c("IPBES", "GEO", "IPCC", "GBF", "SDG", "CITES", "CMS", "RAMSAR", "UNCCD")
-source_list <- str_split(all_indicators_cl$sources, ";")
+# Figure 2: shared indicators (chord diagram) ----
 
-## Build the full symmetric co-occurrence matrix (all pairwise combos, incl. MEA-MEA)
-co_occurrence_matrix <- matrix(0, nrow = length(sources_ordered), ncol = length(sources_ordered),
-                               dimnames = list(sources_ordered, sources_ordered))
+entity_order <- c("IPBES", "IPCC", "GEO", "UNCCD", "GBF", "SDG", "RAMSAR", "CITES", "CMS")
 
-for (s in source_list) {
-  present <- unique(s[s %in% sources_ordered])
-  if (length(present) == 1) {
-    co_occurrence_matrix[present, present] <- co_occurrence_matrix[present, present] + 1
-  } else if (length(present) > 1) {
-    pairs <- combn(present, 2)
-    for (p in seq_len(ncol(pairs))) {
-      a <- pairs[1, p]; b <- pairs[2, p]
-      co_occurrence_matrix[a, b] <- co_occurrence_matrix[a, b] + 1
-      co_occurrence_matrix[b, a] <- co_occurrence_matrix[b, a] + 1
-    }
-  }
-}
+# Colours: assessments in greens, MEAs in blues (as in the current figure)
+grid_color <- c(IPBES = "#C7E9C0", IPCC = "#74C476", GEO = "#31A354",
+                GBF = "#DEEBF7", SDG = "#C6DBEF", RAMSAR = "#9ECAE1",
+                CITES = "#6BAED6", CMS = "#4292C6", UNCCD = "#2171B5")
 
-# sanity check -- fails loudly instead of silently plotting wrong data
-stopifnot(co_occurrence_matrix["GBF", "SDG"] == 48)
-cat("GBF-SDG shared indicators:", co_occurrence_matrix["GBF", "SDG"], "\n")
+## 1. Edge list: number of metrics shared by each pair of sources
+long <- all_indicators_harm_cl %>%
+  dplyr::select(indicator_harmonized, source) %>%
+  tidyr::separate_rows(source, sep = ";") %>%
+  dplyr::mutate(source = trimws(source)) %>%
+  dplyr::distinct()
 
+stopifnot(all(long$source %in% entity_order))   # no unexpected source names
 
-## Long-format edge list, built directly (upper triangle incl. diagonal)
-edge_list <- do.call(rbind, lapply(seq_along(sources_ordered), function(i) {
-  do.call(rbind, lapply(i:length(sources_ordered), function(j) {
-    a <- sources_ordered[i]; b <- sources_ordered[j]
-    data.frame(Var1 = a, Var2 = b, value = co_occurrence_matrix[a, b])
-  }))
-}))
+edges <- long %>%
+  dplyr::inner_join(long, by = "indicator_harmonized",
+                    relationship = "many-to-many") %>%
+  dplyr::filter(match(source.x, entity_order) < match(source.y, entity_order)) %>%
+  dplyr::count(from = source.x, to = source.y, name = "value") %>%
+  dplyr::arrange(dplyr::desc(value))
 
-## Shared-only version (drops self-loops), rescaled for visibility
-melted_matrix_upper_shared <- edge_list %>%
-  filter(Var1 != Var2) %>%
-  mutate(value = if_else(value <= 5 & value != 0, 7, value))
+## 2. Sanity check against an independent count
 
-stopifnot(nrow(filter(melted_matrix_upper_shared, Var1 == "GBF", Var2 == "SDG")) == 1)
+# metrics whose source string contains both GBF and SDG
+n_gbf_sdg <- sum(grepl("GBF", all_indicators_harm_cl$source) &
+                   grepl("SDG", all_indicators_harm_cl$source))
+stopifnot(edges$value[edges$from == "GBF" & edges$to == "SDG"] == n_gbf_sdg)
+print(edges)   # current data: IPBES-SDG 143, GBF-IPBES 93, GBF-SDG 56, ...
 
-#. Plot
-entity_order <- c("IPBES", "IPCC", "GEO", "GBF", "SDG", "RAMSAR", "CITES", "CMS", "UNCCD")
+## 3. Plot data: only sectors that share something
 
-# grid_color <- c(IPBES="...", IPCC="...", GEO="...", GBF="...", SDG="...",
-#                  RAMSAR="...", CITES="...", CMS="...", UNCCD="...")
+# Set > 0 (e.g. 7) to draw small links thicker; if you do, say so in the caption
+min_link <- 5
 
-png(filename = "../output/figures/fig2_17092026.png",
+plot_edges <- edges %>%
+  dplyr::mutate(value = value + min_link)
+
+present     <- entity_order[entity_order %in% c(plot_edges$from, plot_edges$to)]
+not_shared  <- setdiff(entity_order, present)
+message("Not in the diagram (no shared metrics): ", paste(not_shared, collapse = ", "))
+
+## 4. Plot 
+png(filename = "../output/figures/fig2_19102026.png",
     width = 4, height = 4, units = "in", bg = "white", res = 300)
 
 circos.clear()
-circos.par(start.degree = 165, track.margin = c(0.01, 0.01), gap.after = 5,
-           cell.padding = c(0, 0, 0, 0))
+circos.par(start.degree = 165, gap.after = 5,
+           track.margin = c(0.01, 0.01), cell.padding = c(0, 0, 0, 0))
 
 chordDiagram(
-  melted_matrix_upper_shared,
+  as.data.frame(plot_edges),
+  order             = present,
+  grid.col          = grid_color[present],
+  transparency      = 0.1,
+  annotationTrack   = "grid",
+  preAllocateTracks = list(track.height = 0.1)
+)
+
+circos.trackPlotRegion(
   
-  order = entity_order,
-  transparency = 0.1,
-  annotationTrack = "grid",
-  preAllocateTracks = 1,
-  grid.col = grid_color
-)
-
-circos.trackPlotRegion(
-  track.index = 1, panel.fun = function(x, y) {
+  track.index = 1, bg.border = NA,
+  panel.fun = function(x, y) {
     circos.text(CELL_META$xcenter, CELL_META$ylim[1], CELL_META$sector.index,
-                facing = "inside", niceFacing = TRUE, adj = c(0.5, 0))
-  },
-  bg.border = NA
-)
-
-circos.clear()
-dev.off()
-
-#### Matrix of shared indicators-----
-# Split the 'source' column into separate lists
-source_list <- strsplit(as.character(all_indicators_cl$sources), ";")
-
-# Create a vector of unique sources
-#unique_sources <- sort(unique(unlist(source_list)))
-sources_ordered <- c("IPBES","GEO","IPCC","GBF","SDG","CITES","CMS","RAMSAR","UNCCD")
-
-# Initialize an empty matrix to store counts
-co_occurrence_matrix <- matrix(0, nrow = length(sources_ordered), ncol = length(sources_ordered), 
-                               dimnames = list(sources_ordered, sources_ordered))
-
-# Fill the matrix with counts
-for (sources in source_list) {
-  unique_pair <- unique(sources)  # Ensure uniqueness within a row
-  if (length(unique_pair) == 1) {
-    # Increment the diagonal for single-source occurrences
-    co_occurrence_matrix[unique_pair, unique_pair] <- 
-      co_occurrence_matrix[unique_pair, unique_pair] + 1
-  } else {
-    # Handle co-occurrences between multiple sources
-    for (i in 1:(length(unique_pair) - 1)) {
-      for (j in (i + 1):length(unique_pair)) {
-        source_i <- unique_pair[i]
-        source_j <- unique_pair[j]
-        
-        # Check to ensure indexes are within bounds
-        if (source_i %in% sources_ordered && source_j %in% sources_ordered) {
-          co_occurrence_matrix[source_i, source_j] <- 
-            co_occurrence_matrix[source_i, source_j] + 1
-          co_occurrence_matrix[source_j, source_i] <- 
-            co_occurrence_matrix[source_j, source_i] + 1
-        }
-      }
-    }
+                facing = "inside", niceFacing = TRUE, adj = c(0.5, 0), cex = 0.8)
   }
-}
-
-# Display the resulting matrix
-print(co_occurrence_matrix)
-
-# Save matrix
-#write.csv(co_occurrence_matrix, '../output/all_indicators_matrix_20052025.csv')
-#co_occurrence_matrix = read.csv('../output/all_indicators_matrix_20052025.csv')
-
-
-#### Fi2alt: Heat map figure------
-# Melt the matrix into a long format suitable for ggplot2
-melted_matrix <- melt(co_occurrence_matrix)
-
-# Define the desired order to fill in the upper triangle of the matrix
-desired_order <- data.frame(
-  Var1 = c("IPBES", "IPBES", "GEO", "IPBES", "GEO", "IPCC", "IPBES", "GEO", "IPCC", "GBF",
-           "IPBES", "GEO", "IPCC", "GBF", "SDG", "IPBES", "GEO", "IPCC", "GBF", "SDG",
-           "CITES", "IPBES", "GEO", "IPCC", "GBF", "SDG", "CITES", "CMS", "IPBES", "GEO",
-           "IPCC", "GBF", "SDG", "CITES", "CMS", "RAMSAR", "IPBES", "GEO", "IPCC", "GBF",
-           "SDG", "CITES", "CMS", "RAMSAR", "UNCCD"),
-  Var2 = c("IPBES", "GEO", "GEO", "IPCC", "IPCC", "IPCC", "GBF", "GBF", "GBF", "GBF",
-           "SDG", "SDG", "SDG", "SDG", "SDG", "CITES", "CITES", "CITES", "CITES", "CITES",
-           "CITES", "CMS", "CMS", "CMS", "CMS", "CMS", "CMS", "CMS", "RAMSAR", "RAMSAR",
-           "RAMSAR", "RAMSAR", "RAMSAR", "RAMSAR", "RAMSAR", "RAMSAR", "UNCCD", "UNCCD",
-           "UNCCD", "UNCCD", "UNCCD", "UNCCD", "UNCCD", "UNCCD", "UNCCD")
 )
 
-# Filter the melted matrix to include only rows matching the desired order
-melted_matrix_upper <- merge(melted_matrix, desired_order, by = c("Var1", "Var2"))
-
-# Order the filtered matrix according to the given order
-melted_matrix_upper <- melted_matrix_upper[match(paste(melted_matrix_upper$Var2, melted_matrix_upper$Var1),
-                                         paste(desired_order$Var2, desired_order$Var1)), ]
-
-# Filter 0 values so they are not shown in plot
-melted_matrix_upper_filtered <- melted_matrix_upper %>%
-  filter(value != 0)
-
-# Plot heatmap
-ggplot(melted_matrix_upper_filtered, aes(x = Var1, y = Var2, fill = value), color = "white") +
-  geom_tile(color = "white") +
-  #scale_fill_gradient(low = "white", high = "steelblue", na.value = "grey80", guide = "colorbar") +
-  scale_fill_gradient(low = "#fff0e1", high = "#ff9d9d", na.value = "grey80", guide = "colorbar",
-                      limits = c(1, 400), # not sure why 0 still has a color
-                      oob = scales::squish) +
-  #scale_fill_gradient(low = munsell::mnsl("5P 7/12"), high = munsell::mnsl("5P 2/12"))+
-  #scale_fill_distiller(palette = "RdPu") +
-  scale_x_discrete(position = "top") +  # Move x-axis to the top
-  theme_minimal() +
-  labs(title = "",
-       x = "Source",
-       y = "Source",
-       fill = "Shared metrics") +
-  theme(axis.text.x = element_text(angle = 45, hjust = 0))
-
-#### Fi2alt:Indicators shared and also not shared among sources (circular)----
-
-# Only shared metrics
-melted_matrix_upper_shared = 
-  # Retain only shared indicators
-  filter(melted_matrix_upper, Var1 != Var2) %>% 
-  # improve viz
-  mutate(value = if_else(value <= 5 & value != 0,
-                         true = 7, 
-                         false = value))
-
-# All metrics
-melted_matrix_upper_all = melted_matrix_upper %>% 
-  # Retain only shared indicators
-  #filter(melted_matrix_upper, Var1 != Var2) %>% 
-  # improve viz
-  mutate(value = if_else(value <= 5 & value != 0,
-                         true = 12, 
-                         false = value))
-
-# Define the order of entities where treaties are at the top and assessments at the bottom
-entity_order <- c("IPBES", "IPCC", "GEO","GBF","SDG","RAMSAR","CITES", "CMS","UNCCD")
-
-
-# Set plot saving file and parameters
-png(
-  # all metrics
-  filename = "../output/figures/fig2a_all_05072026.png",
-  # shared metrics
-  #filename = "../output/figures/fig3_shared_200525.png",
-  width = 4, height = 4, units = "in", 
-  bg = "white", res = 300
-  ) 
-
-# chord parameters
-circos.clear()
-circos.par(start.degree = 165, track.margin = c(0.01, 0.01), gap.after = 5,
-           cell.padding = c(0, 0, 0, 0))
-
-# Create the chord diagram
-chordDiagram(
-  # all metrics
-  melted_matrix_upper_all,
-  # shared metrics
-  #melted_matrix_upper_shared,
-  order = entity_order,
-  transparency = 0.1,
-  annotationTrack = c("grid"),
-  preAllocateTracks = 1,
-  grid.col = grid_color
-  )
-
-# Add labels to the sectors
-circos.trackPlotRegion(
-  track.index = 1, panel.fun = function(x, y) {
-    circos.text(CELL_META$xcenter, CELL_META$ylim[1], CELL_META$sector.index,
-                facing = "inside", niceFacing = TRUE, adj = c(0.8, 0))
-  },
-  bg.border = NA
-  )
-
-# Finalize and clear the circos plot
 circos.clear()
 dev.off()
 
-#### Fi2alt:Only Indicators shared between assess and MEAs----
 
-# Split sources into a list
-#indic$sources2 <- strsplit(as.character(indic$sources), ";")
-source_list2 <- strsplit(as.character(all_indicators_cl$sources), ";")
+# Matrix of shared indicators-----
+library(dplyr)
+library(tidyr)
+library(stringr)
 
-# Create a new data frame for links between treaties and assessments
-treaties <- c("GBF", "SDG", "CITES", "CMS", "RAMSAR", "UNCCD")
-assessments <- c("IPBES", "GEO", "IPCC")
+sources_ordered <- c("IPBES", "GEO", "IPCC",
+                     "GBF", "SDG", "CITES", "CMS", "RAMSAR", "UNCCD")
 
-# Initialize a matrix to store counts
-link_matrix <- matrix(0, nrow = length(treaties), ncol = length(assessments),
-                      dimnames = list(treaties, assessments))
+## One row per (indicator, source) pair
+long <- all_indicators_harm_cl |>
+  select(indicator_harmonized, source) |>
+  separate_longer_delim(source, delim = ";") |>
+  mutate(source = str_trim(source)) |>
+  filter(source %in% sources_ordered) |>
+  distinct()                       # guards against duplicate rows per indicator
 
-# Fill the matrix with counts of links
-for (i in 1:nrow(indic)) {
-  sources <- source_list2[[i]]
-  for (source in sources) {
-    if (source %in% treaties) {
-      for (assessment in assessments) {
-        if (grepl(assessment, source_list2[i], fixed = TRUE)) {
-          link_matrix[source, assessment] <- link_matrix[source, assessment] + 1
-        }
-      }
-    }
-  }
-}
-
-# Create a complete data frame including zero links
-links <- as.data.frame(as.table(link_matrix))
-colnames(links) <- c("treaties", "assessments", "Freq")
-
-# Define the order of entities where treaties are at the top and assessments at the bottom
-entity_order <- c("IPBES", "IPCC", "GEO","GBF","SDG","RAMSAR","CITES", "CMS","UNCCD")
-
-# Set plot saving file and parameters
-png(filename = "../output/figures/fig2b_shared_05072026.png",
-    width = 4, height = 4, units = "in", 
-    bg = "white", res = 300) 
-
-# chord parameters
-circos.clear()
-circos.par(start.degree = 165, track.margin = c(0.01, 0.01), gap.after = 5,
-           cell.padding = c(0, 0, 0, 0))
-
-# Create the chord diagram
-chordDiagram(
-  links,
-  order = entity_order,
-  transparency = 0.1,
-  annotationTrack = c("grid"),
-  preAllocateTracks = 1,
-  grid.col = grid_color
+## Presence/absence matrix: rows = indicators, columns = sources (0/1)
+presence <- table(
+  factor(long$indicator_harmonized),
+  factor(long$source, levels = sources_ordered)
 )
+presence <- unclass(presence)      # plain matrix
 
-# Add labels to the sectors
-circos.trackPlotRegion(
-  track.index = 1, panel.fun = function(x, y) {
-    circos.text(CELL_META$xcenter, CELL_META$ylim[1], CELL_META$sector.index,
-                facing = "inside", niceFacing = TRUE, adj = c(0.5, 0))
-  },
-  bg.border = NA
-)
+## Co-occurrence: off-diagonal = number of indicators shared by two sources
+co_occurrence_matrix <- crossprod(presence)
 
-# Finalize and clear the circos plot
-circos.clear()
-dev.off()
+## Optional: zero the diagonal so it holds only shared counts
+## (otherwise the diagonal is each source's total number of metrics)
+co_shared <- co_occurrence_matrix
+diag(co_shared) <- 0
 
-#### Fi2alt:Indicators shared and also not shared among sources (sankey)-----
-
-melted_matrix_upper_viz = melted_matrix_upper %>% 
-  # remove 0
-  filter(value != 0) %>% 
-  # improve viz
-  mutate(value = value + 7) %>% 
-  mutate(Var1 = factor(Var1, 
-                         levels=c("IPBES","IPCC","GEO",'GBF','SDG','RAMSAR','CITES','CMS','UNCCD')))
-  # add more space for CMS and UNCCD
-  # mutate(n = if_else(source %in% c('CITES','RAMSAR','CMS','UNCCD'),
-  #                    true = n + 5,false = n))
-
-fig2c = ggplot(melted_matrix_upper_viz,
-       aes(y = value,
-           axis1 = Var1, axis2 = Var2)) +
-  geom_alluvium(aes(fill = Var1),
-                width = 1/6, knot.pos = 0.2, reverse = FALSE) +
-  scale_fill_manual(values =c(
-    IPBES = "#E5F5E0", IPCC = "#A1D99B", GEO = "#31A354",
-    GBF = "#EFF3FF", SDG = "#C6DBEF", 
-    RAMSAR = "#9ECAE1",CITES = "#6BAED6",
-    CMS = "#3182BD",UNCCD = "#08519C"
-  )) +
-  guides(fill = "none") +
-  geom_stratum(alpha = 0, width = 1/6, reverse = FALSE) +
-  geom_text(stat = "stratum", aes(label = after_stat(stratum)),reverse = FALSE, size = 3) +
-  #scale_x_continuous(breaks = 1:2, labels = c("Sources", "Indicator category")) +
-  theme_void()
-
-fig2c
-ggsave(file="../output/figures/fig2c_05072026.svg", plot=fig2c, 
-       width=7, height=8, units = "in", dpi = 300)
-ggsave(file="../output/figures/fig2c_05072026.png", plot=fig2c, 
-       width=7, height=8, units = "in", dpi = 300)
-
-
+co_occurrence_matrix
 
 # Figure 3: Summaries of indicators by categories----
 
@@ -556,8 +325,6 @@ indic_categories = indic %>%
   group_by(Categories,source)  %>% 
   count() %>% arrange(desc(n)) %>% 
   # improve viz
-  mutate(Categories = gsub('ecosystems', 'Ecosystems', Categories)) %>% 
-  mutate(Categories = gsub('biodiversity', 'Biodiversity', Categories)) %>% 
   mutate(Categories = gsub('Human well-being', 'Human\n well-being', Categories)) %>% 
   mutate(Categories = gsub('Knowledge systems', 'Knowledge\n systems', Categories)) %>% 
   mutate(Categories = gsub('Ecosystem services', 'Ecosystem\n services', Categories)) %>% 
@@ -570,7 +337,7 @@ indic_categories = indic %>%
                                   'Direct\n drivers','Human\n assets','Knowledge\n systems','Governance'))) %>% 
   # improve viz for figure
   mutate(n = if_else(source %in% c('CITES','RAMSAR','CMS','UNCCD'),
-                     true = n + 5,false = n))
+                     true = n + 8,false = n))
 
 # Plot
 fig3 = ggplot(indic_categories,
@@ -590,9 +357,10 @@ fig3 = ggplot(indic_categories,
   theme_void()
 
 fig3
-ggsave(file="../output/figures/fig3_all_200525.svg", plot=fig4, 
+
+ggsave(file="../output/figures/fig3_19102026.svg", plot=fig3, 
        width=7, height=8, units = "in", dpi = 300)
-ggsave(file="../output/figures/fig3_all_200525.png", plot=fig4, 
+ggsave(file="../output/figures/fig3_191020265.png", plot=fig3, 
        width=7, height=8, units = "in", dpi = 300)
 
 

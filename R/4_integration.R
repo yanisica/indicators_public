@@ -86,11 +86,11 @@ all_indicators_harm <- collapse_indic(harm) %>%
   rename(indicator_harmonized = field_harm)
 
 # checks
-all_indicators_harm %>% count() #1691
+all_indicators_harm %>% count() #1688
 all_indicators_harm %>% group_by(policy) %>% count()
 # policy     n
-#      0  1061
-#      1   630
+#      0  1057
+#      1   631
 all_indicators_harm %>% group_by(source) %>% count()
 
 
@@ -101,9 +101,33 @@ all_indicators_harm %>% group_by(source) %>% count()
 # manual_classification_15102026.csv
 
 #Intermediate version were created merging with previously classified indicators
-classified = read_csv("../output/manual_classification_15102026.csv")
+classified = read_csv("../output/manual_classification_15102026.csv") #%>% 
+  # # re-encode only the strings that aren't valid UTF-8
+  # dplyr::mutate(dplyr::across(dplyr::everything(),
+  #                             ~ ifelse(validUTF8(.x), .x, iconv(.x, from = "latin1", to = "UTF-8")))) %>%
+  # mutate(indicator_harmonized = indicator_harmonized %>%
+  #          # 1
+  #          gsub("^hallow coral reefs$", "shallow coral reefs", .) %>%
+  #          # 2
+  #          gsub("agricultural outpic prices", "agricultural output prices", ., fixed = TRUE) %>%
+  #          # 3
+  #          gsub("^water- saving devices$", "water-saving devices", .) %>%
+  #          # 4: whatever the micro sign became (?, µ, μ, mojibake) -> Greek mu + m3
+  #          gsub("highest interim target of 35 .*g/m3?$", "highest interim target of 35 μg/m3", .) %>%
+  #          # 5: close the bracket (only if the name ends without one)
+  #          gsub("reported in national reports$", "reported in national reports)", .) %>%
+  #          # 6
+  #          gsub("^no emissions$", "nitric oxide (no) emissions", .) %>%
+  #          # 7
+  #          gsub("^c pool$", "carbon (c) pool", .) %>%
+  #          # 8
+  #          gsub("^sh monsoons$", "southern hemisphere (sh) monsoons", .) %>%
+  #          # 9, 10: acute accent, curly apostrophe or mojibake -> straight apostrophe,
+  #          # as clean_indic_names() does
+  #          gsub("nature(´|’|Â´|\\?)s", "nature's", .))
+
 # checks
-classified %>% count() #1691
+classified %>% count() #1688
 classified %>% filter(is.na(Categories)) %>% count() 
 classified %>% filter(is.na(Subcategories)) %>% count() 
 
@@ -112,17 +136,17 @@ all_indicators_harm_cl = left_join(all_indicators_harm, classified, by = 'indica
 
 # checks
 ## missing indic
-anti_join(classified, all_indicators_harm_cl, by = 'indicator_harmonized')#423 from old extraction were classified (no need to add them)
-anti_join(all_indicators_harm_cl,classified, by = 'indicator_harmonized')#0 indicator from last extraction were not classified
+anti_join(classified, all_indicators_harm_cl, by = 'indicator_harmonized')
+anti_join(all_indicators_harm_cl,classified, by = 'indicator_harmonized')
 ## duplicates
 check_dup(all_indicators_harm_cl,indicator_harmonized)
 ## missing categories
-all_indicators_harm_cl %>% count() #1691
+all_indicators_harm_cl %>% count() #1688
 all_indicators_harm_cl %>% group_by(policy) %>% count()
 # policy     n
-#      0  1061
-#      1   630
-all_indicators_harm_cl %>% group_by(source) %>% count() %>% View()
+#      0  1057
+#      1   631
+all_indicators_harm_cl %>% group_by(source) %>% count()
 
 # Save
 write_csv(all_indicators_harm_cl,'../output/all_indicators_harmonized_classified_15102026.csv')
@@ -163,67 +187,116 @@ write_csv(indic,'../output/all_indicators_harmonized_classified_15102026_lv.csv'
 
 # 4-Summaries----
 
-all_indicators_harm_cl %>% count() #1691 unique indicators
-all_indicators_harm_cl %>%  distinct(indicator_harmonized) %>% count() # all unique
-all_indicators_harm_cl %>% filter(!is.na(Categories)) %>% distinct(indicator_harmonized) %>% count() # all classified
+#all_indicators_harm_cl %>% count() #1688 unique indicators
+#all_indicators_harm_cl %>%  distinct(indicator_harmonized) %>% count() # all unique
+#all_indicators_harm_cl %>% filter(!is.na(Categories)) %>% distinct(indicator_harmonized) %>% count() # all classified
 
-
-all = indic %>% count() #2098 indicators --> 1963
-unique = indic %>%  distinct(indicator_harmonized) %>% count() # 1829 unique --> 1646
+all = indic %>% count() 
+unique = indic %>%  distinct(indicator_harmonized) %>% count() 
 cat('all indicators: ',all$n, '\nunique indicators: ',unique$n)
-# all indicators:  1996 
-# unique indicators:  1691
+# all indicators:  1995 
+# unique indicators:  1688
 
-# 5.a-Summaries of indicators by source----
+# 4.a-Summaries of indicators re-use----
 
-# MEAs vs asses
-all_mea = indic %>% filter(mea==TRUE) %>% count() %>% arrange(desc(n))
-all_assess = indic %>% filter(assess==TRUE) %>% count() %>% arrange(desc(n))
+indic_reuse <- indic %>%
+  dplyr::add_count(indicator_harmonized, name = "n_sources")   # sources per metric
 
-unique_mea = indic %>% filter(mea == TRUE) %>% distinct(indicator_harmonized, .keep_all = TRUE) %>% 
-  count() 
-unique_assess = indic %>% filter(assess == TRUE) %>% distinct(indicator_harmonized, .keep_all = TRUE) %>% 
-  count() 
+# Overall re-use (one row per metric)
+reuse_overall <- indic_reuse %>%
+  dplyr::distinct(indicator_harmonized, n_sources) %>%
+  dplyr::summarise(n_total  = dplyr::n(),
+                   n_reused = sum(n_sources > 1),
+                   pct      = round(100 * n_reused / n_total, 1))
+# n_total n_reused   pct
+#    1688      234  13.9
 
-cat('\nAssess indicators: ',all_assess$n, '\nMea indicators: ',all_mea$n)
-cat('\nUnique assess indicators: ',unique_assess$n, '\nUnique mea indicators: ',unique_mea$n)
-# Assess indicators:  1307 
-# Mea indicators:  689
-# Unique assess indicators:  1258 
-# Unique mea indicators:  630
+all_indicators_harm_cl %>% filter(n_sources == 4) %>% distinct(indicator_harmonized, source) %>% count()# 11
+all_indicators_harm_cl %>% filter(n_sources == 4) %>% distinct(indicator_harmonized, source) %>% View()
 
-# sources (extracted with duplicates)
-total_by_source = indic %>% group_by(source) %>% count() %>% arrange(desc(n))
-# source     n
-# 1 IPBES    797
-# 2 IPCC     376
-# 3 GBF      311
-# 4 SDG      240
-# 5 GEO      219
-# 6 RAMSAR    65
-# 7 CITES     52
-# 8 CMS       25
-# 9 UNCCD     13
+all_indicators_harm_cl %>% filter(n_sources == 3) %>% distinct(indicator_harmonized, source) %>% count() #51
+all_indicators_harm_cl %>% filter(n_sources == 3) %>% distinct(indicator_harmonized, source) %>% group_by(source) %>% count() #51
+#all_indicators_harm_cl %>% filter(n_sources == 3) %>% distinct(indicator_harmonized, source) %>% View()
+
+all_indicators_harm_cl %>% filter(n_sources == 2) %>% distinct(indicator_harmonized, source) %>% count() #172
+all_indicators_harm_cl %>% filter(n_sources == 2) %>% distinct(indicator_harmonized, source) %>% group_by(source) %>% count() #51
+#all_indicators_harm_cl %>% filter(n_sources == 2) %>% distinct(indicator_harmonized, source) %>% View()
+
+# MEAs vs assessments (one row per metric) 
+reuse_realm <- indic_reuse %>%
+  dplyr::group_by(indicator_harmonized) %>%
+  dplyr::summarise(in_mea = any(mea == 1), in_ass = any(assess == 1),
+                   n_sources = dplyr::first(n_sources), .groups = "drop") %>%
+  dplyr::summarise(n_mea             = sum(in_mea),
+                   n_assessment      = sum(in_ass),
+                   shared_mea_ass    = sum(in_mea & in_ass),
+                   shared_among_meas = sum(in_mea & !in_ass & n_sources > 1),
+                   shared_among_ass  = sum(in_ass & !in_mea & n_sources > 1))
+# n_mea n_assessment shared_mea_ass shared_among_meas shared_among_ass
+#   631         1256            199                 8               27
+
+# Per source: total, unique, shared, % shared
+reuse_source <- indic_reuse %>%
+  dplyr::group_by(source) %>%
+  dplyr::summarise(n_total    = dplyr::n(),
+                   n_unique   = sum(n_sources == 1),
+                   n_shared   = sum(n_sources > 1),
+                   pct_shared = round(100 * n_shared / n_total, 1),
+                   .groups = "drop") %>%
+  dplyr::arrange(dplyr::desc(n_total))
+# source n_total n_unique n_shared pct_shared
+# 1 IPBES      749      537      212       28.3
+# 2 IPCC       349      334       15        4.3
+# 3 GBF        297      191      106       35.7
+# 4 SDG        240       87      153       63.8
+# 5 GEO        207      159       48       23.2
+# 6 RAMSAR      64       64        0        0  
+# 7 CITES       52       47        5        9.6
+# 8 CMS         24       24        0        0  
+# 9 UNCCD       13       11        2       15.4
+
+# Pairwise shared metrics
+reuse_pairs <- indic_reuse %>%
+  dplyr::filter(n_sources > 1) %>%
+  dplyr::select(indicator_harmonized, source) %>%
+  dplyr::inner_join(., ., by = "indicator_harmonized", relationship = "many-to-many") %>%
+  dplyr::filter(source.x < source.y) %>%
+  dplyr::count(source.x, source.y, name = "n_shared") %>%
+  dplyr::arrange(dplyr::desc(n_shared))
+#    source.x source.y      n_shared
+#  1 IPBES    SDG           143
+#  2 GBF      IPBES          93
+#  3 GBF      SDG            56
+#  4 GEO      IPBES          34
+#  5 GBF      GEO            21
+#  6 GEO      SDG            17
+#  7 GEO      IPCC            8
+#  8 IPBES    IPCC            8
+#  9 CITES    IPBES           4
+# 10 GBF      UNCCD           2
+# 11 IPBES    UNCCD           2
+# 12 SDG      UNCCD           2
+# 13 CITES    GBF             1
 
 
-# 5.b-Summaries of indicators by category-----
+# 4.b-Summaries of indicators by category-----
 
-all_indicators_cl %>% distinct(Categories) %>% count() #8
+all_indicators_harm_cl %>% distinct(Categories) %>% count() #8
 
-(all_indicators_cl %>% filter(!is.na(Categories_2)) %>% count())/ #409
-  (all_indicators_cl %>% filter(!is.na(Categories)) %>% count())  #1829
-  
-all_indicators_cl %>% 
+all_indicators_harm_cl %>% 
   group_by(Categories) %>% count() %>% mutate(prop = n/unique$n) %>% arrange(desc(n))
-# Categories             n   prop
-# 1 ecosystems           527 0.286 
-# 2 Governance           259 0.141 
-# 3 Direct drivers       223 0.121 
-# 4 Knowledge systems    209 0.113 
-# 5 biodiversity         192 0.104 
-# 6 Human assets         170 0.0923
-# 7 Human well-being     140 0.0760
-# 8 Ecosystem services   122 0.0662
+# 1 Ecosystems           492 0.291 
+# 2 Governance           236 0.140 
+# 3 Knowledge systems    197 0.117 
+# 4 Direct drivers       188 0.111 
+# 5 Biodiversity         169 0.100 
+# 6 Human assets         158 0.0936
+# 7 Human well-being     134 0.0794
+# 8 Ecosystem services   114 0.0675
+
+(all_indicators_harm_cl %>% filter(!is.na(Categories_2)) %>% count())/ #457
+  (all_indicators_harm_cl %>% filter(!is.na(Categories)) %>% count())  #1688
+# 1 0.2707346
 
 indic %>% 
   group_by(source,Categories) %>%
@@ -243,28 +316,26 @@ indic %>%
   group_by(source,Categories) %>% count() %>% View()
 
 # Subcategories
-all_indicators_cl %>% distinct(Subcategories) %>%  count() # 45
+all_indicators_harm_cl %>% distinct(Subcategories) %>%  count() # 45
 
-all_indicators_cl %>%   
+all_indicators_harm_cl %>%   
   # summary cat + source
   group_by(Subcategories)  %>% 
   count() %>% arrange(desc(n)) %>% 
   mutate(prop = (n / unique$n)*100) %>% View()
 
   
-#### Tables for Supplementary material A----
-indic_categories = all_indicators_cl %>% 
+# 5-Tables for Supplementary material A----
+indic_categories = all_indicators_harm_cl %>% 
   dplyr::group_by(Categories) %>% 
   dplyr::count() %>% arrange(desc(n)) %>% 
-  dplyr::mutate(Categories = gsub('ecosystems', 'Ecosystems', Categories)) %>% 
-  dplyr::mutate(Categories = gsub('biodiversity', 'Biodiversity', Categories)) %>% 
   dplyr::mutate(`Proportion of metrics` = (n/unique$n)*100) %>% 
   dplyr::mutate(Elements = factor(Categories, 
                                   levels=c('Biodiversity','Ecosystems','Ecosystem services','Human well-being',
                                            'Direct drivers','Human assets','Knowledge systems','Governance'))) %>% 
   dplyr::arrange(Elements) %>%
-  dplyr::select(Elements,`Number of metrics`=n,`Proportion of metrics`) %>% 
-  write_csv('../output/sup_material/indic_categories_190525.csv')
+  dplyr::select(Elements,`Number of metrics`=n,`Proportion of metrics`, -Categories) %>% 
+  write_csv('../output/sup_material/indic_categories_19102026.csv')
 
 indic_categories_bysource = indic %>%   
   # summary cat + source
@@ -283,7 +354,7 @@ indic_categories_bysource = indic %>%
   arrange(Source) %>% 
   # set wide format
   tidyr::pivot_wider(names_from = Source, values_from = `Counts of metrics`) %>% 
-  write_csv('../output/sup_material/indic_categories_bysource_190525.csv')
+  write_csv('../output/sup_material/indic_categories_bysource_19102026.csv')
 
 indic_subcategories_bysource = indic %>%   
   # summary cat + source
@@ -302,6 +373,43 @@ indic_subcategories_bysource = indic %>%
   arrange(Source) %>% 
   # set wide format
   tidyr::pivot_wider(names_from = Source, values_from = `Counts of metrics`) %>% 
-  write_csv('../output/sup_material/indic_subcategories_bysource_190525.csv')
+  write_csv('../output/sup_material/indic_subcategories_bysource_19102026.csv')
 
+indic_categories_2 = all_indicators_harm_cl %>% 
+  dplyr::filter(!is.na(Categories_2)) %>% 
+  dplyr::group_by(Categories_2) %>% 
+  dplyr::count() %>% 
+  dplyr::ungroup() %>% 
+  dplyr::mutate(`Proportion of secondary-tagged metrics (%)` = round(n / sum(n) * 100, 2)) %>% 
+  dplyr::mutate(Elements = factor(Categories_2, 
+                                  levels = c('Biodiversity','Ecosystems','Ecosystem services','Human well-being',
+                                             'Direct drivers','Human assets','Knowledge systems','Governance'))) %>% 
+  dplyr::arrange(Elements) %>%
+  dplyr::select(Elements, `Number of metrics` = n, `Proportion of secondary-tagged metrics (%)`) %>% 
+  write_csv('../output/sup_material/indic_categories_2_19102026.csv')
 
+# 6-Table for Shinny App------
+# Frameworks by type (edit here if the set of sources changes)
+assess_regex <- "\\b(IPBES|IPCC|GEO)\\b"
+mea_regex    <- "\\b(GBF|SDG|RAMSAR|CITES|CMS|UNCCD)\\b"
+
+app_table <- all_indicators_harm_cl %>%
+  mutate(
+    `MEA/assess` = case_when(
+      str_detect(source, assess_regex) & str_detect(source, mea_regex) ~ "both",
+      str_detect(source, mea_regex)                                    ~ "mea",
+      str_detect(source, assess_regex)                                 ~ "assessment"
+    )
+  ) %>%
+  select(
+    `Indicators harmonized`    = indicator_harmonized,
+    Sources                    = source,
+    Elements                   = Categories,
+    Subelements                = Subcategories,
+    `Number of sources`        = n_sources,
+    `MEA/assess`,
+    `Indicators original name` = indicator_orig,
+    Elements_2                 = Categories_2,
+    Subelements_2              = Subcategories_2
+  )
+write_csv(app_table, "../output/indicators_prepped_app.csv")

@@ -43,16 +43,17 @@
 #' Typographic clean-up of indicator names (no change of meaning)
 clean_indic_names <- function(x) {
   x <- tolower(as.character(x))
-  x <- gsub("[ \t\r\n]", " ", x)                 # odd spaces
-  x <- gsub("[‐‑‒–—]", "-", x) # dashes
-  x <- gsub("[‘’]", "'", x)                 # curly apostrophes
-  x <- gsub("†", "", x, fixed = TRUE)            # dagger
+  x <- gsub("[ \t\r\n]", " ", x)             # odd spaces
+  x <- gsub("[‐‑‒–—]", "-", x)               # dashes
+  x <- gsub("[‘’]", "'", x)                  # curly apostrophes
+  x <- gsub("†", "", x, fixed = TRUE)        # dagger
   x <- gsub("&", " and ", x, fixed = TRUE)
   x <- gsub("\\(\\s+", "(", x)
   x <- gsub("\\s+\\)", ")", x)
   x <- gsub("\\s+", " ", x)
   x <- trimws(x)
-  x <- gsub("[[:space:].,;:]+$", "", x)               # trailing punctuation
+  x <- gsub("[[:space:].,;:]+$", "", x)      # trailing punctuation
+  x <- gsub("[‘’´]", "'", x)                 # curly apostrophes and acute accent
   x
 }
 
@@ -221,8 +222,6 @@ harm_lookup <- c(
   "mangrove forest area" =
     "continuous global mangrove forest area",
   "mangrove forest cover" =
-    "continuous global mangrove forest area",
-  "trends in mangrove extent" =
     "continuous global mangrove forest area",
   # -> cooling degree day index
   "cooling degree days" =
@@ -404,6 +403,7 @@ harm_lookup <- c(
     "global mean ocean surface ph",
   "ph of ocean surface water" =
     "global mean ocean surface ph",
+  "ocenan ph" = "global mean ocean surface ph",
   # -> global mean surface temperature (gmst)
   "annual global mean surface temperature" =
     "global mean surface temperature (gmst)",
@@ -1113,9 +1113,9 @@ harm_lookup <- c(
     "proportion of population using safely managed drinking water services",
   "proportion of population using an improved drinking water source" =
     "proportion of population using safely managed drinking water services",
-  # -> proportion of population using safely managed sanitation services
+  # -> proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water
   "proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water" =
-    "proportion of population using safely managed sanitation services",
+    "proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water",
   # -> proportion of population who believe decision-making is inclusive and responsive, by sex, 
   "percentage of population who believe decision making is inclusive and responsive, by sex, age, disability and population group" =
     "proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",
@@ -1512,11 +1512,11 @@ harm_lookup <- c(
   # -> wild bird index (migratory birds)
   "wild bird index for migratory birds" =
     "wild bird index (migratory birds)",
-  # -> willingness to allocate time for nature\u00b4s contributions to people conservation
+  # -> willingness to allocate time for nature's contributions to people conservation
   "willingness-to-give-up-time" =
-    "willingness to allocate time for nature\u00b4s contributions to people conservation",
+    "willingness to allocate time for nature's contributions to people conservation",
   # -> willingness to pay to protect nature or improve ecosystem services
-  "willingness to pay for nature\u00b4s contributions to people conservation" =
+  "willingness to pay for nature's contributions to people conservation" =
     "willingness to pay to protect nature or improve ecosystem services",
   "willingness-to-pay" =
     "willingness to pay to protect nature or improve ecosystem services",
@@ -1525,7 +1525,27 @@ harm_lookup <- c(
     "world trade organisation greenbox agricultural subsidies",
   # -> zoonotic disease
   "zoonotic disease in wildlife" =
-    "zoonotic disease"
+    "zoonotic disease",
+  # -> number of parties that are in category 1 under the national legislation project
+  "proportion of countries that are category 1 signatories to the convention on international trade in endangered species of wild fauna and flora (cites)" =
+    "number of parties that are in category 1 under the national legislation project",
+  # -> number of surveys, studies or other analyses undertaken by exporting countries ... non-detriment findings
+  "number of surveys of cites listed species undertaken by exporting states to support non-detrimental findings" =
+    "number of surveys, studies or other analyses undertaken by exporting countries based on the sources of information cited in resolution conf. 16.7 (rev. cop17) on non-detriment findings related to - the population status of appendix-ii species; - the trends and impact of trade upon appendix-ii species; and - the status of and trend in naturally-occurring appendix i species and the impact of any recovery plans",
+  # -> typos
+  "hallow coral reefs" = "shallow coral reefs",
+  "impacts of agricultural outpic prices on deforestation rates both inside and outside of protected areas" =
+    "impacts of agricultural output prices on deforestation rates both inside and outside of protected areas",
+  "water- saving devices" = "water-saving devices",
+  "percentage of the population exposed to annual mean pm concentrations above the highest interim target of 35 μg/m" =
+    "percentage of the population exposed to annual mean pm concentrations above the highest interim target of 35 μg/m3",
+  "processes and tools to monitor the implementation of a right to a healthy environment (e.g. included in nbsaps and reported in national reports" =
+    "processes and tools to monitor the implementation of a right to a healthy environment (e.g. included in nbsaps and reported in national reports)",
+  # acronym-only names -> full name + acronym (your naming convention)
+  "no emissions" = "nitric oxide (no) emissions",          # currently reads as "no emissions"
+  "c pool" = "carbon (c) pool",
+  "sh monsoons" = "southern hemisphere (sh) monsoons"
+  
 )
 
 
