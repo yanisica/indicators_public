@@ -1280,11 +1280,9 @@ harm_lookup <- c(
   # -> seasonal variations in atmospheric co2 concentrations
   "seasonal variations in atmospheric co2 concentration" =
     "seasonal variations in atmospheric co2 concentrations",
-  # -> simple precipitation intensity index (sdii)
-  "simple daily intensity index (sdii)" =
-    "simple precipitation intensity index (sdii)",
+  # -> simple daily intensity index (sdii)
   "simple precipitation intensity index" =
-    "simple precipitation intensity index (sdii)",
+    "simple daily intensity index (sdii)",
   # -> simulated global mean surface air temperature (gsat) anomalies
   "simulated global mean surface air temperature (gsat)" =
     "simulated global mean surface air temperature (gsat) anomalies",
@@ -1544,7 +1542,24 @@ harm_lookup <- c(
   # acronym-only names -> full name + acronym (your naming convention)
   "no emissions" = "nitric oxide (no) emissions",          # currently reads as "no emissions"
   "c pool" = "carbon (c) pool",
-  "sh monsoons" = "southern hemisphere (sh) monsoons"
+  "sh monsoons" = "southern hemisphere (sh) monsoons",
+  # -> 1-in-100-year extreme total water level (etwl)
+  "1-in-100-year return period level (etwl)" =
+    "1-in-100-year extreme total water level (etwl)",
+  # -> penman-monteith atmospheric evaporative demand (aed)
+  "penman-monteith aed (atmospheric evaporative demand)" =
+    "penman-monteith atmospheric evaporative demand (aed)",
+  "number of studies on ias available per region" =
+    "number of studies on invasive alien species (ias) available per region",
+  # -> global atmospheric carbon monoxide (co) levels
+  "global atmospheric co levels" =
+    "global atmospheric carbon monoxide (co) levels",
+  # -> pm10 emissions
+  "pm 10 emissions" =
+    "pm10 emissions",
+  # -> species threat abatement and restoration (star) metric
+  "species threat abatement and restoration metric" =
+    "species threat abatement and restoration (star) metric"
   
 )
 

@@ -1,5 +1,5 @@
 indicator_harmonized,indic_ids,source,Categories,Categories_2,Subcategories,Subcategories_2,mea,assess
-1-in-100-year return period level (etwl),IPCC_sup_52,IPCC,Ecosystems,Direct drivers,Abiotic conditions,Climate change,0,1
+1-in-100-year extreme total water level (etwl),IPCC_sup_52,IPCC,Ecosystems,Direct drivers,Abiotic conditions,Climate change,0,1
 10-day cumulative precipitation,IPCC_12_17_597_336,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
 15n/14n isotope ratio,IPCC_5_36_279_198,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
 2 m air temperatures,IPCC_12_15_596_334,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
@@ -55,8 +55,8 @@ air quality,GEO_20_6_228_197,GEO,Ecosystems,NA,Abiotic conditions,NA,0,1
 air quality,IPBES_GA_3_123_420_495,IPBES,Ecosystems,NA,Abiotic conditions,NA,0,1
 air quality index,GBF_GB_CY_61,GBF,Ecosystems,Human well-being,Abiotic conditions,Healthy living conditions,1,0
 air quality index,GEO_12_12_111_99,GEO,Ecosystems,Human well-being,Abiotic conditions,Healthy living conditions,0,1
-alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,SDG_G3.5.2_40,SDG,Human assets,NA,Coverage of basic needs,NA,1,0
-alcohol use,GEO_21_17_251_224,GEO,Human well-being,Human well-being,Healthy living conditions,Recreation,0,1
+alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,SDG_G3.5.2_40,SDG,Human well-being,NA,Recreation,NA,1,0
+alcohol use,GEO_21_17_251_224,GEO,Human well-being,NA,Recreation,NA,0,1
 alien species,IPBES_GA_2_118_47_123,IPBES,Direct drivers,NA,Invasive alien species,NA,0,1
 alien species occurrence,IPBES_IAS_6_114_165_76,IPBES,Direct drivers,NA,Invasive alien species,NA,0,1
 alien species richness,IPBES_GA_2_83_42_114;IPBES_IAS_3_8_84_23,IPBES,Direct drivers,Biodiversity,Invasive alien species,State of biodiversity,0,1
@@ -386,7 +386,7 @@ el niño-southern oscillation (enso) bjerknes index,IPCC_4_37_241_185,IPCC,Ecosy
 el niño-southern oscillation (enso) index,IPCC_2_76_122_120;IPCC_4_27_234_181;IPCC_5_36_278_197,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
 electric power consumption (kwh per capita),IPBES_GA2.1_sup_14,IPBES,Human assets,NA,Infrastructure (build-up area),NA,0,1
 emission of particular compounds,IPCC_7_90_359_226,IPCC,Direct drivers,NA,Climate change,NA,0,1
-emissions of ozone-depleting substances,GEO_12_15_115_102;GEO_12_17_120_109,GEO,Direct drivers,NA,Pollution,NA,0,1
+emissions of ozone-depleting substances,GEO_12_15_115_102;GEO_12_17_120_109,GEO,Direct drivers,NA,Climate change,NA,0,1
 employment in materials production,IPBES_GA_2.3_42_143_331,IPBES,Human assets,Ecosystem services,Income,Nature contribution,0,1
 encounter rates with supernatural forest dwelling entities,IPBES_GA_2.3_41_142_283,IPBES,Knowledge systems,NA,ILK,NA,0,1
 endemism richness,IPBES_GA_2.2_21_61_148,IPBES,Biodiversity,NA,State of biodiversity,NA,0,1
@@ -516,7 +516,7 @@ fraction of absorbed photosynthetically active radiation (fapar),IPCC_1_66_27_30
 fraction of ocean not fished per year,IPBES_GA_2.2_37_70_151;IPBES_GA2.2_sup_10,IPBES,Ecosystems,Direct drivers,State of ecosystems,Land conversion,0,1
 fraction of precipitation falling as snow,IPCC_12_19_604_361,IPCC,Ecosystems,Ecosystems,Abiotic conditions,State of ecosystems,0,1
 free flowing rivers,GBF_GA_CY_54;GBF_T2_CY_121,GBF,Ecosystems,NA,State of ecosystems (freshwater/coastal),NA,1,0
-free tropospheric ozone,IPCC_2_21_42_44,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
+free tropospheric ozone,IPCC_2_21_42_44,IPCC,Direct drivers,NA,Climate change,NA,0,1
 freshwater change over time,GEO_16_19_194_160,GEO,Ecosystem services,NA,Nature contribution,NA,0,1
 fuel aridity,IPCC_12_18_602_357,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
 full exceedance probability distribution of coastal erosion volume,IPCC_12_20_606_369,IPCC,Ecosystems,NA,Change in ecosystems,NA,0,1
@@ -544,15 +544,15 @@ glacier mass and extent,IPCC_2_26_47_61,IPCC,Ecosystems,NA,Change in ecosystems,
 glacier mass balance,GEO_2_26_7_2,GEO,Ecosystems,NA,Change in ecosystems,NA,0,1
 glacier mass balance,IPBES_GA_3_51_381_460;IPBES_GA3_sup_37,IPBES,Ecosystems,NA,Change in ecosystems,NA,0,1
 glacier mass balance,IPCC_1_13_4_4;IPCC_2_60_95_97;IPCC_9_65_447_264,IPCC,Ecosystems,NA,Change in ecosystems,NA,0,1
-global annual mean tropospheric ozone burden,IPCC_6_22_300_204,IPCC,Direct drivers,Ecosystems,Climate change,Abiotic conditions,0,1
-global atmospheric co levels,GEO_7_7_63_84,GEO,Ecosystems,NA,Abiotic conditions,NA,0,1
+global annual mean tropospheric ozone burden,IPCC_6_22_300_204,IPCC,Direct drivers,NA,Climate change,NA,0,1
+global atmospheric carbon monoxide (co) levels,GEO_7_7_63_84,GEO,Ecosystems,NA,Abiotic conditions,NA,0,1
 global bird richness (csar),IPBES_GA2.2_sup_56,IPBES,Biodiversity,NA,State of biodiversity,NA,0,1
 global capacity,GEO_13_14_129_116,GEO,Ecosystem services,Knowledge systems,Specific mention of sustainable use of species/ecosystems,Specific information on human-nature relationship,0,1
 global carbon budget,IPCC_5_70_289_202,IPCC,Ecosystem services,NA,Nature contribution,NA,0,1
 global climate risk index,IPBES_VA_6_64_156_83;IPBES_GA_1_52_19_46,IPBES,Direct drivers,NA,Climate change,NA,0,1
 global coral reef extent,GBF_GA_CY_13,GBF,Biodiversity,NA,State of biodiversity,NA,1,0
-global ecosystem restoration index,GBF_T2_CY_120,GBF,Ecosystems,NA,Area conservation,NA,1,0
-global ecosystem restoration index,IPBES_GA_1_52_19_76,IPBES,Ecosystems,NA,Area conservation,NA,0,1
+global ecosystem restoration index,GBF_T2_CY_120,GBF,Ecosystems,NA,Restoration efforts,NA,1,0
+global ecosystem restoration index,IPBES_GA_1_52_19_76,IPBES,Ecosystems,NA,Restoration efforts,NA,0,1
 global effort in bottom-trawling,IPBES_GA_1_52_19_48;IPBES_GA_4_152_225_378;IPBES_GA_3_15_329_426;IPBES_GA3_sup_24,IPBES,Direct drivers,NA,Specific mention of over-exploitation and unsustainable use of species/ecosystems,NA,0,1
 global energy budget,IPCC_1_38_17_12;IPCC_7_77_351_222,IPCC,Governance,NA,Legislation/governance,NA,0,1
 global environmental impacts of consumption,GBF_T16_C_60,GBF,Direct drivers,NA,Land conversion,NA,1,0
@@ -1015,7 +1015,7 @@ number of countries with biodiversity relevant tradable permit schemes,IPBES_GA_
 number of countries with biodiversity-inclusive urban planning referring to green or blue urban spaces,GBF_T12_H_34,GBF,Governance,Ecosystems,Nature-based legislation,Restoration efforts,1,0
 number of countries with developed or revised nbsaps,IPBES_GA_1_52_19_35;IPBES_GA3_sup_60,IPBES,Governance,NA,Nature-based legislation,NA,0,1
 "number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",SDG_G5.6.2_77,SDG,Human well-being,NA,Equity,NA,1,0
-number of countries with legal and technical measures for restoration and compensation,GBF_T17_CY_226,GBF,Governance,NA,Nature-based funding,NA,1,0
+number of countries with legal and technical measures for restoration and compensation,GBF_T17_CY_226,GBF,Governance,Ecosystems,Nature-based funding,Restoration efforts,1,0
 "number of countries with legal, administrative or policy frameworks, including the gender plan of action, as well as the allocation of specific financial resources to ensure that all women and girls have equal opportunity and capacity to contribute to the three objectives of the convention, including by ensuring women's equal rights and access to land and natural resources",GBF_T23_H_51,GBF,Governance,Governance,National/international cooperation,Nature-based legislation,1,0
 number of countries with mechanisms in place to enhance policy coherence of sustainable development,IPBES_SUA_sup_17.14.1_150,IPBES,Governance,NA,Nature-based legislation,NA,0,1
 number of countries with mechanisms in place to enhance policy coherence of sustainable development,SDG_G17.14.1_251,SDG,Governance,NA,Nature-based legislation,NA,1,0
@@ -1118,7 +1118,7 @@ number of social media links to world wetland day,RAMSAR_OG4.16_54,RAMSAR,Knowle
 number of species at risk of extinction,IPBES_IAS_4_22_102_31,IPBES,Biodiversity,NA,Change in biodiversity,NA,0,1
 number of species extinctions,IPBES_GA_1_52_19_70;IPBES_IAS_4_22_102_30,IPBES,Biodiversity,NA,Change in biodiversity,NA,0,1
 number of strp briefing papers downloaded from the ramsar web site and subtotals by country and ramsar region of the source of these downloads,RAMSAR_OG4.14_44,RAMSAR,Governance,NA,National/international cooperation,NA,1,0
-number of studies on ias available per region,IPBES_IAS_2_13_15_11,IPBES,Knowledge systems,Direct drivers,Information on biodiversity,Invasive alien species,0,1
+number of studies on invasive alien species (ias) available per region,IPBES_IAS_2_13_15_11,IPBES,Knowledge systems,Direct drivers,Information on biodiversity,Invasive alien species,0,1
 number of summer days: annual count of days when tx (daily maximum temperature) >25°c,IPCC_sup_13,IPCC,Ecosystems,Direct drivers,Abiotic conditions,Climate change,0,1
 "number of surveys, studies or other analyses undertaken by exporting countries based on the sources of information cited in resolution conf. 16.7 (rev. cop17) on non-detriment findings related to - the population status of appendix-ii species; - the trends and impact of trade upon appendix-ii species; and - the status of and trend in naturally-occurring appendix i species and the impact of any recovery plans",CITES_G2.2.1_10,CITES,Knowledge systems,Direct drivers,Information on biodiversity,Specific mention of over-exploitation and unsustainable use of species/ecosystems,1,0
 "number of surveys, studies or other analyses undertaken by exporting countries based on the sources of information cited in resolution conf. 16.7 (rev. cop17) on non-detriment findings related to - the population status of appendix-ii species; - the trends and impact of trade upon appendix-ii species; and - the status of and trend in naturally-occurring appendix i species and the impact of any recovery plans",IPBES_SUA_4_65_122_50,IPBES,Knowledge systems,Direct drivers,Information on biodiversity,Specific mention of over-exploitation and unsustainable use of species/ecosystems,0,1
@@ -1196,7 +1196,7 @@ pan evaporation measurements,IPCC_11_61_551_321,IPCC,Ecosystems,NA,Abiotic condi
 "passenger and freight volumes, by mode of transport",IPBES_GA_3_128_421_498;IPBES_SUA_sup_9.1.2_60,IPBES,Human assets,NA,Infrastructure (build-up area),NA,0,1
 "passenger and freight volumes, by mode of transport",SDG_G9.1.2_118,SDG,Human assets,NA,Infrastructure (build-up area),NA,1,0
 peatland extent and condition,GBF_GA_CY_6,GBF,Ecosystems,NA,State of ecosystems (coverage),NA,1,0
-penman-monteith aed (atmospheric evaporative demand),IPCC_11_61_551_322,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
+penman-monteith atmospheric evaporative demand (aed),IPCC_11_61_551_322,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
 people per outlet mcdonals,IPBES_GA2.1_sup_19,IPBES,Knowledge systems,NA,Information on society and socio-economics,NA,0,1
 peoples' preferences or spending on safeguarding biodiversity and ecosystem services,IPBES_VA_3_2_52_42,IPBES,Knowledge systems,NA,Specific information on human-nature relationship,NA,0,1
 per capita calorie intake,IPBES_GA_2_22_28_84;IPBES_GA_2_24_29_89;IPBES_GA2.1_sup_8,IPBES,Human well-being,Human assets,Healthy living conditions,Coverage of basic needs,0,1
@@ -1210,7 +1210,7 @@ percentage of biosphere reserves that have a positive conservation outcome and e
 percentage of bloodstream infections due to selected antimicrobial-resistant organisms,SDG_G3.d.2_55,SDG,Direct drivers,NA,(Infectious) diseases,NA,1,0
 percentage of contracting parties that have provided additional financial support through voluntary contributions to non-core funded convention activities,RAMSAR_OG4.17_60,RAMSAR,Governance,NA,Nature-based funding,NA,1,0
 percentage of countries that have ratified the nagoya protocol,IPBES_GA_3_175_446_504;IPBES_GA3_sup_59,IPBES,Governance,NA,Nature-based legislation,NA,0,1
-percentage of countries with systems in place for restoration and compensation of damage to conservation and sustainable use of biological diversity,GBF_T17_CY_228,GBF,Governance,NA,Nature-based legislation,NA,1,0
+percentage of countries with systems in place for restoration and compensation of damage to conservation and sustainable use of biological diversity,GBF_T17_CY_228,GBF,Governance,Ecosystems,Nature-based legislation,Restoration efforts,1,0
 percentage of cropped landscapes with at least 10 percent natural land,GBF_T2_CY_122,GBF,Ecosystems,NA,State of ecosystems,NA,1,0
 percentage of days when daily maximum temperature is greater than the 90th percentile,IPCC_sup_5,IPCC,Ecosystems,Direct drivers,Abiotic conditions,Climate change,0,1
 percentage of days when daily maximum temperature is less than the 10th percentile,IPCC_sup_6,IPCC,Ecosystems,Direct drivers,Abiotic conditions,Climate change,0,1
@@ -1221,16 +1221,16 @@ percentage of global rural population with access to improved water resources,IP
 percentage of land and seas covered by biodiversity-inclusive spatial plans,GBF_T1_H_15,GBF,Ecosystems,NA,Area conservation,NA,1,0
 percentage of marine ecoregions covered by protected areas,IPBES_GA3_sup_45,IPBES,Ecosystems,NA,Area conservation,NA,0,1
 percentage of marine key biodiversity areas covered by protected areas,IPBES_GA_3_72_395_472,IPBES,Ecosystems,NA,Area conservation,NA,0,1
-percentage of parties having a national inventory of invasive alien species that currently or potentially impact the ecological character of wetlands,RAMSAR_SG1.4_11,RAMSAR,Biodiversity,Direct drivers,Change in biodiversity,Invasive alien species,1,0
+percentage of parties having a national inventory of invasive alien species that currently or potentially impact the ecological character of wetlands,RAMSAR_SG1.4_11,RAMSAR,Governance,Direct drivers,Nature-based legislation,Invasive alien species,1,0
 percentage of parties having national ramsar committees that include both governmental and non-governmental representation,RAMSAR_SG1.3_9,RAMSAR,Governance,NA,Nature-based legislation,NA,1,0
 percentage of parties reporting actions taken to implement incentive measures that encourage the conservation and wise use of wetlands,RAMSAR_SG1.3_6,RAMSAR,Governance,Ecosystems,Nature-based legislation,Area conservation,1,0
 percentage of parties reporting actions taken to remove perverse incentive measures that discourage conservation and wise use of wetlands,RAMSAR_SG1.3_7,RAMSAR,Governance,Ecosystems,National/international cooperation,Area conservation,1,0
-percentage of parties reporting having sufficient information to enforce the convention,CITES_G2.3.2_17,CITES,Knowledge systems,Governance,Information on biodiversity,National/international cooperation,1,0
-percentage of parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs,CITES_G2.4.1_18,CITES,Knowledge systems,Governance,Information on biodiversity,National/international cooperation,1,0
-"percentage of parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general",RAMSAR_SG1.3_8,RAMSAR,Governance,NA,National/international cooperation,NA,1,0
-percentage of parties reporting to the ramsar secretariat all cases of negative human-induced change or likely change in the ecological character of ramsar sites pursuant to article 3.2,RAMSAR_SG2.7_26,RAMSAR,Ecosystems,Ecosystems,Change in ecosystems,State of ecosystems (integrity),1,0
+percentage of parties reporting having sufficient information to enforce the convention,CITES_G2.3.2_17,CITES,Knowledge systems,Governance,Information on biodiversity,Nature-based legislation,1,0
+percentage of parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs,CITES_G2.4.1_18,CITES,Knowledge systems,Governance,Information on biodiversity,Nature-based legislation,1,0
+"percentage of parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general",RAMSAR_SG1.3_8,RAMSAR,Governance,Governance,National/international cooperation,Nature-based legislation,1,0
+percentage of parties reporting to the ramsar secretariat all cases of negative human-induced change or likely change in the ecological character of ramsar sites pursuant to article 3.2,RAMSAR_SG2.7_26,RAMSAR,Governance,Ecosystems,Nature-based legislation,State of ecosystems (integrity),1,0
 percentage of parties that co-developed or otherwise supported the capacity of indigenous peoples and local communities to pursue livelihoods,CITES_G4.1.2_36,CITES,Knowledge systems,Governance,Specific information on ILK and IPLC,National/international cooperation,1,0
-percentage of parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin,RAMSAR_SG3.9_33,RAMSAR,Ecosystem services,Governance,Specific mention of sustainable use of species/ecosystems,Nature-based legislation,1,0
+percentage of parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin,RAMSAR_SG3.9_33,RAMSAR,Governance,Ecosystem services,Nature-based legislation,Specific mention of sustainable use of species/ecosystems,1,0
 percentage of parties that have adopted wetland policies or equivalent instruments that promote the wise use of their wetlands,RAMSAR_SG3.9_32,RAMSAR,Governance,NA,Nature-based legislation,NA,1,0
 percentage of parties that have been involved in the development and implementation of a regional initiative under the framework of the convention,RAMSAR_OG4.15_49;RAMSAR_OG4.18_64,RAMSAR,Governance,NA,Nature-based legislation,NA,1,0
 percentage of parties that have branded world wetlands day activities,RAMSAR_OG4.16_50,RAMSAR,Knowledge systems,NA,Specific information on human-nature relationship,NA,1,0
@@ -1239,9 +1239,9 @@ percentage of parties that have effective cooperative management in place for sh
 percentage of parties that have established national action plans for wetland cepa,RAMSAR_OG4.16_56,RAMSAR,Governance,NA,Nature-based legislation,NA,1,0
 percentage of parties that have established networks including twinning arrangements nationally or internationally for knowledge sharing and training for wetlands that share common features,RAMSAR_OG4.18_65,RAMSAR,Governance,NA,National/international cooperation,NA,1,0
 percentage of parties that have established or reviewed national policies or guidelines on invasive wetland species control and management,RAMSAR_SG1.4_10,RAMSAR,Governance,Direct drivers,Nature-based legislation,Invasive alien species,1,0
-percentage of parties that have established restoration plans [or activities] for sites,RAMSAR_SG3.12_39,RAMSAR,Ecosystems,NA,Restoration efforts,NA,1,0
-percentage of parties that have implemented effective restoration or rehabilitation projects,RAMSAR_SG3.12_40,RAMSAR,Ecosystems,NA,Restoration efforts,NA,1,0
-percentage of parties that have implemented programmes or projects that contribute to poverty alleviation objectives or food and water security plans,RAMSAR_SG3.11_38,RAMSAR,Human well-being,NA,Healthy living conditions,NA,1,0
+percentage of parties that have established restoration plans [or activities] for sites,RAMSAR_SG3.12_39,RAMSAR,Governance,Ecosystems,Nature-based legislation,Restoration efforts,1,0
+percentage of parties that have implemented effective restoration or rehabilitation projects,RAMSAR_SG3.12_40,RAMSAR,Governance,Ecosystems,Nature-based legislation,Restoration efforts,1,0
+percentage of parties that have implemented programmes or projects that contribute to poverty alleviation objectives or food and water security plans,RAMSAR_SG3.11_38,RAMSAR,Knowledge systems,Human well-being,Information on society and socio-economics,Healthy living conditions,1,0
 percentage of parties that have included wetland issues within national policies or measures on agriculture,RAMSAR_SG1.1_3,RAMSAR,Governance,Ecosystem services,Nature-based legislation,Specific monetary valuation of nature contribution,1,0
 percentage of parties that have included wetland issues within national strategies and planning processes such as water resource management and water efficiency plans,RAMSAR_SG1.1_2;RAMSAR_SG1.2_4,RAMSAR,Governance,Ecosystem services,Nature-based legislation,Specific mention of sustainable use of species/ecosystems,1,0
 percentage of parties that have incorporated wetlands issues into poverty eradication strategies,RAMSAR_SG3.11_37,RAMSAR,Governance,Human well-being,Nature-based legislation,Healthy living conditions,1,0
@@ -1249,13 +1249,13 @@ percentage of parties that have made an assessment of national and local trainin
 percentage of parties that have made assessment of ecosystem services of ramsar sites,RAMSAR_SG1.1_1;RAMSAR_SG3.11_36,RAMSAR,Knowledge systems,Ecosystem services,Information on biodiversity,Nature contribution,1,0
 percentage of parties that have made assessments of effective management of ramsar sites,RAMSAR_SG2.5_16,RAMSAR,Knowledge systems,Ecosystems,Information on biodiversity,Area conservation,1,0
 percentage of parties that have received funding support from development assistance agencies for national wetlands conservation and management,RAMSAR_OG4.17_61,RAMSAR,Governance,NA,Nature-based funding,NA,1,0
-percentage of parties that have taken actions to address the issues for which ramsar sites have been listed on the montreux record,RAMSAR_SG2.7_28,RAMSAR,Ecosystems,NA,State of ecosystems (integrity),NA,1,0
+percentage of parties that have taken actions to address the issues for which ramsar sites have been listed on the montreux record,RAMSAR_SG2.7_28,RAMSAR,Governance,NA,Nature-based funding,NA,1,0
 percentage of parties that have updated their national inventories in the last decade,RAMSAR_SG3.8_31,RAMSAR,Knowledge systems,NA,Information on biodiversity,NA,1,0
 percentage of parties to the cartagena protocol on biosafety implementing the relevant provisions of the protocol,GBF_T17_CY_225,GBF,Governance,NA,Nature-based legislation,NA,1,0
 percentage of parties to the nagoya - kuala lumpur supplementary protocol,GBF_T17_CY_227,GBF,Governance,NA,Nature-based legislation,NA,1,0
 percentage of parties where co-ordination mechanisms for the implementation of meas exist at a national level,RAMSAR_OG4.18_67,RAMSAR,Governance,NA,National/international cooperation,NA,1,0
 percentage of parties with a) a governmental cepa national focal point and b) a non-governmental national focal point,RAMSAR_OG4.16_55,RAMSAR,Governance,NA,National/international cooperation,NA,1,0
-percentage of population living in dense urban areas,IPBES_GA_2.3_50_149_352,IPBES,Human well-being,NA,Healthy living conditions,NA,0,1
+percentage of population living in dense urban areas,IPBES_GA_2.3_50_149_352,IPBES,Knowledge systems,Human well-being,Information on society and socio-economics,Healthy living conditions,0,1
 percentage of ramsar sites that have updated ramsar information sheets,RAMSAR_SG2.5_17,RAMSAR,Knowledge systems,NA,Information on biodiversity,NA,1,0
 percentage of ramsar sites which have improved the sustainability of water use in the context of ecosystem requirements,RAMSAR_SG1.2_5,RAMSAR,Ecosystem services,Ecosystems,Specific mention of sustainable use of species/ecosystems,State of ecosystems (integrity),1,0
 percentage of spatial plans utilizing information on key biodiversity areas,GBF_T1_CY_106,GBF,Governance,NA,Nature-based legislation,NA,1,0
@@ -1292,7 +1292,7 @@ plastic debris density,GBF_T7_C_38;GBF_T7_CY_176,GBF,Direct drivers,Ecosystems,P
 plastic debris density,GEO_7_19_66_88;GEO_14_15_152_125;GEO_14_15_154_129;GEO_20_8_234_208,GEO,Direct drivers,Ecosystems,Pollution,State of ecosystems (integrity),0,1
 plastic debris density,IPBES_SUA_sup_14.1.1.b_111,IPBES,Direct drivers,Ecosystems,Pollution,State of ecosystems (integrity),0,1
 plastic debris density,SDG_G14.1.1.b_184,SDG,Direct drivers,Ecosystems,Pollution,State of ecosystems (integrity),1,0
-pm 10 emissions,GEO_20_6_228_196,GEO,Direct drivers,NA,Pollution,NA,0,1
+pm10 emissions,GEO_20_6_228_196,GEO,Direct drivers,NA,Pollution,NA,0,1
 pm2.5 emissions,GEO_12_16_119_105;GEO_20_6_228_193,GEO,Direct drivers,NA,Pollution,NA,0,1
 polar ice sheets,GEO_4_13_34_42,GEO,Ecosystems,NA,State of ecosystems,NA,0,1
 poleward shifts in the south atlantic convergence zone (sacz),IPCC_8_45_390_240,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
@@ -1307,7 +1307,7 @@ population growth (annual percentage),IPBES_GA2.1_sup_20,IPBES,Biodiversity,NA,C
 population in megacities,IPBES_GA2.1_sup_28,IPBES,Knowledge systems,NA,Information on society and socio-economics,NA,0,1
 population in the largest city,IPBES_GA2.1_sup_27,IPBES,Knowledge systems,NA,Information on society and socio-economics,NA,0,1
 population involved in hunting and gathering,GBF_GB_CY_76,GBF,Human assets,Ecosystem services,Coverage of basic needs,Nature contribution,1,0
-population-weighted ozone concentrations,IPCC_6_73_321_211,IPCC,Direct drivers,NA,Pollution,NA,0,1
+population-weighted ozone concentrations,IPCC_6_73_321_211,IPCC,Direct drivers,NA,Climate change,NA,0,1
 position of 15n atom in atmospheric n2o,IPCC_5_36_279_199,IPCC,Direct drivers,NA,Climate change,NA,0,1
 positive incentives in place to promote biodiversity conservation and sustainable use,GBF_T18_H_43,GBF,Governance,Ecosystem services,Nature-based legislation,Specific mention of sustainable use of species/ecosystems,1,0
 possible use or further development of indicator(s) linked to work currently being undertaken to develop indicator(s) for related aichi target 18 of the strategic plan for biodiversity,RAMSAR_SG3.10_35,RAMSAR,Knowledge systems,NA,Specific information on ILK and IPLC,NA,1,0
@@ -1326,7 +1326,7 @@ predatory fish biomass,IPBES_GA_2.2_37_70_204;IPBES_GA2.2_sup_74,IPBES,Biodivers
 premature deaths,GEO_5_19_45_60,GEO,Human well-being,NA,Healthy living conditions,NA,0,1
 premature deaths in 2016 to household air pollution,GEO_5_19_45_64,GEO,Human well-being,Direct drivers,Healthy living conditions,Pollution,0,1
 presense of endemic species,GEO_13_18_135_118,GEO,Biodiversity,NA,State of biodiversity,NA,0,1
-pressure ozone trend,GEO_5_17_42_52,GEO,Ecosystems,NA,Abiotic conditions,NA,0,1
+pressure ozone trend,GEO_5_17_42_52,GEO,Direct drivers,NA,Climate change,NA,0,1
 "prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",IPBES_SUA_sup_2.2.3_16,IPBES,Human assets,NA,Coverage of basic needs,NA,0,1
 "prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",SDG_G2.2.3_18,SDG,Human assets,NA,Coverage of basic needs,NA,1,0
 prevalence of certain species,IPBES_SUA_2_97_80_31,IPBES,Knowledge systems,Biodiversity,ILK,State of biodiversity,0,1
@@ -1370,7 +1370,7 @@ proportion of births attended by skilled health personnel,SDG_G3.1.2_29,SDG,Huma
 proportion of bodies of water with good ambient water quality,GBF_T11_C_52;GBF_GB_CY_67,GBF,Ecosystems,Human well-being,State of ecosystems,Healthy living conditions,1,0
 proportion of bodies of water with good ambient water quality,IPBES_SUA_sup_6.3.2_31,IPBES,Ecosystems,Human well-being,State of ecosystems,Healthy living conditions,0,1
 proportion of bodies of water with good ambient water quality,SDG_G6.3.2_86,SDG,Ecosystems,Human well-being,State of ecosystems,Healthy living conditions,1,0
-"proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",SDG_G16.5.2_225,SDG,Knowledge systems,Governance,Information on society and socio-economics,Broken governance,1,0
+"proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",SDG_G16.5.2_225,SDG,Governance,Knowledge systems,Broken governance,Information on society and socio-economics,1,0
 proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,SDG_G16.2.1_216,SDG,Knowledge systems,Governance,Information on society and socio-economics,Broken governance,1,0
 "proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",SDG_G4.2.1_58,SDG,Human assets,Human well-being,Coverage of basic needs,Wellness,1,0
 "proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",SDG_G4.1.1_56,SDG,Human assets,NA,Coverage of basic needs,NA,1,0
@@ -1439,7 +1439,7 @@ proportion of parties that are making use of the available tools,CITES_G2.3.1_16
 "proportion of people living below 50 percent of median income, by sex, age and persons with disabilities",SDG_G10.2.1_130,SDG,Human well-being,NA,Equity,NA,1,0
 "proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",IPBES_SUA_sup_11.7.2_84,IPBES,Human well-being,Knowledge systems,Wellness,Information on society and socio-economics,0,1
 "proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",SDG_G11.7.2_155,SDG,Human well-being,Knowledge systems,Wellness,Information on society and socio-economics,1,0
-"proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",SDG_G16.5.1_224,SDG,Knowledge systems,Human well-being,Information on society and socio-economics,Wellness,1,0
+"proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",SDG_G16.5.1_224,SDG,Governance,Knowledge systems,Broken governance,Information on society and socio-economics,1,0
 "proportion of population covered by a mobile network, by technology",IPBES_SUA_sup_9.c.1_69,IPBES,Human assets,NA,Infrastructure (build-up area),NA,0,1
 "proportion of population covered by a mobile network, by technology",SDG_G9.c.1_128,SDG,Human assets,NA,Infrastructure (build-up area),NA,1,0
 "proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",SDG_G1.3.1_4,SDG,Human well-being,NA,Equity,NA,1,0
@@ -1693,7 +1693,7 @@ ship calls,IPBES_IAS_2_5_11_8,IPBES,Human assets,NA,Infrastructure (build-up are
 shoreline change (indicator of coastal erosion),IPCC_12_60_671_403,IPCC,Ecosystems,NA,State of ecosystems (freshwater/coastal),NA,0,1
 shoreline retreat by mid- and end of century,IPCC_sup_53,IPCC,Ecosystems,Direct drivers,State of ecosystems (freshwater/coastal),Climate change,0,1
 shrinking of the arctic ice cover,GEO_2_26_7_12,GEO,Ecosystems,NA,Change in ecosystems,NA,0,1
-simple precipitation intensity index (sdii),IPCC_11_50_537_288;IPCC_sup_31,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
+simple daily intensity index (sdii),IPCC_11_50_537_288;IPCC_sup_31,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
 simulated global mean surface air temperature (gsat) anomalies,IPCC_1_45_19_13;IPCC_1_45_19_14,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
 sink rate,IPCC_5_19_272_196,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
 slope instability,IPCC_2_63_102_107,IPCC,Ecosystems,NA,Abiotic conditions,NA,0,1
@@ -1738,7 +1738,7 @@ species richness,IPBES_GA_4_34_176_366;IPBES_IAS_3_84_95_28,IPBES,Biodiversity,N
 species richness per grid cell,IPBES_GA_2.2_37_70_191;IPBES_GA_2.2_47_90_222;IPBES_GA2.2_sup_53,IPBES,Biodiversity,NA,State of biodiversity,NA,0,1
 species status index,GBF_T21_C_66;GBF_GA_CY_50;GBF_T21_CY_254,GBF,Biodiversity,NA,State of biodiversity,NA,1,0
 species status index,IPBES_GA_1_52_19_37;IPBES_GA3_sup_61,IPBES,Biodiversity,NA,State of biodiversity,NA,0,1
-species threat abatement and restoration metric,GBF_T4_CY_147;GBF_T15_CY_214,GBF,Biodiversity,NA,Species conservation,NA,1,0
+species threat abatement and restoration (star) metric,GBF_T4_CY_147;GBF_T15_CY_214,GBF,Biodiversity,NA,Species conservation,NA,1,0
 species used for medicine,IPBES_GA_2.3_22_127_254;IPBES_GA_2.3_42_143_334,IPBES,Knowledge systems,NA,ILK,NA,0,1
 specific humidity,GEO_2_26_7_4,GEO,Ecosystems,NA,Abiotic conditions,NA,0,1
 speleothem records,IPCC_2_62_100_102;IPCC_9_71_451_266,IPCC,Ecosystems,Ecosystems,State of ecosystems,Abiotic conditions,0,1

@@ -1,5 +1,5 @@
 indicator_harmonized,Categories,Subcategories,Categories_2,Subcategories_2
-1-in-100-year return period level (etwl),Ecosystems,Abiotic conditions,Direct drivers,Climate change
+1-in-100-year extreme total water level (etwl),Ecosystems,Abiotic conditions,Direct drivers,Climate change
 10-day cumulative precipitation,Ecosystems,Abiotic conditions,NA,NA
 15n/14n isotope ratio,Ecosystems,Abiotic conditions,NA,NA
 2 m air temperatures,Ecosystems,Abiotic conditions,NA,NA
@@ -49,8 +49,8 @@ air pollution emissions account,Direct drivers,Pollution,NA,NA
 air pollution exposure,Human well-being,Healthy living conditions,Direct drivers,Pollution
 air quality,Ecosystems,Abiotic conditions,NA,NA
 air quality index,Ecosystems,Abiotic conditions,Human well-being,Healthy living conditions
-alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,Human assets,Coverage of basic needs,NA,NA
-alcohol use,Human well-being,Healthy living conditions,Human well-being,Recreation
+alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,Human well-being,Recreation,NA,NA
+alcohol use,Human well-being,Recreation,NA,NA
 alien species,Direct drivers,Invasive alien species,NA,NA
 alien species occurrence,Direct drivers,Invasive alien species,NA,NA
 alien species richness,Direct drivers,Invasive alien species,Biodiversity,State of biodiversity
@@ -332,7 +332,7 @@ el niño-southern oscillation (enso) bjerknes index,Ecosystems,Abiotic condition
 el niño-southern oscillation (enso) index,Ecosystems,Abiotic conditions,NA,NA
 electric power consumption (kwh per capita),Human assets,Infrastructure (build-up area),NA,NA
 emission of particular compounds,Direct drivers,Climate change,NA,NA
-emissions of ozone-depleting substances,Direct drivers,Pollution,NA,NA
+emissions of ozone-depleting substances,Direct drivers,Climate change,NA,NA
 employment in materials production,Human assets,Income,Ecosystem services,Nature contribution
 encounter rates with supernatural forest dwelling entities,Knowledge systems,ILK,NA,NA
 endemism richness,Biodiversity,State of biodiversity,NA,NA
@@ -447,7 +447,7 @@ fraction of absorbed photosynthetically active radiation (fapar),Ecosystems,Abio
 fraction of ocean not fished per year,Ecosystems,State of ecosystems,Direct drivers,Land conversion
 fraction of precipitation falling as snow,Ecosystems,Abiotic conditions,Ecosystems,State of ecosystems
 free flowing rivers,Ecosystems,State of ecosystems (freshwater/coastal),NA,NA
-free tropospheric ozone,Ecosystems,Abiotic conditions,NA,NA
+free tropospheric ozone,Direct drivers,Climate change,NA,NA
 freshwater change over time,Ecosystem services,Nature contribution,NA,NA
 fuel aridity,Ecosystems,Abiotic conditions,NA,NA
 full exceedance probability distribution of coastal erosion volume,Ecosystems,Change in ecosystems,NA,NA
@@ -473,14 +473,14 @@ ghs effective radiative forcing,Direct drivers,Climate change,NA,NA
 gini index,Human well-being,Equity,NA,NA
 glacier mass and extent,Ecosystems,Change in ecosystems,NA,NA
 glacier mass balance,Ecosystems,Change in ecosystems,NA,NA
-global annual mean tropospheric ozone burden,Direct drivers,Climate change,Ecosystems,Abiotic conditions
-global atmospheric co levels,Ecosystems,Abiotic conditions,NA,NA
+global annual mean tropospheric ozone burden,Direct drivers,Climate change,NA,NA
+global atmospheric carbon monoxide (co) levels,Ecosystems,Abiotic conditions,NA,NA
 global bird richness (csar),Biodiversity,State of biodiversity,NA,NA
 global capacity,Ecosystem services,Specific mention of sustainable use of species/ecosystems,Knowledge systems,Specific information on human-nature relationship
 global carbon budget,Ecosystem services,Nature contribution,NA,NA
 global climate risk index,Direct drivers,Climate change,NA,NA
 global coral reef extent,Biodiversity,State of biodiversity,NA,NA
-global ecosystem restoration index,Ecosystems,Area conservation,NA,NA
+global ecosystem restoration index,Ecosystems,Restoration efforts,NA,NA
 global effort in bottom-trawling,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,NA,NA
 global energy budget,Governance,Legislation/governance,NA,NA
 global environmental impacts of consumption,Direct drivers,Land conversion,NA,NA
@@ -877,7 +877,7 @@ number of countries with biodiversity relevant tradable permit schemes,Governanc
 number of countries with biodiversity-inclusive urban planning referring to green or blue urban spaces,Governance,Nature-based legislation,Ecosystems,Restoration efforts
 number of countries with developed or revised nbsaps,Governance,Nature-based legislation,NA,NA
 "number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",Human well-being,Equity,NA,NA
-number of countries with legal and technical measures for restoration and compensation,Governance,Nature-based funding,NA,NA
+number of countries with legal and technical measures for restoration and compensation,Governance,Nature-based funding,Ecosystems,Restoration efforts
 "number of countries with legal, administrative or policy frameworks, including the gender plan of action, as well as the allocation of specific financial resources to ensure that all women and girls have equal opportunity and capacity to contribute to the three objectives of the convention, including by ensuring women's equal rights and access to land and natural resources",Governance,National/international cooperation,Governance,Nature-based legislation
 number of countries with mechanisms in place to enhance policy coherence of sustainable development,Governance,Nature-based legislation,NA,NA
 number of countries with mechanisms to facilitate the sharing of and access to information on potential adverse impacts of biotechnology on biodiversity and human health,Governance,Nature-based legislation,NA,NA
@@ -967,7 +967,7 @@ number of social media links to world wetland day,Knowledge systems,Specific inf
 number of species at risk of extinction,Biodiversity,Change in biodiversity,NA,NA
 number of species extinctions,Biodiversity,Change in biodiversity,NA,NA
 number of strp briefing papers downloaded from the ramsar web site and subtotals by country and ramsar region of the source of these downloads,Governance,National/international cooperation,NA,NA
-number of studies on ias available per region,Knowledge systems,Information on biodiversity,Direct drivers,Invasive alien species
+number of studies on invasive alien species (ias) available per region,Knowledge systems,Information on biodiversity,Direct drivers,Invasive alien species
 number of summer days: annual count of days when tx (daily maximum temperature) >25°c,Ecosystems,Abiotic conditions,Direct drivers,Climate change
 "number of surveys, studies or other analyses undertaken by exporting countries based on the sources of information cited in resolution conf. 16.7 (rev. cop17) on non-detriment findings related to - the population status of appendix-ii species; - the trends and impact of trade upon appendix-ii species; and - the status of and trend in naturally-occurring appendix i species and the impact of any recovery plans",Knowledge systems,Information on biodiversity,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems
 number of threatened species by species group,Biodiversity,Species conservation,NA,NA
@@ -1036,7 +1036,7 @@ pan evaporation measurements,Ecosystems,Abiotic conditions,NA,NA
 "participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",Human assets,Coverage of basic needs,NA,NA
 "passenger and freight volumes, by mode of transport",Human assets,Infrastructure (build-up area),NA,NA
 peatland extent and condition,Ecosystems,State of ecosystems (coverage),NA,NA
-penman-monteith aed (atmospheric evaporative demand),Ecosystems,Abiotic conditions,NA,NA
+penman-monteith atmospheric evaporative demand (aed),Ecosystems,Abiotic conditions,NA,NA
 people per outlet mcdonals,Knowledge systems,Information on society and socio-economics,NA,NA
 peoples' preferences or spending on safeguarding biodiversity and ecosystem services,Knowledge systems,Specific information on human-nature relationship,NA,NA
 per capita calorie intake,Human well-being,Healthy living conditions,Human assets,Coverage of basic needs
@@ -1050,7 +1050,7 @@ percentage of biosphere reserves that have a positive conservation outcome and e
 percentage of bloodstream infections due to selected antimicrobial-resistant organisms,Direct drivers,(Infectious) diseases,NA,NA
 percentage of contracting parties that have provided additional financial support through voluntary contributions to non-core funded convention activities,Governance,Nature-based funding,NA,NA
 percentage of countries that have ratified the nagoya protocol,Governance,Nature-based legislation,NA,NA
-percentage of countries with systems in place for restoration and compensation of damage to conservation and sustainable use of biological diversity,Governance,Nature-based legislation,NA,NA
+percentage of countries with systems in place for restoration and compensation of damage to conservation and sustainable use of biological diversity,Governance,Nature-based legislation,Ecosystems,Restoration efforts
 percentage of cropped landscapes with at least 10 percent natural land,Ecosystems,State of ecosystems,NA,NA
 percentage of days when daily maximum temperature is greater than the 90th percentile,Ecosystems,Abiotic conditions,Direct drivers,Climate change
 percentage of days when daily maximum temperature is less than the 10th percentile,Ecosystems,Abiotic conditions,Direct drivers,Climate change
@@ -1061,16 +1061,16 @@ percentage of global rural population with access to improved water resources,Hu
 percentage of land and seas covered by biodiversity-inclusive spatial plans,Ecosystems,Area conservation,NA,NA
 percentage of marine ecoregions covered by protected areas,Ecosystems,Area conservation,NA,NA
 percentage of marine key biodiversity areas covered by protected areas,Ecosystems,Area conservation,NA,NA
-percentage of parties having a national inventory of invasive alien species that currently or potentially impact the ecological character of wetlands,Biodiversity,Change in biodiversity,Direct drivers,Invasive alien species
+percentage of parties having a national inventory of invasive alien species that currently or potentially impact the ecological character of wetlands,Governance,Nature-based legislation,Direct drivers,Invasive alien species
 percentage of parties having national ramsar committees that include both governmental and non-governmental representation,Governance,Nature-based legislation,NA,NA
 percentage of parties reporting actions taken to implement incentive measures that encourage the conservation and wise use of wetlands,Governance,Nature-based legislation,Ecosystems,Area conservation
 percentage of parties reporting actions taken to remove perverse incentive measures that discourage conservation and wise use of wetlands,Governance,National/international cooperation,Ecosystems,Area conservation
-percentage of parties reporting having sufficient information to enforce the convention,Knowledge systems,Information on biodiversity,Governance,National/international cooperation
-percentage of parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs,Knowledge systems,Information on biodiversity,Governance,National/international cooperation
-"percentage of parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general",Governance,National/international cooperation,NA,NA
-percentage of parties reporting to the ramsar secretariat all cases of negative human-induced change or likely change in the ecological character of ramsar sites pursuant to article 3.2,Ecosystems,Change in ecosystems,Ecosystems,State of ecosystems (integrity)
+percentage of parties reporting having sufficient information to enforce the convention,Knowledge systems,Information on biodiversity,Governance,Nature-based legislation
+percentage of parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs,Knowledge systems,Information on biodiversity,Governance,Nature-based legislation
+"percentage of parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general",Governance,National/international cooperation,Governance,Nature-based legislation
+percentage of parties reporting to the ramsar secretariat all cases of negative human-induced change or likely change in the ecological character of ramsar sites pursuant to article 3.2,Governance,Nature-based legislation,Ecosystems,State of ecosystems (integrity)
 percentage of parties that co-developed or otherwise supported the capacity of indigenous peoples and local communities to pursue livelihoods,Knowledge systems,Specific information on ILK and IPLC,Governance,National/international cooperation
-percentage of parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin,Ecosystem services,Specific mention of sustainable use of species/ecosystems,Governance,Nature-based legislation
+percentage of parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin,Governance,Nature-based legislation,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 percentage of parties that have adopted wetland policies or equivalent instruments that promote the wise use of their wetlands,Governance,Nature-based legislation,NA,NA
 percentage of parties that have been involved in the development and implementation of a regional initiative under the framework of the convention,Governance,Nature-based legislation,NA,NA
 percentage of parties that have branded world wetlands day activities,Knowledge systems,Specific information on human-nature relationship,NA,NA
@@ -1079,9 +1079,9 @@ percentage of parties that have effective cooperative management in place for sh
 percentage of parties that have established national action plans for wetland cepa,Governance,Nature-based legislation,NA,NA
 percentage of parties that have established networks including twinning arrangements nationally or internationally for knowledge sharing and training for wetlands that share common features,Governance,National/international cooperation,NA,NA
 percentage of parties that have established or reviewed national policies or guidelines on invasive wetland species control and management,Governance,Nature-based legislation,Direct drivers,Invasive alien species
-percentage of parties that have established restoration plans [or activities] for sites,Ecosystems,Restoration efforts,NA,NA
-percentage of parties that have implemented effective restoration or rehabilitation projects,Ecosystems,Restoration efforts,NA,NA
-percentage of parties that have implemented programmes or projects that contribute to poverty alleviation objectives or food and water security plans,Human well-being,Healthy living conditions,NA,NA
+percentage of parties that have established restoration plans [or activities] for sites,Governance,Nature-based legislation,Ecosystems,Restoration efforts
+percentage of parties that have implemented effective restoration or rehabilitation projects,Governance,Nature-based legislation,Ecosystems,Restoration efforts
+percentage of parties that have implemented programmes or projects that contribute to poverty alleviation objectives or food and water security plans,Knowledge systems,Information on society and socio-economics,Human well-being,Healthy living conditions
 percentage of parties that have included wetland issues within national policies or measures on agriculture,Governance,Nature-based legislation,Ecosystem services,Specific monetary valuation of nature contribution
 percentage of parties that have included wetland issues within national strategies and planning processes such as water resource management and water efficiency plans,Governance,Nature-based legislation,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 percentage of parties that have incorporated wetlands issues into poverty eradication strategies,Governance,Nature-based legislation,Human well-being,Healthy living conditions
@@ -1089,13 +1089,13 @@ percentage of parties that have made an assessment of national and local trainin
 percentage of parties that have made assessment of ecosystem services of ramsar sites,Knowledge systems,Information on biodiversity,Ecosystem services,Nature contribution
 percentage of parties that have made assessments of effective management of ramsar sites,Knowledge systems,Information on biodiversity,Ecosystems,Area conservation
 percentage of parties that have received funding support from development assistance agencies for national wetlands conservation and management,Governance,Nature-based funding,NA,NA
-percentage of parties that have taken actions to address the issues for which ramsar sites have been listed on the montreux record,Ecosystems,State of ecosystems (integrity),NA,NA
+percentage of parties that have taken actions to address the issues for which ramsar sites have been listed on the montreux record,Governance,Nature-based funding,NA,NA
 percentage of parties that have updated their national inventories in the last decade,Knowledge systems,Information on biodiversity,NA,NA
 percentage of parties to the cartagena protocol on biosafety implementing the relevant provisions of the protocol,Governance,Nature-based legislation,NA,NA
 percentage of parties to the nagoya - kuala lumpur supplementary protocol,Governance,Nature-based legislation,NA,NA
 percentage of parties where co-ordination mechanisms for the implementation of meas exist at a national level,Governance,National/international cooperation,NA,NA
 percentage of parties with a) a governmental cepa national focal point and b) a non-governmental national focal point,Governance,National/international cooperation,NA,NA
-percentage of population living in dense urban areas,Human well-being,Healthy living conditions,NA,NA
+percentage of population living in dense urban areas,Knowledge systems,Information on society and socio-economics,Human well-being,Healthy living conditions
 percentage of ramsar sites that have updated ramsar information sheets,Knowledge systems,Information on biodiversity,NA,NA
 percentage of ramsar sites which have improved the sustainability of water use in the context of ecosystem requirements,Ecosystem services,Specific mention of sustainable use of species/ecosystems,Ecosystems,State of ecosystems (integrity)
 percentage of spatial plans utilizing information on key biodiversity areas,Governance,Nature-based legislation,NA,NA
@@ -1128,7 +1128,7 @@ planck temperature response,Ecosystems,Abiotic conditions,NA,NA
 planetary pressures adjusted human development index (hdi),Knowledge systems,Information on society and socio-economics,Human well-being,Wellness
 plant water use efficiency (wue),Ecosystem services,Nature contribution,NA,NA
 plastic debris density,Direct drivers,Pollution,Ecosystems,State of ecosystems (integrity)
-pm 10 emissions,Direct drivers,Pollution,NA,NA
+pm10 emissions,Direct drivers,Pollution,NA,NA
 pm2.5 emissions,Direct drivers,Pollution,NA,NA
 polar ice sheets,Ecosystems,State of ecosystems,NA,NA
 poleward shifts in the south atlantic convergence zone (sacz),Ecosystems,Abiotic conditions,NA,NA
@@ -1143,7 +1143,7 @@ population growth (annual percentage),Biodiversity,Change in biodiversity,NA,NA
 population in megacities,Knowledge systems,Information on society and socio-economics,NA,NA
 population in the largest city,Knowledge systems,Information on society and socio-economics,NA,NA
 population involved in hunting and gathering,Human assets,Coverage of basic needs,Ecosystem services,Nature contribution
-population-weighted ozone concentrations,Direct drivers,Pollution,NA,NA
+population-weighted ozone concentrations,Direct drivers,Climate change,NA,NA
 position of 15n atom in atmospheric n2o,Direct drivers,Climate change,NA,NA
 positive incentives in place to promote biodiversity conservation and sustainable use,Governance,Nature-based legislation,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 possible use or further development of indicator(s) linked to work currently being undertaken to develop indicator(s) for related aichi target 18 of the strategic plan for biodiversity,Knowledge systems,Specific information on ILK and IPLC,NA,NA
@@ -1162,7 +1162,7 @@ predatory fish biomass,Biodiversity,State of biodiversity,NA,NA
 premature deaths,Human well-being,Healthy living conditions,NA,NA
 premature deaths in 2016 to household air pollution,Human well-being,Healthy living conditions,Direct drivers,Pollution
 presense of endemic species,Biodiversity,State of biodiversity,NA,NA
-pressure ozone trend,Ecosystems,Abiotic conditions,NA,NA
+pressure ozone trend,Direct drivers,Climate change,NA,NA
 "prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",Human assets,Coverage of basic needs,NA,NA
 prevalence of certain species,Knowledge systems,ILK,Biodiversity,State of biodiversity
 prevalence of knowledge about seasonal cycles in their communities,Knowledge systems,ILK,NA,NA
@@ -1189,7 +1189,7 @@ proportion of agricultural area under productive and sustainable agriculture,Eco
 proportion of area of forest production under fsc and pefc certification,Ecosystem services,Nature contribution,Governance,Nature-based legislation
 proportion of births attended by skilled health personnel,Human assets,Coverage of basic needs,Human well-being,Healthy living conditions
 proportion of bodies of water with good ambient water quality,Ecosystems,State of ecosystems,Human well-being,Healthy living conditions
-"proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",Knowledge systems,Information on society and socio-economics,Governance,Broken governance
+"proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",Governance,Broken governance,Knowledge systems,Information on society and socio-economics
 proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,Knowledge systems,Information on society and socio-economics,Governance,Broken governance
 "proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",Human assets,Coverage of basic needs,Human well-being,Wellness
 "proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",Human assets,Coverage of basic needs,NA,NA
@@ -1226,7 +1226,7 @@ proportion of migratory fish stocks in safe biological limits,Ecosystem services
 proportion of parties that are making use of the available tools,Governance,Nature-based legislation,Knowledge systems,Specific information on human-nature relationship
 "proportion of people living below 50 percent of median income, by sex, age and persons with disabilities",Human well-being,Equity,NA,NA
 "proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",Human well-being,Wellness,Knowledge systems,Information on society and socio-economics
-"proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",Knowledge systems,Information on society and socio-economics,Human well-being,Wellness
+"proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",Governance,Broken governance,Knowledge systems,Information on society and socio-economics
 "proportion of population covered by a mobile network, by technology",Human assets,Infrastructure (build-up area),NA,NA
 "proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",Human well-being,Equity,NA,NA
 proportion of population exposed to air pollution,Human well-being,Healthy living conditions,Direct drivers,Pollution
@@ -1422,7 +1422,7 @@ ship calls,Human assets,Infrastructure (build-up area),NA,NA
 shoreline change (indicator of coastal erosion),Ecosystems,State of ecosystems (freshwater/coastal),NA,NA
 shoreline retreat by mid- and end of century,Ecosystems,State of ecosystems (freshwater/coastal),Direct drivers,Climate change
 shrinking of the arctic ice cover,Ecosystems,Change in ecosystems,NA,NA
-simple precipitation intensity index (sdii),Ecosystems,Abiotic conditions,NA,NA
+simple daily intensity index (sdii),Ecosystems,Abiotic conditions,NA,NA
 simulated global mean surface air temperature (gsat) anomalies,Ecosystems,Abiotic conditions,NA,NA
 sink rate,Ecosystems,Abiotic conditions,NA,NA
 slope instability,Ecosystems,Abiotic conditions,NA,NA
@@ -1460,7 +1460,7 @@ species represented in the barcode of life data system,Biodiversity,Genetic reso
 species richness,Biodiversity,State of biodiversity,NA,NA
 species richness per grid cell,Biodiversity,State of biodiversity,NA,NA
 species status index,Biodiversity,State of biodiversity,NA,NA
-species threat abatement and restoration metric,Biodiversity,Species conservation,NA,NA
+species threat abatement and restoration (star) metric,Biodiversity,Species conservation,NA,NA
 species used for medicine,Knowledge systems,ILK,NA,NA
 specific humidity,Ecosystems,Abiotic conditions,NA,NA
 speleothem records,Ecosystems,State of ecosystems,Ecosystems,Abiotic conditions

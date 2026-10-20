@@ -1,22 +1,22 @@
 Indicators harmonized,Sources,Elements,Subelements,Number of sources,MEA/assess,Indicators original name,Elements_2,Subelements_2
-1-in-100-year return period level (etwl),IPCC,Ecosystems,Abiotic conditions,1,assessment,1-in-100-year return period level (ETWL),Direct drivers,Climate change
+1-in-100-year extreme total water level (etwl),IPCC,Ecosystems,Abiotic conditions,1,assessment,1-in-100-year return period level (ETWL),Direct drivers,Climate change
 10-day cumulative precipitation,IPCC,Ecosystems,Abiotic conditions,1,assessment,10-day  cumulative precipitation,NA,NA
 15n/14n isotope ratio,IPCC,Ecosystems,Abiotic conditions,1,assessment,15N/14N isotope ratio,NA,NA
 2 m air temperatures,IPCC,Ecosystems,Abiotic conditions,1,assessment,2 m air temperatures,NA,NA
 ability of ecosystems to absorb and buffer hazards,IPBES,Ecosystem services,Nature contribution,1,assessment,Ability of ecosystems to absorb and buffer hazards,NA,NA
-abnormal occurrences in the territory,IPBES,Knowledge systems,ILK,1,assessment,abnormal occurrences in the territory,Knowledge systems,Specific information on human-nature relationship
+abnormal occurrences in the territory,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,abnormal occurrences in the territory,Knowledge systems,Specific information on human-nature relationship
 above-ground biomass,IPBES,Ecosystems,State of ecosystems,1,assessment,Aboveground biomass,NA,NA
 above-ground biomass in forests,GBF;IPBES,Ecosystems,State of ecosystems,2,both,Above-ground biomass stock in forest (tonnes/ha) | Aboveground biomass in forests,NA,NA
 absence of conflict as indicator of political stability,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,Absence of conflict as indicator of political stability,NA,NA
 absolute global forcing potential (agfp),IPCC,Direct drivers,Climate change,1,assessment,absolute global forcing potential (AGFP),NA,NA
 absolute global temperature change potential (agtp),IPCC,Ecosystems,Abiotic conditions,1,assessment,absolute global temperature change potential (AGTP),Direct drivers,Climate change
 abundance and location of habitat,IPBES,Ecosystems,State of ecosystems,1,assessment,abundance and location of habitat,NA,NA
-abundance of food species,IPBES,Knowledge systems,ILK,1,assessment,abundance of food species,Ecosystem services,Nature contribution
+abundance of food species,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,abundance of food species,Ecosystem services,Nature contribution
 abundance of managed and wild pollinators,IPBES,Biodiversity,State of biodiversity,1,assessment,Abundance of managed and wild pollinators,NA,NA
-abundance of preferred harvest species,IPBES,Knowledge systems,ILK,1,assessment,abundance of preferred harvest species,Ecosystem services,Nature contribution
+abundance of preferred harvest species,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,abundance of preferred harvest species,Ecosystem services,Nature contribution
 access to electricity,IPBES,Human assets,Coverage of basic needs,1,assessment,Access to electricity,Knowledge systems,Information on society and socio-economics
 access to land,IPBES,Human well-being,Equity,1,assessment,access to land,NA,NA
-accessibility of resources,IPBES,Knowledge systems,ILK,1,assessment,accessibility of resources,Ecosystem services,Nature contribution
+accessibility of resources,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,accessibility of resources,Ecosystem services,Nature contribution
 accumulated cyclone energy (ace),IPCC,Ecosystems,Abiotic conditions,1,assessment,Accumulated Cyclone Energy (ACE),NA,NA
 accumulated seasonal heat,IPCC,Ecosystems,Abiotic conditions,1,assessment,accumulated seasonal heat,NA,NA
 achievement of a circular economic system,GEO,Knowledge systems,Information on society and socio-economics,1,assessment,achievement of a circular economic system,NA,NA
@@ -41,7 +41,7 @@ agriculture-based materials produced (tons),IPBES,Ecosystem services,Nature cont
 agro-biodiversity,GEO,Biodiversity,State of biodiversity,1,assessment,agro-biodiversity,NA,NA
 agrobiodiversity index,GBF,Ecosystem services,Nature contribution,1,mea,Agrobiodiversity Index,Biodiversity,State of biodiversity
 aid for trade commitments and disbursements,IPBES;SDG,Governance,Nature-based funding,2,both,Aid for Trade commitments and disbursements,NA,NA
-air departures,IPBES,Human assets,Infrastructure (build-up area),1,assessment,Air departures,NA,NA
+air departures,IPBES,Human assets,Infrastructure,1,assessment,Air departures,NA,NA
 air moisture,IPCC,Ecosystems,Abiotic conditions,1,assessment,air Moisture,NA,NA
 air passengers,IPBES,Direct drivers,Pollution,1,assessment,Air passengers,Direct drivers,Invasive alien species
 air pollution,IPBES,Direct drivers,Pollution,1,assessment,Air pollution,NA,NA
@@ -49,22 +49,22 @@ air pollution emissions account,GBF,Direct drivers,Pollution,1,mea,Air pollution
 air pollution exposure,GEO,Human well-being,Healthy living conditions,1,assessment,Air Pollution Exposure,Direct drivers,Pollution
 air quality,GEO;IPBES,Ecosystems,Abiotic conditions,2,assessment,air quality,NA,NA
 air quality index,GBF;GEO,Ecosystems,Abiotic conditions,2,both,Air quality index | Air Quality Index,Human well-being,Healthy living conditions
-alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,SDG,Human assets,Coverage of basic needs,1,mea,Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,NA,NA
-alcohol use,GEO,Human well-being,Healthy living conditions,1,assessment,alcohol use,Human well-being,Recreation
+alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,SDG,Human well-being,Recreation,1,mea,Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,NA,NA
+alcohol use,GEO,Human well-being,Recreation,1,assessment,alcohol use,NA,NA
 alien species,IPBES,Direct drivers,Invasive alien species,1,assessment,Alien species,NA,NA
 alien species occurrence,IPBES,Direct drivers,Invasive alien species,1,assessment,alien species occurrence,NA,NA
 alien species richness,IPBES,Direct drivers,Invasive alien species,1,assessment,Alien species richness | alien species richness,Biodiversity,State of biodiversity
 altering of the carbon and biogeochemical cycles,GEO,Ecosystems,Abiotic conditions,1,assessment,altering of the carbon and biogeochemical cycles,NA,NA
-alternative and nuclear energy (percentage of total energy use),IPBES,Human assets,Infrastructure (build-up area),1,assessment,Alternative and nuclear energy (% of total energy use),Ecosystem services,Specific mention of sustainable use of species/ecosystems
+alternative and nuclear energy (percentage of total energy use),IPBES,Human assets,Infrastructure,1,assessment,Alternative and nuclear energy (% of total energy use),Ecosystem services,Specific mention of sustainable use of species/ecosystems
 amend policies that lead to destruction of mangroves,GEO,Governance,Nature detrimental legislation,1,assessment,amend policies that lead to destruction of mangroves,NA,NA
 amount and composition of biodiversity-related finance reported to the oecd creditor reporting system,GBF,Governance,Nature-based legislation,1,mea,Amount and composition of biodiversity-related finance reported to the OECD Creditor reporting system,NA,NA
-amount in united states dollars committed to public-private partnerships for infrastructure,IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,Amount in United States dollars committed to public-private partnerships for infrastructure,NA,NA
+amount in united states dollars committed to public-private partnerships for infrastructure,IPBES;SDG,Human assets,Infrastructure,2,both,Amount in United States dollars committed to public-private partnerships for infrastructure,NA,NA
 amount of biodiversity-related philanthropic funding,GBF,Governance,Nature-based funding,1,mea,Amount of biodiversity-related philanthropic funding,NA,NA
 amount of fossil-fuel subsidies per unit of gross domestic product (production and consumption),GBF;IPBES;SDG,Governance,Nature detrimental legislation,3,both,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) | Amount of fossil-fuel subsidies (production and consumption) per unit of GDP,NA,NA
 amount of funding provided through the global environment facility and allocated to the biodiversity focal area,GBF,Governance,Nature-based funding,1,mea,Amount of funding provided through the Global Environment Facility and allocated to the biodiversity focal area,NA,NA
 amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,IPBES;SDG,Human assets,Coverage of basic needs,2,both,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,NA,NA
 amounts provided and mobilized in united states dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025,IPBES;SDG,Human assets,State of economy,2,both,Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025,NA,NA
-animal behavior,IPBES,Knowledge systems,ILK,1,assessment,Animal behavior,Biodiversity,State of biodiversity
+animal behavior,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,Animal behavior,Biodiversity,State of biodiversity
 annual count of days when precipitation is greater than or equal to 10 mm,IPCC,Ecosystems,Abiotic conditions,1,assessment,Annual count of days when precipitation is greater than or equal to 10 mm,Direct drivers,Climate change
 annual count of days when precipitation is greater than or equal to 20 mm,IPCC,Ecosystems,Abiotic conditions,1,assessment,Annual count of days when precipitation is greater than or equal to 20 mm,Direct drivers,Climate change
 annual count of days when precipitation is greater than or equal to 5 mm,IPCC,Ecosystems,Abiotic conditions,1,assessment,Annual count of days when precipitation is greater than or equal to 5 mm,Direct drivers,Climate change
@@ -84,10 +84,10 @@ annular mode index,IPCC,Ecosystems,Abiotic conditions,1,assessment,Annular Mode 
 antarctic ice cores,IPCC,Ecosystems,State of ecosystems,1,assessment,Antarctic ice cores,Direct drivers,Climate change
 antarctic ice sheet loss,IPCC,Ecosystems,Change in ecosystems,1,assessment,Antarctic Ice Sheet loss,NA,NA
 antimicrobial resistence in pathogens,GEO,Biodiversity,State of biodiversity,1,assessment,antimicrobial resistence in pathogens,NA,NA
-appearance of new grass in grazing areas,IPBES,Knowledge systems,ILK,1,assessment,appearance of new grass in grazing areas,NA,NA
+appearance of new grass in grazing areas,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,appearance of new grass in grazing areas,NA,NA
 arctic sea ice area (sia),IPCC,Ecosystems,State of ecosystems,1,assessment,Mean Arctic Sea Ice Area | Arctic sea ice area (SIA) | aRCTIC SEA ICE AREA,NA,NA
 arctic species trend index,GEO;IPBES,Biodiversity,Change in biodiversity,2,assessment,Arctic Species Trend Index | Arctic Species Trend INDEX,NA,NA
-"area and percent of forests managed primarily to protect the range of cultural, social and spiritual needs and values",IPBES,Knowledge systems,Specific information on ILK and IPLC,1,assessment,"Area and percent of forests managed primarily to protect the range of cultural, social and spiritual needs and values",Knowledge systems,Specific information on human-nature relationship
+"area and percent of forests managed primarily to protect the range of cultural, social and spiritual needs and values",IPBES,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,1,assessment,"Area and percent of forests managed primarily to protect the range of cultural, social and spiritual needs and values",Knowledge systems,Specific information on human-nature relationship
 area and percent of forests used for subsistence purposes,IPBES,Ecosystem services,Nature contribution,1,assessment,Area and percent of forests used for subsistence purposes,NA,NA
 area of agricultural land under conservation,IPBES,Ecosystems,Area conservation,1,assessment,Areas of agricultural land under convervation agriculture | Area of agricultural land under conservation | Area of agricultural land under conservation agriculture (thousand ha),Direct drivers,Land conversion
 area of agricultural land under organic production,IPBES,Direct drivers,Land conversion,1,assessment,Area of agricultural land under organic production | agricultural organic area | Area of agricultural land under organic production (million ha),Ecosystem services,Nature contribution
@@ -98,7 +98,7 @@ area of tree cover loss,IPBES,Ecosystems,Change in ecosystems,1,assessment,Area 
 area under restoration,GBF,Ecosystems,Restoration efforts,1,mea,Area under restoration,NA,NA
 areas below calcium carbonate saturation thresholds,IPCC,Ecosystems,Abiotic conditions,1,assessment,Areas below calcium carbonate saturation thresholds,NA,NA
 arrival of new native and alien species,IPBES,Direct drivers,Invasive alien species,1,assessment,arrival of new native and alien species,NA,NA
-associated species,IPBES,Knowledge systems,ILK,1,assessment,associated species,Biodiversity,State of biodiversity
+associated species,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,associated species,Biodiversity,State of biodiversity
 atlantic meridional overturning circulation (amoc),IPCC,Ecosystems,Abiotic conditions,1,assessment,AMOC | Atlantic Meridional Overturning Circulation (AMOC) | the Atlantic Meridional Overturning Circulation (AMOC),NA,NA
 atlantic multi-decadal variability (amv),IPCC,Ecosystems,Abiotic conditions,1,assessment,Atlantic Multi-decadal Variability (AMV) | Atlantic Multi-decadal Variability AMV,NA,NA
 atlantic multi-decadal variability (amv) index,IPCC,Ecosystems,Abiotic conditions,1,assessment,Atlantic Multi-decadal Variability (AMV) Index,NA,NA
@@ -123,7 +123,7 @@ beach erosion volume due to the 100-year recurrence storm wave height,IPCC,Ecosy
 beach litter,GEO,Direct drivers,Pollution,1,assessment,beach litter,NA,NA
 bedrock topography,IPCC,Ecosystems,Abiotic conditions,1,assessment,Bedrock topography,NA,NA
 beef consumption,GEO,Human well-being,Healthy living conditions,1,assessment,beef consumption,NA,NA
-behavior of animals with importance as food,IPBES,Knowledge systems,ILK,1,assessment,behavior of animals with importance as food,Ecosystem services,Nature contribution
+behavior of animals with importance as food,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,behavior of animals with importance as food,Ecosystem services,Nature contribution
 benefits derived from healthy ecosystems and costs caused by its depletion,IPBES,Ecosystem services,Nature contribution,1,assessment,benefits derived from healthy ecosystems and costs caused by its depletion,NA,NA
 benefits from the sustainable use of wild species,GBF,Ecosystem services,Specific mention of sustainable use of species/ecosystems,1,mea,Benefits from the sustainable use of wild species,NA,NA
 benthich isotopes,IPCC,Ecosystems,Abiotic conditions,1,assessment,benthich isotopes,NA,NA
@@ -156,12 +156,12 @@ bird species per grid cell,IPBES,Biodiversity,State of biodiversity,1,assessment
 blocking index,IPCC,Ecosystems,Abiotic conditions,1,assessment,Blocking Index,NA,NA
 blood pressure,GEO,Human well-being,Healthy living conditions,1,assessment,blood pressure,NA,NA
 blue water sustainability index,IPBES,Ecosystems,Area conservation,1,assessment,blue water sustainability INDEX,Knowledge systems,Specific information on human-nature relationship
-body condition,IPBES,Knowledge systems,ILK,1,assessment,body condition | Body condition,Biodiversity,State of biodiversity
+body condition,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,body condition | Body condition,Biodiversity,State of biodiversity
 body fat,IPBES,Biodiversity,State of biodiversity,1,assessment,Body fat,NA,NA
 body mass index,GEO,Human well-being,Healthy living conditions,1,assessment,Body mass index,NA,NA
 boron-isotope,IPCC,Ecosystems,Abiotic conditions,1,assessment,Boron-Isotope,NA,NA
 buffer zones to protect catchment areas,GEO,Ecosystems,Area conservation,1,assessment,buffer zones to protect catchment areas,NA,NA
-build up area,GEO,Human assets,Infrastructure (build-up area),1,assessment,build up area | build up area per capita,NA,NA
+build up area,GEO,Human assets,Infrastructure,1,assessment,build up area | build up area per capita,NA,NA
 business operations,GEO,Governance,Legislation/governance,1,assessment,business operations,NA,NA
 by catch of vulnerable and non-target species,GBF,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,1,mea,By catch of vulnerable and non-target species,NA,NA
 c-haines index,IPCC,Ecosystems,Abiotic conditions,1,assessment,C-Haines Index,NA,NA
@@ -169,7 +169,7 @@ carbon (c) pool,IPBES,Ecosystem services,Nature contribution,1,assessment,C pool
 carbon sequestration,IPBES,Ecosystem services,Nature contribution,1,assessment,net carbon sequestration,NA,NA
 "carbon stocks and annual net ghg emissions, by landuse category, split by natural and non-natural land cover",GBF,Direct drivers,Climate change,1,mea,"Carbon stocks and annual net GHG emissions, by landuse category, split by natural and non-natural land cover",NA,NA
 carbon uptake by land and ocean,IPBES;IPCC,Ecosystem services,Nature contribution,2,assessment,Land and ocean carbon sinks | carbon uptake by land and ocean,Ecosystems,State of ecosystems
-catch per unit effort,IPBES,Knowledge systems,ILK,1,assessment,catch per unit effort | catch-per-unit effort,Ecosystem services,Nature contribution
+catch per unit effort,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,catch per unit effort | catch-per-unit effort,Ecosystem services,Nature contribution
 certified forest area,IPBES,Ecosystem services,Specific mention of sustainable use of species/ecosystems,1,assessment,Certified Forest Area,NA,NA
 change in # days hi>41°c,IPCC,Ecosystems,Abiotic conditions,1,assessment,Change in # days HI>41°C,Ecosystems,Change in ecosystems
 change in # days tx>35°c,IPCC,Ecosystems,Abiotic conditions,1,assessment,Change in # days Tx>35°C,Ecosystems,Change in ecosystems
@@ -179,8 +179,8 @@ change in number of droughts,IPCC,Ecosystems,Abiotic conditions,1,assessment,Cha
 change in the extent of water-related ecosystems over time,GBF;IPBES;SDG,Ecosystems,State of ecosystems,3,both,Change in the extent of water-related ecosystems over time | Change in the extent of inland water ecosystems over time,Ecosystems,Change in ecosystems
 change in the quality of coastal water ecosystems over time,GBF,Ecosystems,State of ecosystems (freshwater/coastal),1,mea,Change in the quality of coastal water ecosystems over time,Ecosystems,Change in ecosystems
 change in the quality of inland water ecosystems over time,GBF,Ecosystems,State of ecosystems,1,mea,Change in the quality of inland water ecosystems over time,Ecosystems,Change in ecosystems
-change in water-use efficiency over time,GBF;IPBES;SDG,Human assets,Infrastructure (build-up area),3,both,Change in water-use efficiency over time,NA,NA
-changes in crop phenology,IPBES,Knowledge systems,ILK,1,assessment,changes in crop phenology,Ecosystem services,Nature contribution
+change in water-use efficiency over time,GBF;IPBES;SDG,Human assets,Infrastructure,3,both,Change in water-use efficiency over time,NA,NA
+changes in crop phenology,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,changes in crop phenology,Ecosystem services,Nature contribution
 changes in evapotranspiration demand,IPCC,Ecosystems,Abiotic conditions,1,assessment,Changes in evapotranspiration demand,Ecosystems,Change in ecosystems
 changes in groundwater,IPCC,Ecosystems,Abiotic conditions,1,assessment,Changes in groundwater,Ecosystems,Change in ecosystems
 changes in land versus sea surface temperature,IPCC,Ecosystems,Abiotic conditions,1,assessment,changes in land versus sea surface temperature,NA,NA
@@ -235,11 +235,11 @@ comprehensiveness of conservation of socioeconomically as well as culturally val
 concentration of hydrogen ions (h+),IPBES,Ecosystems,Abiotic conditions,1,assessment,concentration of hydrogen ions (H+),NA,NA
 condition and size of wild animals,IPBES,Biodiversity,State of biodiversity,1,assessment,condition and size of wild animals,NA,NA
 "conflict-related deaths per 100,000 population, by sex, age and cause",SDG,Knowledge systems,Information on society and socio-economics,1,mea,"Conflict-related deaths per 100,000 population, by sex, age and cause",Governance,Broken governance
-connection to land,IPBES,Knowledge systems,ILK,1,assessment,Connection to land,NA,NA
-connection to sea,IPBES,Knowledge systems,ILK,1,assessment,Connection to sea,NA,NA
+connection to land,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,Connection to land,NA,NA
+connection to sea,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,Connection to sea,NA,NA
 connectivity indicator,GBF,Ecosystems,State of ecosystems (configuration),1,mea,Connectivity Indicator (in development),NA,NA
 conservation status of species listed in the cites appendices has stabilized or improved,CITES;GBF,Biodiversity,Species conservation,2,mea,Conservation status of species listed in the CITES Appendices has stabilized or improved | The conservation status of species listed on the CITES Appendices has stabilized or improved.,NA,NA
-container port traffic (teu: 20 foot equivalent units),IPBES,Human assets,Infrastructure (build-up area),1,assessment,Container port traffic (TEU: 20 foot equivalent units),NA,NA
+container port traffic (teu: 20 foot equivalent units),IPBES,Human assets,Infrastructure,1,assessment,Container port traffic (TEU: 20 foot equivalent units),NA,NA
 continuous global mangrove forest area,GBF;IPBES,Ecosystems,State of ecosystems (configuration),2,both,Continuous Global Mangrove Forest Cover | hectares of mangroves | Mangrove forest area | mangrove forest area | Mangrove forest cover | Global cover of mangroves | Area of mangrove forest cover (km2),Ecosystems,State of ecosystems (coverage)
 contrast of mean precipitation between dry and wet regions and between dry and wet seasons,IPCC,Ecosystems,Abiotic conditions,1,assessment,contrast of mean precipitation between dry and wet regions and between dry and wet seasons,NA,NA
 convective available potential energy and wind shear,IPCC,Ecosystems,Abiotic conditions,1,assessment,convective available potential energy and wind shear,NA,NA
@@ -262,22 +262,22 @@ coverage of protected areas and other effective area-based conservation measures
 coverage of wetland dependent bird populations by designated ramsar sites,RAMSAR,Ecosystems,Area conservation,1,mea,Coverage of wetland dependent bird populations by designated Ramsar Sites. Indicator from Resolution IX.1 to be developed.,NA,NA
 coverage of wetland dependent non-avian populations by designated ramsar sites,RAMSAR,Ecosystems,Area conservation,1,mea,Coverage of wetland dependent non-avian populations by designated Ramsar Sites. Indicator from Resolution IX.1 to be developed.,NA,NA
 "credit to agriculture, forestry and fishing",IPBES,Governance,Nature detrimental legislation,1,assessment,"Credit to Agriculture, Forestry and Fishing",NA,NA
-crops and their dietary roles,IPBES,Knowledge systems,ILK,1,assessment,Crops and their dietary roles,Ecosystem services,Nature contribution
+crops and their dietary roles,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,Crops and their dietary roles,Ecosystem services,Nature contribution
 cross-natrional comparative information on access to and ownership of land,GEO,Human well-being,Equity,1,assessment,cross-natrional comparative information on access to and ownership of land,NA,NA
 cultivated area,IPBES,Ecosystems,State of ecosystems,1,assessment,Cultivated area,NA,NA
-cultural continuity,IPBES,Knowledge systems,ILK,1,assessment,cultural continuity,NA,NA
+cultural continuity,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,cultural continuity,NA,NA
 cultural vitality index,GBF,Human well-being,Cultural diversity,1,mea,Cultural vitality index,NA,NA
-culturally salient species,IPBES,Knowledge systems,ILK,1,assessment,culturally salient species | culturally salient wild species populations,NA,NA
+culturally salient species,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,culturally salient species | culturally salient wild species populations,NA,NA
 cumulative greenhouse gas emissions,IPCC,Direct drivers,Climate change,1,assessment,cumulative GHG emissions,NA,NA
 cumulative human impacts on marine ecosystems,IPBES,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,1,assessment,Cumulative human impacts on marine ecosystems,NA,NA
 cumulative storm energy and storm power index,IPCC,Ecosystem services,Nature contribution,1,assessment,cumulative storm energy and storm power index,Ecosystems,Abiotic conditions
 current distribution of species,IPBES;IPCC,Biodiversity,State of biodiversity,2,assessment,Spatial distribution | spatial distribution of species | Current distribution of species | Distribution of species,NA,NA
-cyclical patterns of abundance,IPBES,Knowledge systems,ILK,1,assessment,cyclical patterns of abundance,Biodiversity,State of biodiversity
+cyclical patterns of abundance,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,cyclical patterns of abundance,Biodiversity,State of biodiversity
 daily maximum temperature above 35°c,IPCC,Ecosystems,Abiotic conditions,1,assessment,daily maximum tempreature above 35°C,NA,NA
 daily precipitation,IPCC,Ecosystems,Abiotic conditions,1,assessment,Daily precipitation,NA,NA
 daily temperature,IPCC,Ecosystems,Abiotic conditions,1,assessment,Daily temperature,NA,NA
 daily temperature range: monthly mean difference between tx and tn,IPCC,Ecosystems,Abiotic conditions,1,assessment,Daily temperature range: monthly mean difference between TX and TN,Direct drivers,Climate change
-damage to critical infrastructure,SDG,Human assets,Infrastructure (build-up area),1,mea,Damage to critical infrastructure,Knowledge systems,Information on society and socio-economics
+damage to critical infrastructure,SDG,Human assets,Infrastructure,1,mea,Damage to critical infrastructure,Knowledge systems,Information on society and socio-economics
 days of heavy precipitation,IPCC,Ecosystems,Abiotic conditions,1,assessment,days of heavy precipitation,NA,NA
 death rate due to road traffic injuries,SDG,Human assets,Coverage of basic needs,1,mea,Death rate due to road traffic injuries,NA,NA
 deaths due to unsafe water,GEO,Human well-being,Healthy living conditions,1,assessment,deaths due to unsafe water,Direct drivers,Pollution
@@ -295,13 +295,13 @@ democracy,GEO,Knowledge systems,Information on society and socio-economics,1,ass
 dendritic connectivity index,GBF,Ecosystems,State of ecosystems,1,mea,Dendritic Connectivity Index,NA,NA
 density of preferred and palatable species,IPBES,Biodiversity,State of biodiversity,1,assessment,density of preferred and palatable species,NA,NA
 developing countries' and least developed countries' share of global exports,IPBES;SDG,Human assets,State of economy,2,both,Developing countries’ and least developed countries’ share of global exports,NA,NA
-development of crop varieties or landraces,IPBES,Knowledge systems,ILK,1,assessment,development of crop varieties or landraces,NA,NA
+development of crop varieties or landraces,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,development of crop varieties or landraces,NA,NA
 dietary health and sustainability,GEO,Human well-being,Healthy living conditions,1,assessment,dietary health and sustainability,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 direct co2 air measurements,IPCC,Ecosystems,State of ecosystems,1,assessment,direct CO2 air measurements,NA,NA
 direct economic loss attributed to disasters in relation to global gross domestic product (gdp),IPBES;SDG,Human assets,State of economy,2,both,"Direct economic loss attributed to disasters in relation to global gross domestic product (GDP) | Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters",NA,NA
 disability-adjusted life years (dalys) lost,GEO,Human well-being,Healthy living conditions,1,assessment,disability-adjusted life years (DALYs) lost,NA,NA
-discontinued traditional land-management practices,IPBES,Knowledge systems,ILK,1,assessment,discontinued traditional land-management practices,Ecosystems,Area conservation
-distance travelled to harvest resources,IPBES,Knowledge systems,ILK,1,assessment,distance travelled to harvest resources | time needed or distance travelled to harvest resources | distance travelled to reach a resource,NA,NA
+discontinued traditional land-management practices,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,discontinued traditional land-management practices,Ecosystems,Area conservation
+distance travelled to harvest resources,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,distance travelled to harvest resources | time needed or distance travelled to harvest resources | distance travelled to reach a resource,NA,NA
 distribution of marine biota,IPCC,Biodiversity,State of biodiversity,1,assessment,Distribution of marine biota,NA,NA
 distribution of terrestrial biota,IPCC,Biodiversity,State of biodiversity,1,assessment,distribution of terrestrial biota,NA,NA
 diversity of competent hosts of vector-borne diseases,IPBES,Biodiversity,Genetic diversity,1,assessment,Diversity of competent hosts of vector-borne diseases,Direct drivers,(Infectious) diseases
@@ -319,7 +319,7 @@ droughts,IPBES,Ecosystems,Abiotic conditions,1,assessment,droughts,Direct driver
 early nimbus satellite visible and infrared imagery,IPCC,Ecosystems,State of ecosystems,1,assessment,Early Nimbus satellite visible and infrared imagery,NA,NA
 ecolabel index,IPBES,Ecosystem services,Nature contribution,1,assessment,Ecolabel Index,NA,NA
 ecological footprint,GBF;GEO;IPBES,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,3,both,Ecological footprint | Ecological Footprint | ecological footprint | Ecological Footprint (number of earths needed to support human society)†,NA,NA
-economic damages due to river floods,IPCC,Human assets,Infrastructure (build-up area),1,assessment,economic damages due to river floods,Direct drivers,Natural drivers
+economic damages due to river floods,IPCC,Human assets,Infrastructure,1,assessment,economic damages due to river floods,Direct drivers,Natural drivers
 economic growth,GEO,Human assets,State of economy,1,assessment,economic growth,NA,NA
 economic inequality,IPCC,Human well-being,Equity,1,assessment,economic inequality,NA,NA
 economic value of bio-inspired production,IPBES,Ecosystem services,Specific monetary valuation of nature contribution,1,assessment,Economic value of bio-inspired production,NA,NA
@@ -330,23 +330,23 @@ eflow index,GBF,Ecosystems,State of ecosystems (freshwater/coastal),1,mea,Eflow 
 el niño-southern oscillation (enso),IPCC,Ecosystems,Abiotic conditions,1,assessment,El Niño–Southern Oscillation (ENSO),NA,NA
 el niño-southern oscillation (enso) bjerknes index,IPCC,Ecosystems,Abiotic conditions,1,assessment,El Niño–Southern Oscillation (ENSO) Bjerknes Index,NA,NA
 el niño-southern oscillation (enso) index,IPCC,Ecosystems,Abiotic conditions,1,assessment,El niño-southern oscillation (ENSO) index | el niño-southern oscillation (enso) index | El Niño–Southern Oscillation (ENSO) Index,NA,NA
-electric power consumption (kwh per capita),IPBES,Human assets,Infrastructure (build-up area),1,assessment,Electric power consumption (kWh per capita),NA,NA
+electric power consumption (kwh per capita),IPBES,Human assets,Infrastructure,1,assessment,Electric power consumption (kWh per capita),NA,NA
 emission of particular compounds,IPCC,Direct drivers,Climate change,1,assessment,emission of particular compounds,NA,NA
-emissions of ozone-depleting substances,GEO,Direct drivers,Pollution,1,assessment,Emissions of ozone-depleting substances | emissions of ozone-depleting substances,NA,NA
+emissions of ozone-depleting substances,GEO,Direct drivers,Climate change,1,assessment,Emissions of ozone-depleting substances | emissions of ozone-depleting substances,NA,NA
 employment in materials production,IPBES,Human assets,Income,1,assessment,Employment in materials production,Ecosystem services,Nature contribution
-encounter rates with supernatural forest dwelling entities,IPBES,Knowledge systems,ILK,1,assessment,encounter rates with supernatural forest dwelling entities,NA,NA
+encounter rates with supernatural forest dwelling entities,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,encounter rates with supernatural forest dwelling entities,NA,NA
 endemism richness,IPBES,Biodiversity,State of biodiversity,1,assessment,endemism richness,NA,NA
 energy consumption,GEO,Ecosystem services,Nature contribution,1,assessment,energy consumption,NA,NA
-energy content of bioenergy crops,IPBES,Human assets,Infrastructure (build-up area),1,assessment,Energy content of bioenergy crops,NA,NA
-energy intensity measured in terms of primary energy and gross domestic product,IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,Energy intensity measured in terms of primary energy and GDP,NA,NA
+energy content of bioenergy crops,IPBES,Human assets,Infrastructure,1,assessment,Energy content of bioenergy crops,NA,NA
+energy intensity measured in terms of primary energy and gross domestic product,IPBES;SDG,Human assets,Infrastructure,2,both,Energy intensity measured in terms of primary energy and GDP,NA,NA
 energy production,GEO,Ecosystem services,Nature contribution,1,assessment,energy production,NA,NA
 energy security from bio-energy and fuelwood,IPBES,Ecosystem services,Nature contribution,1,assessment,Energy security from bio-energy and fuelwood,NA,NA
-"energy supply derived from cereals, roots and tubers",IPBES,Human assets,Infrastructure (build-up area),1,assessment,"Energy supply derived from cereals, roots and tubers",NA,NA
-energy use (kg of oil equivalent per capita),IPBES,Human assets,Infrastructure (build-up area),1,assessment,Energy use (kg of oil equivalent per capita),NA,NA
+"energy supply derived from cereals, roots and tubers",IPBES,Human assets,Infrastructure,1,assessment,"Energy supply derived from cereals, roots and tubers",NA,NA
+energy use (kg of oil equivalent per capita),IPBES,Human assets,Infrastructure,1,assessment,Energy use (kg of oil equivalent per capita),NA,NA
 energy-intensity,GEO,Human assets,State of economy,1,assessment,energy-intensity,NA,NA
 enhanced vegetation index,GEO,Ecosystems,State of ecosystems (integrity),1,assessment,Enhanced Vegetation Index,NA,NA
 environmental awareness,IPBES,Knowledge systems,Specific information on human-nature relationship,1,assessment,environmental awareness,NA,NA
-environmental change,IPBES,Knowledge systems,ILK,1,assessment,environmental change,Ecosystems,Change in ecosystems
+environmental change,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,environmental change,Ecosystems,Change in ecosystems
 environmental component of the social sustainability index,IPBES,Ecosystems,State of ecosystems (coverage),1,assessment,Environmental Component of the Social Sustainability INDEX,NA,NA
 environmental performance index,IPBES,Ecosystems,State of ecosystems (coverage),1,assessment,Environmental performance index | Environmental Performance Index,NA,NA
 environmentally friendly policy processes,GEO,Governance,Nature-based legislation,1,assessment,environmentally friendly policy processes,NA,NA
@@ -365,13 +365,13 @@ excess of atmospheric evaporative demand (aed),IPCC,Ecosystems,Abiotic condition
 "existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",IPBES;SDG,Governance,Legislation/governance,2,both,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",NA,NA
 existence of independent national human rights institutions in compliance with the paris principles,SDG,Human well-being,Equity,1,mea,Existence of independent national human rights institutions in compliance with the Paris Principles,NA,NA
 expansion of oligotrophic subtropical gyres of the atlantic and pacific oceans,IPCC,Ecosystems,State of ecosystems (marine),1,assessment,Expansion of oligotrophic subtropical gyres of the Atlantic and Pacific Oceans,NA,NA
-expansion of settlements,IPBES,Human assets,Infrastructure (build-up area),1,assessment,expansion of settlements,NA,NA
+expansion of settlements,IPBES,Human assets,Infrastructure,1,assessment,expansion of settlements,NA,NA
 exposure to ambient pm,GEO,Human well-being,Healthy living conditions,1,assessment,exposure to ambient PM,NA,NA
 exposure to high concentrations of pollutants,GEO,Direct drivers,Pollution,1,assessment,exposure to high concentrations of pollutants,NA,NA
 exposure to pm concentrations (population-weighted annual mean concentration of pm2.5),GEO;IPCC,Direct drivers,Pollution,2,assessment,Population-weighted annual mean concentration of PM2.5 | Exposure to PM concentrations (Population-weighted annual mean concentration of PM2.5) | population-weighted PM2.5 concentrations,NA,NA
 extent of agricultural land,IPBES,Direct drivers,Land conversion,1,assessment,Extent of agricultural land | Agricultural land,Ecosystems,State of ecosystems
 extent of ecosystems that filter or add constituent components to water,IPBES,Ecosystem services,Nature contribution,1,assessment,Extent of ecosystems that filter or add constituent components to water,NA,NA
-extent of indigenous peoples and local communities lands that have some form of recognition,GBF,Knowledge systems,Specific information on ILK and IPLC,1,mea,Extent of indigenous peoples and local communities lands that have some form of recognition,Human well-being,Equity
+extent of indigenous peoples and local communities lands that have some form of recognition,GBF,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,1,mea,Extent of indigenous peoples and local communities lands that have some form of recognition,Human well-being,Equity
 extent of intact forest landscapes,IPBES,Ecosystems,State of ecosystems (integrity),1,assessment,Extent of intact forest landscapes,NA,NA
 extent of marine calcification benefits from coral reefs,IPBES,Ecosystem services,Nature contribution,1,assessment,Extent of marine calcification Benefits from coral reefs,NA,NA
 extent of marine wilderness,IPBES,Ecosystems,State of ecosystems (marine),1,assessment,Extent of marine wilderness,NA,NA
@@ -394,7 +394,7 @@ extraction biomass feed,IPBES,Direct drivers,Specific mention of over-exploitati
 extraction biomass food,IPBES,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,1,assessment,Extraction biomass food,NA,NA
 extraction biomass forestry,IPBES,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,1,assessment,Extraction Biomass Forstry,NA,NA
 extraction fossil-fuel,IPBES,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,1,assessment,Extraction fossil fuel,NA,NA
-extraction of industrial and construction minerals,IPBES,Human assets,Infrastructure (build-up area),1,assessment,Extraction of ind. & const. minerals,NA,NA
+extraction of industrial and construction minerals,IPBES,Human assets,Infrastructure,1,assessment,Extraction of ind. & const. minerals,NA,NA
 extraction of living biomass,IPBES,Ecosystem services,Nature contribution,1,assessment,Extraction of living biomass,NA,NA
 extraction of non-human materials,IPBES,Ecosystem services,Nature contribution,1,assessment,Extraction of non-human materials,NA,NA
 extraction of non-living materials,IPBES,Ecosystem services,Nature contribution,1,assessment,Extraction of non-living materials,NA,NA
@@ -431,7 +431,7 @@ food security index,IPBES,Human assets,Coverage of basic needs,1,assessment,Food
 food waste,GEO,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,1,assessment,food waste,Human assets,Coverage of basic needs
 food waste index,GBF;IPBES;SDG,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,3,both,Food waste index | food waste index,Human assets,Coverage of basic needs
 "foreign direct investment (fdi), official development assistance and south-south cooperation as a proportion of total domestic budget",GBF;IPBES,Governance,Nature-based funding,2,both,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget | Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income",NA,NA
-forest and its role in protecting water sources,IPBES,Knowledge systems,ILK,1,assessment,Forest and its role in protecting water sources,NA,NA
+forest and its role in protecting water sources,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,Forest and its role in protecting water sources,NA,NA
 forest and land management,GEO,Ecosystems,Area conservation,1,assessment,forest and land management,NA,NA
 forest area as a percentage of total land area,GBF;GEO;IPBES;SDG,Ecosystems,State of ecosystems (coverage),4,both,Forest area as a proportion of total land area | forest area as a percentage of land area | Forest area as a percentage of total land area,NA,NA
 forest distribution,GBF,Ecosystems,State of ecosystems,1,mea,Forest distribution,NA,NA
@@ -447,7 +447,7 @@ fraction of absorbed photosynthetically active radiation (fapar),IPCC,Ecosystems
 fraction of ocean not fished per year,IPBES,Ecosystems,State of ecosystems,1,assessment,Fraction of ocean not fished per year,Direct drivers,Land conversion
 fraction of precipitation falling as snow,IPCC,Ecosystems,Abiotic conditions,1,assessment,the fraction of precipitation falling as snow,Ecosystems,State of ecosystems
 free flowing rivers,GBF,Ecosystems,State of ecosystems (freshwater/coastal),1,mea,Free flowing rivers,NA,NA
-free tropospheric ozone,IPCC,Ecosystems,Abiotic conditions,1,assessment,Free tropospheric ozone,NA,NA
+free tropospheric ozone,IPCC,Direct drivers,Climate change,1,assessment,Free tropospheric ozone,NA,NA
 freshwater change over time,GEO,Ecosystem services,Nature contribution,1,assessment,freshwater change over time,NA,NA
 fuel aridity,IPCC,Ecosystems,Abiotic conditions,1,assessment,Fuel aridity,NA,NA
 full exceedance probability distribution of coastal erosion volume,IPCC,Ecosystems,Change in ecosystems,1,assessment,full exceedance probability distribution of coastal erosion volume,NA,NA
@@ -468,19 +468,19 @@ genesis potential index,IPCC,Direct drivers,Natural drivers,1,assessment,Genesis
 genetic diversity,IPBES,Biodiversity,Genetic diversity,1,assessment,genetic diversity | Genetic diversity,NA,NA
 genetic scorecard for wild species,GBF,Biodiversity,Genetic resources,1,mea,Genetic scorecard for wild species,NA,NA
 genuine progress indicator (gpi),IPBES,Human well-being,Healthy living conditions,1,assessment,genuine progress INDICATOR | genuine progress indicator (GPI) | Genuine Progress INDICATOR (GPI) | Genuine Progress INDICATOR | Genuine Progress Indicator (GPI) | Genuine Progress indicator,NA,NA
-geographical overlay of linguistic diversity and biodiversity,IPBES,Knowledge systems,Specific information on ILK and IPLC,1,assessment,Geographical Overlay of Linguistic Diversity and Biodiversity,Knowledge systems,Information on biodiversity
+geographical overlay of linguistic diversity and biodiversity,IPBES,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,1,assessment,Geographical Overlay of Linguistic Diversity and Biodiversity,Knowledge systems,Information on biodiversity
 ghs effective radiative forcing,IPCC,Direct drivers,Climate change,1,assessment,GHS effective radiative forcing,NA,NA
 gini index,IPBES,Human well-being,Equity,1,assessment,Gini Index,NA,NA
 glacier mass and extent,IPCC,Ecosystems,Change in ecosystems,1,assessment,Glacier mass and extent,NA,NA
 glacier mass balance,GEO;IPBES;IPCC,Ecosystems,Change in ecosystems,3,assessment,Glacier Mass balance | Glacial mass balance | glacier mass loss | Glacier areal and mass changes/loss rate | Glaciar mass loss | Glacial mass balance (mm water equivalent),NA,NA
-global annual mean tropospheric ozone burden,IPCC,Direct drivers,Climate change,1,assessment,global annual mean tropospheric ozone burden,Ecosystems,Abiotic conditions
-global atmospheric co levels,GEO,Ecosystems,Abiotic conditions,1,assessment,global atmospheric CO levels,NA,NA
+global annual mean tropospheric ozone burden,IPCC,Direct drivers,Climate change,1,assessment,global annual mean tropospheric ozone burden,NA,NA
+global atmospheric carbon monoxide (co) levels,GEO,Ecosystems,Abiotic conditions,1,assessment,global atmospheric CO levels,NA,NA
 global bird richness (csar),IPBES,Biodiversity,State of biodiversity,1,assessment,Global bird richness (cSAR),NA,NA
 global capacity,GEO,Ecosystem services,Specific mention of sustainable use of species/ecosystems,1,assessment,Global capacity,Knowledge systems,Specific information on human-nature relationship
 global carbon budget,IPCC,Ecosystem services,Nature contribution,1,assessment,Global carbon budget,NA,NA
 global climate risk index,IPBES,Direct drivers,Climate change,1,assessment,climate risk index | Global climate risk Index,NA,NA
 global coral reef extent,GBF,Biodiversity,State of biodiversity,1,mea,Global coral reef extent,NA,NA
-global ecosystem restoration index,GBF;IPBES,Ecosystems,Area conservation,2,both,Global Ecosystem Restoration Index,NA,NA
+global ecosystem restoration index,GBF;IPBES,Ecosystems,Restoration efforts,2,both,Global Ecosystem Restoration Index,NA,NA
 global effort in bottom-trawling,IPBES,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,1,assessment,Global effort in bottom trawling | global effort in bottom trawling | Global effort in bottom-trawling | Global effort in bottom-trawling (kW sea-days),NA,NA
 global energy budget,IPCC,Governance,Legislation/governance,1,assessment,global energy budget | Global Energy Budget,NA,NA
 global environmental impacts of consumption,GBF,Direct drivers,Land conversion,1,mea,Global environmental impacts of consumption,NA,NA
@@ -490,7 +490,7 @@ global funding for resourcing of biological invasions policy and management impl
 global greening/browning,IPCC,Direct drivers,Climate change,1,assessment,global greening/browning,NA,NA
 global human settlement layer (ghsl),GEO,Knowledge systems,Information on society and socio-economics,1,assessment,Global Human Settlement Layer (GHSL),NA,NA
 global imports of information and communication technology (ict) goods as presented by bilateral trade flows by ict goods categories,GBF,Knowledge systems,Information on society and socio-economics,1,mea,Global imports of information and communication technology (ICT) goods as presented by bilateral trade flows by ICT goods categories,Human assets,State of economy
-global index on indigenous peoples' well-being,IPBES,Knowledge systems,Specific information on ILK and IPLC,1,assessment,Global index on indigenous peoples' well-being,NA,NA
+global index on indigenous peoples' well-being,IPBES,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,1,assessment,Global index on indigenous peoples' well-being,NA,NA
 global land precipitation,IPCC,Ecosystems,Abiotic conditions,1,assessment,global land precipitation,NA,NA
 global mammal and bird species remaining,IPBES,Biodiversity,State of biodiversity,1,assessment,Global mammal & bird species remaining,NA,NA
 global mean ocean surface ph,IPCC,Ecosystems,Abiotic conditions,1,assessment,pH of ocean surface water | Ocenan pH | global mean ocean surface pH | ocean pH,NA,NA
@@ -539,17 +539,17 @@ habitat conditions,IPBES,Ecosystems,State of ecosystems,1,assessment,Habitat con
 habitat distributional range,GBF,Ecosystems,State of ecosystems,1,mea,Habitat distributional range,NA,NA
 habitat loss,GEO,Ecosystems,Change in ecosystems,1,assessment,habitat loss,NA,NA
 habitat patches located within marine protected areas or integrated coastal zone management (iczm),GBF,Ecosystems,Area conservation,1,mea,Habitat patches located within marine protected areas or integrated coastal zone management (ICZM),NA,NA
-habitat quality,IPBES,Knowledge systems,ILK,1,assessment,habitat quality,Ecosystems,State of ecosystems
+habitat quality,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,habitat quality,Ecosystems,State of ecosystems
 hadley circulation cell,IPCC,Ecosystems,Abiotic conditions,1,assessment,Hadley circulation cell,NA,NA
 hadley/walker circulation,IPCC,Ecosystems,Abiotic conditions,1,assessment,Hadley/Walker circulation,NA,NA
 happiness,IPBES,Human well-being,Wellness,1,assessment,happiness,NA,NA
 happy planet index,IPBES,Human well-being,Wellness,1,assessment,Happy Planet INDEX | Happy Planet Index,NA,NA
-harvest intensity,IPBES,Knowledge systems,ILK,1,assessment,harvest intensity,Ecosystem services,Nature contribution
+harvest intensity,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,harvest intensity,Ecosystem services,Nature contribution
 hazardous waste,GBF;IPBES;SDG,Direct drivers,Pollution,3,both,Hazardous waste generation | Hazardous waste generated per capita,NA,NA
 health associated with intake of pollinator dependent foods,IPBES,Human well-being,Healthy living conditions,1,assessment,Health associated with intake of pollinator dependent foods,Direct drivers,Pollution
 health condition and body size of wild animals decrease,IPBES,Biodiversity,Change in biodiversity,1,assessment,health condition and body size of wild animals decrease,NA,NA
 health of the forest,IPBES,Ecosystems,State of ecosystems,1,assessment,health of the forest,NA,NA
-health of the soil,IPBES,Knowledge systems,ILK,1,assessment,health of the soil,Ecosystems,Abiotic conditions
+health of the soil,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,health of the soil,Ecosystems,Abiotic conditions
 health worker density and distribution,SDG,Human well-being,Healthy living conditions,1,mea,Health worker density and distribution,Human assets,Coverage of basic needs
 heat index (hi),IPCC,Ecosystems,Abiotic conditions,1,assessment,Heat Index (HI) | Heat Index (hi),NA,NA
 heat stress (humidity and temperature),IPCC,Ecosystems,Abiotic conditions,1,assessment,heat stress (humidity and temperature),NA,NA
@@ -569,7 +569,7 @@ human footprint,IPBES,Direct drivers,Specific mention of over-exploitation and u
 human population density,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,Human population density | Population density,NA,NA
 human population size,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,total population | Population size | population size | Human population size,NA,NA
 humidity,IPCC,Ecosystems,Abiotic conditions,1,assessment,humidity,NA,NA
-hunting success,IPBES,Knowledge systems,ILK,1,assessment,hunting success,Ecosystem services,Nature contribution
+hunting success,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,hunting success,Ecosystem services,Nature contribution
 hydrological deficits,IPCC,Ecosystems,Abiotic conditions,1,assessment,hydrological deficits,NA,NA
 ice core measurements,IPCC,Ecosystems,State of ecosystems,1,assessment,ice core records | Ice cores | Ice Core Measurements,Direct drivers,Climate change
 ideas and products mimicking or inspired by nature,IPBES,Knowledge systems,Specific information on human-nature relationship,1,assessment,Ideas and products mimicking or inspired by nature,NA,NA
@@ -616,12 +616,12 @@ indicators related to the relevant sectors especially using or linking to releva
 individual deprivation measure,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,Individual Deprivation Measure,NA,NA
 "information provided through the financial reporting framework, adopted by decision xii/3",IPBES,Governance,Legislation/governance,1,assessment,"Information provided through the financial reporting framework, adopted by decision XII/3",NA,NA
 inland fishery production,IPBES,Ecosystem services,Nature contribution,1,assessment,Inland fishery production | inland fishery production,NA,NA
-installed renewable energy-generating capacity in developing countries (in watts per capita),IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,Installed renewable energy-generating capacity in developing and developed countries (in watts per capita) | Installed renewable energy-generating capacity in developing countries (in watts per capita),Ecosystem services,Specific mention of sustainable use of species/ecosystems
+installed renewable energy-generating capacity in developing countries (in watts per capita),IPBES;SDG,Human assets,Infrastructure,2,both,Installed renewable energy-generating capacity in developing and developed countries (in watts per capita) | Installed renewable energy-generating capacity in developing countries (in watts per capita),Ecosystem services,Specific mention of sustainable use of species/ecosystems
 intact wilderness,GBF,Ecosystems,State of ecosystems,1,mea,Intact Wilderness | Intact wilderness,NA,NA
 "integration of biodiversity into national accounting and reporting systems, defined as implementation of the system of environmental-economic accounting (seea)",GBF;IPBES;SDG,Governance,Nature-based legislation,3,both,"Number of countries with Implementation of the System of Environmental Economic Accounting | Integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting. | integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting | number of countries implementing the system of environmental economic accounting | number of countries that have integrated biodiversity values into national accounting and reporting systems, defined as implementation of the system of environmental-economic accounting (SEEA)",NA,NA
 integration of education for sustainable development (esd) in curricula,GEO,Knowledge systems,Specific information on human-nature relationship,1,assessment,integration of education for sustainable development (ESD) in curricula,NA,NA
 integration of education for sustainable development (esd) in higher education,GEO,Knowledge systems,Specific information on human-nature relationship,1,assessment,integration of education for sustainable development (ESD) in higher education,NA,NA
-intensity of weather,IPBES,Knowledge systems,ILK,1,assessment,intensity of weather,Ecosystems,Abiotic conditions
+intensity of weather,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,intensity of weather,Ecosystems,Abiotic conditions
 inter-decadal pacific oscillation (ipo) index,IPCC,Ecosystems,Abiotic conditions,1,assessment,Inter-decadal Pacific Oscillation (IPO) Index,NA,NA
 inter-tropical convergence zone (itcz) narrowing,IPCC,Ecosystems,Abiotic conditions,1,assessment,Inter-tropical Convergence Zone (ITCZ) narrowing,NA,NA
 interannual variability of primary production (pp),IPCC,Ecosystems,State of ecosystems,1,assessment,Interannual variability of primary production (PP),NA,NA
@@ -631,7 +631,7 @@ international migrant stock,IPBES,Knowledge systems,Information on society and s
 "international tourism, number of arrivals",IPBES,Human well-being,Recreation,1,assessment,"International tourism, number of arrivals",NA,NA
 "international tourism, number of departures",IPBES,Human well-being,Recreation,1,assessment,"International tourism, number of departures",NA,NA
 interventions to limit spread and reduce impact of alien species,IPBES,Direct drivers,Invasive alien species,1,assessment,Interventions to limit spread and reduce impact of alien species,NA,NA
-invasive alien species are given new names by indigenous peoples and local communities,IPBES,Knowledge systems,ILK,1,assessment,invasive alien species are given new names by Indigenous Peoples and local communities,NA,NA
+invasive alien species are given new names by indigenous peoples and local communities,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,invasive alien species are given new names by Indigenous Peoples and local communities,NA,NA
 invasive alien species impact,IPBES,Direct drivers,Invasive alien species,1,assessment,invasive alien species impact,NA,NA
 invertebrate abundance and biomass,GEO,Biodiversity,State of biodiversity,1,assessment,invertebrate abundance and biomass,NA,NA
 investment costs of groundwater abstraction and desalination for continued water supply and sanitation of rapidly expanding cities,GEO,Governance,Legislation/governance,1,assessment,investment costs of groundwater abstraction and desalination for continued water supply and sanitation of rapidly expanding cities,Human well-being,Healthy living conditions
@@ -671,7 +671,7 @@ life cycle impact assessment (lcia),GBF,Knowledge systems,Information on society
 life expectancy,GEO;IPBES,Human well-being,Healthy living conditions,2,assessment,life expectancy | life expectancy at birth,Knowledge systems,Information on society and socio-economics
 life satisfaction,IPBES,Human well-being,Wellness,1,assessment,life satisfaction,NA,NA
 lightning frequency,IPCC,Ecosystems,Abiotic conditions,1,assessment,Lightning frequency,NA,NA
-linguistic diversity index,GBF;IPBES,Knowledge systems,Specific information on ILK and IPLC,2,both,Index of Linguistic Diversity | Global Index of Linguistic Diversity and language threat level | index of linguistic diversity,Human well-being,Cultural diversity
+linguistic diversity index,GBF;IPBES,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,2,both,Index of Linguistic Diversity | Global Index of Linguistic Diversity and language threat level | index of linguistic diversity,Human well-being,Cultural diversity
 live coral cover,GBF;IPBES,Biodiversity,State of biodiversity,2,both,Live coral cover | Hard coral cover and composition | Percentage live coral cover | live coral cover on reefs | Percentage of live coral cover | live coral cover | percentage of live coral cover,Ecosystems,State of ecosystems
 livelihood dependence,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,livelihood dependence,NA,NA
 livestock density of animals (chickens),IPBES,Biodiversity,State of biodiversity,1,assessment,livestock density of animals (chickens),Ecosystem services,Specific monetary valuation of nature contribution
@@ -707,7 +707,7 @@ mammalian body mass,IPBES,Biodiversity,State of biodiversity,1,assessment,Mammal
 mammalian range size,IPBES,Biodiversity,State of biodiversity,1,assessment,Mammalian range size,NA,NA
 management effectiveness of areas protected specifically for migratory species,CMS,Ecosystems,Area conservation,1,mea,Management effectiveness of areas protected specifically for migratory species,NA,NA
 manufacturing employment as a proportion of total employment,IPBES;SDG,Human assets,Coverage of basic needs,2,both,Manufacturing employment as a proportion of total employment,NA,NA
-manufacturing value added as a proportion of gross domestic product and per capita,IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,Manufacturing value added as a proportion of GDP and per capita,NA,NA
+manufacturing value added as a proportion of gross domestic product and per capita,IPBES;SDG,Human assets,Infrastructure,2,both,Manufacturing value added as a proportion of GDP and per capita,NA,NA
 marine air temperature,GEO,Ecosystems,Abiotic conditions,1,assessment,marine air temperature,NA,NA
 marine cloudiness over mc,IPCC,Ecosystems,Abiotic conditions,1,assessment,marine cloudiness over MC,NA,NA
 marine litter,GEO,Direct drivers,Pollution,1,assessment,Marine litter,NA,NA
@@ -734,7 +734,7 @@ mean annual change in above-ground biomass,IPBES,Ecosystems,Change in ecosystems
 mean annual precipitation,IPBES,Ecosystems,Abiotic conditions,1,assessment,mean annual precipitation,NA,NA
 mean annual temperature,IPBES;IPCC,Ecosystems,Abiotic conditions,2,assessment,mean annual temperature | mean air temperature,NA,NA
 mean body length,IPBES,Biodiversity,State of biodiversity,1,assessment,Mean body length,NA,NA
-mean body mass,IPBES,Knowledge systems,ILK,1,assessment,mean body mass,Biodiversity,State of biodiversity
+mean body mass,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,mean body mass,Biodiversity,State of biodiversity
 mean length of fish,IPBES,Biodiversity,State of biodiversity,1,assessment,Mean length of fish | mean length of fish,NA,NA
 mean polar sea ice extent,GEO;IPBES,Ecosystems,State of ecosystems,2,assessment,extent of ice cover | Mean polar sea ice extent | Mean polar sea ice extent (million km2),NA,NA
 mean species abundance (msa),GBF;IPBES,Biodiversity,State of biodiversity,2,both,Mean Species Abundance (MSA) | Mean Species Abundance | Mean Species abundance Index | Mean species abundance | Mean Species Abundance Index | Mean Species Abundance index,NA,NA
@@ -748,7 +748,7 @@ migration net,IPBES,Governance,Legislation/governance,1,assessment,Migration Net
 migratory birds threatened or near threatened on the red list index,IPBES,Biodiversity,State of biodiversity,1,assessment,migratory birds threatened or Near Threatened on the IUCN Red List,Biodiversity,Species conservation
 millenium development goals indicators,GEO,Governance,Legislation/governance,1,assessment,Millenium Development Goals Indicators,Human well-being,Healthy living conditions
 minimum temperature,IPCC,Ecosystems,Abiotic conditions,1,assessment,Minimum temperature,NA,NA
-mobile cellular subscriptions,IPBES,Human assets,Infrastructure (build-up area),1,assessment,Mobile cellular subscriptions,NA,NA
+mobile cellular subscriptions,IPBES,Human assets,Infrastructure,1,assessment,Mobile cellular subscriptions,NA,NA
 monetary benefits received in accordance with applicable internationally agreed access and benefit-sharing instruments,GBF,Governance,National/international cooperation,1,mea,Monetary benefits received in accordance with applicable internationally agreed Access and Benefit-sharing instruments | Indicator on monetary benefits received,NA,NA
 monthly drought code fire index,IPCC,Direct drivers,Natural drivers,1,assessment,Monthly Drought Code fire INDEX,NA,NA
 monthly maximum value of daily maximum temperature,IPCC,Ecosystems,Abiotic conditions,1,assessment,Monthly maximum value of daily maximum temperature,Direct drivers,Climate change
@@ -771,10 +771,10 @@ national greenhouse inventories from land use and land use change,GBF,Direct dri
 national oceanic and atmospheric administration annual greenhouse gas index (aggi),GEO,Direct drivers,Climate change,1,assessment,greenhouse gas INDEX (National Oceanic and Atmospheric Administration) | National Oceanic and Atmospheric Administration Annual Greenhouse Gas INDEX (AGGI),Direct drivers,Pollution
 "national recycling rate, tons of material recycled",GBF;IPBES;SDG,Knowledge systems,Specific information on human-nature relationship,3,both,"Recycling rate | National recycling rate, tons of material recycled",NA,NA
 nationally maintained research vessels,GBF,Knowledge systems,Information on society and socio-economics,1,mea,Nationally maintained research vessels,NA,NA
-native newcomer species arrive,IPBES,Knowledge systems,ILK,1,assessment,native newcomer species arrive | native newcomer species,NA,NA
+native newcomer species arrive,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,native newcomer species arrive | native newcomer species,NA,NA
 natural habitat extent,IPBES,Ecosystems,State of ecosystems,1,assessment,Natural habitat extent | Percentage natural habitat extent,NA,NA
 natural habitat in agriculture,IPBES,Ecosystems,State of ecosystems,1,assessment,Natural habitat in agriculture,NA,NA
-natural medicinal products and manufactured bio-derived medicines,IPBES,Knowledge systems,Specific information on ILK and IPLC,1,assessment,Natural medicinal products and manufactured bio-derived medicines,NA,NA
+natural medicinal products and manufactured bio-derived medicines,IPBES,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,1,assessment,Natural medicinal products and manufactured bio-derived medicines,NA,NA
 nature risk index,IPBES,Direct drivers,Natural drivers,1,assessment,nature risk INDEX,NA,NA
 neonatal mortality rate,SDG,Human well-being,Healthy living conditions,1,mea,Neonatal mortality rate,NA,NA
 net climate feedback,IPCC,Ecosystem services,Nature contribution,1,assessment,Net climate feedback,NA,NA
@@ -835,7 +835,7 @@ number of countries (and number of instruments) with payments for ecosystem serv
 "number of countries adopting relevant regulation, processes and measures and allocating resources to reduce the impact of invasive alien species",GBF,Governance,Nature-based funding,1,mea,"Number of countries adopting relevant regulation, processes and measures and allocating resources to reduce the impact of invasive alien species.",Direct drivers,Invasive alien species
 number of countries and institutions that have provided additional funding from cites authorities to another country or activity for conservation and sustainable development projects in order to further the objectives of the convention,CITES,Governance,National/international cooperation,1,mea,Number of countries and institutions that have provided additional funding from CITES Authorities to another country or activity for conservation and sustainable development projects in order to further the objectives of the Convention.,Governance,Nature-based funding
 "number of countries developing, adopting or implementing policy instruments aimed at encouraging and enabling people to make sustainable consumption choices",GBF;IPBES;SDG,Governance,Nature-based legislation,3,both,"Number of countries developing, adopting or implementing policy instruments aimed at encouraging and enabling people to make sustainable consumption choices. | Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production",Ecosystem services,Specific mention of sustainable use of species/ecosystems
-"number of countries implementing national legislation, policies or other measures regarding fpic related to conservation",GBF,Knowledge systems,Specific information on ILK and IPLC,1,mea,"Number of countries implementing national legislation, policies or other measures regarding FPIC related to conservation would work here for IPs (not necessarily LCs), if spatial planning was substituted for conservation. | Number of countries implementing national legislation, policies or other measures regarding FPIC related to conservation",Governance,Nature-based legislation
+"number of countries implementing national legislation, policies or other measures regarding fpic related to conservation",GBF,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,1,mea,"Number of countries implementing national legislation, policies or other measures regarding FPIC related to conservation would work here for IPs (not necessarily LCs), if spatial planning was substituted for conservation. | Number of countries implementing national legislation, policies or other measures regarding FPIC related to conservation",Governance,Nature-based legislation
 "number of countries implementing natural resource accounts, excluding energy, within the system of environmental economic accounting",IPBES,Governance,Nature-based legislation,1,assessment,"The number of countries implementing natural resource accounts, excluding energy, within the system of environmental economic accounting",NA,NA
 number of countries implementing nbsaps,IPBES,Governance,Nature-based legislation,1,assessment,number of countries implementing NBSAPs,NA,NA
 number of countries implementing sustainable public procurement policies and action plans,IPBES;SDG,Governance,Nature-based legislation,2,both,Number of countries implementing sustainable public procurement policies and action plans | Degree of sustainable public procurement policies and action plan implementation,NA,NA
@@ -876,7 +876,7 @@ number of countries with biodiversity relevant tradable permit schemes,GBF;IPBES
 number of countries with biodiversity-inclusive urban planning referring to green or blue urban spaces,GBF,Governance,Nature-based legislation,1,mea,Number of countries with biodiversity-inclusive urban planning referring to green or blue urban spaces.,Ecosystems,Restoration efforts
 number of countries with developed or revised nbsaps,IPBES,Governance,Nature-based legislation,1,assessment,Number of countries with developed or revised NBSAPs | Percentage of countries with revised NBSAPs†,NA,NA
 "number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",SDG,Human well-being,Equity,1,mea,"Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",NA,NA
-number of countries with legal and technical measures for restoration and compensation,GBF,Governance,Nature-based funding,1,mea,Number of countries with legal and technical measures for restoration and compensation,NA,NA
+number of countries with legal and technical measures for restoration and compensation,GBF,Governance,Nature-based funding,1,mea,Number of countries with legal and technical measures for restoration and compensation,Ecosystems,Restoration efforts
 "number of countries with legal, administrative or policy frameworks, including the gender plan of action, as well as the allocation of specific financial resources to ensure that all women and girls have equal opportunity and capacity to contribute to the three objectives of the convention, including by ensuring women's equal rights and access to land and natural resources",GBF,Governance,National/international cooperation,1,mea,"Number of countries with legal, administrative or policy frameworks, including the Gender Plan of Action, as well as the allocation of specific financial resources to ensure that all women and girls have equal opportunity and capacity to contribute to the three objectives of the Convention, including by ensuring women’s equal rights and access to land and natural resources.",Governance,Nature-based legislation
 number of countries with mechanisms in place to enhance policy coherence of sustainable development,IPBES;SDG,Governance,Nature-based legislation,2,both,Number of countries with mechanisms in place to enhance policy coherence of sustainable development,NA,NA
 number of countries with mechanisms to facilitate the sharing of and access to information on potential adverse impacts of biotechnology on biodiversity and human health,GBF,Governance,Nature-based legislation,1,mea,Number of countries with mechanisms to facilitate the sharing of and access to information on potential adverse impacts of biotechnology on biodiversity and human health,NA,NA
@@ -939,7 +939,7 @@ number of parties with information on cites and its requirements on their offici
 number of people living on less than 1.90 usd per day,GEO,Human assets,State of economy,1,assessment,number of people living on less than 1.90 USD per day,NA,NA
 number of people migrating,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,Number of people migrating,NA,NA
 number of people requiring interventions against neglected tropical diseases,SDG,Human well-being,Healthy living conditions,1,mea,Number of people requiring interventions against neglected tropical diseases,Direct drivers,(Infectious) diseases
-"number of people using wild resources for energy, food or culture (including firewood collection, hunting and fishing, gathering, medicinal use, craft making, etc.)",GBF,Human assets,Infrastructure (build-up area),1,mea,"Number of people using wild resources for energy, food or culture (including firewood collection, hunting and fishing, gathering, medicinal use, craft making, etc.)",Ecosystem services,Specific mention of sustainable use of species/ecosystems
+"number of people using wild resources for energy, food or culture (including firewood collection, hunting and fishing, gathering, medicinal use, craft making, etc.)",GBF,Human assets,Infrastructure,1,mea,"Number of people using wild resources for energy, food or culture (including firewood collection, hunting and fishing, gathering, medicinal use, craft making, etc.)",Ecosystem services,Specific mention of sustainable use of species/ecosystems
 number of people who died or disappeared in the process of migration towards an international destination,IPBES;SDG,Governance,Broken governance,2,both,Number of people who died or disappeared in the process of migration towards an international destination | Number of people who died or disappeared in the process of migration towards an international destinationi,NA,NA
 number of people without access to safe sanitation services,GEO,Human well-being,Healthy living conditions,1,assessment,number of people without access to safe sanitation services,NA,NA
 number of permits or their equivalents for genetic resources (including those related to traditional knowledge) by type of permit,GBF,Governance,Nature-based legislation,1,mea,"Number of permits or their equivalents for genetic resources (including those related to traditional knowledge) by type of permit | Total number of permits, or their equivalent, granted for access to genetic resources",Biodiversity,Genetic resources
@@ -966,7 +966,7 @@ number of social media links to world wetland day,RAMSAR,Knowledge systems,Speci
 number of species at risk of extinction,IPBES,Biodiversity,Change in biodiversity,1,assessment,Number of species at risk of extinction,NA,NA
 number of species extinctions,IPBES,Biodiversity,Change in biodiversity,1,assessment,Number of species extinctions | Number of extinctions,NA,NA
 number of strp briefing papers downloaded from the ramsar web site and subtotals by country and ramsar region of the source of these downloads,RAMSAR,Governance,National/international cooperation,1,mea,Number of STRP briefing papers downloaded from the Ramsar web site and subtotals by country and Ramsar Region of the source of these downloads. (Data source: Ramsar web-site analytics).,NA,NA
-number of studies on ias available per region,IPBES,Knowledge systems,Information on biodiversity,1,assessment,number of studies on IAS available per region,Direct drivers,Invasive alien species
+number of studies on invasive alien species (ias) available per region,IPBES,Knowledge systems,Information on biodiversity,1,assessment,number of studies on IAS available per region,Direct drivers,Invasive alien species
 number of summer days: annual count of days when tx (daily maximum temperature) >25°c,IPCC,Ecosystems,Abiotic conditions,1,assessment,Number of summer days: annual count of days when TX (daily maximum temperature) >25°C,Direct drivers,Climate change
 "number of surveys, studies or other analyses undertaken by exporting countries based on the sources of information cited in resolution conf. 16.7 (rev. cop17) on non-detriment findings related to - the population status of appendix-ii species; - the trends and impact of trade upon appendix-ii species; and - the status of and trend in naturally-occurring appendix i species and the impact of any recovery plans",CITES;IPBES,Knowledge systems,Information on biodiversity,2,both,"Number of surveys, studies or other analyses undertaken by exporting countries based on the sources of information cited in Resolution Conf. 16.7 (Rev. CoP17) on Non-detriment findings related to - the population status of Appendix-II species; - the trends and impact of trade upon Appendix-II species; and - the status of and trend in naturally-occurring Appendix I species and the impact of any recovery plans. | number of surveys of CITES listed species undertaken by exporting States to support non-detrimental findings",Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems
 number of threatened species by species group,GBF,Biodiversity,Species conservation,1,mea,Number of threatened species by species group,NA,NA
@@ -1033,9 +1033,9 @@ pan evaporation measurements,IPCC,Ecosystems,Abiotic conditions,1,assessment,pan
 "parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",SDG,Human assets,Coverage of basic needs,1,mea,"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",Knowledge systems,ILK
 "participation rate in organized learning (one year before the official primary entry age), by sex",SDG,Human assets,Coverage of basic needs,1,mea,"Participation rate in organized learning (one year before the official primary entry age), by sex",NA,NA
 "participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",SDG,Human assets,Coverage of basic needs,1,mea,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",NA,NA
-"passenger and freight volumes, by mode of transport",IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,"Passenger and freight volumes, by mode of transport | Passenger and freight volumes by mode of transport",NA,NA
+"passenger and freight volumes, by mode of transport",IPBES;SDG,Human assets,Infrastructure,2,both,"Passenger and freight volumes, by mode of transport | Passenger and freight volumes by mode of transport",NA,NA
 peatland extent and condition,GBF,Ecosystems,State of ecosystems (coverage),1,mea,Peatland extent and condition,NA,NA
-penman-monteith aed (atmospheric evaporative demand),IPCC,Ecosystems,Abiotic conditions,1,assessment,Penman-Monteith AED (atmospheric evaporative demand),NA,NA
+penman-monteith atmospheric evaporative demand (aed),IPCC,Ecosystems,Abiotic conditions,1,assessment,Penman-Monteith AED (atmospheric evaporative demand),NA,NA
 people per outlet mcdonals,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,People per ouletlet McDonals,NA,NA
 peoples' preferences or spending on safeguarding biodiversity and ecosystem services,IPBES,Knowledge systems,Specific information on human-nature relationship,1,assessment,peoples’ preferences or spending on safeguarding biodiversity and ecosystem services,NA,NA
 per capita calorie intake,IPBES,Human well-being,Healthy living conditions,1,assessment,caloric intake | calorie intake | per capita calorie intake,Human assets,Coverage of basic needs
@@ -1046,10 +1046,10 @@ percentage loss of red list indexed species from ramsar sites,RAMSAR,Biodiversit
 percentage of abroad land use footprint,IPBES,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,1,assessment,percentage of abroad land use footprint,NA,NA
 percentage of agricultural and urban areas,IPBES,Ecosystems,State of ecosystems (coverage),1,assessment,percentage of agricultural and urban areas,Knowledge systems,Information on society and socio-economics
 percentage of biosphere reserves that have a positive conservation outcome and effective management,GBF,Ecosystems,Area conservation,1,mea,Percentage of biosphere reserves that have a positive conservation outcome and effective management,Governance,Nature-based legislation
-percentage of bloodstream infections due to selected antimicrobial-resistant organisms,SDG,Direct drivers,(Infectious) diseases,1,mea,Percentage of bloodstream infections due to selected antimicrobial-resistant organisms,NA,NA
+percentage of bloodstream infections due to selected antimicrobial-resistant organisms,SDG,Direct drivers,Infectious diseases,1,mea,Percentage of bloodstream infections due to selected antimicrobial-resistant organisms,NA,NA
 percentage of contracting parties that have provided additional financial support through voluntary contributions to non-core funded convention activities,RAMSAR,Governance,Nature-based funding,1,mea,% of Contracting Parties that have provided additional financial support through voluntary contributions to non-core funded Convention activities. (National Reports to COP12).,NA,NA
 percentage of countries that have ratified the nagoya protocol,IPBES,Governance,Nature-based legislation,1,assessment,number of countries that have ratified the Nagoya Protocol | Percentage of countries that have ratified the Nagoya Protocol,NA,NA
-percentage of countries with systems in place for restoration and compensation of damage to conservation and sustainable use of biological diversity,GBF,Governance,Nature-based legislation,1,mea,Percentage of countries with systems in place for restoration and compensation of damage to conservation and sustainable use of biological diversity,NA,NA
+percentage of countries with systems in place for restoration and compensation of damage to conservation and sustainable use of biological diversity,GBF,Governance,Nature-based legislation,1,mea,Percentage of countries with systems in place for restoration and compensation of damage to conservation and sustainable use of biological diversity,Ecosystems,Restoration efforts
 percentage of cropped landscapes with at least 10 percent natural land,GBF,Ecosystems,State of ecosystems,1,mea,Percentage of cropped landscapes with at least 10 % natural land,NA,NA
 percentage of days when daily maximum temperature is greater than the 90th percentile,IPCC,Ecosystems,Abiotic conditions,1,assessment,Percentage of days when daily maximum temperature is greater than the 90th percentile,Direct drivers,Climate change
 percentage of days when daily maximum temperature is less than the 10th percentile,IPCC,Ecosystems,Abiotic conditions,1,assessment,Percentage of days when daily maximum temperature is less than the 10th percentile,Direct drivers,Climate change
@@ -1060,16 +1060,16 @@ percentage of global rural population with access to improved water resources,IP
 percentage of land and seas covered by biodiversity-inclusive spatial plans,GBF,Ecosystems,Area conservation,1,mea,Percentage of land and seas covered by biodiversity-inclusive spatial plans,NA,NA
 percentage of marine ecoregions covered by protected areas,IPBES,Ecosystems,Area conservation,1,assessment,Percentage of marine ecoregions covered by protected areas,NA,NA
 percentage of marine key biodiversity areas covered by protected areas,IPBES,Ecosystems,Area conservation,1,assessment,Percentage of marine Key Biodiversity Areas covered by protected areas,NA,NA
-percentage of parties having a national inventory of invasive alien species that currently or potentially impact the ecological character of wetlands,RAMSAR,Biodiversity,Change in biodiversity,1,mea,% of Parties having a national inventory of invasive alien species that currently or potentially impact the ecological character of wetlands. (Data source: National Reports).,Direct drivers,Invasive alien species
+percentage of parties having a national inventory of invasive alien species that currently or potentially impact the ecological character of wetlands,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties having a national inventory of invasive alien species that currently or potentially impact the ecological character of wetlands. (Data source: National Reports).,Direct drivers,Invasive alien species
 percentage of parties having national ramsar committees that include both governmental and non-governmental representation,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties having national Ramsar Committees that include both governmental and non-governmental representation. (Data source: new question for National Reports).,NA,NA
 percentage of parties reporting actions taken to implement incentive measures that encourage the conservation and wise use of wetlands,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties reporting actions taken to implement incentive measures that encourage the conservation and wise use of wetlands. (Data source: National Reports).,Ecosystems,Area conservation
 percentage of parties reporting actions taken to remove perverse incentive measures that discourage conservation and wise use of wetlands,RAMSAR,Governance,National/international cooperation,1,mea,% of Parties reporting actions taken to remove perverse incentive measures that discourage conservation and wise use of wetlands. (Data source: National Reports).,Ecosystems,Area conservation
-percentage of parties reporting having sufficient information to enforce the convention,CITES,Knowledge systems,Information on biodiversity,1,mea,Percentage of Parties reporting having sufficient information to enforce the Convention.,Governance,National/international cooperation
-percentage of parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs,CITES,Knowledge systems,Information on biodiversity,1,mea,Percentage of Parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs.,Governance,National/international cooperation
-"percentage of parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general",RAMSAR,Governance,National/international cooperation,1,mea,"% of Parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general. (Data source: National Reports).",NA,NA
-percentage of parties reporting to the ramsar secretariat all cases of negative human-induced change or likely change in the ecological character of ramsar sites pursuant to article 3.2,RAMSAR,Ecosystems,Change in ecosystems,1,mea,% of Parties reporting to the Ramsar Secretariat all cases of negative human-induced change or likely change in the ecological character of Ramsar Sites pursuant to Article 3.2. (Data source: National Reports).,Ecosystems,State of ecosystems (integrity)
-percentage of parties that co-developed or otherwise supported the capacity of indigenous peoples and local communities to pursue livelihoods,CITES,Knowledge systems,Specific information on ILK and IPLC,1,mea,Percentage of Parties that co-developed or otherwise supported the capacity of indigenous peoples and local communities to pursue livelihoods.,Governance,National/international cooperation
-percentage of parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin,RAMSAR,Ecosystem services,Specific mention of sustainable use of species/ecosystems,1,mea,% of Parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin. (Data source: National Reports).,Governance,Nature-based legislation
+percentage of parties reporting having sufficient information to enforce the convention,CITES,Knowledge systems,Information on biodiversity,1,mea,Percentage of Parties reporting having sufficient information to enforce the Convention.,Governance,Nature-based legislation
+percentage of parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs,CITES,Knowledge systems,Information on biodiversity,1,mea,Percentage of Parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs.,Governance,Nature-based legislation
+"percentage of parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general",RAMSAR,Governance,National/international cooperation,1,mea,"% of Parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general. (Data source: National Reports).",Governance,Nature-based legislation
+percentage of parties reporting to the ramsar secretariat all cases of negative human-induced change or likely change in the ecological character of ramsar sites pursuant to article 3.2,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties reporting to the Ramsar Secretariat all cases of negative human-induced change or likely change in the ecological character of Ramsar Sites pursuant to Article 3.2. (Data source: National Reports).,Ecosystems,State of ecosystems (integrity)
+percentage of parties that co-developed or otherwise supported the capacity of indigenous peoples and local communities to pursue livelihoods,CITES,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,1,mea,Percentage of Parties that co-developed or otherwise supported the capacity of indigenous peoples and local communities to pursue livelihoods.,Governance,National/international cooperation
+percentage of parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin. (Data source: National Reports).,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 percentage of parties that have adopted wetland policies or equivalent instruments that promote the wise use of their wetlands,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties that have adopted wetland policies or equivalent instruments that promote the wise use of their wetlands. (Data source: National Reports).,NA,NA
 percentage of parties that have been involved in the development and implementation of a regional initiative under the framework of the convention,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties that have been involved in the development and implementation of a Regional Initiative under the framework of the Convention. (Data source: National Reports).,NA,NA
 percentage of parties that have branded world wetlands day activities,RAMSAR,Knowledge systems,Specific information on human-nature relationship,1,mea,% of Parties that have branded World Wetlands Day activities. (Data source: National Reports).,NA,NA
@@ -1078,9 +1078,9 @@ percentage of parties that have effective cooperative management in place for sh
 percentage of parties that have established national action plans for wetland cepa,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties that have established national action plans for wetland CEPA. (Data source: National Reports).,NA,NA
 percentage of parties that have established networks including twinning arrangements nationally or internationally for knowledge sharing and training for wetlands that share common features,RAMSAR,Governance,National/international cooperation,1,mea,% of Parties that have established networks including twinning arrangements nationally or internationally for knowledge sharing and training for wetlands that share common features. (Data source: National Reports).,NA,NA
 percentage of parties that have established or reviewed national policies or guidelines on invasive wetland species control and management,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties that have established or reviewed national policies or guidelines on invasive wetland species control and management. (Data source: National Reports).,Direct drivers,Invasive alien species
-percentage of parties that have established restoration plans [or activities] for sites,RAMSAR,Ecosystems,Restoration efforts,1,mea,% of Parties that have established restoration plans [or activities] for sites. (Data source: National Reports).,NA,NA
-percentage of parties that have implemented effective restoration or rehabilitation projects,RAMSAR,Ecosystems,Restoration efforts,1,mea,% of Parties that have implemented effective restoration or rehabilitation projects. (Data source: National Reports).,NA,NA
-percentage of parties that have implemented programmes or projects that contribute to poverty alleviation objectives or food and water security plans,RAMSAR,Human well-being,Healthy living conditions,1,mea,% of Parties that have implemented programmes or projects that contribute to poverty alleviation objectives or food and water security plans. (Data source: National Reports).,NA,NA
+percentage of parties that have established restoration plans [or activities] for sites,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties that have established restoration plans [or activities] for sites. (Data source: National Reports).,Ecosystems,Restoration efforts
+percentage of parties that have implemented effective restoration or rehabilitation projects,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties that have implemented effective restoration or rehabilitation projects. (Data source: National Reports).,Ecosystems,Restoration efforts
+percentage of parties that have implemented programmes or projects that contribute to poverty alleviation objectives or food and water security plans,RAMSAR,Knowledge systems,Information on society and socio-economics,1,mea,% of Parties that have implemented programmes or projects that contribute to poverty alleviation objectives or food and water security plans. (Data source: National Reports).,Human well-being,Healthy living conditions
 percentage of parties that have included wetland issues within national policies or measures on agriculture,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties that have included wetland issues within National Policies or measures on agriculture. (Data source: National Reports).,Ecosystem services,Specific monetary valuation of nature contribution
 percentage of parties that have included wetland issues within national strategies and planning processes such as water resource management and water efficiency plans,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties that have included wetland issues within national strategies and planning processes such as water resource management and water efficiency plans. (Data source: National Reports) | % of Parties that have included wetland issues into national strategies and in the planning processes such as for water resource management and water efficiency plans. (Data source: National Reports).,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 percentage of parties that have incorporated wetlands issues into poverty eradication strategies,RAMSAR,Governance,Nature-based legislation,1,mea,% of Parties that have incorporated wetlands issues into poverty eradication strategies. (Data source: National Reports).,Human well-being,Healthy living conditions
@@ -1088,13 +1088,13 @@ percentage of parties that have made an assessment of national and local trainin
 percentage of parties that have made assessment of ecosystem services of ramsar sites,RAMSAR,Knowledge systems,Information on biodiversity,1,mea,% of Parties that have made assessment of ecosystem services of Ramsar Sites. (Data source: National Reports) | % of Parties that have made assessment of ecosystem services of Ramsar Sites. (Data source: National Reports).,Ecosystem services,Nature contribution
 percentage of parties that have made assessments of effective management of ramsar sites,RAMSAR,Knowledge systems,Information on biodiversity,1,mea,% of Parties that have made assessments of effective management of Ramsar Sites. (Data source: National Reports).,Ecosystems,Area conservation
 percentage of parties that have received funding support from development assistance agencies for national wetlands conservation and management,RAMSAR,Governance,Nature-based funding,1,mea,% of Parties that have received funding support from development assistance agencies for national wetlands conservation and management. (Data source: National Reports).,NA,NA
-percentage of parties that have taken actions to address the issues for which ramsar sites have been listed on the montreux record,RAMSAR,Ecosystems,State of ecosystems (integrity),1,mea,% of Parties that have taken actions to address the issues for which Ramsar Sites have been listed on the Montreux Record. (National Reports to COP12).,NA,NA
+percentage of parties that have taken actions to address the issues for which ramsar sites have been listed on the montreux record,RAMSAR,Governance,Nature-based funding,1,mea,% of Parties that have taken actions to address the issues for which Ramsar Sites have been listed on the Montreux Record. (National Reports to COP12).,NA,NA
 percentage of parties that have updated their national inventories in the last decade,RAMSAR,Knowledge systems,Information on biodiversity,1,mea,% of Parties that have updated their national inventories in the last decade. (Data source: new question for National Reports).,NA,NA
 percentage of parties to the cartagena protocol on biosafety implementing the relevant provisions of the protocol,GBF,Governance,Nature-based legislation,1,mea,Percentage of Parties to the Cartagena Protocol on Biosafety implementing the relevant provisions of the Protocol,NA,NA
 percentage of parties to the nagoya - kuala lumpur supplementary protocol,GBF,Governance,Nature-based legislation,1,mea,Percentage of Parties to the Nagoya - Kuala Lumpur Supplementary Protocol,NA,NA
 percentage of parties where co-ordination mechanisms for the implementation of meas exist at a national level,RAMSAR,Governance,National/international cooperation,1,mea,% of Parties where co-ordination mechanisms for the implementation of MEAs exist at a national level. (Data source: new question for National Reports).,NA,NA
 percentage of parties with a) a governmental cepa national focal point and b) a non-governmental national focal point,RAMSAR,Governance,National/international cooperation,1,mea,% of Parties with a) a governmental CEPA National Focal Point and b) a non-governmental National Focal Point (Data source: National Reports).,NA,NA
-percentage of population living in dense urban areas,IPBES,Human well-being,Healthy living conditions,1,assessment,Percentage of population living in dense urban areas,NA,NA
+percentage of population living in dense urban areas,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,Percentage of population living in dense urban areas,Human well-being,Healthy living conditions
 percentage of ramsar sites that have updated ramsar information sheets,RAMSAR,Knowledge systems,Information on biodiversity,1,mea,% of Ramsar Sites that have updated Ramsar Information Sheets. (Data source: Ramsar Sites database).,NA,NA
 percentage of ramsar sites which have improved the sustainability of water use in the context of ecosystem requirements,RAMSAR,Ecosystem services,Specific mention of sustainable use of species/ecosystems,1,mea,% of Ramsar sites which have improved the sustainability of water use in the context of ecosystem requirements,Ecosystems,State of ecosystems (integrity)
 percentage of spatial plans utilizing information on key biodiversity areas,GBF,Governance,Nature-based legislation,1,mea,Percentage of spatial plans utilizing information on key biodiversity areas,NA,NA
@@ -1113,7 +1113,7 @@ permanent surface water extent,IPBES,Ecosystems,Abiotic conditions,1,assessment,
 "pest, invasive or harmful species",IPBES,Direct drivers,Invasive alien species,1,assessment,"Pest, invasive or harmful species",NA,NA
 pesticide use per area of cropland,GBF;IPBES,Direct drivers,Pollution,2,both,Pesticide use per area of cropland | rate of use of pesticides | Trends in pesticide use | Pesticide use | Pesticide Use | Pesticides used per unit area | Pesticide use (tonnes)†,NA,NA
 ph and desoxygenation,IPCC,Ecosystems,Abiotic conditions,1,assessment,pH and desoxygenation,NA,NA
-phenology of economically and/or culturally important wild plant and animal species,IPBES,Knowledge systems,ILK,1,assessment,Phenology of economically and/or culturally important wild plant and animal species,Ecosystem services,Nature contribution
+phenology of economically and/or culturally important wild plant and animal species,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,Phenology of economically and/or culturally important wild plant and animal species,Ecosystem services,Nature contribution
 phenology of marine biota,IPCC,Biodiversity,State of biodiversity,1,assessment,phenology of marine biota,NA,NA
 phosphorus (p) loads,IPBES,Direct drivers,Pollution,1,assessment,phosphorus (P) loads,NA,NA
 photo series analysis using social media,IPBES,Knowledge systems,Information on biodiversity,1,assessment,photo series analysis using social media,NA,NA
@@ -1127,7 +1127,7 @@ planck temperature response,IPCC,Ecosystems,Abiotic conditions,1,assessment,Plan
 planetary pressures adjusted human development index (hdi),IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,planetary pressures adjusted human development index,Human well-being,Wellness
 plant water use efficiency (wue),IPCC,Ecosystem services,Nature contribution,1,assessment,Plant Water Use Efficiency (WUE),NA,NA
 plastic debris density,GBF;GEO;IPBES;SDG,Direct drivers,Pollution,4,both,Floating plastic debris density [by micro and macro plastics] | plastic debris density | floating plastic litter density | floating plastic debris density | floating debris density | Floating Plastic Debris Density,Ecosystems,State of ecosystems (integrity)
-pm 10 emissions,GEO,Direct drivers,Pollution,1,assessment,PM 10 emissions,NA,NA
+pm10 emissions,GEO,Direct drivers,Pollution,1,assessment,PM 10 emissions,NA,NA
 pm2.5 emissions,GEO,Direct drivers,Pollution,1,assessment,PM2.5 emissions | PM 2.5 emissions,NA,NA
 polar ice sheets,GEO,Ecosystems,State of ecosystems,1,assessment,polar ice sheets,NA,NA
 poleward shifts in the south atlantic convergence zone (sacz),IPCC,Ecosystems,Abiotic conditions,1,assessment,poleward shifts in the South Atlantic Convergence Zone (SACZ),NA,NA
@@ -1142,10 +1142,10 @@ population growth (annual percentage),IPBES,Biodiversity,Change in biodiversity,
 population in megacities,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,Population in megacities,NA,NA
 population in the largest city,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,Population in the largest city,NA,NA
 population involved in hunting and gathering,GBF,Human assets,Coverage of basic needs,1,mea,Population involved in hunting and gathering,Ecosystem services,Nature contribution
-population-weighted ozone concentrations,IPCC,Direct drivers,Pollution,1,assessment,population-weighted ozone concentrations,NA,NA
+population-weighted ozone concentrations,IPCC,Direct drivers,Climate change,1,assessment,population-weighted ozone concentrations,NA,NA
 position of 15n atom in atmospheric n2o,IPCC,Direct drivers,Climate change,1,assessment,position of 15N atom in atmospheric N2O,NA,NA
 positive incentives in place to promote biodiversity conservation and sustainable use,GBF,Governance,Nature-based legislation,1,mea,Positive incentives in place to promote biodiversity conservation and sustainable use,Ecosystem services,Specific mention of sustainable use of species/ecosystems
-possible use or further development of indicator(s) linked to work currently being undertaken to develop indicator(s) for related aichi target 18 of the strategic plan for biodiversity,RAMSAR,Knowledge systems,Specific information on ILK and IPLC,1,mea,Possible use or further development of indicator(s) linked to work currently being undertaken to develop indicator(s) for related Aichi Target 18 of the Strategic Plan for Biodiversity.,NA,NA
+possible use or further development of indicator(s) linked to work currently being undertaken to develop indicator(s) for related aichi target 18 of the strategic plan for biodiversity,RAMSAR,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,1,mea,Possible use or further development of indicator(s) linked to work currently being undertaken to develop indicator(s) for related Aichi Target 18 of the Strategic Plan for Biodiversity.,NA,NA
 potential evaporation anomalies,IPCC,Ecosystems,Abiotic conditions,1,assessment,Potential evaporation anomalies,NA,NA
 poverty,GEO,Human assets,State of economy,1,assessment,poverty,Human well-being,Healthy living conditions
 poverty gap,IPBES,Human assets,Coverage of basic needs,1,assessment,Poverty gap,Human assets,Income
@@ -1161,10 +1161,10 @@ predatory fish biomass,IPBES,Biodiversity,State of biodiversity,1,assessment,Pre
 premature deaths,GEO,Human well-being,Healthy living conditions,1,assessment,premature deaths,NA,NA
 premature deaths in 2016 to household air pollution,GEO,Human well-being,Healthy living conditions,1,assessment,premature deaths in 2016 to household air pollution,Direct drivers,Pollution
 presense of endemic species,GEO,Biodiversity,State of biodiversity,1,assessment,presense of endemic species,NA,NA
-pressure ozone trend,GEO,Ecosystems,Abiotic conditions,1,assessment,Pressure Ozone Trend,NA,NA
+pressure ozone trend,GEO,Direct drivers,Climate change,1,assessment,Pressure Ozone Trend,NA,NA
 "prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",IPBES;SDG,Human assets,Coverage of basic needs,2,both,"Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",NA,NA
-prevalence of certain species,IPBES,Knowledge systems,ILK,1,assessment,prevalence of certain species,Biodiversity,State of biodiversity
-prevalence of knowledge about seasonal cycles in their communities,IPBES,Knowledge systems,ILK,1,assessment,prevalence of knowledge about seasonal cycles in their communities,NA,NA
+prevalence of certain species,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,prevalence of certain species,Biodiversity,State of biodiversity
+prevalence of knowledge about seasonal cycles in their communities,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,prevalence of knowledge about seasonal cycles in their communities,NA,NA
 "prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the who child growth standards) among children under 5 years of age, by type (wasting and overweight)",IPBES;SDG,Human assets,Coverage of basic needs,2,both,"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the who child growth standards) among children under 5 years of age, by type (wasting and overweight) | Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",NA,NA
 "prevalence of moderate or severe food insecurity in the population, based on the food insecurity experience scale (fies)",GBF;IPBES;SDG,Human assets,Coverage of basic needs,3,both,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale | Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Human well-being,Healthy living conditions
 prevalence of obesity in the adult population (18 years and older),IPBES,Human assets,Coverage of basic needs,1,assessment,Prevalence of obesity in the adult population (18 years and older),Human well-being,Healthy living conditions
@@ -1188,7 +1188,7 @@ proportion of agricultural area under productive and sustainable agriculture,GBF
 proportion of area of forest production under fsc and pefc certification,IPBES,Ecosystem services,Nature contribution,1,assessment,Proportion of area of forest production under FSC and PEFC certification,Governance,Nature-based legislation
 proportion of births attended by skilled health personnel,SDG,Human assets,Coverage of basic needs,1,mea,Proportion of births attended by skilled health personnel,Human well-being,Healthy living conditions
 proportion of bodies of water with good ambient water quality,GBF;IPBES;SDG,Ecosystems,State of ecosystems,3,both,Proportion of bodies of water with good ambient water quality,Human well-being,Healthy living conditions
-"proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",SDG,Knowledge systems,Information on society and socio-economics,1,mea,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",Governance,Broken governance
+"proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",SDG,Governance,Broken governance,1,mea,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",Knowledge systems,Information on society and socio-economics
 proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,SDG,Knowledge systems,Information on society and socio-economics,1,mea,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,Governance,Broken governance
 "proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",SDG,Human assets,Coverage of basic needs,1,mea,"Proportion of children aged 24–59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",Human well-being,Wellness
 "proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",SDG,Human assets,Coverage of basic needs,1,mea,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",NA,NA
@@ -1201,7 +1201,7 @@ proportion of countries where the legal framework (including customary law) guar
 proportion of countries with systems to track and make public allocations for gender equality and women's empowerment,GBF;IPBES;SDG,Human well-being,Equity,3,both,Number of countries with systems to track and make public allocations for gender equality and women's empowerment | Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,NA,NA
 proportion of cropland,IPBES,Ecosystem services,Nature contribution,1,assessment,Proportion of cropland,NA,NA
 proportion of degraded mountain land,SDG,Ecosystems,Change in ecosystems,1,mea,proportion of degraded mountain land,NA,NA
-proportion of domestic and industrial wastewater flows safely treated,GBF;SDG,Human assets,Infrastructure (build-up area),2,mea,Proportion of domestic and industrial wastewater flow safely treated | Proportion of domestic and industrial wastewater flows safely treated,NA,NA
+proportion of domestic and industrial wastewater flows safely treated,GBF;SDG,Human assets,Infrastructure,2,mea,Proportion of domestic and industrial wastewater flow safely treated | Proportion of domestic and industrial wastewater flows safely treated,NA,NA
 proportion of domestic budget funded by domestic taxes,IPBES;SDG,Human assets,State of economy,2,both,Proportion of domestic budget funded by domestic taxes,NA,NA
 proportion of domesticated breeds categorized as at risk or extinct,IPBES,Ecosystem services,Nature contribution,1,assessment,proportion of domesticated breeds categorized as at risk or extinct,Biodiversity,Change in biodiversity
 proportion of fish stocks within biologically sustainable levels,GBF;GEO;IPBES;SDG,Biodiversity,State of biodiversity,4,both,Proportion of fish stocks within biologically sustainable levels | trends in the proportion of fish stocks within biologically sustainable levels | proportion of fish stocks within biologically sustainable levels | proportion of fish stocks at or below a target biomass that can undergo recovery | fish stocks biologically sustainable | Proportion of fish stocks within sustainable levels | Proportion of fish stocks within safe biological limits | Proportion of fish stocks in safe biological limits | Fish stocks biologically sustainable | Proportion of fish stocks in safe biological limits†,NA,NA
@@ -1225,8 +1225,8 @@ proportion of migratory fish stocks in safe biological limits,CMS,Ecosystem serv
 proportion of parties that are making use of the available tools,CITES,Governance,Nature-based legislation,1,mea,Proportion of Parties that are making use of the available tools,Knowledge systems,Specific information on human-nature relationship
 "proportion of people living below 50 percent of median income, by sex, age and persons with disabilities",IPBES;SDG,Human well-being,Equity,2,both,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",NA,NA
 "proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",IPBES;SDG,Human well-being,Wellness,2,both,"Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months | Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",Knowledge systems,Information on society and socio-economics
-"proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",SDG,Knowledge systems,Information on society and socio-economics,1,mea,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",Human well-being,Wellness
-"proportion of population covered by a mobile network, by technology",IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,"Proportion of population covered by a mobile network, by technology",NA,NA
+"proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",SDG,Governance,Broken governance,1,mea,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",Knowledge systems,Information on society and socio-economics
+"proportion of population covered by a mobile network, by technology",IPBES;SDG,Human assets,Infrastructure,2,both,"Proportion of population covered by a mobile network, by technology",NA,NA
 "proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",SDG,Human well-being,Equity,1,mea,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",NA,NA
 proportion of population exposed to air pollution,IPBES,Human well-being,Healthy living conditions,1,assessment,proportion of population exposed to air pollution,Direct drivers,Pollution
 "proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",SDG,Human assets,Coverage of basic needs,1,mea,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",NA,NA
@@ -1236,13 +1236,13 @@ proportion of population reporting having personally felt discriminated against 
 proportion of population satisfied with their last experience of public services,SDG,Knowledge systems,Information on society and socio-economics,1,mea,Proportion of population satisfied with their last experience of public services,NA,NA
 "proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months",SDG,Knowledge systems,Information on society and socio-economics,1,mea,"Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months",Governance,Broken governance
 proportion of population that feel safe walking alone around the area they live after dark,SDG,Human well-being,Equity,1,mea,Proportion of population that feel safe walking alone around the area they live after dark,Knowledge systems,Information on society and socio-economics
-"proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",SDG,Human assets,Infrastructure (build-up area),1,mea,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",Human assets,Coverage of basic needs
+"proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",SDG,Human assets,Infrastructure,1,mea,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",Human assets,Coverage of basic needs
 proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water,GEO;SDG,Human well-being,Healthy living conditions,2,both,"Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water | Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",Human assets,Coverage of basic needs
 proportion of population using safely managed drinking water services,GBF;GEO;IPBES;SDG,Human well-being,Healthy living conditions,4,both,Proportion of population using safely managed drinking water services | proportion of population using an improved drinking water source | Percentage of population using safely managed drinking water services,Human assets,Coverage of basic needs
 "proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",GBF;SDG,Human well-being,Equity,2,mea,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group | Percentage of population who believe decision making is inclusive and responsive, by sex, age, disability and population group",Human well-being,Wellness
 proportion of population with access to electricity,SDG,Human assets,Coverage of basic needs,1,mea,Proportion of population with access to electricity,Knowledge systems,Information on society and socio-economics
 proportion of population with large household expenditures on health as a share of total household expenditure or income,SDG,Human assets,Coverage of basic needs,1,mea,Proportion of population with large household expenditures on health as a share of total household expenditure or income,Knowledge systems,Information on society and socio-economics
-proportion of population with primary reliance on clean fuels and technology,IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,Proportion of population with primary reliance on clean fuels and technology,Knowledge systems,Information on society and socio-economics
+proportion of population with primary reliance on clean fuels and technology,IPBES;SDG,Human assets,Infrastructure,2,both,Proportion of population with primary reliance on clean fuels and technology,Knowledge systems,Information on society and socio-economics
 proportion of populations maintained within species,GBF,Biodiversity,State of biodiversity,1,mea,Proportion of populations maintained within species,NA,NA
 proportion of populations within species with an effective population size > 500,GBF,Biodiversity,State of biodiversity,1,mea,The proportion of populations within species with an effective population size > 500,NA,NA
 proportion of predatory fish,IPBES,Biodiversity,State of biodiversity,1,assessment,Proportion of predatory fish,NA,NA
@@ -1250,8 +1250,8 @@ proportion of predatory fish,IPBES,Biodiversity,State of biodiversity,1,assessme
 proportion of seats held by women in (a) national parliaments and (b) local governments,GBF;SDG,Human well-being,Equity,2,mea,Proportion of seats held by women in (a) national parliaments and (b) local governments,NA,NA
 "proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",SDG,Governance,Legislation/governance,1,mea,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",NA,NA
 proportion of sites in the world database on protected areas reporting shared governance,IPBES,Knowledge systems,Information on biodiversity,1,assessment,proportion of sites in the World Database on Protected Areas reporting shared governance,Knowledge systems,Information on society and socio-economics
-proportion of small-scale industries in total industry value added,IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,Proportion of small-scale industries in total industry value added,NA,NA
-proportion of small-scale industries with a loan or line of credit,IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,Proportion of small-scale industries with a loan or line of credit,Human assets,Income
+proportion of small-scale industries in total industry value added,IPBES;SDG,Human assets,Infrastructure,2,both,Proportion of small-scale industries in total industry value added,NA,NA
+proportion of small-scale industries with a loan or line of credit,IPBES;SDG,Human assets,Infrastructure,2,both,Proportion of small-scale industries with a loan or line of credit,Human assets,Income
 proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,SDG,Governance,Legislation/governance,1,mea,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,NA,NA
 "proportion of teachers with the minimum required qualifications, by education level",SDG,Knowledge systems,Information on society and socio-economics,1,mea,"Proportion of teachers with the minimum required qualifications, by education level",NA,NA
 proportion of terrestrial protected area as a share of the total land area,GEO,Ecosystems,Area conservation,1,assessment,Terrestrial protected areas as a percentage of total land area | terrestrial protected areas as a percentage of total land area | the proportion of terrestrial protected area as a share of the total land area expressed as a percentage,NA,NA
@@ -1260,7 +1260,7 @@ proportion of the global population using piped water supplies on premises,GEO,H
 "proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",IPBES;SDG,Human assets,Coverage of basic needs,2,both,"Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",Human assets,State of economy
 "proportion of the population who are refugees, by country of origin",IPBES;SDG,Knowledge systems,Information on society and socio-economics,2,both,"Proportion of the population who are refugees, by country of origin",NA,NA
 "proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",SDG,Knowledge systems,Information on society and socio-economics,1,mea,"Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",Governance,Legislation/governance
-proportion of the rural population who live within 2 km of an all-season road,IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,Proportion of the rural population who live within 2 km of an all-season road | proportion of the rural population who live within 2 km of an all-season road,NA,NA
+proportion of the rural population who live within 2 km of an all-season road,IPBES;SDG,Human assets,Infrastructure,2,both,Proportion of the rural population who live within 2 km of an all-season road | proportion of the rural population who live within 2 km of an all-season road,NA,NA
 proportion of the target population covered by all vaccines included in their national programme,SDG,Human assets,Coverage of basic needs,1,mea,Proportion of the target population covered by all vaccines included in their national programme,Direct drivers,(Infectious) diseases
 "proportion of time spent on unpaid domestic and care work, by sex, age and location",SDG,Human assets,Income,1,mea,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",NA,NA
 "proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",GBF;IPBES;SDG,Human well-being,Equity,3,both,"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",NA,NA
@@ -1270,7 +1270,7 @@ proportion of total research budget allocated to research in the field of marine
 proportion of traded wildlife that was poached or illicitly trafficked,IPBES;SDG,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,2,both,Proportion of traded wildlife that was poached or illicitly trafficked,NA,NA
 proportion of transboundary basin area with an operational arrangement for water cooperation,GBF;IPBES;SDG,Ecosystem services,Nature contribution,3,both,Proportion of transboundary basin area with an operational arrangement for water cooperation,NA,NA
 proportion of unpalatable plants on rangelands,IPBES,Ecosystems,State of ecosystems (configuration),1,assessment,proportion of unpalatable plants on rangelands,NA,NA
-proportion of urban area,IPBES,Human assets,Infrastructure (build-up area),1,assessment,Proportion of urban area,NA,NA
+proportion of urban area,IPBES,Human assets,Infrastructure,1,assessment,Proportion of urban area,NA,NA
 proportion of urban population,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,proportion of urban population,NA,NA
 "proportion of urban population living in slums, informal settlements or inadequate housing",SDG,Human assets,Coverage of basic needs,1,mea,"Proportion of urban population living in slums, informal settlements or inadequate housing",Governance,Broken governance
 "proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",SDG,Human assets,Coverage of basic needs,1,mea,"Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",Governance,Broken governance
@@ -1302,9 +1302,9 @@ protection of key biodiversity areas,IPBES,Ecosystems,Area conservation,1,assess
 protein intake per country per person,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,Protein intake per country per person,NA,NA
 "provision of safe, reliable drinking water",GEO,Human well-being,Healthy living conditions,1,assessment,"provision of safe, reliable drinking water",NA,NA
 proximity of people and nature,IPBES,Knowledge systems,Specific information on human-nature relationship,1,assessment,Proximity of people and nature,NA,NA
-quality and abundance of food and medicine species,IPBES,Knowledge systems,ILK,1,assessment,quality and abundance of food and medicine species,Ecosystem services,Nature contribution
+quality and abundance of food and medicine species,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,quality and abundance of food and medicine species,Ecosystem services,Nature contribution
 quality of governance index,IPBES,Governance,Legislation/governance,1,assessment,Quality of Governance Index | Governance Index,NA,NA
-quantity of land area known to have (in)sufficient infrastructure against flooding,GEO,Human assets,Infrastructure (build-up area),1,assessment,quantity of land area known to have (in)sufficient infrastructure against flooding,NA,NA
+quantity of land area known to have (in)sufficient infrastructure against flooding,GEO,Human assets,Infrastructure,1,assessment,quantity of land area known to have (in)sufficient infrastructure against flooding,NA,NA
 radiative forcing,IPCC,Ecosystems,Abiotic conditions,1,assessment,radiative forcing,Direct drivers,Climate change
 radio occultation,IPCC,Direct drivers,Climate change,1,assessment,Radio occultation,NA,NA
 rainfall,IPCC,Ecosystems,Abiotic conditions,1,assessment,Rainfall,NA,NA
@@ -1320,7 +1320,7 @@ rate of land use change,IPBES,Direct drivers,Land conversion,1,assessment,Rate o
 rate of species accumulation,IPBES,Biodiversity,Change in biodiversity,1,assessment,Rate of species accumulation,NA,NA
 rate of wood removal,IPBES,Ecosystem services,Nature contribution,1,assessment,rate of wood removal | Total wood removals,NA,NA
 ratio of land consumption rate to population growth rate,GEO;IPBES;SDG,Direct drivers,Land conversion,3,both,Ratio of land consumption rate to population growth rate | ratio of land consumption rate to population growth rate | Ratio of land consumption rate to urban population growth rate at comparable scale,Human assets,Coverage of basic needs
-recognition and value of forest-management knowledge and skills of local people,IPBES,Knowledge systems,ILK,1,assessment,Recognition and value of forest-management knowledge and skills of local people,NA,NA
+recognition and value of forest-management knowledge and skills of local people,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,Recognition and value of forest-management knowledge and skills of local people,NA,NA
 recommended intake values for the food groups,GEO,Human well-being,Healthy living conditions,1,assessment,recommended intake values for the food groups,NA,NA
 recreation and cultural ecosystem services provided,GBF,Human well-being,Recreation,1,mea,Recreation and cultural ecosystem services provided,NA,NA
 recruitment cost borne by employee as a proportion of monthly income earned in country of destination,SDG,Human assets,State of economy,1,mea,Recruitment cost borne by employee as a proportion of monthly income earned in country of destination,Human assets,Income
@@ -1343,18 +1343,18 @@ redistributive impact of fiscal policy,SDG,Human assets,Income,1,mea,Redistribut
 reduced concentration of pollutants in water,IPBES,Direct drivers,Pollution,1,assessment,Reduced concentration of pollutants in water,NA,NA
 reduced concentrations of greenhouse gases in the atmosphere,IPBES,Direct drivers,Climate change,1,assessment,Reduced concentrations of greenhouse gases in the atmosphere,NA,NA
 reduced concentrations of pm2.5,IPBES,Direct drivers,Pollution,1,assessment,Reduced concentrations of PM2.5,NA,NA
-reduced cost of road construction,IPBES,Human assets,Infrastructure (build-up area),1,assessment,reduced cost of road construction,NA,NA
-reduced cost of road maintenance,IPBES,Human assets,Infrastructure (build-up area),1,assessment,reduced cost of road maintenance,NA,NA
+reduced cost of road construction,IPBES,Human assets,Infrastructure,1,assessment,reduced cost of road construction,NA,NA
+reduced cost of road maintenance,IPBES,Human assets,Infrastructure,1,assessment,reduced cost of road maintenance,NA,NA
 reduced food spoilage,IPBES,Ecosystem services,Nature contribution,1,assessment,Reduced food spoilage,NA,NA
 reduced hunger,IPBES,Human well-being,Healthy living conditions,1,assessment,Reduced hunger,NA,NA
 reduced incidence and severity of hazards,IPBES,Human well-being,Healthy living conditions,1,assessment,Reduced incidence and severity of hazards,NA,NA
-reduced incidence of infectious diseases,IPBES,Direct drivers,(Infectious) diseases,1,assessment,Reduced incidence of infectious diseases,NA,NA
-reduced incidence of water borne disease,IPBES,Direct drivers,(Infectious) diseases,1,assessment,Reduced incidence of water borne disease,NA,NA
+reduced incidence of infectious diseases,IPBES,Direct drivers,Infectious diseases,1,assessment,Reduced incidence of infectious diseases,NA,NA
+reduced incidence of water borne disease,IPBES,Direct drivers,Infectious diseases,1,assessment,Reduced incidence of water borne disease,NA,NA
 reduced malnutrition,IPBES,Human well-being,Healthy living conditions,1,assessment,Reduced malnutrition,Human assets,Coverage of basic needs
 reduced morbidity and premature mortality due to natural hazards,IPBES,Human well-being,Healthy living conditions,1,assessment,Reduced morbidity and premature mortality due to natural hazards,NA,NA
 reduced net farm income loss from pests and diseases,IPBES,Human assets,Income,1,assessment,Reduced net farm income loss from pests and diseases,NA,NA
 reduced property loss due to natural hazards,IPBES,Human well-being,Healthy living conditions,1,assessment,Reduced property loss due to natural hazards,NA,NA
-reduced risk of disease transmission,IPBES,Direct drivers,(Infectious) diseases,1,assessment,Reduced risk of disease transmission,NA,NA
+reduced risk of disease transmission,IPBES,Direct drivers,Infectious diseases,1,assessment,Reduced risk of disease transmission,NA,NA
 reduction in climate related costs,IPBES,Governance,Legislation/governance,1,assessment,Reduction in climate related costs,NA,NA
 reduction in post-volcanic eruption extreme precipitation,IPCC,Ecosystems,Abiotic conditions,1,assessment,reduction in post-volcanic eruption extreme precipitation,NA,NA
 reef growth,IPCC,Ecosystems,State of ecosystems (marine),1,assessment,reef growth,Ecosystems,Change in ecosystems
@@ -1368,16 +1368,16 @@ remaining primary vegetation (hotspots),IPBES,Ecosystems,State of ecosystems (co
 remaining primary vegetation (indigenous lands),IPBES,Ecosystems,State of ecosystems (coverage),1,assessment,Remaining primary vegetation (Indigenous Lands),Knowledge systems,ILK
 remittance costs as a proportion of the amount remitted,SDG,Human assets,Income,1,mea,Remittance costs as a proportion of the amount remitted,Human assets,State of economy
 remnant ecosystems degrade,IPBES,Direct drivers,Land conversion,1,assessment,remnant ecosystems degrade,NA,NA
-renewable electricity consumption (percentage of total electricity output),IPBES,Human assets,Infrastructure (build-up area),1,assessment,Renewable electricity consumption (% of total electricity output),NA,NA
-renewable energy share in the total final energy consumption,IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,Renewable energy share in the total final energy consumption,Ecosystem services,Nature contribution
-renewable internal freshwater resource,IPBES,Human assets,Infrastructure (build-up area),1,assessment,Renewable internal freshwater resource,Human assets,Coverage of basic needs
+renewable electricity consumption (percentage of total electricity output),IPBES,Human assets,Infrastructure,1,assessment,Renewable electricity consumption (% of total electricity output),NA,NA
+renewable energy share in the total final energy consumption,IPBES;SDG,Human assets,Infrastructure,2,both,Renewable energy share in the total final energy consumption,Ecosystem services,Nature contribution
+renewable internal freshwater resource,IPBES,Human assets,Infrastructure,1,assessment,Renewable internal freshwater resource,Human assets,Coverage of basic needs
 reproduction rate,IPBES,Biodiversity,State of biodiversity,1,assessment,Reproduction rate,NA,NA
 reproductive success,IPBES,Biodiversity,State of biodiversity,1,assessment,reproductive success | Reproductive success,NA,NA
 research and development expenditure as a proportion of gross domestic product,IPBES;SDG,Knowledge systems,Information on society and socio-economics,2,both,Research and development expenditure as a proportion of GDP,NA,NA
 researchers (in full-time equivalent) per million inhabitants,SDG,Knowledge systems,Information on society and socio-economics,1,mea,Researchers (in full-time equivalent) per million inhabitants,NA,NA
 resilience of forest-dependent communities,IPBES,Knowledge systems,Specific information on human-nature relationship,1,assessment,Resilience of forest-dependent communities,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 "resources mobilized from innovative sources of finance, including from the private sector",UNCCD,Governance,Nature-based funding,1,mea,"Resources mobilized from innovative sources of finance, including from the private sector",NA,NA
-resources per capita invested in human settlement per km2,GEO,Human assets,Infrastructure (build-up area),1,assessment,Resources per capita invested in human settlement per km2,NA,NA
+resources per capita invested in human settlement per km2,GEO,Human assets,Infrastructure,1,assessment,Resources per capita invested in human settlement per km2,NA,NA
 resourcing of invasive alien species prevention and control activities,IPBES,Direct drivers,Invasive alien species,1,assessment,resourcing of invasive alien species prevention and control activities,Governance,Legislation/governance
 retention and prevented emissions of air pollutants by ecosystems,IPBES,Ecosystem services,Nature contribution,1,assessment,Retention and prevented emissions of air pollutants by ecosystems,NA,NA
 retreat of ice sheet,IPCC,Ecosystems,Change in ecosystems,1,assessment,Retreat of Ice Sheet,NA,NA
@@ -1385,7 +1385,7 @@ revenue from bioenergy production,IPBES,Human assets,State of economy,1,assessme
 revenue from forestry,IPBES,Ecosystem services,Specific monetary valuation of nature contribution,1,assessment,Revenue from forestry,NA,NA
 revenue generated and finance mobilized from biodiversity relevant economic instruments,IPBES;SDG,Governance,Nature-based funding,2,both,revenue generated and finance mobilized from biodiversity-relevant economic instruments,NA,NA
 river fragmentation index,GBF,Ecosystems,State of ecosystems (integrity),1,mea,River Fragmentation Index,Ecosystems,State of ecosystems (freshwater/coastal)
-road construction,GEO,Human assets,Infrastructure (build-up area),1,assessment,road construction,NA,NA
+road construction,GEO,Human assets,Infrastructure,1,assessment,road construction,NA,NA
 rooting depth,IPCC,Ecosystems,Abiotic conditions,1,assessment,rooting depth,NA,NA
 rule of law index,IPBES,Governance,Legislation/governance,1,assessment,Rule of Law Index,NA,NA
 runoff,IPCC,Direct drivers,Pollution,1,assessment,runoff,NA,NA
@@ -1416,12 +1416,12 @@ shallow coral reefs,IPBES,Ecosystems,State of ecosystems,1,assessment,hallow cor
 share of low-carbon options,GEO,Knowledge systems,Specific information on human-nature relationship,1,assessment,share of low-carbon options,NA,NA
 share of main groups of species in fish trade in terms of value,IPBES,Ecosystem services,Specific monetary valuation of nature contribution,1,assessment,Share of main groups of species in fish trade in terms of value,NA,NA
 "share of women among owners or rights-bearers of agricultural land, by type of tenure",GBF;IPBES;SDG,Human well-being,Equity,3,both,"share of women among owners or rights-bearers of agricultural land, by type of tenure",NA,NA
-sharing and trading institutions,IPBES,Knowledge systems,ILK,1,assessment,sharing and trading institutions,NA,NA
-ship calls,IPBES,Human assets,Infrastructure (build-up area),1,assessment,Ship calls,NA,NA
+sharing and trading institutions,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,sharing and trading institutions,NA,NA
+ship calls,IPBES,Human assets,Infrastructure,1,assessment,Ship calls,NA,NA
 shoreline change (indicator of coastal erosion),IPCC,Ecosystems,State of ecosystems (freshwater/coastal),1,assessment,shoreline change (indicator of coastal erosion),NA,NA
 shoreline retreat by mid- and end of century,IPCC,Ecosystems,State of ecosystems (freshwater/coastal),1,assessment,Shoreline retreat by mid- and end of century,Direct drivers,Climate change
 shrinking of the arctic ice cover,GEO,Ecosystems,Change in ecosystems,1,assessment,shrinking of the Arctic ice cover,NA,NA
-simple precipitation intensity index (sdii),IPCC,Ecosystems,Abiotic conditions,1,assessment,Simple Daily Intensity INDEX (SDII) | Simple precipitation intensity index,NA,NA
+simple daily intensity index (sdii),IPCC,Ecosystems,Abiotic conditions,1,assessment,Simple Daily Intensity INDEX (SDII) | Simple precipitation intensity index,NA,NA
 simulated global mean surface air temperature (gsat) anomalies,IPCC,Ecosystems,Abiotic conditions,1,assessment,simulated Global mean surface air temperature (GSAT) | simulated Global mean surface air temperature (GSAT) anomalies,NA,NA
 sink rate,IPCC,Ecosystems,Abiotic conditions,1,assessment,Sink rate,NA,NA
 slope instability,IPCC,Ecosystems,Abiotic conditions,1,assessment,slope instability,NA,NA
@@ -1439,7 +1439,7 @@ soil moisture deficits,IPCC,Ecosystems,Abiotic conditions,1,assessment,soil mois
 soil moisture-based drought events,IPCC,Ecosystems,Abiotic conditions,1,assessment,soil moisture-based drought events,NA,NA
 soil organic carbon (soc) stocks,GBF;GEO;IPBES,Ecosystems,Abiotic conditions,3,both,Changes in soil organic carbon stocks | trends in soil organic carbon stock | Soil organic carbon | Soil organic carbon (correlative model) | Soil organic carbon (mechanistic models),Ecosystem services,Nature contribution
 soil quality impact on crop production,IPBES,Ecosystems,Abiotic conditions,1,assessment,Soil quality impact on crop production,NA,NA
-sounds associated with the forest,IPBES,Knowledge systems,ILK,1,assessment,sounds associated with the forest,Human well-being,Recreation
+sounds associated with the forest,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,sounds associated with the forest,Human well-being,Recreation
 south pacific convergence zone (spcz),IPCC,Ecosystems,Abiotic conditions,1,assessment,South Pacific Convergence Zone (SPCZ),NA,NA
 southern annular mode (sam) index,IPCC,Ecosystems,Abiotic conditions,1,assessment,Southern Annular Mode (SAM) Index,NA,NA
 southern hemisphere (sh) monsoons,IPCC,Ecosystems,Abiotic conditions,1,assessment,SH monsoons,NA,NA
@@ -1460,8 +1460,8 @@ species represented in the barcode of life data system,IPBES,Biodiversity,Geneti
 species richness,IPBES,Biodiversity,State of biodiversity,1,assessment,Species Richness | species richness,NA,NA
 species richness per grid cell,IPBES,Biodiversity,State of biodiversity,1,assessment,Species richness per grid cell | Species richness per grid cell (AIM),NA,NA
 species status index,GBF;IPBES,Biodiversity,State of biodiversity,2,both,Species status index | Species Status Index | Species Status Information Index | species status index | Species Status Information Index†,NA,NA
-species threat abatement and restoration metric,GBF,Biodiversity,Species conservation,1,mea,Species threat abatement and restoration metric,NA,NA
-species used for medicine,IPBES,Knowledge systems,ILK,1,assessment,Species used for medicine | Fraction of species known to be medicinal,NA,NA
+species threat abatement and restoration (star) metric,GBF,Biodiversity,Species conservation,1,mea,Species threat abatement and restoration metric,NA,NA
+species used for medicine,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,Species used for medicine | Fraction of species known to be medicinal,NA,NA
 specific humidity,GEO,Ecosystems,Abiotic conditions,1,assessment,specific humidity,NA,NA
 speleothem records,IPCC,Ecosystems,State of ecosystems,1,assessment,Speleothem records | Speleotherm records,Ecosystems,Abiotic conditions
 stability of land use and land cover,IPBES,Ecosystems,State of ecosystems (coverage),1,assessment,Stability of land use and land cover,NA,NA
@@ -1480,8 +1480,8 @@ stock status,GEO,Ecosystem services,Nature contribution,1,assessment,stock statu
 stock values of natural capital,IPBES,Ecosystem services,Specific monetary valuation of nature contribution,1,assessment,stock values of natural capital,NA,NA
 stranded debris,GEO,Direct drivers,Pollution,1,assessment,stranded debris,NA,NA
 strategies of relevance to migratory species developed and implemented for minimizing genetic erosion,CMS,Governance,Nature-based legislation,1,mea,Strategies of relevance to migratory species developed and implemented for minimizing genetic erosion,Biodiversity,Genetic diversity
-strength of people's connection to the forest,IPBES,Knowledge systems,ILK,1,assessment,strength of people’s connection to the forest,NA,NA
-strom tracks and jets,IPCC,Human assets,Infrastructure (build-up area),1,assessment,strom tracks and jets,NA,NA
+strength of people's connection to the forest,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,strength of people’s connection to the forest,NA,NA
+strom tracks and jets,IPCC,Human assets,Infrastructure,1,assessment,strom tracks and jets,NA,NA
 structural and functional connectivity of habitat,IPBES,Ecosystems,State of ecosystems (integrity),1,assessment,structural and functional connectivity of habitat,NA,NA
 subsurface borehole temperature profiles,IPCC,Ecosystems,Abiotic conditions,1,assessment,subsurface borehole temperature profiles,NA,NA
 sudden stratospheric warmings,IPCC,Ecosystems,Abiotic conditions,1,assessment,sudden stratospheric warmings,NA,NA
@@ -1541,12 +1541,12 @@ total number of introduced alien species,IPBES,Direct drivers,Invasive alien spe
 total number of transfers of crop material from the multilateral system of the international treaty on plant genetic resources for food and agriculture (itpgrfa) received in a country,GBF,Knowledge systems,Information on biodiversity,1,mea,Total number of transfers of crop material from the Multilateral System of the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA) received in a country,Biodiversity,Genetic resources
 total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country's gross national income,IPBES;SDG,Human assets,State of economy,2,both,Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income,Governance,Legislation/governance
 total official flows (official development assistance plus other official flows) to the agriculture sector,IPBES;SDG,Human assets,State of economy,2,both,Total official flows (official development assistance plus other official flows) to the agriculture sector,Knowledge systems,Information on society and socio-economics
-total official international support (official development assistance plus other official flows) to infrastructure,IPBES;SDG,Human assets,Infrastructure (build-up area),2,both,Total official international support (official development assistance plus other official flows) to infrastructure,Knowledge systems,Information on society and socio-economics
+total official international support (official development assistance plus other official flows) to infrastructure,IPBES;SDG,Human assets,Infrastructure,2,both,Total official international support (official development assistance plus other official flows) to infrastructure,Knowledge systems,Information on society and socio-economics
 "total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",IPBES;SDG,Human assets,State of economy,2,both,"Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",Knowledge systems,Information on society and socio-economics
 "total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",IPBES;SDG,Governance,National/international cooperation,2,both,"Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",NA,NA
 total richness of endemic species,IPBES,Biodiversity,State of biodiversity,1,assessment,endemic species richness | Total richness of endemic species,NA,NA
 total value of inward and outward illicit financial flows (in current united states dollars),SDG,Human assets,State of economy,1,mea,Total value of inward and outward illicit financial flows (in current United States dollars),Governance,Broken governance
-totem or culturally important species,IPBES,Knowledge systems,ILK,1,assessment,totem or culturally important species,NA,NA
+totem or culturally important species,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,totem or culturally important species,NA,NA
 tourism direct gross domestic product as a proportion of total gross domestic product and in growth rate,IPBES;SDG,Human assets,State of economy,2,both,Tourism direct GDP as a proportion of total GDP and in growth rate,NA,NA
 toxocological potential of nanoparticals,GEO,Direct drivers,Pollution,1,assessment,toxocological potential of nanoparticals,NA,NA
 trade in wild animals,IPBES,Ecosystem services,Nature contribution,1,assessment,trade in wild animals,NA,NA
@@ -1599,13 +1599,13 @@ trends in species at risk of localized extinction in a protected area,IPBES,Biod
 trends in successful control and eradications of invasive alien species,IPBES,Direct drivers,Invasive alien species,1,assessment,trends in successful control and eradications of invasive alien species | Trends in successful eradications of invasive alien species,Governance,Nature-based legislation
 trends in the allocation of resources towards the prevention or control of invasive alien species,IPBES,Direct drivers,Invasive alien species,1,assessment,trends in the allocation of resources towards the prevention or control of invasive alien species | Trends in the allocation of resources towards the prevention or control of invasive alien species,Governance,Nature-based funding
 trends in the amount of litter in the water column including microplastics and on the seafloor,GBF,Direct drivers,Pollution,1,mea,Trends in the amount of litter in the water column including microplastics and on the seafloor,NA,NA
-"trends in the degree to which traditional knowledge and practices are respected through full integration, participation and safeguards in national implementation of the strategic plan for migratory species",CMS,Knowledge systems,Specific information on ILK and IPLC,1,mea,"Trends in the degree to which traditional knowledge and practices are respected through full integration, participation and safeguards in national implementation of the Strategic Plan for Migratory Species",NA,NA
+"trends in the degree to which traditional knowledge and practices are respected through full integration, participation and safeguards in national implementation of the strategic plan for migratory species",CMS,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,1,mea,"Trends in the degree to which traditional knowledge and practices are respected through full integration, participation and safeguards in national implementation of the Strategic Plan for Migratory Species",NA,NA
 trends in the legal trade of medicinal plants,GBF,Human assets,Income,1,mea,Trends in the legal trade of medicinal plants,Ecosystem services,Nature contribution
 trends in the number and value of government fossil-fuel support measures,GBF,Governance,Nature detrimental legislation,1,mea,Trends in the number and value of government fossil fuel support measures,NA,NA
 trends in the prevention and eradication and control of invasive alien species,IPBES,Direct drivers,Invasive alien species,1,assessment,Trends in the prevention and eradication and control of invasive alien species,Governance,Legislation/governance
 trends in the prevention of invasive alien species,IPBES,Direct drivers,Invasive alien species,1,assessment,trends in the prevention of invasive alien species,Governance,Nature-based legislation
 trends in threats to migratory species,CMS,Biodiversity,State of biodiversity,1,mea,Trends in threats to migratory species (overall) | Trends in threats to migratory species (sub-indicators on specific threat types),Knowledge systems,Information on biodiversity
-trends of bilinguistic diversity and numbers of speakers of indigenous languages,GBF,Knowledge systems,Specific information on ILK and IPLC,1,mea,Trends of Bilinguistic diversity and numbers of speakers of indigenous languages,Human well-being,Cultural diversity
+trends of bilinguistic diversity and numbers of speakers of indigenous languages,GBF,Knowledge systems,Specific information on Indigenous and Local Knowledge (ILK) and IPLC,1,mea,Trends of Bilinguistic diversity and numbers of speakers of indigenous languages,Human well-being,Cultural diversity
 trends of populations of palatable or unpalatable species,IPBES,Biodiversity,Change in biodiversity,1,assessment,trends of populations of palatable or unpalatable species,NA,NA
 trends of trade and commercialization in biodiversity-based products that is sustainable and legal (in line with biotrade principles and/or cites requirements),GBF,Ecosystem services,Specific mention of sustainable use of species/ecosystems,1,mea,Trends of trade and commercialization in biodiversity-based products that is sustainable and legal (in line with BioTrade Principles and/or CITES requirements),NA,NA
 "trends, mechanisms and severity of invasive alien species impacts",IPBES,Direct drivers,Invasive alien species,1,assessment,"trends, mechanisms and severity of invasive alien species impacts | Trends, mechanisms and severity of invasive alien species impacts",NA,NA
@@ -1626,13 +1626,13 @@ universal female education,GEO,Human assets,Coverage of basic needs,1,assessment
 unsentenced detainees as a proportion of overall prison population,SDG,Governance,Broken governance,1,mea,Unsentenced detainees as a proportion of overall prison population,Knowledge systems,Information on society and socio-economics
 uplisting of species or populations from appendix ii to appendix i,IPBES,Biodiversity,Change in biodiversity,1,assessment,uplisting of species or populations from Appendix II to Appendix I,Biodiversity,Species conservation
 upper tropospheric humidity,IPCC,Ecosystems,Abiotic conditions,1,assessment,upper tropospheric humidity,NA,NA
-urban growth,GEO,Human assets,Infrastructure (build-up area),1,assessment,urban growth,NA,NA
+urban growth,GEO,Human assets,Infrastructure,1,assessment,urban growth,NA,NA
 urban population,IPBES,Knowledge systems,Information on society and socio-economics,1,assessment,Urban Population,NA,NA
 us national ambient air quality standards,GEO,Human well-being,Healthy living conditions,1,assessment,US National Ambient Air Quality Standards,NA,NA
 use of natural resource,IPBES,Ecosystem services,Nature contribution,1,assessment,use of natural resource,NA,NA
 value of merchandise being exported,IPBES,Human assets,Income,1,assessment,value of merchandise being exported | merchandise exports,NA,NA
 value of subsidies and other incentives harmful to biodiversity,GBF,Governance,Nature-based funding,1,mea,"Value of subsidies and other incentives harmful to biodiversity | Value of subsidies and other incentives harmful to biodiversity, that are redirected, repurposed or eliminated",NA,NA
-variability in migration patterns,IPBES,Knowledge systems,ILK,1,assessment,variability in migration patterns,Biodiversity,Change in biodiversity
+variability in migration patterns,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,variability in migration patterns,Biodiversity,Change in biodiversity
 "visitation rates to natural terrestrial, coastal, and marine areas",IPBES,Ecosystem services,Nature contribution,1,assessment,"Visitation rates to natural terrestrial, coastal, and marine areas | Daily exposure natural terrestrial, coastal and marine areas | Visitation to natural areas",Human well-being,Recreation
 visitation to national parks,IPBES,Human well-being,Recreation,1,assessment,Visitation to national parks,NA,NA
 visitation to urban green spaces,IPBES,Human well-being,Recreation,1,assessment,Visitation to urban green spaces,NA,NA
@@ -1648,7 +1648,7 @@ water availability,IPBES,Human assets,Coverage of basic needs,1,assessment,Water
 water available for people relative to demand,IPBES,Human assets,Coverage of basic needs,1,assessment,Water available for people relative to demand,Human well-being,Healthy living conditions
 water flow volume,IPCC,Ecosystems,Abiotic conditions,1,assessment,Water flow volume,NA,NA
 water footprint,IPBES,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,1,assessment,Water footprint (Human appropriation of fresh water) | Human appropriation of fresh water | water footprint | Human appropriation of fresh water (water footprint) (thousand km3)†,NA,NA
-water infrastructure,GEO,Human assets,Infrastructure (build-up area),1,assessment,water infrastructure,NA,NA
+water infrastructure,GEO,Human assets,Infrastructure,1,assessment,water infrastructure,NA,NA
 water intermittency thresholds,IPCC,Ecosystems,Abiotic conditions,1,assessment,water intermittency thresholds,NA,NA
 water quality,IPBES,Ecosystems,Abiotic conditions,1,assessment,water quality,NA,NA
 water quality index (watqi),IPBES,Ecosystems,Abiotic conditions,1,assessment,Water quality index (WATQI),Human well-being,Healthy living conditions
@@ -1657,8 +1657,8 @@ water table depth,IPCC,Ecosystems,Abiotic conditions,1,assessment,Water table de
 water vapour residence time,IPCC,Ecosystems,Abiotic conditions,1,assessment,Water Vapour Residence Time,NA,NA
 water withdrawal,IPBES,Ecosystem services,Nature contribution,1,assessment,Water withdrawal,Human well-being,Healthy living conditions
 water-balance estimates,IPCC,Ecosystems,Abiotic conditions,1,assessment,water-balance estimates,NA,NA
-water-saving devices,GEO,Human assets,Infrastructure (build-up area),1,assessment,water- saving devices,NA,NA
-weather patterns,IPBES,Knowledge systems,ILK,1,assessment,weather patterns,Ecosystems,Abiotic conditions
+water-saving devices,GEO,Human assets,Infrastructure,1,assessment,water- saving devices,NA,NA
+weather patterns,IPBES,Knowledge systems,Indigenous and Local Knowledge (ILK),1,assessment,weather patterns,Ecosystems,Abiotic conditions
 "weighted average tariffs faced by developing countries, least developed countries and small island developing states",IPBES;SDG,Governance,Legislation/governance,2,both,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",NA,NA
 weighted endemisms,IPBES,Biodiversity,State of biodiversity,1,assessment,weighted endemisms,NA,NA
 wet bulb globe temperature (wbgt) index,IPCC,Ecosystems,Abiotic conditions,1,assessment,Wet bulb globe temperature (WBGT) Index | wet bulb globe temperature (WBGT) index | Wet bulb globe temperature (WBGT) index,NA,NA
@@ -1686,4 +1686,4 @@ worldwide weighted tariff-average,IPBES;SDG,Ecosystem services,Specific monetary
 "years of healthy life lost from heart disease, stroke, lung cancer, chronic lung disease and respiratory infections",GEO,Human well-being,Healthy living conditions,1,assessment,"years of healthy life lost from heart disease, stroke, lung cancer, chronic lung disease and respiratory infections",NA,NA
 yield (improvement),GEO,Human assets,Coverage of basic needs,1,assessment,yield (improvement),Ecosystem services,Specific monetary valuation of nature contribution
 zonally averaged mean annual temperature reconstructions,IPCC,Ecosystems,Abiotic conditions,1,assessment,Zonally averaged mean annual temperature reconstructions,NA,NA
-zoonotic disease,GBF;GEO,Direct drivers,(Infectious) diseases,2,both,Zoonotic disease in wildlife | zoonotic disease,NA,NA
+zoonotic disease,GBF;GEO,Direct drivers,Infectious diseases,2,both,Zoonotic disease in wildlife | zoonotic disease,NA,NA

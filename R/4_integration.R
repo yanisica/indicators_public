@@ -101,30 +101,27 @@ all_indicators_harm %>% group_by(source) %>% count()
 # manual_classification_15102026.csv
 
 #Intermediate version were created merging with previously classified indicators
-classified = read_csv("../output/manual_classification_15102026.csv") #%>% 
+classified = read_csv("../output/manual_classification_20102026.csv") #%>% 
   # # re-encode only the strings that aren't valid UTF-8
   # dplyr::mutate(dplyr::across(dplyr::everything(),
   #                             ~ ifelse(validUTF8(.x), .x, iconv(.x, from = "latin1", to = "UTF-8")))) %>%
   # mutate(indicator_harmonized = indicator_harmonized %>%
-  #          # 1
   #          gsub("^hallow coral reefs$", "shallow coral reefs", .) %>%
-  #          # 2
   #          gsub("agricultural outpic prices", "agricultural output prices", ., fixed = TRUE) %>%
-  #          # 3
   #          gsub("^water- saving devices$", "water-saving devices", .) %>%
-  #          # 4: whatever the micro sign became (?, µ, μ, mojibake) -> Greek mu + m3
   #          gsub("highest interim target of 35 .*g/m3?$", "highest interim target of 35 μg/m3", .) %>%
-  #          # 5: close the bracket (only if the name ends without one)
   #          gsub("reported in national reports$", "reported in national reports)", .) %>%
-  #          # 6
   #          gsub("^no emissions$", "nitric oxide (no) emissions", .) %>%
-  #          # 7
   #          gsub("^c pool$", "carbon (c) pool", .) %>%
-  #          # 8
   #          gsub("^sh monsoons$", "southern hemisphere (sh) monsoons", .) %>%
-  #          # 9, 10: acute accent, curly apostrophe or mojibake -> straight apostrophe,
-  #          # as clean_indic_names() does
-  #          gsub("nature(´|’|Â´|\\?)s", "nature's", .))
+  #          gsub("nature(´|’|Â´|\\?)s", "nature's", .)) %>% 
+  #          gsub("1[-]in[-]100[-]year return period level [(]etwl[)]", "1-in-100-year extreme total water level (etwl)", .) %>%
+  #          gsub("global atmospheric co levels", "global atmospheric carbon monoxide (co) levels", .) %>%
+  #          gsub("number of studies on ias available per region", "number of studies on invasive alien species (ias) available per region", .) %>%
+  #          gsub("penman[-]monteith aed [(]atmospheric evaporative demand[)]", "penman-monteith atmospheric evaporative demand (aed)", .) %>%
+  #          gsub("pm 10 emissions", "pm10 emissions", .) %>%
+  #          gsub("simple precipitation intensity index [(]sdii[)]", "simple daily intensity index (sdii)", .)) %>%
+  #          write_csv("../output/manual_classification_20102026.csv")
 
 # checks
 classified %>% count() #1688
@@ -149,7 +146,7 @@ all_indicators_harm_cl %>% group_by(policy) %>% count()
 all_indicators_harm_cl %>% group_by(source) %>% count()
 
 # Save
-write_csv(all_indicators_harm_cl,'../output/all_indicators_harmonized_classified_15102026.csv')
+write_csv(all_indicators_harm_cl,'../output/all_indicators_harmonized_classified_20102026.csv')
 
 # re-format table (long table with repetitions)
 mea_sources <- c("GBF", "SDG", "CITES", "CMS", "RAMSAR", "UNCCD") 
@@ -183,7 +180,7 @@ indic <- all_indicators_harm_cl %>%
                 Categories, Categories_2, Subcategories, Subcategories_2,
                 mea, assess)
 
-write_csv(indic,'../output/all_indicators_harmonized_classified_15102026_lv.csv')
+write_csv(indic,'../output/all_indicators_harmonized_classified_20102026_lv.csv')
 
 # 4-Summaries----
 
@@ -285,18 +282,18 @@ all_indicators_harm_cl %>% distinct(Categories) %>% count() #8
 
 all_indicators_harm_cl %>% 
   group_by(Categories) %>% count() %>% mutate(prop = n/unique$n) %>% arrange(desc(n))
-# 1 Ecosystems           492 0.291 
-# 2 Governance           236 0.140 
+# 1 Ecosystems           486 0.288 
+# 2 Governance           244 0.145 
 # 3 Knowledge systems    197 0.117 
-# 4 Direct drivers       188 0.111 
-# 5 Biodiversity         169 0.100 
-# 6 Human assets         158 0.0936
-# 7 Human well-being     134 0.0794
-# 8 Ecosystem services   114 0.0675
+# 4 Direct drivers       190 0.113 
+# 5 Biodiversity         168 0.0995
+# 6 Human assets         157 0.0930
+# 7 Human well-being     133 0.0788
+# 8 Ecosystem services   113 0.066
 
-(all_indicators_harm_cl %>% filter(!is.na(Categories_2)) %>% count())/ #457
+(all_indicators_harm_cl %>% filter(!is.na(Categories_2)) %>% count())/ #462
   (all_indicators_harm_cl %>% filter(!is.na(Categories)) %>% count())  #1688
-# 1 0.2707346
+# 1 0.2736967
 
 indic %>% 
   group_by(source,Categories) %>%
@@ -307,7 +304,7 @@ indic %>%
 # 3 IPBES      8
 # 4 IPCC       8
 # 5 SDG        8
-# 6 RAMSAR     7
+# 6 RAMSAR     6
 # 7 CMS        5
 # 8 UNCCD      5
 # 9 CITES      4
@@ -394,6 +391,9 @@ assess_regex <- "\\b(IPBES|IPCC|GEO)\\b"
 mea_regex    <- "\\b(GBF|SDG|RAMSAR|CITES|CMS|UNCCD)\\b"
 
 app_table <- all_indicators_harm_cl %>%
+  mutate(Subcategories = gsub('[(]Infectious[)] diseases', 'Infectious diseases',Subcategories)) %>% 
+  mutate(Subcategories = gsub('ILK', 'Indigenous and Local Knowledge (ILK)',Subcategories)) %>% 
+  mutate(Subcategories = gsub('Infrastructure [(]build-up area[)]', 'Infrastructure',Subcategories)) %>% 
   mutate(
     `MEA/assess` = case_when(
       str_detect(source, assess_regex) & str_detect(source, mea_regex) ~ "both",
