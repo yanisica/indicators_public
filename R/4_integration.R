@@ -391,9 +391,6 @@ assess_regex <- "\\b(IPBES|IPCC|GEO)\\b"
 mea_regex    <- "\\b(GBF|SDG|RAMSAR|CITES|CMS|UNCCD)\\b"
 
 app_table <- all_indicators_harm_cl %>%
-  mutate(Subcategories = gsub('[(]Infectious[)] diseases', 'Infectious diseases',Subcategories)) %>% 
-  mutate(Subcategories = gsub('ILK', 'Indigenous and Local Knowledge (ILK)',Subcategories)) %>% 
-  mutate(Subcategories = gsub('Infrastructure [(]build-up area[)]', 'Infrastructure',Subcategories)) %>% 
   mutate(
     `MEA/assess` = case_when(
       str_detect(source, assess_regex) & str_detect(source, mea_regex) ~ "both",
@@ -413,3 +410,4 @@ app_table <- all_indicators_harm_cl %>%
     Subelements_2              = Subcategories_2
   )
 write_csv(app_table, "../output/indicators_prepped_app.csv")
+write_csv(app_table, "C:/Users/JLU-SU/Documents/GitHub/indicators-app/EnvironIndicators/indicators_prepped_app.csv")

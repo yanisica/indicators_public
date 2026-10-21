@@ -4,19 +4,19 @@ indicator_harmonized,Categories,Subcategories,Categories_2,Subcategories_2
 15n/14n isotope ratio,Ecosystems,Abiotic conditions,NA,NA
 2 m air temperatures,Ecosystems,Abiotic conditions,NA,NA
 ability of ecosystems to absorb and buffer hazards,Ecosystem services,Nature contribution,NA,NA
-abnormal occurrences in the territory,Knowledge systems,ILK,Knowledge systems,Specific information on human-nature relationship
+abnormal occurrences in the territory,Knowledge systems,Indigenous and Local Knowledge (ILK),Knowledge systems,Specific information on human-nature relationship
 above-ground biomass,Ecosystems,State of ecosystems,NA,NA
 above-ground biomass in forests,Ecosystems,State of ecosystems,NA,NA
 absence of conflict as indicator of political stability,Knowledge systems,Information on society and socio-economics,NA,NA
 absolute global forcing potential (agfp),Direct drivers,Climate change,NA,NA
 absolute global temperature change potential (agtp),Ecosystems,Abiotic conditions,Direct drivers,Climate change
 abundance and location of habitat,Ecosystems,State of ecosystems,NA,NA
-abundance of food species,Knowledge systems,ILK,Ecosystem services,Nature contribution
+abundance of food species,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 abundance of managed and wild pollinators,Biodiversity,State of biodiversity,NA,NA
-abundance of preferred harvest species,Knowledge systems,ILK,Ecosystem services,Nature contribution
+abundance of preferred harvest species,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 access to electricity,Human assets,Coverage of basic needs,Knowledge systems,Information on society and socio-economics
 access to land,Human well-being,Equity,NA,NA
-accessibility of resources,Knowledge systems,ILK,Ecosystem services,Nature contribution
+accessibility of resources,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 accumulated cyclone energy (ace),Ecosystems,Abiotic conditions,NA,NA
 accumulated seasonal heat,Ecosystems,Abiotic conditions,NA,NA
 achievement of a circular economic system,Knowledge systems,Information on society and socio-economics,NA,NA
@@ -41,7 +41,7 @@ agriculture-based materials produced (tons),Ecosystem services,Nature contributi
 agro-biodiversity,Biodiversity,State of biodiversity,NA,NA
 agrobiodiversity index,Ecosystem services,Nature contribution,Biodiversity,State of biodiversity
 aid for trade commitments and disbursements,Governance,Nature-based funding,NA,NA
-air departures,Human assets,Infrastructure (build-up area),NA,NA
+air departures,Human assets,Infrastructure,NA,NA
 air moisture,Ecosystems,Abiotic conditions,NA,NA
 air passengers,Direct drivers,Pollution,Direct drivers,Invasive alien species
 air pollution,Direct drivers,Pollution,NA,NA
@@ -55,16 +55,16 @@ alien species,Direct drivers,Invasive alien species,NA,NA
 alien species occurrence,Direct drivers,Invasive alien species,NA,NA
 alien species richness,Direct drivers,Invasive alien species,Biodiversity,State of biodiversity
 altering of the carbon and biogeochemical cycles,Ecosystems,Abiotic conditions,NA,NA
-alternative and nuclear energy (percentage of total energy use),Human assets,Infrastructure (build-up area),Ecosystem services,Specific mention of sustainable use of species/ecosystems
+alternative and nuclear energy (percentage of total energy use),Human assets,Infrastructure,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 amend policies that lead to destruction of mangroves,Governance,Nature detrimental legislation,NA,NA
 amount and composition of biodiversity-related finance reported to the oecd creditor reporting system,Governance,Nature-based legislation,NA,NA
-amount in united states dollars committed to public-private partnerships for infrastructure,Human assets,Infrastructure (build-up area),NA,NA
+amount in united states dollars committed to public-private partnerships for infrastructure,Human assets,Infrastructure,NA,NA
 amount of biodiversity-related philanthropic funding,Governance,Nature-based funding,NA,NA
 amount of fossil-fuel subsidies per unit of gross domestic product (production and consumption),Governance,Nature detrimental legislation,NA,NA
 amount of funding provided through the global environment facility and allocated to the biodiversity focal area,Governance,Nature-based funding,NA,NA
 amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Human assets,Coverage of basic needs,NA,NA
 amounts provided and mobilized in united states dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025,Human assets,State of economy,NA,NA
-animal behavior,Knowledge systems,ILK,Biodiversity,State of biodiversity
+animal behavior,Knowledge systems,Indigenous and Local Knowledge (ILK),Biodiversity,State of biodiversity
 annual count of days when precipitation is greater than or equal to 10 mm,Ecosystems,Abiotic conditions,Direct drivers,Climate change
 annual count of days when precipitation is greater than or equal to 20 mm,Ecosystems,Abiotic conditions,Direct drivers,Climate change
 annual count of days when precipitation is greater than or equal to 5 mm,Ecosystems,Abiotic conditions,Direct drivers,Climate change
@@ -84,10 +84,10 @@ annular mode index,Ecosystems,Abiotic conditions,NA,NA
 antarctic ice cores,Ecosystems,State of ecosystems,Direct drivers,Climate change
 antarctic ice sheet loss,Ecosystems,Change in ecosystems,NA,NA
 antimicrobial resistence in pathogens,Biodiversity,State of biodiversity,NA,NA
-appearance of new grass in grazing areas,Knowledge systems,ILK,NA,NA
+appearance of new grass in grazing areas,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 arctic sea ice area (sia),Ecosystems,State of ecosystems,NA,NA
 arctic species trend index,Biodiversity,Change in biodiversity,NA,NA
-"area and percent of forests managed primarily to protect the range of cultural, social and spiritual needs and values",Knowledge systems,Specific information on ILK and IPLC,Knowledge systems,Specific information on human-nature relationship
+"area and percent of forests managed primarily to protect the range of cultural, social and spiritual needs and values",Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),Knowledge systems,Specific information on human-nature relationship
 area and percent of forests used for subsistence purposes,Ecosystem services,Nature contribution,NA,NA
 area of agricultural land under conservation,Ecosystems,Area conservation,Direct drivers,Land conversion
 area of agricultural land under organic production,Direct drivers,Land conversion,Ecosystem services,Nature contribution
@@ -98,7 +98,7 @@ area of tree cover loss,Ecosystems,Change in ecosystems,NA,NA
 area under restoration,Ecosystems,Restoration efforts,NA,NA
 areas below calcium carbonate saturation thresholds,Ecosystems,Abiotic conditions,NA,NA
 arrival of new native and alien species,Direct drivers,Invasive alien species,NA,NA
-associated species,Knowledge systems,ILK,Biodiversity,State of biodiversity
+associated species,Knowledge systems,Indigenous and Local Knowledge (ILK),Biodiversity,State of biodiversity
 atlantic meridional overturning circulation (amoc),Ecosystems,Abiotic conditions,NA,NA
 atlantic multi-decadal variability (amv),Ecosystems,Abiotic conditions,NA,NA
 atlantic multi-decadal variability (amv) index,Ecosystems,Abiotic conditions,NA,NA
@@ -123,7 +123,7 @@ beach erosion volume due to the 100-year recurrence storm wave height,Ecosystems
 beach litter,Direct drivers,Pollution,NA,NA
 bedrock topography,Ecosystems,Abiotic conditions,NA,NA
 beef consumption,Human well-being,Healthy living conditions,NA,NA
-behavior of animals with importance as food,Knowledge systems,ILK,Ecosystem services,Nature contribution
+behavior of animals with importance as food,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 benefits derived from healthy ecosystems and costs caused by its depletion,Ecosystem services,Nature contribution,NA,NA
 benefits from the sustainable use of wild species,Ecosystem services,Specific mention of sustainable use of species/ecosystems,NA,NA
 benthich isotopes,Ecosystems,Abiotic conditions,NA,NA
@@ -156,12 +156,12 @@ bird species per grid cell,Biodiversity,State of biodiversity,NA,NA
 blocking index,Ecosystems,Abiotic conditions,NA,NA
 blood pressure,Human well-being,Healthy living conditions,NA,NA
 blue water sustainability index,Ecosystems,Area conservation,Knowledge systems,Specific information on human-nature relationship
-body condition,Knowledge systems,ILK,Biodiversity,State of biodiversity
+body condition,Knowledge systems,Indigenous and Local Knowledge (ILK),Biodiversity,State of biodiversity
 body fat,Biodiversity,State of biodiversity,NA,NA
 body mass index,Human well-being,Healthy living conditions,NA,NA
 boron-isotope,Ecosystems,Abiotic conditions,NA,NA
 buffer zones to protect catchment areas,Ecosystems,Area conservation,NA,NA
-build up area,Human assets,Infrastructure (build-up area),NA,NA
+build up area,Human assets,Infrastructure,NA,NA
 business operations,Governance,Legislation/governance,NA,NA
 by catch of vulnerable and non-target species,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,NA,NA
 carbon (c) pool,Ecosystem services,Nature contribution,NA,NA
@@ -169,7 +169,7 @@ c-haines index,Ecosystems,Abiotic conditions,NA,NA
 carbon sequestration,Ecosystem services,Nature contribution,NA,NA
 "carbon stocks and annual net ghg emissions, by landuse category, split by natural and non-natural land cover",Direct drivers,Climate change,NA,NA
 carbon uptake by land and ocean,Ecosystem services,Nature contribution,Ecosystems,State of ecosystems
-catch per unit effort,Knowledge systems,ILK,Ecosystem services,Nature contribution
+catch per unit effort,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 certified forest area,Ecosystem services,Specific mention of sustainable use of species/ecosystems,NA,NA
 change in # days hi>41°c,Ecosystems,Abiotic conditions,Ecosystems,Change in ecosystems
 change in # days tx>35°c,Ecosystems,Abiotic conditions,Ecosystems,Change in ecosystems
@@ -179,8 +179,8 @@ change in number of droughts,Ecosystems,Abiotic conditions,Direct drivers,Natura
 change in the extent of water-related ecosystems over time,Ecosystems,State of ecosystems,Ecosystems,Change in ecosystems
 change in the quality of coastal water ecosystems over time,Ecosystems,State of ecosystems (freshwater/coastal),Ecosystems,Change in ecosystems
 change in the quality of inland water ecosystems over time,Ecosystems,State of ecosystems,Ecosystems,Change in ecosystems
-change in water-use efficiency over time,Human assets,Infrastructure (build-up area),NA,NA
-changes in crop phenology,Knowledge systems,ILK,Ecosystem services,Nature contribution
+change in water-use efficiency over time,Human assets,Infrastructure,NA,NA
+changes in crop phenology,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 changes in evapotranspiration demand,Ecosystems,Abiotic conditions,Ecosystems,Change in ecosystems
 changes in groundwater,Ecosystems,Abiotic conditions,Ecosystems,Change in ecosystems
 changes in land versus sea surface temperature,Ecosystems,Abiotic conditions,NA,NA
@@ -235,11 +235,11 @@ comprehensiveness of conservation of socioeconomically as well as culturally val
 concentration of hydrogen ions (h+),Ecosystems,Abiotic conditions,NA,NA
 condition and size of wild animals,Biodiversity,State of biodiversity,NA,NA
 "conflict-related deaths per 100,000 population, by sex, age and cause",Knowledge systems,Information on society and socio-economics,Governance,Broken governance
-connection to land,Knowledge systems,ILK,NA,NA
-connection to sea,Knowledge systems,ILK,NA,NA
+connection to land,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
+connection to sea,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 connectivity indicator,Ecosystems,State of ecosystems (configuration),NA,NA
 conservation status of species listed in the cites appendices has stabilized or improved,Biodiversity,Species conservation,NA,NA
-container port traffic (teu: 20 foot equivalent units),Human assets,Infrastructure (build-up area),NA,NA
+container port traffic (teu: 20 foot equivalent units),Human assets,Infrastructure,NA,NA
 continuous global mangrove forest area,Ecosystems,State of ecosystems (configuration),Ecosystems,State of ecosystems (coverage)
 contrast of mean precipitation between dry and wet regions and between dry and wet seasons,Ecosystems,Abiotic conditions,NA,NA
 convective available potential energy and wind shear,Ecosystems,Abiotic conditions,NA,NA
@@ -262,22 +262,22 @@ coverage of protected areas and other effective area-based conservation measures
 coverage of wetland dependent bird populations by designated ramsar sites,Ecosystems,Area conservation,NA,NA
 coverage of wetland dependent non-avian populations by designated ramsar sites,Ecosystems,Area conservation,NA,NA
 "credit to agriculture, forestry and fishing",Governance,Nature detrimental legislation,NA,NA
-crops and their dietary roles,Knowledge systems,ILK,Ecosystem services,Nature contribution
+crops and their dietary roles,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 cross-natrional comparative information on access to and ownership of land,Human well-being,Equity,NA,NA
 cultivated area,Ecosystems,State of ecosystems,NA,NA
-cultural continuity,Knowledge systems,ILK,NA,NA
+cultural continuity,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 cultural vitality index,Human well-being,Cultural diversity,NA,NA
-culturally salient species,Knowledge systems,ILK,NA,NA
+culturally salient species,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 cumulative greenhouse gas emissions,Direct drivers,Climate change,NA,NA
 cumulative human impacts on marine ecosystems,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,NA,NA
 cumulative storm energy and storm power index,Ecosystem services,Nature contribution,Ecosystems,Abiotic conditions
 current distribution of species,Biodiversity,State of biodiversity,NA,NA
-cyclical patterns of abundance,Knowledge systems,ILK,Biodiversity,State of biodiversity
+cyclical patterns of abundance,Knowledge systems,Indigenous and Local Knowledge (ILK),Biodiversity,State of biodiversity
 daily maximum temperature above 35°c,Ecosystems,Abiotic conditions,NA,NA
 daily precipitation,Ecosystems,Abiotic conditions,NA,NA
 daily temperature,Ecosystems,Abiotic conditions,NA,NA
 daily temperature range: monthly mean difference between tx and tn,Ecosystems,Abiotic conditions,Direct drivers,Climate change
-damage to critical infrastructure,Human assets,Infrastructure (build-up area),Knowledge systems,Information on society and socio-economics
+damage to critical infrastructure,Human assets,Infrastructure,Knowledge systems,Information on society and socio-economics
 days of heavy precipitation,Ecosystems,Abiotic conditions,NA,NA
 death rate due to road traffic injuries,Human assets,Coverage of basic needs,NA,NA
 deaths due to unsafe water,Human well-being,Healthy living conditions,Direct drivers,Pollution
@@ -295,13 +295,13 @@ democracy,Knowledge systems,Information on society and socio-economics,Governanc
 dendritic connectivity index,Ecosystems,State of ecosystems,NA,NA
 density of preferred and palatable species,Biodiversity,State of biodiversity,NA,NA
 developing countries' and least developed countries' share of global exports,Human assets,State of economy,NA,NA
-development of crop varieties or landraces,Knowledge systems,ILK,NA,NA
+development of crop varieties or landraces,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 dietary health and sustainability,Human well-being,Healthy living conditions,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 direct co2 air measurements,Ecosystems,State of ecosystems,NA,NA
 direct economic loss attributed to disasters in relation to global gross domestic product (gdp),Human assets,State of economy,NA,NA
 disability-adjusted life years (dalys) lost,Human well-being,Healthy living conditions,NA,NA
-discontinued traditional land-management practices,Knowledge systems,ILK,Ecosystems,Area conservation
-distance travelled to harvest resources,Knowledge systems,ILK,NA,NA
+discontinued traditional land-management practices,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystems,Area conservation
+distance travelled to harvest resources,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 distribution of marine biota,Biodiversity,State of biodiversity,NA,NA
 distribution of terrestrial biota,Biodiversity,State of biodiversity,NA,NA
 diversity of competent hosts of vector-borne diseases,Biodiversity,Genetic diversity,Direct drivers,(Infectious) diseases
@@ -319,7 +319,7 @@ droughts,Ecosystems,Abiotic conditions,Direct drivers,Natural drivers
 early nimbus satellite visible and infrared imagery,Ecosystems,State of ecosystems,NA,NA
 ecolabel index,Ecosystem services,Nature contribution,NA,NA
 ecological footprint,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,NA,NA
-economic damages due to river floods,Human assets,Infrastructure (build-up area),Direct drivers,Natural drivers
+economic damages due to river floods,Human assets,Infrastructure,Direct drivers,Natural drivers
 economic growth,Human assets,State of economy,NA,NA
 economic inequality,Human well-being,Equity,NA,NA
 economic value of bio-inspired production,Ecosystem services,Specific monetary valuation of nature contribution,NA,NA
@@ -330,23 +330,23 @@ eflow index,Ecosystems,State of ecosystems (freshwater/coastal),NA,NA
 el niño-southern oscillation (enso),Ecosystems,Abiotic conditions,NA,NA
 el niño-southern oscillation (enso) bjerknes index,Ecosystems,Abiotic conditions,NA,NA
 el niño-southern oscillation (enso) index,Ecosystems,Abiotic conditions,NA,NA
-electric power consumption (kwh per capita),Human assets,Infrastructure (build-up area),NA,NA
+electric power consumption (kwh per capita),Human assets,Infrastructure,NA,NA
 emission of particular compounds,Direct drivers,Climate change,NA,NA
 emissions of ozone-depleting substances,Direct drivers,Climate change,NA,NA
 employment in materials production,Human assets,Income,Ecosystem services,Nature contribution
-encounter rates with supernatural forest dwelling entities,Knowledge systems,ILK,NA,NA
+encounter rates with supernatural forest dwelling entities,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 endemism richness,Biodiversity,State of biodiversity,NA,NA
 energy consumption,Ecosystem services,Nature contribution,NA,NA
-energy content of bioenergy crops,Human assets,Infrastructure (build-up area),NA,NA
-energy intensity measured in terms of primary energy and gross domestic product,Human assets,Infrastructure (build-up area),NA,NA
+energy content of bioenergy crops,Human assets,Infrastructure,NA,NA
+energy intensity measured in terms of primary energy and gross domestic product,Human assets,Infrastructure,NA,NA
 energy production,Ecosystem services,Nature contribution,NA,NA
 energy security from bio-energy and fuelwood,Ecosystem services,Nature contribution,NA,NA
-"energy supply derived from cereals, roots and tubers",Human assets,Infrastructure (build-up area),NA,NA
-energy use (kg of oil equivalent per capita),Human assets,Infrastructure (build-up area),NA,NA
+"energy supply derived from cereals, roots and tubers",Human assets,Infrastructure,NA,NA
+energy use (kg of oil equivalent per capita),Human assets,Infrastructure,NA,NA
 energy-intensity,Human assets,State of economy,NA,NA
 enhanced vegetation index,Ecosystems,State of ecosystems (integrity),NA,NA
 environmental awareness,Knowledge systems,Specific information on human-nature relationship,NA,NA
-environmental change,Knowledge systems,ILK,Ecosystems,Change in ecosystems
+environmental change,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystems,Change in ecosystems
 environmental component of the social sustainability index,Ecosystems,State of ecosystems (coverage),NA,NA
 environmental performance index,Ecosystems,State of ecosystems (coverage),NA,NA
 environmentally friendly policy processes,Governance,Nature-based legislation,NA,NA
@@ -365,13 +365,13 @@ excess of atmospheric evaporative demand (aed),Ecosystems,Abiotic conditions,NA,
 "existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",Governance,Legislation/governance,NA,NA
 existence of independent national human rights institutions in compliance with the paris principles,Human well-being,Equity,NA,NA
 expansion of oligotrophic subtropical gyres of the atlantic and pacific oceans,Ecosystems,State of ecosystems (marine),NA,NA
-expansion of settlements,Human assets,Infrastructure (build-up area),NA,NA
+expansion of settlements,Human assets,Infrastructure,NA,NA
 exposure to ambient pm,Human well-being,Healthy living conditions,NA,NA
 exposure to high concentrations of pollutants,Direct drivers,Pollution,NA,NA
 exposure to pm concentrations (population-weighted annual mean concentration of pm2.5),Direct drivers,Pollution,NA,NA
 extent of agricultural land,Direct drivers,Land conversion,Ecosystems,State of ecosystems
 extent of ecosystems that filter or add constituent components to water,Ecosystem services,Nature contribution,NA,NA
-extent of indigenous peoples and local communities lands that have some form of recognition,Knowledge systems,Specific information on ILK and IPLC,Human well-being,Equity
+extent of indigenous peoples and local communities lands that have some form of recognition,Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),Human well-being,Equity
 extent of intact forest landscapes,Ecosystems,State of ecosystems (integrity),NA,NA
 extent of marine calcification benefits from coral reefs,Ecosystem services,Nature contribution,NA,NA
 extent of marine wilderness,Ecosystems,State of ecosystems (marine),NA,NA
@@ -394,7 +394,7 @@ extraction biomass feed,Direct drivers,Specific mention of over-exploitation and
 extraction biomass food,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,NA,NA
 extraction biomass forestry,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,NA,NA
 extraction fossil-fuel,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,NA,NA
-extraction of industrial and construction minerals,Human assets,Infrastructure (build-up area),NA,NA
+extraction of industrial and construction minerals,Human assets,Infrastructure,NA,NA
 extraction of living biomass,Ecosystem services,Nature contribution,NA,NA
 extraction of non-human materials,Ecosystem services,Nature contribution,NA,NA
 extraction of non-living materials,Ecosystem services,Nature contribution,NA,NA
@@ -431,7 +431,7 @@ food security index,Human assets,Coverage of basic needs,NA,NA
 food waste,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,Human assets,Coverage of basic needs
 food waste index,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,Human assets,Coverage of basic needs
 "foreign direct investment (fdi), official development assistance and south-south cooperation as a proportion of total domestic budget",Governance,Nature-based funding,NA,NA
-forest and its role in protecting water sources,Knowledge systems,ILK,NA,NA
+forest and its role in protecting water sources,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 forest and land management,Ecosystems,Area conservation,NA,NA
 forest area as a percentage of total land area,Ecosystems,State of ecosystems (coverage),NA,NA
 forest distribution,Ecosystems,State of ecosystems,NA,NA
@@ -442,7 +442,7 @@ forest-specialist bird species per grid cell,Biodiversity,State of biodiversity,
 forestry production and trade (wood fuel),Ecosystems,State of ecosystems,NA,NA
 forests and grazing lands loss,Direct drivers,Land conversion,Ecosystems,Change in ecosystems
 fossil co2 emissions,Direct drivers,Climate change,NA,NA
-fossil-fuel energy consumption (percentage of total),Direct drivers,Climate change,Human assets,Infrastructure (build-up area)
+fossil-fuel energy consumption (percentage of total),Direct drivers,Climate change,Human assets,Infrastructure
 fraction of absorbed photosynthetically active radiation (fapar),Ecosystems,Abiotic conditions,NA,NA
 fraction of ocean not fished per year,Ecosystems,State of ecosystems,Direct drivers,Land conversion
 fraction of precipitation falling as snow,Ecosystems,Abiotic conditions,Ecosystems,State of ecosystems
@@ -466,9 +466,9 @@ gender-disaggregated agricultural indices,Human well-being,Equity,NA,NA
 gene bank accession and available genetic resources,Biodiversity,Genetic resources,NA,NA
 genesis potential index,Direct drivers,Natural drivers,NA,NA
 genetic diversity,Biodiversity,Genetic diversity,NA,NA
-genetic scorecard for wild species,Biodiversity,Genetic resources,NA,NA
+genetic scorecard for wild species,Biodiversity,Genetic diversity,NA,NA
 genuine progress indicator (gpi),Human well-being,Healthy living conditions,NA,NA
-geographical overlay of linguistic diversity and biodiversity,Knowledge systems,Specific information on ILK and IPLC,Knowledge systems,Information on biodiversity
+geographical overlay of linguistic diversity and biodiversity,Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),Knowledge systems,Information on biodiversity
 ghs effective radiative forcing,Direct drivers,Climate change,NA,NA
 gini index,Human well-being,Equity,NA,NA
 glacier mass and extent,Ecosystems,Change in ecosystems,NA,NA
@@ -490,7 +490,7 @@ global funding for resourcing of biological invasions policy and management impl
 global greening/browning,Direct drivers,Climate change,NA,NA
 global human settlement layer (ghsl),Knowledge systems,Information on society and socio-economics,NA,NA
 global imports of information and communication technology (ict) goods as presented by bilateral trade flows by ict goods categories,Knowledge systems,Information on society and socio-economics,Human assets,State of economy
-global index on indigenous peoples' well-being,Knowledge systems,Specific information on ILK and IPLC,NA,NA
+global index on indigenous peoples' well-being,Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),NA,NA
 global land precipitation,Ecosystems,Abiotic conditions,NA,NA
 global mammal and bird species remaining,Biodiversity,State of biodiversity,NA,NA
 global mean ocean surface ph,Ecosystems,Abiotic conditions,NA,NA
@@ -539,18 +539,18 @@ habitat conditions,Ecosystems,State of ecosystems,NA,NA
 habitat distributional range,Ecosystems,State of ecosystems,NA,NA
 habitat loss,Ecosystems,Change in ecosystems,NA,NA
 habitat patches located within marine protected areas or integrated coastal zone management (iczm),Ecosystems,Area conservation,NA,NA
-habitat quality,Knowledge systems,ILK,Ecosystems,State of ecosystems
+habitat quality,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystems,State of ecosystems
 hadley circulation cell,Ecosystems,Abiotic conditions,NA,NA
 hadley/walker circulation,Ecosystems,Abiotic conditions,NA,NA
 shallow coral reefs,Ecosystems,State of ecosystems,NA,NA
 happiness,Human well-being,Wellness,NA,NA
 happy planet index,Human well-being,Wellness,NA,NA
-harvest intensity,Knowledge systems,ILK,Ecosystem services,Nature contribution
+harvest intensity,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 hazardous waste,Direct drivers,Pollution,NA,NA
 health associated with intake of pollinator dependent foods,Human well-being,Healthy living conditions,Direct drivers,Pollution
 health condition and body size of wild animals decrease,Biodiversity,Change in biodiversity,NA,NA
 health of the forest,Ecosystems,State of ecosystems,NA,NA
-health of the soil,Knowledge systems,ILK,Ecosystems,Abiotic conditions
+health of the soil,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystems,Abiotic conditions
 health worker density and distribution,Human well-being,Healthy living conditions,Human assets,Coverage of basic needs
 heat index (hi),Ecosystems,Abiotic conditions,NA,NA
 heat stress (humidity and temperature),Ecosystems,Abiotic conditions,NA,NA
@@ -570,7 +570,7 @@ human footprint,Direct drivers,Specific mention of over-exploitation and unsusta
 human population density,Knowledge systems,Information on society and socio-economics,NA,NA
 human population size,Knowledge systems,Information on society and socio-economics,NA,NA
 humidity,Ecosystems,Abiotic conditions,NA,NA
-hunting success,Knowledge systems,ILK,Ecosystem services,Nature contribution
+hunting success,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 hydrological deficits,Ecosystems,Abiotic conditions,NA,NA
 ice core measurements,Ecosystems,State of ecosystems,Direct drivers,Climate change
 ideas and products mimicking or inspired by nature,Knowledge systems,Specific information on human-nature relationship,NA,NA
@@ -617,12 +617,12 @@ indicators related to the relevant sectors especially using or linking to releva
 individual deprivation measure,Knowledge systems,Information on society and socio-economics,NA,NA
 "information provided through the financial reporting framework, adopted by decision xii/3",Governance,Legislation/governance,NA,NA
 inland fishery production,Ecosystem services,Nature contribution,NA,NA
-installed renewable energy-generating capacity in developing countries (in watts per capita),Human assets,Infrastructure (build-up area),Ecosystem services,Specific mention of sustainable use of species/ecosystems
+installed renewable energy-generating capacity in developing countries (in watts per capita),Human assets,Infrastructure,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 intact wilderness,Ecosystems,State of ecosystems,NA,NA
 "integration of biodiversity into national accounting and reporting systems, defined as implementation of the system of environmental-economic accounting (seea)",Governance,Nature-based legislation,NA,NA
 integration of education for sustainable development (esd) in curricula,Knowledge systems,Specific information on human-nature relationship,NA,NA
 integration of education for sustainable development (esd) in higher education,Knowledge systems,Specific information on human-nature relationship,NA,NA
-intensity of weather,Knowledge systems,ILK,Ecosystems,Abiotic conditions
+intensity of weather,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystems,Abiotic conditions
 inter-decadal pacific oscillation (ipo) index,Ecosystems,Abiotic conditions,NA,NA
 inter-tropical convergence zone (itcz) narrowing,Ecosystems,Abiotic conditions,NA,NA
 interannual variability of primary production (pp),Ecosystems,State of ecosystems,NA,NA
@@ -632,7 +632,7 @@ international migrant stock,Knowledge systems,Information on society and socio-e
 "international tourism, number of arrivals",Human well-being,Recreation,NA,NA
 "international tourism, number of departures",Human well-being,Recreation,NA,NA
 interventions to limit spread and reduce impact of alien species,Direct drivers,Invasive alien species,NA,NA
-invasive alien species are given new names by indigenous peoples and local communities,Knowledge systems,ILK,NA,NA
+invasive alien species are given new names by indigenous peoples and local communities,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 invasive alien species impact,Direct drivers,Invasive alien species,NA,NA
 invertebrate abundance and biomass,Biodiversity,State of biodiversity,NA,NA
 investment costs of groundwater abstraction and desalination for continued water supply and sanitation of rapidly expanding cities,Governance,Legislation/governance,Human well-being,Healthy living conditions
@@ -645,11 +645,11 @@ labour share of gross domestic product,Human assets,Income,NA,NA
 lake sediments,Ecosystems,State of ecosystems,NA,NA
 land cover change,Direct drivers,Land conversion,NA,NA
 land monsoon precipitation index,Ecosystems,Abiotic conditions,NA,NA
-land not cultivated or urban,Ecosystems,State of ecosystems,Human assets,Infrastructure (build-up area)
-land not cultivated or urban (hotspots),Ecosystems,State of ecosystems,Human assets,Infrastructure (build-up area)
-land not cultivated or urban (indigenous lands),Ecosystems,State of ecosystems,Human assets,Infrastructure (build-up area)
+land not cultivated or urban,Ecosystems,State of ecosystems,Human assets,Infrastructure
+land not cultivated or urban (hotspots),Ecosystems,State of ecosystems,Human assets,Infrastructure
+land not cultivated or urban (indigenous lands),Ecosystems,State of ecosystems,Human assets,Infrastructure
 land rainfall over mc,Ecosystems,Abiotic conditions,NA,NA
-land tenure [in the traditional territories] of indigenous peoples and local communities [by sex and type of tenure],Ecosystems,State of ecosystems,Knowledge systems,ILK
+land tenure [in the traditional territories] of indigenous peoples and local communities [by sex and type of tenure],Ecosystems,State of ecosystems,Knowledge systems,Indigenous and Local Knowledge (ILK)
 land under cereal production (ha),Ecosystem services,Nature contribution,NA,NA
 land use change,Direct drivers,Land conversion,Ecosystems,Change in ecosystems
 land-use and management,Ecosystem services,Nature contribution,Ecosystems,Area conservation
@@ -672,7 +672,7 @@ life cycle impact assessment (lcia),Knowledge systems,Information on society and
 life expectancy,Human well-being,Healthy living conditions,Knowledge systems,Information on society and socio-economics
 life satisfaction,Human well-being,Wellness,NA,NA
 lightning frequency,Ecosystems,Abiotic conditions,NA,NA
-linguistic diversity index,Knowledge systems,Specific information on ILK and IPLC,Human well-being,Cultural diversity
+linguistic diversity index,Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),Human well-being,Cultural diversity
 live coral cover,Biodiversity,State of biodiversity,Ecosystems,State of ecosystems
 livelihood dependence,Knowledge systems,Information on society and socio-economics,NA,NA
 livestock density of animals (chickens),Biodiversity,State of biodiversity,Ecosystem services,Specific monetary valuation of nature contribution
@@ -708,7 +708,7 @@ mammalian body mass,Biodiversity,State of biodiversity,NA,NA
 mammalian range size,Biodiversity,State of biodiversity,NA,NA
 management effectiveness of areas protected specifically for migratory species,Ecosystems,Area conservation,NA,NA
 manufacturing employment as a proportion of total employment,Human assets,Coverage of basic needs,NA,NA
-manufacturing value added as a proportion of gross domestic product and per capita,Human assets,Infrastructure (build-up area),NA,NA
+manufacturing value added as a proportion of gross domestic product and per capita,Human assets,Infrastructure,NA,NA
 marine air temperature,Ecosystems,Abiotic conditions,NA,NA
 marine cloudiness over mc,Ecosystems,Abiotic conditions,NA,NA
 marine litter,Direct drivers,Pollution,NA,NA
@@ -735,21 +735,21 @@ mean annual change in above-ground biomass,Ecosystems,Change in ecosystems,NA,NA
 mean annual precipitation,Ecosystems,Abiotic conditions,NA,NA
 mean annual temperature,Ecosystems,Abiotic conditions,NA,NA
 mean body length,Biodiversity,State of biodiversity,NA,NA
-mean body mass,Knowledge systems,ILK,Biodiversity,State of biodiversity
+mean body mass,Knowledge systems,Indigenous and Local Knowledge (ILK),Biodiversity,State of biodiversity
 mean length of fish,Biodiversity,State of biodiversity,NA,NA
 mean polar sea ice extent,Ecosystems,State of ecosystems,NA,NA
 mean species abundance (msa),Biodiversity,State of biodiversity,NA,NA
 mean species abundance (msa) (hotspots),Biodiversity,State of biodiversity,NA,NA
 mean species abundance (msa) (indigenous lands),Biodiversity,State of biodiversity,NA,NA
 measured concentrations of o in the upper stratospere,Ecosystems,Abiotic conditions,NA,NA
-medicinal species as a fraction of total vascular plant species,Biodiversity,State of biodiversity,Knowledge systems,ILK
+medicinal species as a fraction of total vascular plant species,Biodiversity,State of biodiversity,Knowledge systems,Indigenous and Local Knowledge (ILK)
 megafaunal range size,Biodiversity,State of biodiversity,NA,NA
 mibid index,Ecosystems,State of ecosystems (coverage),Ecosystem services,Nature contribution
 migration net,Governance,Legislation/governance,Human well-being,Cultural diversity
 migratory birds threatened or near threatened on the red list index,Biodiversity,State of biodiversity,Biodiversity,Species conservation
 millenium development goals indicators,Governance,Legislation/governance,Human well-being,Healthy living conditions
 minimum temperature,Ecosystems,Abiotic conditions,NA,NA
-mobile cellular subscriptions,Human assets,Infrastructure (build-up area),NA,NA
+mobile cellular subscriptions,Human assets,Infrastructure,NA,NA
 monetary benefits received in accordance with applicable internationally agreed access and benefit-sharing instruments,Governance,National/international cooperation,NA,NA
 monthly drought code fire index,Direct drivers,Natural drivers,NA,NA
 monthly maximum value of daily maximum temperature,Ecosystems,Abiotic conditions,Direct drivers,Climate change
@@ -772,10 +772,10 @@ national greenhouse inventories from land use and land use change,Direct drivers
 national oceanic and atmospheric administration annual greenhouse gas index (aggi),Direct drivers,Climate change,Direct drivers,Pollution
 "national recycling rate, tons of material recycled",Knowledge systems,Specific information on human-nature relationship,NA,NA
 nationally maintained research vessels,Knowledge systems,Information on society and socio-economics,NA,NA
-native newcomer species arrive,Knowledge systems,ILK,NA,NA
+native newcomer species arrive,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 natural habitat extent,Ecosystems,State of ecosystems,NA,NA
 natural habitat in agriculture,Ecosystems,State of ecosystems,NA,NA
-natural medicinal products and manufactured bio-derived medicines,Knowledge systems,Specific information on ILK and IPLC,NA,NA
+natural medicinal products and manufactured bio-derived medicines,Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),NA,NA
 nature risk index,Direct drivers,Natural drivers,NA,NA
 neonatal mortality rate,Human well-being,Healthy living conditions,NA,NA
 net climate feedback,Ecosystem services,Nature contribution,NA,NA
@@ -836,7 +836,7 @@ number of countries (and number of instruments) with payments for ecosystem serv
 "number of countries adopting relevant regulation, processes and measures and allocating resources to reduce the impact of invasive alien species",Governance,Nature-based funding,Direct drivers,Invasive alien species
 number of countries and institutions that have provided additional funding from cites authorities to another country or activity for conservation and sustainable development projects in order to further the objectives of the convention,Governance,National/international cooperation,Governance,Nature-based funding
 "number of countries developing, adopting or implementing policy instruments aimed at encouraging and enabling people to make sustainable consumption choices",Governance,Nature-based legislation,Ecosystem services,Specific mention of sustainable use of species/ecosystems
-"number of countries implementing national legislation, policies or other measures regarding fpic related to conservation",Knowledge systems,Specific information on ILK and IPLC,Governance,Nature-based legislation
+"number of countries implementing national legislation, policies or other measures regarding fpic related to conservation",Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),Governance,Nature-based legislation
 "number of countries implementing natural resource accounts, excluding energy, within the system of environmental economic accounting",Governance,Nature-based legislation,NA,NA
 number of countries implementing nbsaps,Governance,Nature-based legislation,NA,NA
 number of countries implementing sustainable public procurement policies and action plans,Governance,Nature-based legislation,NA,NA
@@ -908,7 +908,7 @@ number of invasive species that are being controlled through management actions,
 "number of key identified hashtags (e.g. #cites, #citescop19 #worldwildlifeday, etc.) on cites social media",Knowledge systems,Specific information on human-nature relationship,NA,NA
 "number of least developed countries and small island developing states with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the united nations framework convention on climate change",Governance,Nature-based legislation,NA,NA
 number of meetings/cop where representatives of other international bodies report on relevant activities to cites parties,Governance,National/international cooperation,NA,NA
-"number of mixed sites (having both natural and cultural outstanding universal values), cultural landscapes (recognized as combined works of nature and people) and natural sites with cultural values including those supporting local and indigenous knowledge and practices inscribed on the unesco world heritage list and unesco world network of biosphere reserves",Human well-being,Cultural diversity,Knowledge systems,ILK
+"number of mixed sites (having both natural and cultural outstanding universal values), cultural landscapes (recognized as combined works of nature and people) and natural sites with cultural values including those supporting local and indigenous knowledge and practices inscribed on the unesco world heritage list and unesco world network of biosphere reserves",Human well-being,Cultural diversity,Knowledge systems,Indigenous and Local Knowledge (ILK)
 number of msc chain of custody certification holders by distribution country,Ecosystem services,Specific mention of sustainable use of species/ecosystems,NA,NA
 "number of new hiv infections per 1,000 uninfected population, by sex, age and key populations",Human assets,Coverage of basic needs,Direct drivers,(Infectious) diseases
 "number of new, unique visits to the cites website",Knowledge systems,Specific information on human-nature relationship,NA,NA
@@ -940,7 +940,7 @@ number of parties with information on cites and its requirements on their offici
 number of people living on less than 1.90 usd per day,Human assets,State of economy,NA,NA
 number of people migrating,Knowledge systems,Information on society and socio-economics,NA,NA
 number of people requiring interventions against neglected tropical diseases,Human well-being,Healthy living conditions,Direct drivers,(Infectious) diseases
-"number of people using wild resources for energy, food or culture (including firewood collection, hunting and fishing, gathering, medicinal use, craft making, etc.)",Human assets,Infrastructure (build-up area),Ecosystem services,Specific mention of sustainable use of species/ecosystems
+"number of people using wild resources for energy, food or culture (including firewood collection, hunting and fishing, gathering, medicinal use, craft making, etc.)",Human assets,Infrastructure,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 number of people who died or disappeared in the process of migration towards an international destination,Governance,Broken governance,NA,NA
 number of people without access to safe sanitation services,Human well-being,Healthy living conditions,NA,NA
 number of permits or their equivalents for genetic resources (including those related to traditional knowledge) by type of permit,Governance,Nature-based legislation,Biodiversity,Genetic resources
@@ -1031,10 +1031,10 @@ pacific decadal variability (pdv) index,Ecosystems,Abiotic conditions,NA,NA
 paleo-temperature records,Ecosystems,Abiotic conditions,NA,NA
 palmer drought severity index (pdsi),Ecosystems,Abiotic conditions,NA,NA
 pan evaporation measurements,Ecosystems,Abiotic conditions,NA,NA
-"parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",Human assets,Coverage of basic needs,Knowledge systems,ILK
+"parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",Human assets,Coverage of basic needs,Knowledge systems,Indigenous and Local Knowledge (ILK)
 "participation rate in organized learning (one year before the official primary entry age), by sex",Human assets,Coverage of basic needs,NA,NA
 "participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",Human assets,Coverage of basic needs,NA,NA
-"passenger and freight volumes, by mode of transport",Human assets,Infrastructure (build-up area),NA,NA
+"passenger and freight volumes, by mode of transport",Human assets,Infrastructure,NA,NA
 peatland extent and condition,Ecosystems,State of ecosystems (coverage),NA,NA
 penman-monteith atmospheric evaporative demand (aed),Ecosystems,Abiotic conditions,NA,NA
 people per outlet mcdonals,Knowledge systems,Information on society and socio-economics,NA,NA
@@ -1069,7 +1069,7 @@ percentage of parties reporting having sufficient information to enforce the con
 percentage of parties reporting having sufficient information to make listing decisions that are reflective of species conservation needs,Knowledge systems,Information on biodiversity,Governance,Nature-based legislation
 "percentage of parties reporting private sector undertaking activities for the conservation, wise use and management of wetlands in general",Governance,National/international cooperation,Governance,Nature-based legislation
 percentage of parties reporting to the ramsar secretariat all cases of negative human-induced change or likely change in the ecological character of ramsar sites pursuant to article 3.2,Governance,Nature-based legislation,Ecosystems,State of ecosystems (integrity)
-percentage of parties that co-developed or otherwise supported the capacity of indigenous peoples and local communities to pursue livelihoods,Knowledge systems,Specific information on ILK and IPLC,Governance,National/international cooperation
+percentage of parties that co-developed or otherwise supported the capacity of indigenous peoples and local communities to pursue livelihoods,Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),Governance,National/international cooperation
 percentage of parties that consider wetlands as natural water infrastructure integral to water resource management at the scale of river basin,Governance,Nature-based legislation,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 percentage of parties that have adopted wetland policies or equivalent instruments that promote the wise use of their wetlands,Governance,Nature-based legislation,NA,NA
 percentage of parties that have been involved in the development and implementation of a regional initiative under the framework of the convention,Governance,Nature-based legislation,NA,NA
@@ -1114,7 +1114,7 @@ permanent surface water extent,Ecosystems,Abiotic conditions,NA,NA
 "pest, invasive or harmful species",Direct drivers,Invasive alien species,NA,NA
 pesticide use per area of cropland,Direct drivers,Pollution,NA,NA
 ph and desoxygenation,Ecosystems,Abiotic conditions,NA,NA
-phenology of economically and/or culturally important wild plant and animal species,Knowledge systems,ILK,Ecosystem services,Nature contribution
+phenology of economically and/or culturally important wild plant and animal species,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 phenology of marine biota,Biodiversity,State of biodiversity,NA,NA
 phosphorus (p) loads,Direct drivers,Pollution,NA,NA
 photo series analysis using social media,Knowledge systems,Information on biodiversity,NA,NA
@@ -1146,7 +1146,7 @@ population involved in hunting and gathering,Human assets,Coverage of basic need
 population-weighted ozone concentrations,Direct drivers,Climate change,NA,NA
 position of 15n atom in atmospheric n2o,Direct drivers,Climate change,NA,NA
 positive incentives in place to promote biodiversity conservation and sustainable use,Governance,Nature-based legislation,Ecosystem services,Specific mention of sustainable use of species/ecosystems
-possible use or further development of indicator(s) linked to work currently being undertaken to develop indicator(s) for related aichi target 18 of the strategic plan for biodiversity,Knowledge systems,Specific information on ILK and IPLC,NA,NA
+possible use or further development of indicator(s) linked to work currently being undertaken to develop indicator(s) for related aichi target 18 of the strategic plan for biodiversity,Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),NA,NA
 potential evaporation anomalies,Ecosystems,Abiotic conditions,NA,NA
 poverty,Human assets,State of economy,Human well-being,Healthy living conditions
 poverty gap,Human assets,Coverage of basic needs,Human assets,Income
@@ -1164,8 +1164,8 @@ premature deaths in 2016 to household air pollution,Human well-being,Healthy liv
 presense of endemic species,Biodiversity,State of biodiversity,NA,NA
 pressure ozone trend,Direct drivers,Climate change,NA,NA
 "prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",Human assets,Coverage of basic needs,NA,NA
-prevalence of certain species,Knowledge systems,ILK,Biodiversity,State of biodiversity
-prevalence of knowledge about seasonal cycles in their communities,Knowledge systems,ILK,NA,NA
+prevalence of certain species,Knowledge systems,Indigenous and Local Knowledge (ILK),Biodiversity,State of biodiversity
+prevalence of knowledge about seasonal cycles in their communities,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 "prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the who child growth standards) among children under 5 years of age, by type (wasting and overweight)",Human assets,Coverage of basic needs,NA,NA
 "prevalence of moderate or severe food insecurity in the population, based on the food insecurity experience scale (fies)",Human assets,Coverage of basic needs,Human well-being,Healthy living conditions
 prevalence of obesity in the adult population (18 years and older),Human assets,Coverage of basic needs,Human well-being,Healthy living conditions
@@ -1202,7 +1202,7 @@ proportion of countries where the legal framework (including customary law) guar
 proportion of countries with systems to track and make public allocations for gender equality and women's empowerment,Human well-being,Equity,NA,NA
 proportion of cropland,Ecosystem services,Nature contribution,NA,NA
 proportion of degraded mountain land,Ecosystems,Change in ecosystems,NA,NA
-proportion of domestic and industrial wastewater flows safely treated,Human assets,Infrastructure (build-up area),NA,NA
+proportion of domestic and industrial wastewater flows safely treated,Human assets,Infrastructure,NA,NA
 proportion of domestic budget funded by domestic taxes,Human assets,State of economy,NA,NA
 proportion of domesticated breeds categorized as at risk or extinct,Ecosystem services,Nature contribution,Biodiversity,Change in biodiversity
 proportion of fish stocks within biologically sustainable levels,Biodiversity,State of biodiversity,NA,NA
@@ -1227,7 +1227,7 @@ proportion of parties that are making use of the available tools,Governance,Natu
 "proportion of people living below 50 percent of median income, by sex, age and persons with disabilities",Human well-being,Equity,NA,NA
 "proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",Human well-being,Wellness,Knowledge systems,Information on society and socio-economics
 "proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",Governance,Broken governance,Knowledge systems,Information on society and socio-economics
-"proportion of population covered by a mobile network, by technology",Human assets,Infrastructure (build-up area),NA,NA
+"proportion of population covered by a mobile network, by technology",Human assets,Infrastructure,NA,NA
 "proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",Human well-being,Equity,NA,NA
 proportion of population exposed to air pollution,Human well-being,Healthy living conditions,Direct drivers,Pollution
 "proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",Human assets,Coverage of basic needs,NA,NA
@@ -1237,22 +1237,22 @@ proportion of population reporting having personally felt discriminated against 
 proportion of population satisfied with their last experience of public services,Knowledge systems,Information on society and socio-economics,NA,NA
 "proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months",Knowledge systems,Information on society and socio-economics,Governance,Broken governance
 proportion of population that feel safe walking alone around the area they live after dark,Human well-being,Equity,Knowledge systems,Information on society and socio-economics
-"proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",Human assets,Infrastructure (build-up area),Human assets,Coverage of basic needs
+"proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",Human assets,Infrastructure,Human assets,Coverage of basic needs
 proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water,Human well-being,Healthy living conditions,Human assets,Coverage of basic needs
 proportion of population using safely managed drinking water services,Human well-being,Healthy living conditions,Human assets,Coverage of basic needs
 "proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",Human well-being,Equity,Human well-being,Wellness
 proportion of population with access to electricity,Human assets,Coverage of basic needs,Knowledge systems,Information on society and socio-economics
 proportion of population with large household expenditures on health as a share of total household expenditure or income,Human assets,Coverage of basic needs,Knowledge systems,Information on society and socio-economics
-proportion of population with primary reliance on clean fuels and technology,Human assets,Infrastructure (build-up area),Knowledge systems,Information on society and socio-economics
+proportion of population with primary reliance on clean fuels and technology,Human assets,Infrastructure,Knowledge systems,Information on society and socio-economics
 proportion of populations maintained within species,Biodiversity,State of biodiversity,NA,NA
-proportion of populations within species with an effective population size > 500,Biodiversity,State of biodiversity,NA,NA
+proportion of populations within species with an effective population size > 500,Biodiversity,Genetic diversity,NA,NA
 proportion of predatory fish,Biodiversity,State of biodiversity,NA,NA
 "proportion of schools offering basic services, by type of service",Human assets,Coverage of basic needs,NA,NA
 proportion of seats held by women in (a) national parliaments and (b) local governments,Human well-being,Equity,NA,NA
 "proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",Governance,Legislation/governance,NA,NA
 proportion of sites in the world database on protected areas reporting shared governance,Knowledge systems,Information on biodiversity,Knowledge systems,Information on society and socio-economics
-proportion of small-scale industries in total industry value added,Human assets,Infrastructure (build-up area),NA,NA
-proportion of small-scale industries with a loan or line of credit,Human assets,Infrastructure (build-up area),Human assets,Income
+proportion of small-scale industries in total industry value added,Human assets,Infrastructure,NA,NA
+proportion of small-scale industries with a loan or line of credit,Human assets,Infrastructure,Human assets,Income
 proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,Governance,Legislation/governance,NA,NA
 "proportion of teachers with the minimum required qualifications, by education level",Knowledge systems,Information on society and socio-economics,NA,NA
 proportion of terrestrial protected area as a share of the total land area,Ecosystems,Area conservation,NA,NA
@@ -1261,7 +1261,7 @@ proportion of the global population using piped water supplies on premises,Human
 "proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",Human assets,Coverage of basic needs,Human assets,State of economy
 "proportion of the population who are refugees, by country of origin",Knowledge systems,Information on society and socio-economics,NA,NA
 "proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",Knowledge systems,Information on society and socio-economics,Governance,Legislation/governance
-proportion of the rural population who live within 2 km of an all-season road,Human assets,Infrastructure (build-up area),NA,NA
+proportion of the rural population who live within 2 km of an all-season road,Human assets,Infrastructure,NA,NA
 proportion of the target population covered by all vaccines included in their national programme,Human assets,Coverage of basic needs,Direct drivers,(Infectious) diseases
 "proportion of time spent on unpaid domestic and care work, by sex, age and location",Human assets,Income,NA,NA
 "proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",Human well-being,Equity,NA,NA
@@ -1271,7 +1271,7 @@ proportion of total research budget allocated to research in the field of marine
 proportion of traded wildlife that was poached or illicitly trafficked,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,NA,NA
 proportion of transboundary basin area with an operational arrangement for water cooperation,Ecosystem services,Nature contribution,NA,NA
 proportion of unpalatable plants on rangelands,Ecosystems,State of ecosystems (configuration),NA,NA
-proportion of urban area,Human assets,Infrastructure (build-up area),NA,NA
+proportion of urban area,Human assets,Infrastructure,NA,NA
 proportion of urban population,Knowledge systems,Information on society and socio-economics,NA,NA
 "proportion of urban population living in slums, informal settlements or inadequate housing",Human assets,Coverage of basic needs,Governance,Broken governance
 "proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",Human assets,Coverage of basic needs,Governance,Broken governance
@@ -1303,9 +1303,9 @@ protection of key biodiversity areas,Ecosystems,Area conservation,NA,NA
 protein intake per country per person,Knowledge systems,Information on society and socio-economics,NA,NA
 "provision of safe, reliable drinking water",Human well-being,Healthy living conditions,NA,NA
 proximity of people and nature,Knowledge systems,Specific information on human-nature relationship,NA,NA
-quality and abundance of food and medicine species,Knowledge systems,ILK,Ecosystem services,Nature contribution
+quality and abundance of food and medicine species,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystem services,Nature contribution
 quality of governance index,Governance,Legislation/governance,NA,NA
-quantity of land area known to have (in)sufficient infrastructure against flooding,Human assets,Infrastructure (build-up area),NA,NA
+quantity of land area known to have (in)sufficient infrastructure against flooding,Human assets,Infrastructure,NA,NA
 radiative forcing,Ecosystems,Abiotic conditions,Direct drivers,Climate change
 radio occultation,Direct drivers,Climate change,NA,NA
 rainfall,Ecosystems,Abiotic conditions,NA,NA
@@ -1321,7 +1321,7 @@ rate of land use change,Direct drivers,Land conversion,Ecosystems,Change in ecos
 rate of species accumulation,Biodiversity,Change in biodiversity,NA,NA
 rate of wood removal,Ecosystem services,Nature contribution,NA,NA
 ratio of land consumption rate to population growth rate,Direct drivers,Land conversion,Human assets,Coverage of basic needs
-recognition and value of forest-management knowledge and skills of local people,Knowledge systems,ILK,NA,NA
+recognition and value of forest-management knowledge and skills of local people,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 recommended intake values for the food groups,Human well-being,Healthy living conditions,NA,NA
 recreation and cultural ecosystem services provided,Human well-being,Recreation,NA,NA
 recruitment cost borne by employee as a proportion of monthly income earned in country of destination,Human assets,State of economy,Human assets,Income
@@ -1344,8 +1344,8 @@ redistributive impact of fiscal policy,Human assets,Income,Governance,Legislatio
 reduced concentration of pollutants in water,Direct drivers,Pollution,NA,NA
 reduced concentrations of greenhouse gases in the atmosphere,Direct drivers,Climate change,NA,NA
 reduced concentrations of pm2.5,Direct drivers,Pollution,NA,NA
-reduced cost of road construction,Human assets,Infrastructure (build-up area),NA,NA
-reduced cost of road maintenance,Human assets,Infrastructure (build-up area),NA,NA
+reduced cost of road construction,Human assets,Infrastructure,NA,NA
+reduced cost of road maintenance,Human assets,Infrastructure,NA,NA
 reduced food spoilage,Ecosystem services,Nature contribution,NA,NA
 reduced hunger,Human well-being,Healthy living conditions,NA,NA
 reduced incidence and severity of hazards,Human well-being,Healthy living conditions,NA,NA
@@ -1366,19 +1366,19 @@ relative magnitude of fragmentation (rmf),Ecosystems,State of ecosystems (integr
 relevant research funding,Knowledge systems,Information on society and socio-economics,NA,NA
 remaining primary vegetation,Ecosystems,State of ecosystems (coverage),NA,NA
 remaining primary vegetation (hotspots),Ecosystems,State of ecosystems (coverage),NA,NA
-remaining primary vegetation (indigenous lands),Ecosystems,State of ecosystems (coverage),Knowledge systems,ILK
+remaining primary vegetation (indigenous lands),Ecosystems,State of ecosystems (coverage),Knowledge systems,Indigenous and Local Knowledge (ILK)
 remittance costs as a proportion of the amount remitted,Human assets,Income,Human assets,State of economy
 remnant ecosystems degrade,Direct drivers,Land conversion,NA,NA
-renewable electricity consumption (percentage of total electricity output),Human assets,Infrastructure (build-up area),NA,NA
-renewable energy share in the total final energy consumption,Human assets,Infrastructure (build-up area),Ecosystem services,Nature contribution
-renewable internal freshwater resource,Human assets,Infrastructure (build-up area),Human assets,Coverage of basic needs
+renewable electricity consumption (percentage of total electricity output),Human assets,Infrastructure,NA,NA
+renewable energy share in the total final energy consumption,Human assets,Infrastructure,Ecosystem services,Nature contribution
+renewable internal freshwater resource,Human assets,Infrastructure,Human assets,Coverage of basic needs
 reproduction rate,Biodiversity,State of biodiversity,NA,NA
 reproductive success,Biodiversity,State of biodiversity,NA,NA
 research and development expenditure as a proportion of gross domestic product,Knowledge systems,Information on society and socio-economics,NA,NA
 researchers (in full-time equivalent) per million inhabitants,Knowledge systems,Information on society and socio-economics,NA,NA
 resilience of forest-dependent communities,Knowledge systems,Specific information on human-nature relationship,Ecosystem services,Specific mention of sustainable use of species/ecosystems
 "resources mobilized from innovative sources of finance, including from the private sector",Governance,Nature-based funding,NA,NA
-resources per capita invested in human settlement per km2,Human assets,Infrastructure (build-up area),NA,NA
+resources per capita invested in human settlement per km2,Human assets,Infrastructure,NA,NA
 resourcing of invasive alien species prevention and control activities,Direct drivers,Invasive alien species,Governance,Legislation/governance
 retention and prevented emissions of air pollutants by ecosystems,Ecosystem services,Nature contribution,NA,NA
 retreat of ice sheet,Ecosystems,Change in ecosystems,NA,NA
@@ -1386,7 +1386,7 @@ revenue from bioenergy production,Human assets,State of economy,Ecosystem servic
 revenue from forestry,Ecosystem services,Specific monetary valuation of nature contribution,NA,NA
 revenue generated and finance mobilized from biodiversity relevant economic instruments,Governance,Nature-based funding,NA,NA
 river fragmentation index,Ecosystems,State of ecosystems (integrity),Ecosystems,State of ecosystems (freshwater/coastal)
-road construction,Human assets,Infrastructure (build-up area),NA,NA
+road construction,Human assets,Infrastructure,NA,NA
 rooting depth,Ecosystems,Abiotic conditions,NA,NA
 rule of law index,Governance,Legislation/governance,NA,NA
 runoff,Direct drivers,Pollution,NA,NA
@@ -1417,8 +1417,8 @@ southern hemisphere (sh) monsoons,Ecosystems,Abiotic conditions,NA,NA
 share of low-carbon options,Knowledge systems,Specific information on human-nature relationship,NA,NA
 share of main groups of species in fish trade in terms of value,Ecosystem services,Specific monetary valuation of nature contribution,NA,NA
 "share of women among owners or rights-bearers of agricultural land, by type of tenure",Human well-being,Equity,NA,NA
-sharing and trading institutions,Knowledge systems,ILK,NA,NA
-ship calls,Human assets,Infrastructure (build-up area),NA,NA
+sharing and trading institutions,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
+ship calls,Human assets,Infrastructure,NA,NA
 shoreline change (indicator of coastal erosion),Ecosystems,State of ecosystems (freshwater/coastal),NA,NA
 shoreline retreat by mid- and end of century,Ecosystems,State of ecosystems (freshwater/coastal),Direct drivers,Climate change
 shrinking of the arctic ice cover,Ecosystems,Change in ecosystems,NA,NA
@@ -1440,7 +1440,7 @@ soil moisture deficits,Ecosystems,Abiotic conditions,NA,NA
 soil moisture-based drought events,Ecosystems,Abiotic conditions,NA,NA
 soil organic carbon (soc) stocks,Ecosystems,Abiotic conditions,Ecosystem services,Nature contribution
 soil quality impact on crop production,Ecosystems,Abiotic conditions,NA,NA
-sounds associated with the forest,Knowledge systems,ILK,Human well-being,Recreation
+sounds associated with the forest,Knowledge systems,Indigenous and Local Knowledge (ILK),Human well-being,Recreation
 south pacific convergence zone (spcz),Ecosystems,Abiotic conditions,NA,NA
 southern annular mode (sam) index,Ecosystems,Abiotic conditions,NA,NA
 southern oscillation index (soi),Ecosystems,Abiotic conditions,NA,NA
@@ -1461,7 +1461,7 @@ species richness,Biodiversity,State of biodiversity,NA,NA
 species richness per grid cell,Biodiversity,State of biodiversity,NA,NA
 species status index,Biodiversity,State of biodiversity,NA,NA
 species threat abatement and restoration (star) metric,Biodiversity,Species conservation,NA,NA
-species used for medicine,Knowledge systems,ILK,NA,NA
+species used for medicine,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 specific humidity,Ecosystems,Abiotic conditions,NA,NA
 speleothem records,Ecosystems,State of ecosystems,Ecosystems,Abiotic conditions
 stability of land use and land cover,Ecosystems,State of ecosystems (coverage),NA,NA
@@ -1480,8 +1480,8 @@ stock status,Ecosystem services,Nature contribution,NA,NA
 stock values of natural capital,Ecosystem services,Specific monetary valuation of nature contribution,NA,NA
 stranded debris,Direct drivers,Pollution,NA,NA
 strategies of relevance to migratory species developed and implemented for minimizing genetic erosion,Governance,Nature-based legislation,Biodiversity,Genetic diversity
-strength of people's connection to the forest,Knowledge systems,ILK,NA,NA
-strom tracks and jets,Human assets,Infrastructure (build-up area),NA,NA
+strength of people's connection to the forest,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
+strom tracks and jets,Human assets,Infrastructure,NA,NA
 structural and functional connectivity of habitat,Ecosystems,State of ecosystems (integrity),NA,NA
 subsurface borehole temperature profiles,Ecosystems,Abiotic conditions,NA,NA
 sudden stratospheric warmings,Ecosystems,Abiotic conditions,NA,NA
@@ -1541,12 +1541,12 @@ total number of introduced alien species,Direct drivers,Invasive alien species,N
 total number of transfers of crop material from the multilateral system of the international treaty on plant genetic resources for food and agriculture (itpgrfa) received in a country,Knowledge systems,Information on biodiversity,Biodiversity,Genetic resources
 total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country's gross national income,Human assets,State of economy,Governance,Legislation/governance
 total official flows (official development assistance plus other official flows) to the agriculture sector,Human assets,State of economy,Knowledge systems,Information on society and socio-economics
-total official international support (official development assistance plus other official flows) to infrastructure,Human assets,Infrastructure (build-up area),Knowledge systems,Information on society and socio-economics
+total official international support (official development assistance plus other official flows) to infrastructure,Human assets,Infrastructure,Knowledge systems,Information on society and socio-economics
 "total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",Human assets,State of economy,Knowledge systems,Information on society and socio-economics
 "total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",Governance,National/international cooperation,NA,NA
 total richness of endemic species,Biodiversity,State of biodiversity,NA,NA
 total value of inward and outward illicit financial flows (in current united states dollars),Human assets,State of economy,Governance,Broken governance
-totem or culturally important species,Knowledge systems,ILK,NA,NA
+totem or culturally important species,Knowledge systems,Indigenous and Local Knowledge (ILK),NA,NA
 tourism direct gross domestic product as a proportion of total gross domestic product and in growth rate,Human assets,State of economy,NA,NA
 toxocological potential of nanoparticals,Direct drivers,Pollution,NA,NA
 trade in wild animals,Ecosystem services,Nature contribution,NA,NA
@@ -1598,13 +1598,13 @@ trends in species at risk of localized extinction in a protected area,Biodiversi
 trends in successful control and eradications of invasive alien species,Direct drivers,Invasive alien species,Governance,Nature-based legislation
 trends in the allocation of resources towards the prevention or control of invasive alien species,Direct drivers,Invasive alien species,Governance,Nature-based funding
 trends in the amount of litter in the water column including microplastics and on the seafloor,Direct drivers,Pollution,NA,NA
-"trends in the degree to which traditional knowledge and practices are respected through full integration, participation and safeguards in national implementation of the strategic plan for migratory species",Knowledge systems,Specific information on ILK and IPLC,NA,NA
+"trends in the degree to which traditional knowledge and practices are respected through full integration, participation and safeguards in national implementation of the strategic plan for migratory species",Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),NA,NA
 trends in the legal trade of medicinal plants,Human assets,Income,Ecosystem services,Nature contribution
 trends in the number and value of government fossil-fuel support measures,Governance,Nature detrimental legislation,NA,NA
 trends in the prevention and eradication and control of invasive alien species,Direct drivers,Invasive alien species,Governance,Legislation/governance
 trends in the prevention of invasive alien species,Direct drivers,Invasive alien species,Governance,Nature-based legislation
 trends in threats to migratory species,Biodiversity,State of biodiversity,Knowledge systems,Information on biodiversity
-trends of bilinguistic diversity and numbers of speakers of indigenous languages,Knowledge systems,Specific information on ILK and IPLC,Human well-being,Cultural diversity
+trends of bilinguistic diversity and numbers of speakers of indigenous languages,Knowledge systems,Specific information on Indigenous Peoples and Local Communities (IPLC),Human well-being,Cultural diversity
 trends of populations of palatable or unpalatable species,Biodiversity,Change in biodiversity,NA,NA
 trends of trade and commercialization in biodiversity-based products that is sustainable and legal (in line with biotrade principles and/or cites requirements),Ecosystem services,Specific mention of sustainable use of species/ecosystems,NA,NA
 "trends, mechanisms and severity of invasive alien species impacts",Direct drivers,Invasive alien species,NA,NA
@@ -1625,13 +1625,13 @@ universal female education,Human assets,Coverage of basic needs,Human well-being
 unsentenced detainees as a proportion of overall prison population,Governance,Broken governance,Knowledge systems,Information on society and socio-economics
 uplisting of species or populations from appendix ii to appendix i,Biodiversity,Change in biodiversity,Biodiversity,Species conservation
 upper tropospheric humidity,Ecosystems,Abiotic conditions,NA,NA
-urban growth,Human assets,Infrastructure (build-up area),NA,NA
+urban growth,Human assets,Infrastructure,NA,NA
 urban population,Knowledge systems,Information on society and socio-economics,NA,NA
 us national ambient air quality standards,Human well-being,Healthy living conditions,NA,NA
 use of natural resource,Ecosystem services,Nature contribution,NA,NA
 value of merchandise being exported,Human assets,Income,NA,NA
 value of subsidies and other incentives harmful to biodiversity,Governance,Nature-based funding,NA,NA
-variability in migration patterns,Knowledge systems,ILK,Biodiversity,Change in biodiversity
+variability in migration patterns,Knowledge systems,Indigenous and Local Knowledge (ILK),Biodiversity,Change in biodiversity
 "visitation rates to natural terrestrial, coastal, and marine areas",Ecosystem services,Nature contribution,Human well-being,Recreation
 visitation to national parks,Human well-being,Recreation,NA,NA
 visitation to urban green spaces,Human well-being,Recreation,NA,NA
@@ -1647,7 +1647,7 @@ water availability,Human assets,Coverage of basic needs,Ecosystem services,Natur
 water available for people relative to demand,Human assets,Coverage of basic needs,Human well-being,Healthy living conditions
 water flow volume,Ecosystems,Abiotic conditions,NA,NA
 water footprint,Direct drivers,Specific mention of over-exploitation and unsustainable use of species/ecosystems,NA,NA
-water infrastructure,Human assets,Infrastructure (build-up area),NA,NA
+water infrastructure,Human assets,Infrastructure,NA,NA
 water intermittency thresholds,Ecosystems,Abiotic conditions,NA,NA
 water quality,Ecosystems,Abiotic conditions,NA,NA
 water quality index (watqi),Ecosystems,Abiotic conditions,Human well-being,Healthy living conditions
@@ -1655,9 +1655,9 @@ water quality risk index,Ecosystems,Abiotic conditions,NA,NA
 water table depth,Ecosystems,Abiotic conditions,NA,NA
 water vapour residence time,Ecosystems,Abiotic conditions,NA,NA
 water withdrawal,Ecosystem services,Nature contribution,Human well-being,Healthy living conditions
-water-saving devices,Human assets,Infrastructure (build-up area),NA,NA
+water-saving devices,Human assets,Infrastructure,NA,NA
 water-balance estimates,Ecosystems,Abiotic conditions,NA,NA
-weather patterns,Knowledge systems,ILK,Ecosystems,Abiotic conditions
+weather patterns,Knowledge systems,Indigenous and Local Knowledge (ILK),Ecosystems,Abiotic conditions
 "weighted average tariffs faced by developing countries, least developed countries and small island developing states",Governance,Legislation/governance,NA,NA
 weighted endemisms,Biodiversity,State of biodiversity,NA,NA
 wet bulb globe temperature (wbgt) index,Ecosystems,Abiotic conditions,NA,NA
